@@ -46,4 +46,33 @@ sections:
       url: /class-2021-3/
       image: /images/Nadia.jpg
       alt: Image alt text
+  - infopic:
+      title: Class of 2021 Soaring – Vol 2
+      subtitle: News
+      description: In Vol 2, Andre, Bin Xin, Vanessa, Mayanee and Rowena reflect on
+        their journeys as student-leaders and give their juniors some wisdom for
+        the road ahead.
+      button: READ MORE
+      url: /class-2021-2/
+      image: /images/andrekoh.jpg
+      alt: Image alt text
+  - infopic:
+      title: Class of 2021 Soaring – Vol 1
+      subtitle: News
+      description: From the Class of 2021, Gwen, Rui Ting, Clement and E-Xuan tell us
+        about how they turned obstacles into opportunities on their A-Level
+        journey.
+      button: READ MORE
+      url: /class-2021-1/
+      image: /images/Gwen Lim.jpg
+      alt: Image alt text
+  - infopic:
+      title: Lighting the Way – EJC Yearbook 2020-21
+      subtitle: News
+      description: The 4th edition of our yearbook chronicles the inspiring stories of
+        our students and staff lighting their passion and shining their light on
+        others.
+      button: READ MORE
+      url: /2021-yearbook/
+      image: /images/yearbook.jpg
 ---
