@@ -27,4 +27,23 @@ sections:
       button: READ MORE
       url: /jc1-scholars-2022/
       image: /images/2022-MPU-Scholars_for-web.jpg
+  - infopic:
+      title: Class of 2021 Soaring – Vol 4
+      subtitle: NEWS
+      description: In our final volume, Deon, Lauren, Leia, Yi Xuan, Tiantian and
+        Amanda share what inspires them in their pursuit of the Humanities and
+        the Arts.
+      button: READ MORE
+      url: /class-2021-4/
+      image: /images/Tjan-Yi-Xuan.jpg
+  - infopic:
+      title: Class of 2021 Soaring – Vol 3
+      subtitle: NEWS
+      description: In this third volume, Nadia, Jia Sen, Felynn, Eleanor and Yanisa
+        share their passion for the sciences, the importance of beautiful
+        thinking.
+      button: READ MORE
+      url: /class-2021-3/
+      image: /images/Nadia.jpg
+      alt: Image alt text
 ---
