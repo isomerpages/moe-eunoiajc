@@ -27,6 +27,7 @@ sections:
       button: READ MORE
       url: /jc1-scholars-2022/
       image: /images/2022-MPU-Scholars_for-web.jpg
+      alt: Image alt text
   - infopic:
       title: Class of 2021 Soaring – Vol 4
       subtitle: NEWS
@@ -36,6 +37,7 @@ sections:
       button: READ MORE
       url: /class-2021-4/
       image: /images/Tjan-Yi-Xuan.jpg
+      alt: Image alt text
   - infopic:
       title: Class of 2021 Soaring – Vol 3
       subtitle: NEWS
@@ -75,4 +77,5 @@ sections:
       button: READ MORE
       url: /2021-yearbook/
       image: /images/yearbook.jpg
+      alt: Image alt text
 ---
