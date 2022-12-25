@@ -4,24 +4,20 @@ title: Eunoia Junior College
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
       background: /images/gif-maker.gif
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Highlights
+          description: 2022 Direct School Admission
+          url: /2022-dsa
+        - title: Highlights
+          description: 2021 A-Level Results
+          url: /2021-results
+        - title: Highlights
+          description: OH EUNOIA! 2022 – 14 Jan 2022
+          url: /oh2022
   - infobar:
       title: Infobar title
       subtitle: Subtitle
