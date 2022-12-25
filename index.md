@@ -18,10 +18,13 @@ sections:
         - title: Highlights
           description: OH EUNOIA! 2022 – 14 Jan 2022
           url: /oh2022
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: JC1 Scholarship & Award Recipients 2022
+      subtitle: NEWS
+      description: The college congratulates 77 of our JC1 Eunoians on being awarded
+        scholarships from the Ministry of Education and external agencies in
+        2022.
+      button: READ MORE
+      url: /jc1-scholars-2022/
+      image: /images/2022-MPU-Scholars_for-web-300x200.jpg
 ---
