@@ -2,4 +2,5 @@ collections:
   home:
     output: true
     order:
+      - Students/.keep
       - Students.md
