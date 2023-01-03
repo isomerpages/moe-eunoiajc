@@ -2,7 +2,7 @@ collections:
   home:
     output: true
     order:
-      - Students/Bookshop & Uniform.md
       - Students/.keep
       - Students/Students.md
       - Students/Guidance.md
+      - Students/Bookshop & Uniform.md
