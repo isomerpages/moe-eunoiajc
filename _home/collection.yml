@@ -2,6 +2,6 @@ collections:
   home:
     output: true
     order:
-      - Students/Guidance.md
-      - Students/Students.md
       - Students/.keep
+      - Students/Students.md
+      - Students/Guidance.md
