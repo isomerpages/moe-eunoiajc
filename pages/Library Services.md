@@ -68,4 +68,4 @@ description: ""
 </div>
 
 [Newslink](https://sites.google.com/ejc.edu.sg/ejcnewslink/home) <bR>
-An archive of newspapers published by Singapore Press Holdings and Asia News Network.
+An archive of newspapers published by Singapore Press Holdings and <br>Asia News Network.
