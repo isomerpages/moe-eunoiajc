@@ -18,7 +18,7 @@ Eunoia has the greatest hits but we're missing our biggest piece — **you!** 
 
 Hear from our **Principal**, Mr Andrew Tan and our Eunoians about their #WhyEJ. Feel our shining school spirit at our **CCA and House Showcases**, and be swept away by the performances at our **Aesthetics Showcase**. Take a look around our **campus**, and make yourself at home!
 
-<a href="[https://staging.d2ftoa31ukircm.amplifyapp.com/students/oh2023/#qa](https://staging.d2ftoa31ukircm.amplifyapp.com/students/oh2023/#qa)">  
+<a href="https://staging.d2ftoa31ukircm.amplifyapp.com/students/oh2023/#Q&A">  
 <img src="/images/open%20house%20programme.jpg">  
 </a>
 
