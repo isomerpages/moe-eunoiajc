@@ -57,3 +57,15 @@ description: ""
 </div>
 
 [National Geographic](https://natgeo.gale.com/natgeo/archive?p=NGMA&u=sgejc) <br> An archive of National Geographic magazines, books, maps, images and videos.
+
+<div>
+<div style="float: left">
+<img src="/images/Library-Newslink-150x150.png" 
+    style="width:50%">
+</div>
+<div>
+</div>
+</div>
+
+[Newslink](https://sites.google.com/ejc.edu.sg/ejcnewslink/home) <bR>
+An archive of newspapers published by Singapore Press Holdings and Asia News Network.
