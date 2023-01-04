@@ -11,6 +11,18 @@ The 2022 Direct School Admission (DSA-JC) exercise for admission into JC1 in 202
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Principal's Foreword</label>
+    <label for="accordion1">Sports</label>
 
     <div>
+			
+Badminton (Boys & Girls) <br>
+Basketball (Boys & Girls) <br>
+Floorball (Boys) <br>
+Hockey (Girls) <br>
+Netball (Girls) <br>
+Softball (Boys & Girls) <br>
+Squash (Girls) <br>
+Table Tennis (Boys & Girls) <br>
+Tennis (Boys & Girls) <br>
+Track and Field (Boys & Girls) <br>
+Volleyball (Boys & Girls)
