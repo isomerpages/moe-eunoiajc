@@ -44,7 +44,7 @@ From **Bishan** station, use Exit B, cross the overhead bridge and board servi
 
 From **Marymount** station, use Exit A and board service **[74](https://www.transitlink.com.sg/eservice/eguide/service_route.php?service=74)**, **[851](https://www.transitlink.com.sg/eservice/eguide/service_route.php?service=851)** or **[852](https://www.transitlink.com.sg/eservice/eguide/service_route.php?service=852)**. Alight at the bus stop along Marymount Road.
 
-From **Bright Hill** station, use Exit 1 and board service [**52**](https://www.transitlink.com.sg/eservice/eguide/service_route.php?service=52), **[162](https://www.transitlink.com.sg/eservice/eguide/service_route.php?service=162)** or [**410G**](https://www.transitlink.com.sg/eservice/eguide/service_route.php?service=410G). Alight at the second bus stop.
+From **Bright Hill** station, use Exit 1 and board service [52](https://www.transitlink.com.sg/eservice/eguide/service_route.php?service=52), **[162](https://www.transitlink.com.sg/eservice/eguide/service_route.php?service=162)** or [410G](https://www.transitlink.com.sg/eservice/eguide/service_route.php?service=410G). Alight at the second bus stop.
 
 Parking for visitors is available at the **Block 410A** multi-storey car park along Sin Ming Avenue and the housing estate at **Bishan St 22**. Please note that parking is not available on our campus.
 
