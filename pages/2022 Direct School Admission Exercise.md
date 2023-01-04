@@ -26,3 +26,14 @@ Table Tennis (Boys & Girls) <br>
 Tennis (Boys & Girls) <br>
 Track and Field (Boys & Girls) <br>
 Volleyball (Boys & Girls)
+			
+</div>
+
+</li>
+	<li>
+
+    <input type="checkbox" id="accordion2">
+
+    <label for="accordion2">A Message from Our Guest of Honour </label>
+
+    <div>
