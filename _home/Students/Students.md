@@ -4,7 +4,6 @@ permalink: /students/
 description: ""
 third_nav_title: Students
 ---
-
 ### Connect
 
 | |  |  |
@@ -25,5 +24,5 @@ third_nav_title: Students
 
 | |  |  |
 | -------- | -------- | -------- |
-| <a href="https://eunoiajc.moe.edu.sg/oh2023/"> <img style="width:100%" src="/images/make%20the%20best.jpg"> </a> | <a href="https://staging.d2ftoa31ukircm.amplifyapp.com/jc1-scholars-2022/"> <img style="width:100%" src="/images/jc1%20scholarship.jpg"> </a> | <a href="https://staging.d2ftoa31ukircm.amplifyapp.com/2022-dsa/"> <img style="width:100%" src="/images/2022%20DSA.jpg"> </a> | 
+| <a href="https://staging.d2ftoa31ukircm.amplifyapp.com/oh2023/"> <img style="width:100%" src="/images/make%20the%20best.jpg"> </a> | <a href="https://staging.d2ftoa31ukircm.amplifyapp.com/jc1-scholars-2022/"> <img style="width:100%" src="/images/jc1%20scholarship.jpg"> </a> | <a href="https://staging.d2ftoa31ukircm.amplifyapp.com/2022-dsa/"> <img style="width:100%" src="/images/2022%20DSA.jpg"> </a> | 
 | | |
