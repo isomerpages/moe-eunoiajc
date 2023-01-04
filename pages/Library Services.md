@@ -24,3 +24,14 @@ description: ""
 </div>
 
 [NLB Catalogue](https://catalogue.nlb.gov.sg/) <br> An online catalogue to access resources found in our public libraries.
+
+<div>
+<div style="float: left">
+<img src="/images/Library-Gale-150x150.png" 
+    style="width:50%">
+</div>
+<div>
+</div>
+</div>
+
+[Gale](https://link.gale.com/apps/menu?u=sgejc) <br> A collection of databases and primary sources for e-resources across various topics.
