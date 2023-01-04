@@ -108,10 +108,21 @@ Interested students should fill in the **online application form** (click [he
 
 The DSA-JC exercise allows all Secondary 4 students with special talents and achievements to apply to Eunoia Junior College directly.
 
-Successful applicants are guaranteed a place in the college, provided they meet eligibility criteria for admission to a JC after the release of their Singapore-Cambridge GCE O-Level results.
-
-\- Successful DSA-JC students will <strong><u>NOT</u></strong> be allowed to take part in the Joint Admissions Exercise as places have already been reserved for them in the DSA-JC schools.
-
-\- They will also <u><Strong>NOT</strong></u> be allowed to transfer to another JC after the release of the GCE ‘O’ Level examination results. They are expected to honour their commitment to the posted DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to.
-
+Successful applicants are guaranteed a place in the college, provided they meet eligibility criteria for admission to a JC after the release of their Singapore-Cambridge GCE O-Level results. <br>
+\- Successful DSA-JC students will <strong><u>NOT</u></strong> be allowed to take part in the Joint Admissions Exercise as places have already been reserved for them in the DSA-JC schools. <br>
+\- They will also <u><Strong>NOT</strong></u> be allowed to transfer to another JC after the release of the GCE ‘O’ Level examination results. They are expected to honour their commitment to the posted DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. <br>
 \- Students who do not fulfill their DSA commitment without valid reason may be required to transfer out to another school.
+
+### Selection Process
+
+Applicants go through two selection phases.
+
+##### **PHASE 1 - SHORTLISTING**
+
+##### SPORTS
+
+Students should demonstrate passion and strong ability in their niche area.
+
+They should meet one or more of the following criteria: <br>
+\- Represented their School, Singapore Schools or National Representation <br>
+\- Achievement / awards in international / regional / national / zonal competitions
