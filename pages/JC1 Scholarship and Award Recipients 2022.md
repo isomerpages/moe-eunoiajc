@@ -63,3 +63,51 @@ Yuan Xinyi (22-A1) <Br>
 Yue Ling Xiao (22-O2)
 
 ![](/images/2022-HSP-Scholars_for-web.jpg)
+
+
+### MOE Humanities Scholarship
+
+Alaniah Imaan Ong (22-U1) <br> 
+Andrea Gracia Andradi (22-O1) <br> 
+Andrea Wee Ying Qi (22-O1) <br> 
+Angie Toh (22-U1) <Br> 
+Ashley Sia Yuxin (22-O1) <Br> 
+Carrie Khoo Jieying (22-U1) <br> 
+Cheng Zhi Shan (22-U1) <br> 
+Christie Callia Sardjono (22-U1) <Br> 
+Chua Tsze Sin (22-O1) <br> 
+De Souza Keira Ann (22-O1) <Br> 
+Denise Tay Zi Ting (22-O1) <Br> 
+Disha Purohit (22-O1) <Br> 
+Feng Keying Shernice (22-U1) <Br> 
+Goh Wan Xuan Trini (22-O1) <Br> 
+Isabel Tan Yi Shuan (22-U1) <br> 
+Jazelle Neo Jiaqi (22-U1) <Br> 
+Josiah Lee Yi (22-U1) <br> 
+Joy Wong Xinyi (22-U1) <Br> 
+Lim Xinya, Renee (22-U1) <Br> 
+Lim Zheng Rui, Justin (22-U1) <Br> 
+Ng Wen Wei, Natalie (22-U1) <Br> 
+Ng Yu Xin (22-U1) <Br> 
+Oliver Tan Rui Heng (22-U1) <Br> 
+Rayn Zong Mohamad Khairuddin (22-O1) <br> 
+Rebecca Yap Jia Xin (22-O1) <br> 
+Sophia Chiang Yue Ying (22-O1) <Br> 
+Tahseenah Reaz (22-O1) <Br> 
+Tan Wan Xuan Vernice (22-U1) <Br> 
+Tan Wei Ann, Kendra (22-O1) <Br> 
+Theodore Zhou En (22-O1) <Br> 
+Tricia Low Hwee Kit (22-U1) <Br> 
+Tricia Sim Wenshi (22-U1) <br> 
+Valerie Sng Wan Lin (22-U1) <Br> 
+Yap Hao Jun Andrew (22-O1)
+
+![](/images/2022-MEP-Scholars-scaled-e1667182650743.jpg)
+
+### MOE Music Elective Programme Scholarship
+
+Ang Jun En (22-O5) <br> 
+Ernest Foo Jun Wei (22-U2) <br> 
+Kendra Loh Yee Hooi (22-O5) <br> 
+Koh Ci En (22-E1) <Br> 
+Tan Jiok Fong Jaden (22-O5)
