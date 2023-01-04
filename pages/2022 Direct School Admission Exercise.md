@@ -34,6 +34,69 @@ Volleyball (Boys & Girls)
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">A Message from Our Guest of Honour </label>
+    <label for="accordion2">Performing Arts</label>
 
     <div>
+			
+Chinese Orchestra <br>
+Choir <br>
+English Drama <br> 
+Modern Dance <br>
+Symphonic Band
+			
+			</div>
+
+</li>
+	<li>
+		
+<input type="checkbox" id="accordion3">
+
+    <label for="accordion3">Bilingualism</label>
+
+    <div>
+			
+Bilingualism
+			
+</div>
+
+</li>
+	<li>
+		
+<input type="checkbox" id="accordion3">
+
+    <label for="accordion3">Humanities Programme</label>
+
+    <div>
+			
+Humanities Programme
+			
+			</div>
+
+</li>
+	<li>
+		
+	<input type="checkbox" id="accordion4">
+
+    <label for="accordion4">Music Elective Programme</label>
+
+    <div>
+			
+Music Elective Programme
+			
+</div>
+
+</li>
+	<li>
+		
+		<input type="checkbox" id="accordion5">
+
+    <label for="accordion5">Leadership</label>
+
+    <div>
+			
+			Leadership
+			
+</div>
+
+</li>
+	<li>
