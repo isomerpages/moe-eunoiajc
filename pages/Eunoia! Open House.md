@@ -26,9 +26,9 @@ Hear from our **Principal**, Mr Andrew Tan and our Eunoians about their #WhyEJ.
 
 Not sure about your JAE choices or have a question on Eunoia we haven't answered? Ask our Deans during our **Admissions Q&A** at 10 - 10.30 am and 2 - 2.30 pm on Zoom.
 
-Speak to our teachers and students in the library (9 am - 4pm) or on Zoom (selected times) to learn about your new favourite **subjects** and our **special programmes**. In the meantime, watch our subject talks and taster lessons on [**oheunoia.com**](https://www.oheunoia.com/subject).
+Speak to our teachers and students in the library (9 am - 4pm) or on Zoom (selected times) to learn about your new favourite **subjects** and our **special programmes**. In the meantime, watch our subject talks and taster lessons on [oheunoia.com](https://www.oheunoia.com/subject).
 
-Our in-person Q&A sessions are held in the library on levels 9 and 10. Our online Q&A sessions are hosted on [**Zoom**](https://zoom.us/download).
+Our in-person Q&A sessions are held in the library on levels 9 and 10. Our online Q&A sessions are hosted on [Zoom](https://zoom.us/download).
 
 ![](/images/open%20house%20programme%201.jpg)
 
