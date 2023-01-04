@@ -9,7 +9,12 @@ It’s been a while, hasn’t it? Our **Open House** is back and we’re more 
 
 Eunoia has the greatest hits but we're missing our biggest piece — **you!** Find the best of us and make the best of you on **13 Jan, 9 am to 4 pm**.
 
-### Programme
+[Programme](#Programme) <br>
+[Q&A](#Q&A) <br>
+[Getting Here](#Gettinghere) <br>
+[Subject Combis](https://staging.d2ftoa31ukircm.amplifyapp.com/curriculum/subject-combinations/)
+
+### <a name="Programme"></a>Programme
 
 Hear from our **Principal**, Mr Andrew Tan and our Eunoians about their #WhyEJ. Feel our shining school spirit at our **CCA and House Showcases**, and be swept away by the performances at our **Aesthetics Showcase**. Take a look around our **campus**, and make yourself at home!
 
@@ -17,7 +22,7 @@ Hear from our **Principal**, Mr Andrew Tan and our Eunoians about their #WhyEJ.
 <img src="/images/open%20house%20programme.jpg">  
 </a>
 
-### Q&A Sessions
+### <a name="Q&A"></a>Q&A Sessions
 
 Not sure about your JAE choices or have a question on Eunoia we haven't answered? Ask our Deans during our **Admissions Q&A** at 10 - 10.30 am and 2 - 2.30 pm on Zoom.
 
@@ -31,7 +36,7 @@ Our in-person Q&A sessions are held in the library on levels 9 and 10. Our onlin
 
 ![](/images/open%20house%20programme%203.jpg)
 
-### Getting Here
+### <a name="Gettinghere"></a>Getting Here
 
 Our Bishan campus is located at **2 Sin Ming Place, Singapore 573838** on the fringe of Bishan-Ang Mo Kio Park. The nearest MRT stations are **Bishan (NS17/CC15)**, **Marymount (CC16)** and **Bright Hill (TE7)**.
 
