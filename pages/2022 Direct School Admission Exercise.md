@@ -99,4 +99,19 @@ Music Elective Programme
 </div>
 
 </li>
-	<li>
+	
+</ul>		
+
+Interested students should fill in the **online application form** (click [here](https://form.gov.sg/627129eec1b494001180e0d2)) and it must reach us by **26 June 2022**.
+
+### Eligibility
+
+The DSA-JC exercise allows all Secondary 4 students with special talents and achievements to apply to Eunoia Junior College directly.
+
+Successful applicants are guaranteed a place in the college, provided they meet eligibility criteria for admission to a JC after the release of their Singapore-Cambridge GCE O-Level results.
+
+\- Successful DSA-JC students will <strong><u>NOT</u></strong> be allowed to take part in the Joint Admissions Exercise as places have already been reserved for them in the DSA-JC schools.
+
+\- They will also <u><Strong>NOT</strong></u> be allowed to transfer to another JC after the release of the GCE ‘O’ Level examination results. They are expected to honour their commitment to the posted DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to.
+
+\- Students who do not fulfill their DSA commitment without valid reason may be required to transfer out to another school.
