@@ -34,7 +34,7 @@ description: ""
 </div>
 </div>
 
-[Gale](https://link.gale.com/apps/menu?u=sgejc) <br> A collection of databases and primary sources for e-resources across various topics.
+[Gale](https://link.gale.com/apps/menu?u=sgejc) <br> A collection of databases and primary sources for e-resources <br>across various topics.
 
 <div>
 <div style="float: left">
@@ -45,7 +45,7 @@ description: ""
 </div>
 </div>
 
-[New York Times](https://www.nytimes.com/) <br> The online platform of The New York Times to access world news, opinion, photos and videos.
+[New York Times](https://www.nytimes.com/) <br> The online platform of The New York Times to access world news, <br>opinion, photos and videos.
 
 <div>
 <div style="float: left">
