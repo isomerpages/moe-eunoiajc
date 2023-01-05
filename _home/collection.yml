@@ -2,10 +2,10 @@ collections:
   home:
     output: true
     order:
-      - Students/University Scholarships.md
       - Students/.keep
       - Students/Students.md
       - Students/Guidance.md
+      - Students/University Scholarships.md
       - Students/Bookshop & Uniform.md
       - Parents/.keep
       - Parents/Parents.md
