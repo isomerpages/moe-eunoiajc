@@ -8,5 +8,4 @@ third_nav_title: Parents
 
 |  |  |  |
 | -------- | -------- | -------- |
-| ![](/images/parents@euonia.jpg) | Text     | Text     |
-
+| <a href="https://staging.d2ftoa31ukircm.amplifyapp.com/parents/ppg/"> <img style="width:100%" src="/images/parents@euonia.jpg"> </a> | Text     | Text     |
