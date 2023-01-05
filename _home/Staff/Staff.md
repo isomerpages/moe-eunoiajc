@@ -9,7 +9,7 @@ third_nav_title: Staff
 | |  |  |
 | -------- | -------- | -------- |
 | <a href="https://mail.google.com/"> <img style="width:100%" src="/images/EJC%20Mail.jpg"> </a> | <a href="https://portal.ejc.edu.sg/"> <img style="width:100%" src="/images/EJC%20portal.jpg"> </a> | <a href="https://drive.google.com/drive/folders/1XILVD3-6gGEHE5d9SWF-4VLMSV08L2Xy"> <img style="width:100%" src="/images/cc&p%20sharing.jpg"> </a> |
-| <a href="https://lectures.ejc.edu.sg/"> <img style="width:100%" src="/images/EJC%20lectures.jpg"> </a> | <a href="https://staging.d2ftoa31ukircm.amplifyapp.com/students/library/"> <img style="width:100%" src="/images/library%20services2.jpg"> </a> | <a href="https://drive.google.com/file/d/16e56l-X51NRSqxZ75kKC107MG8xVrLpS/view?usp=sharing"> <img style="width:100%" src="/images/Campus%20Map.jpg"> </a> |
+| <a href="https://lectures.ejc.edu.sg/"> <img style="width:100%" src="/images/EJC%20lectures.jpg"> </a> | <a href="https://eunoiajc.spydus.com.sg/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME"> <img style="width:100%" src="/images/library%20services2.jpg"> </a> | <a href="https://drive.google.com/file/d/16e56l-X51NRSqxZ75kKC107MG8xVrLpS/view?usp=sharing"> <img style="width:100%" src="/images/Campus%20Map.jpg"> </a> |
 | | |
 
 ### Useful Links
