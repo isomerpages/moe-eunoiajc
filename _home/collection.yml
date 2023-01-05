@@ -2,8 +2,6 @@ collections:
   home:
     output: true
     order:
-      - Alumni/Alumni Website.md
-      - Alumni/.keep
       - Students/.keep
       - Students/Students.md
       - Students/Guidance.md
@@ -16,3 +14,5 @@ collections:
       - Parents/Parents@Eunoia.md
       - Parents/Collaborate with Us.md
       - Parents/Support Us.md
+      - Alumni/.keep
+      - Alumni/Alumni Website.md
