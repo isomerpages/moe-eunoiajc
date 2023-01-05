@@ -2,7 +2,6 @@ collections:
   home:
     output: true
     order:
-      - Staff/.keep
       - Students/.keep
       - Students/Students.md
       - Students/Guidance.md
@@ -20,3 +19,4 @@ collections:
       - Alumni/Youth Alumni.md
       - Alumni/Collaborate with Us.md
       - Alumni/Support Us.md
+      - Staff/.keep
