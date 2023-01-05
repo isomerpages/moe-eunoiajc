@@ -2,6 +2,7 @@ collections:
   home:
     output: true
     order:
+      - Students/University Scholarships.md
       - Students/.keep
       - Students/Students.md
       - Students/Guidance.md
