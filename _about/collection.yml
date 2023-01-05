@@ -2,5 +2,5 @@ collections:
   about:
     output: true
     order:
-      - College Ethos.md
       - Principal's Message.md
+      - College Ethos.md
