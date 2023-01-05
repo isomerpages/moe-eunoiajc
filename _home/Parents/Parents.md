@@ -8,4 +8,5 @@ third_nav_title: Parents
 
 |  |  |  |
 | -------- | -------- | -------- |
-| <a href="https://staging.d2ftoa31ukircm.amplifyapp.com/parents/ppg/"> <img style="width:100%" src="/images/parents@euonia.jpg"> </a> | Text     | Text     |
+| <a href="https://staging.d2ftoa31ukircm.amplifyapp.com/parents/ppg/"> <img style="width:100%" src="/images/parents@euonia.jpg"> </a> | <a href="https://staging.d2ftoa31ukircm.amplifyapp.com/alumni/collaborate/"> <img style="width:100%" src="/images/collaborate%20with%20us.jpg"> </a> | <a href="https://staging.d2ftoa31ukircm.amplifyapp.com/parents/support/"> <img style="width:100%" src="/images/support%20us.jpg"> </a> |
+| | | 
