@@ -2,6 +2,7 @@ collections:
   home:
     output: true
     order:
+      - Alumni/Alumni Website.md
       - Alumni/.keep
       - Students/.keep
       - Students/Students.md
