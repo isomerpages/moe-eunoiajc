@@ -2,6 +2,6 @@ collections:
   about:
     output: true
     order:
-      - College Identity.md
       - Principal's Message.md
       - College Ethos.md
+      - College Identity.md
