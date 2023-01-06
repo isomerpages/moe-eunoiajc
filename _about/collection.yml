@@ -2,8 +2,8 @@ collections:
   about:
     output: true
     order:
-      - College Partners.md
       - Principal's Message.md
       - College Ethos.md
       - College Identity.md
       - College Advisory Committee.md
+      - College Partners.md
