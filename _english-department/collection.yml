@@ -2,5 +2,6 @@ collections:
   english-department:
     output: true
     order:
+      - Ms Kok Li en.md
       - Ms Stephanie Hua.md
       - Mr Marc Kenji Lim.md
