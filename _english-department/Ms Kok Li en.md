@@ -11,4 +11,4 @@ My philosophy about teaching has unsurprisingly been shaped by many teachers and
 
 _Li-en joined the college as a pioneering member of staff in 2017._
 
- [kok.li.en@ejc.edu.sg](mailto:kok.li.en@ejc.edu.sg)
+[kok.li.en@ejc.edu.sg](mailto:kok.li.en@ejc.edu.sg)
