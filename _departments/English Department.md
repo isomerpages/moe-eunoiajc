@@ -51,3 +51,13 @@ Deputy Head (General Paper)
 </div>	
 [Dr Edson Ng](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/dr-edson-ng/) <br>
 Deputy Head (Literature in English)
+
+<div>  
+<div style="float: left">  
+<img src="/images/EL-Heon-Mak_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Heon Mak](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-heon-mak/) <br>
+Deputy Head (Partnerships)
