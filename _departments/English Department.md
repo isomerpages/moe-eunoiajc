@@ -31,3 +31,13 @@ HOD (Corporate Communications & Partnerships)
 <div></div>  
 </div>	
 [Ms Kok Li-en](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-kok-li-en/) <br> Deputy Head (General Paper)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Nadiah-Razali-s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Nadiah Razali](https://eunoiajc.moe.edu.sg/about/staff/english/ms-nadiah-razali/) <br>
+Deputy Head (General Paper)
