@@ -22,3 +22,12 @@ HOD (English)
 </div>	
 [Mr Marc Kenji Lim](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-marc-kenji-lim/) <br>
 HOD (Corporate Communications & Partnerships)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Eng-KokLiEn_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Kok Li-en](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-kok-li-en/) <br> Deputy Head (General Paper)
