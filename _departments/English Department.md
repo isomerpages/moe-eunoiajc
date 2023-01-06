@@ -91,3 +91,13 @@ Senior Teacher (General Paper)
 </div>	
 [Mr Benjamin Chew](https://eunoiajc.moe.edu.sg/about/staff/english/mr-benjamin-chew/) <br>
 Teacher (General Paper)
+
+<div>  
+<div style="float: left">  
+<img src="/images/EL-Cham-Bei-Qing_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Cham Bei Qing](https://eunoiajc.moe.edu.sg/about/staff/english/ms-cham-bei-qing/) <br> 
+Teacher (General Paper)
