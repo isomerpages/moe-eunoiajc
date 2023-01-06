@@ -89,7 +89,7 @@ Senior Teacher (General Paper)
 </div>  
 <div></div>  
 </div>	
-[Mr Benjamin Chew](https://eunoiajc.moe.edu.sg/about/staff/english/mr-benjamin-chew/) <br>
+[Mr Benjamin Chew](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-benjamin-chew/) <br>
 Teacher (General Paper)
 
 <div>  
@@ -99,5 +99,15 @@ Teacher (General Paper)
 </div>  
 <div></div>  
 </div>	
-[Ms Cham Bei Qing](https://eunoiajc.moe.edu.sg/about/staff/english/ms-cham-bei-qing/) <br> 
+[Ms Cham Bei Qing](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-cham-bei-qing/) <br> 
+Teacher (General Paper)
+
+<div>  
+<div style="float: left">  
+<img src="/images/EL-Charlotte-Tan_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mrs Charlotte Lee](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mrs-charlotte-lee/) <br>
 Teacher (General Paper)
