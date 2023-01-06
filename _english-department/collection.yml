@@ -2,4 +2,5 @@ collections:
   english-department:
     output: true
     order:
+      - Mr Marc Kenji Lim.md
       - Ms Stephanie Hua.md
