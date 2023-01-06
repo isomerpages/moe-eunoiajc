@@ -61,3 +61,13 @@ Deputy Head (Literature in English)
 </div>	
 [Ms Heon Mak](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-heon-mak/) <br>
 Deputy Head (Partnerships)
+
+<div>  
+<div style="float: left">  
+<img src="/images/English-Danielle-M-Low_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mrs Danielle Low](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mrs-danielle-marie-low/) <br>
+Senior Teacher (General Paper)
