@@ -12,3 +12,13 @@ description: ""
 </div>	
 [Ms Stephanie Hua](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-stephanie-hua/) <br>
 HOD (English)
+
+<div>  
+<div style="float: left">  
+<img src="/images/HOD-Marc-Kenji-Lim_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Marc Kenji Lim](https://eunoiajc.moe.edu.sg/about/staff/english/mr-marc-kenji-lim/) <br>
+HOD (Corporate Communications & Partnerships)
