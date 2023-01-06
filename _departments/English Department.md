@@ -71,3 +71,13 @@ Deputy Head (Partnerships)
 </div>	
 [Mrs Danielle Low](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mrs-danielle-marie-low/) <br>
 Senior Teacher (General Paper)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Eng-Perrin_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Perrin Singarayar](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-perrin-singarayar/) <br> 
+Senior Teacher (General Paper)
