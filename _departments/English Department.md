@@ -81,3 +81,13 @@ Senior Teacher (General Paper)
 </div>	
 [Mr Perrin Singarayar](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-perrin-singarayar/) <br> 
 Senior Teacher (General Paper)
+
+<div>  
+<div style="float: left">  
+<img src="/images/EL-Benjamin-Chew_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Benjamin Chew](https://eunoiajc.moe.edu.sg/about/staff/english/mr-benjamin-chew/) <br>
+Teacher (General Paper)
