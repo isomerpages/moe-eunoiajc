@@ -39,5 +39,5 @@ HOD (Corporate Communications & Partnerships)
 </div>  
 <div></div>  
 </div>	
-[Ms Nadiah Razali](https://eunoiajc.moe.edu.sg/about/staff/english/ms-nadiah-razali/) <br>
+[Ms Nadiah Razali](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-nadiah-razali/) <br>
 Deputy Head (General Paper)
