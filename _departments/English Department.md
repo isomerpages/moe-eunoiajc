@@ -121,3 +121,13 @@ Teacher (General Paper)
 </div>	
 [Mr Crispin Rodrigues](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-crispin-rodrigues/) <br>
 Teacher (General Paper)
+
+<div>  
+<div style="float: left">  
+<img src="/images/EL-Darren-Chong_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Darren Chong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-darren-chong/) <br>
+Teacher (General Paper)
