@@ -2,8 +2,8 @@ collections:
   english-department:
     output: true
     order:
-      - Dr Edson Ng.md
       - Ms Stephanie Hua.md
       - Mr Marc Kenji Lim.md
       - Ms Kok Li en.md
       - Ms Nadiah Razali.md
+      - Dr Edson Ng.md
