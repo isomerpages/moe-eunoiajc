@@ -2,7 +2,6 @@ collections:
   english-department:
     output: true
     order:
-      - Mr Crispin Rodrigues.md
       - Ms Stephanie Hua.md
       - Mr Marc Kenji Lim.md
       - Ms Kok Li en.md
@@ -13,3 +12,4 @@ collections:
       - Mr Perrin Singarayar.md
       - Ms Cham Bei Qing.md
       - Mrs Charlotte Lee.md
+      - Mr Crispin Rodrigues.md
