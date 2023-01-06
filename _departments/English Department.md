@@ -111,3 +111,13 @@ Teacher (General Paper)
 </div>	
 [Mrs Charlotte Lee](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mrs-charlotte-lee/) <br>
 Teacher (General Paper)
+
+<div>  
+<div style="float: left">  
+<img src="/images/EL_CrispinRodrigues_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Crispin Rodrigues](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-crispin-rodrigues/) <br>
+Teacher (General Paper)
