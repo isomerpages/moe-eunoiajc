@@ -2,7 +2,6 @@ collections:
   english-department:
     output: true
     order:
-      - Mrs Charlotte Lee.md
       - Ms Stephanie Hua.md
       - Mr Marc Kenji Lim.md
       - Ms Kok Li en.md
@@ -12,3 +11,4 @@ collections:
       - Mrs Danielle Low.md
       - Mr Perrin Singarayar.md
       - Ms Cham Bei Qing.md
+      - Mrs Charlotte Lee.md
