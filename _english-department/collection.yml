@@ -2,7 +2,6 @@ collections:
   english-department:
     output: true
     order:
-      - Mr Perrin Singarayar.md
       - Ms Stephanie Hua.md
       - Mr Marc Kenji Lim.md
       - Ms Kok Li en.md
@@ -10,3 +9,4 @@ collections:
       - Dr Edson Ng.md
       - Ms Heon Mak.md
       - Mrs Danielle Low.md
+      - Mr Perrin Singarayar.md
