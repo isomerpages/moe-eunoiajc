@@ -2,7 +2,6 @@ collections:
   english-department:
     output: true
     order:
-      - Mr Darren Chong.md
       - Ms Stephanie Hua.md
       - Mr Marc Kenji Lim.md
       - Ms Kok Li en.md
@@ -14,3 +13,4 @@ collections:
       - Ms Cham Bei Qing.md
       - Mrs Charlotte Lee.md
       - Mr Crispin Rodrigues.md
+      - Mr Darren Chong.md
