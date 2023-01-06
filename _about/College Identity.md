@@ -22,7 +22,7 @@ In the words of Aristotle, we believe that ‘Educating the mind without educati
 ### Our Crest
 
 <img src="/images/EJC-Crest%20(1).png" 
-    style="width:40%">
+    style="width:30%">
 		
 The college crest can be understood by three qualities, or simply A-B-C : All-round Development, Beautiful Thinking and Cultural Conversance.
 
