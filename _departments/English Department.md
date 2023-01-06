@@ -41,3 +41,13 @@ HOD (Corporate Communications & Partnerships)
 </div>	
 [Ms Nadiah Razali](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-nadiah-razali/) <br>
 Deputy Head (General Paper)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Eng-Edson-Ng_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Dr Edson Ng](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/dr-edson-ng/) <br>
+Deputy Head (Literature in English)
