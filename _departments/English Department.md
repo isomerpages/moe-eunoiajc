@@ -191,3 +191,13 @@ Teacher (General Paper)
 </div>	
 [Ms Karol Ann Tan](https://eunoiajc.moe.edu.sg/about/staff/english/ms-karol-ann-tan/) <br>
 Teacher (General Paper)
+
+<div>  
+<div style="float: left">  
+<img src="/images/EL_NgHuiQi_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Ng Hui Qi](https://eunoiajc.moe.edu.sg/about/staff/english/ms-ng-hui-qi/) <br>
+Teacher (Literature in English)
