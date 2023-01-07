@@ -181,3 +181,13 @@ Teacher (General Paper)
 </div>	
 [Ms Kajal Kaur Khaira](https://eunoiajc.moe.edu.sg/about/staff/english/ms-kajal-kaur-khaira/) <br>
 Teacher (General Paper)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Eng-KarolTan_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Karol Ann Tan](https://eunoiajc.moe.edu.sg/about/staff/english/ms-karol-ann-tan/) <br>
+Teacher (General Paper)
