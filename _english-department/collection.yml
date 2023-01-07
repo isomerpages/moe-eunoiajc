@@ -2,7 +2,6 @@ collections:
   english-department:
     output: true
     order:
-      - Mr Samuel Wong.md
       - Ms Stephanie Hua.md
       - Mr Marc Kenji Lim.md
       - Ms Kok Li en.md
@@ -24,3 +23,4 @@ collections:
       - Ms Ng Hui Qi.md
       - Ms Priyah Haritheertham.md
       - Ms Renuka Satianathan.md
+      - Mr Samuel Wong.md
