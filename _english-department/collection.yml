@@ -2,7 +2,6 @@ collections:
   english-department:
     output: true
     order:
-      - Ms Elena Tan.md
       - Ms Stephanie Hua.md
       - Mr Marc Kenji Lim.md
       - Ms Kok Li en.md
@@ -16,3 +15,4 @@ collections:
       - Mr Crispin Rodrigues.md
       - Mr Darren Chong.md
       - Ms Eleanor Grace Wong.md
+      - Ms Elena Tan.md
