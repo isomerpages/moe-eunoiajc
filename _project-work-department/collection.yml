@@ -1,0 +1,4 @@
+collections:
+  project-work-department:
+    output: true
+    order: []
