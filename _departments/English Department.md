@@ -171,3 +171,13 @@ Teacher (General Paper)
 </div>	
 [Mr Joshua Ng](https://eunoiajc.moe.edu.sg/about/staff/english/mr-joshua-ng/) <br>
 Teacher (General Paper)
+
+<div>  
+<div style="float: left">  
+<img src="/images/EL-Kajal-Kaur_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Kajal Kaur Khaira](https://eunoiajc.moe.edu.sg/about/staff/english/ms-kajal-kaur-khaira/) <br>
+Teacher (General Paper)
