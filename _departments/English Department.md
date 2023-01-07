@@ -141,3 +141,13 @@ Teacher (General Paper)
 </div>	
 [Ms Eleanor Grace Wong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-eleanor-grace-wong/) <br>
 Teacher (General Paper)
+
+<div>  
+<div style="float: left">  
+<img src="/images/EL_ElenaTan_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Elena Tan](https://eunoiajc.moe.edu.sg/about/staff/english/ms-elena-tan/) <br>
+Teacher (General Paper)
