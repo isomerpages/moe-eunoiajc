@@ -162,3 +162,12 @@ Teacher (General Paper)
 [Ms Geraldine Wong](https://eunoiajc.moe.edu.sg/about/staff/english/ms-geraldine-wong/) <br>
 Teacher (General Paper)
 
+<div>  
+<div style="float: left">  
+<img src="/images/EL-Joshua-Ng_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Joshua Ng](https://eunoiajc.moe.edu.sg/about/staff/english/mr-joshua-ng/) <br>
+Teacher (General Paper)
