@@ -2,7 +2,6 @@ collections:
   english-department:
     output: true
     order:
-      - Ms Ng Hui Qi.md
       - Ms Stephanie Hua.md
       - Mr Marc Kenji Lim.md
       - Ms Kok Li en.md
@@ -21,3 +20,4 @@ collections:
       - Mr Joshua Ng.md
       - Ms Kajal Kaur Khaira.md
       - Ms Karol Ann Tan.md
+      - Ms Ng Hui Qi.md
