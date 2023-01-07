@@ -2,7 +2,6 @@ collections:
   english-department:
     output: true
     order:
-      - Mr Joshua Ng.md
       - Ms Stephanie Hua.md
       - Mr Marc Kenji Lim.md
       - Ms Kok Li en.md
@@ -18,3 +17,4 @@ collections:
       - Ms Eleanor Grace Wong.md
       - Ms Elena Tan.md
       - Ms Geraldine Wong.md
+      - Mr Joshua Ng.md
