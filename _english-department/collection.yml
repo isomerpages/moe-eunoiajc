@@ -2,7 +2,6 @@ collections:
   english-department:
     output: true
     order:
-      - Ms Renuka Satianathan.md
       - Ms Stephanie Hua.md
       - Mr Marc Kenji Lim.md
       - Ms Kok Li en.md
@@ -23,3 +22,4 @@ collections:
       - Ms Karol Ann Tan.md
       - Ms Ng Hui Qi.md
       - Ms Priyah Haritheertham.md
+      - Ms Renuka Satianathan.md
