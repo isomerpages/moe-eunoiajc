@@ -151,3 +151,14 @@ Teacher (General Paper)
 </div>	
 [Ms Elena Tan](https://eunoiajc.moe.edu.sg/about/staff/english/ms-elena-tan/) <br>
 Teacher (General Paper)
+
+<div>  
+<div style="float: left">  
+<img src="/images/EL-Geraldine-Wong_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Geraldine Wong](https://eunoiajc.moe.edu.sg/about/staff/english/ms-geraldine-wong/) <br>
+Teacher (General Paper)
+
