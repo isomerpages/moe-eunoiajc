@@ -2,6 +2,6 @@ collections:
   project-work-department:
     output: true
     order:
-      - Ms Iris Lee.md
       - Ms Adrienne de Souza.md
       - Mr Omar Basri Sulaimir.md
+      - Ms Iris Lee.md
