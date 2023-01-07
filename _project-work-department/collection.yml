@@ -2,8 +2,8 @@ collections:
   project-work-department:
     output: true
     order:
-      - Mr Daniel Kwan.md
       - Ms Adrienne de Souza.md
       - Mr Omar Basri Sulaimir.md
       - Ms Iris Lee.md
       - Ms Rachel Yau.md
+      - Mr Daniel Kwan.md
