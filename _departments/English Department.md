@@ -204,10 +204,10 @@ Teacher (Literature in English)
 
 <div>  
 <div style="float: left">  
-<img src="/images/EL-Priyah-Hari_s.jpg" 
+<img src="/images/EL-Renuka-Satianathan_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
 </div>	
-[Ms Priyah Haritheertham](https://eunoiajc.moe.edu.sg/about/staff/english/ms-priyah-haritheertham/) <br>
+[Ms Renuka Satianathan](https://eunoiajc.moe.edu.sg/about/staff/english/ms-renuka-satianathan/) <br>
 Teacher (General Paper)
