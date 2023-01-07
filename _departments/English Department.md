@@ -231,3 +231,23 @@ Teacher (General Paper)
 </div>	
 [Mr Timothy Ng](https://eunoiajc.moe.edu.sg/about/staff/english/mr-timothy-ng/) <br>
 Teacher (General Paper)
+
+<div>  
+<div style="float: left">  
+<img src="/images/EL-Joey-Tan_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+Mrs Joey Tan <br>
+Teacher (General Paper)
+
+<div>  
+<div style="float: left">  
+<img src="/images/EL-Vivien-Yeo_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+Ms Vivien Yeo <br>
+Teacher (General Paper)
