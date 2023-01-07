@@ -52,3 +52,33 @@ Deputy Head (ICT)
 </div>
 [Mr Daniel Kwan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/pw/mr-daniel-kwan/) <br>
 Teacher (Project Work)
+
+<div>  
+<div style="float: left">  
+<img src="/images/EL-Joanne-Lee_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+Mrs Joanne Lee <br>
+Teacher (Project Work)
+
+<div>  
+<div style="float: left">  
+<img src="/images/PW-Ng-Lee-Siah_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Ms Ng Lee Siah](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/pw/ms-ng-lee-siah/) <br>
+Teacher (Project Work)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Vivien-Ng_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Ms Vivien Ng](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-vivien-ng/) <br>
+Teacher (Project Work)
