@@ -2,6 +2,7 @@ collections:
   english-department:
     output: true
     order:
+      - Mr Samuel Wong.md
       - Ms Stephanie Hua.md
       - Mr Marc Kenji Lim.md
       - Ms Kok Li en.md
