@@ -211,3 +211,13 @@ Teacher (Literature in English)
 </div>	
 [Ms Renuka Satianathan](https://eunoiajc.moe.edu.sg/about/staff/english/ms-renuka-satianathan/) <br>
 Teacher (General Paper)
+
+<div>  
+<div style="float: left">  
+<img src="/images/EL-Samuel-Wong_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Samuel Wong](https://eunoiajc.moe.edu.sg/about/staff/english/mr-samuel-wong/) <br>
+Teacher (General Paper)
