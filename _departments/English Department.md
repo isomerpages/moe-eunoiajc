@@ -201,3 +201,13 @@ Teacher (General Paper)
 </div>	
 [Ms Ng Hui Qi](https://eunoiajc.moe.edu.sg/about/staff/english/ms-ng-hui-qi/) <br>
 Teacher (Literature in English)
+
+<div>  
+<div style="float: left">  
+<img src="/images/EL-Priyah-Hari_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Priyah Haritheertham](https://eunoiajc.moe.edu.sg/about/staff/english/ms-priyah-haritheertham/) <br>
+Teacher (General Paper)
