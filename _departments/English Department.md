@@ -149,7 +149,7 @@ Teacher (General Paper)
 </div>  
 <div></div>  
 </div>	
-[Ms Elena Tan](https://eunoiajc.moe.edu.sg/about/staff/english/ms-elena-tan/) <br>
+[Ms Elena Tan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-elena-tan/) <br>
 Teacher (General Paper)
 
 <div>  
@@ -159,7 +159,7 @@ Teacher (General Paper)
 </div>  
 <div></div>  
 </div>	
-[Ms Geraldine Wong](https://eunoiajc.moe.edu.sg/about/staff/english/ms-geraldine-wong/) <br>
+[Ms Geraldine Wong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-geraldine-wong/) <br>
 Teacher (General Paper)
 
 <div>  
@@ -169,7 +169,7 @@ Teacher (General Paper)
 </div>  
 <div></div>  
 </div>	
-[Mr Joshua Ng](https://eunoiajc.moe.edu.sg/about/staff/english/mr-joshua-ng/) <br>
+[Mr Joshua Ng](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-joshua-ng/) <br>
 Teacher (General Paper)
 
 <div>  
@@ -179,7 +179,7 @@ Teacher (General Paper)
 </div>  
 <div></div>  
 </div>	
-[Ms Kajal Kaur Khaira](https://eunoiajc.moe.edu.sg/about/staff/english/ms-kajal-kaur-khaira/) <br>
+[Ms Kajal Kaur Khaira](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-kajal-kaur-khaira/) <br>
 Teacher (General Paper)
 
 <div>  
@@ -189,7 +189,7 @@ Teacher (General Paper)
 </div>  
 <div></div>  
 </div>	
-[Ms Karol Ann Tan](https://eunoiajc.moe.edu.sg/about/staff/english/ms-karol-ann-tan/) <br>
+[Ms Karol Ann Tan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-karol-ann-tan/) <br>
 Teacher (General Paper)
 
 <div>  
@@ -199,7 +199,7 @@ Teacher (General Paper)
 </div>  
 <div></div>  
 </div>	
-[Ms Ng Hui Qi](https://eunoiajc.moe.edu.sg/about/staff/english/ms-ng-hui-qi/) <br>
+[Ms Ng Hui Qi](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-ng-hui-qi/) <br>
 Teacher (Literature in English)
 
 <div>  
@@ -209,7 +209,7 @@ Teacher (Literature in English)
 </div>  
 <div></div>  
 </div>	
-[Ms Renuka Satianathan](https://eunoiajc.moe.edu.sg/about/staff/english/ms-renuka-satianathan/) <br>
+[Ms Renuka Satianathan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-renuka-satianathan/) <br>
 Teacher (General Paper)
 
 <div>  
@@ -219,7 +219,7 @@ Teacher (General Paper)
 </div>  
 <div></div>  
 </div>	
-[Mr Samuel Wong](https://eunoiajc.moe.edu.sg/about/staff/english/mr-samuel-wong/) <br>
+[Mr Samuel Wong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-samuel-wong/) <br>
 Teacher (General Paper)
 
 <div>  
@@ -229,7 +229,7 @@ Teacher (General Paper)
 </div>  
 <div></div>  
 </div>	
-[Mr Timothy Ng](https://eunoiajc.moe.edu.sg/about/staff/english/mr-timothy-ng/) <br>
+[Mr Timothy Ng](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-timothy-ng/) <br>
 Teacher (General Paper)
 
 <div>  
