@@ -2,4 +2,5 @@ collections:
   project-work-department:
     output: true
     order:
+      - Mr Omar Basri Sulaimir.md
       - Ms Adrienne de Souza.md
