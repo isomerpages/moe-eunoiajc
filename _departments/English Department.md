@@ -221,3 +221,13 @@ Teacher (General Paper)
 </div>	
 [Mr Samuel Wong](https://eunoiajc.moe.edu.sg/about/staff/english/mr-samuel-wong/) <br>
 Teacher (General Paper)
+
+<div>  
+<div style="float: left">  
+<img src="/images/EL_TimothyNg_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Timothy Ng](https://eunoiajc.moe.edu.sg/about/staff/english/mr-timothy-ng/) <br>
+Teacher (General Paper)
