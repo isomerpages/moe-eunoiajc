@@ -2,6 +2,7 @@ collections:
   mtl-department:
     output: true
     order:
+      - Mrs Uma Thiruselvam.md
       - Ms Nadira Md Sedik.md
       - Mr Tay Theng Hwee.md
       - Ms Yang Shu Hung.md
