@@ -114,3 +114,14 @@ Teacher (Economics)
 [Ms Lim Lyn Na](https://eunoiajc.moe.edu.sg/about/staff/econs/ms-lim-lyn-na/)
 <br>
 Teacher (Economics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Econs-Mingwei_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Ma Mingwei](https://eunoiajc.moe.edu.sg/about/staff/econs/mr-ma-mingwei/)
+<br>
+Teacher (Economics)
