@@ -22,3 +22,13 @@ HOD (Mother Tongue Languages & BSP)
 </div>	
 [Ms Yang Shu Hung 杨淑闳](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/ms-yang-shu-hung/) <br>
 Dean (JC2)
+
+<div>  
+<div style="float: left">  
+<img src="images/MTL-Ng-Lai-Sze_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mdm Ng Lai Sze 吴丽诗](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/mdm-ng-lai-sze/) <br>
+Deputy Head (Mother Tongue Languages)
