@@ -2,5 +2,6 @@ collections:
   mtl-department:
     output: true
     order:
+      - Mdm Ng Lai Sze.md
       - Ms Yang Shu Hung.md
       - Mr Tay Theng Hwee.md
