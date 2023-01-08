@@ -1,4 +1,5 @@
 collections:
   arts-department:
     output: true
-    order: []
+    order:
+      - Mr Justin Lee.md
