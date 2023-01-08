@@ -51,5 +51,25 @@ Deputy Head (Aesthetics)
 </div>  
 <div></div>  
 </div>	
-[Mr Alson Yong](https://eunoiajc.moe.edu.sg/about/staff/arts/mr-alson-yong/) <br>
+[Mr Alson Yong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/arts/mr-alson-yong/) <br>
 Deputy Head (Student Leadership)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Arts-Mahmood-Fahmi_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Mahmood Fahmi Ahamed](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/arts/mr-mahmood-fahmi-ahamed/) <br>
+Deputy Head (HSP & Talent Management)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Arts-Azhar_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Azhar Amin](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/arts/mr-azhar-amin/) <br>
+Senior Teacher (History)
