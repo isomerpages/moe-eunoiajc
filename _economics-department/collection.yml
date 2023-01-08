@@ -2,5 +2,5 @@ collections:
   economics-department:
     output: true
     order:
-      - Mr Kevin Tan.md
       - Mr Benjamin Liang.md
+      - Mr Kevin Tan.md
