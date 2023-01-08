@@ -36,7 +36,7 @@ Deputy Head (Mother Tongue Languages)
 <div>  
 <div style="float: left">  
 <img src="/images/Staff-Profile_s.png" 
-    style="width:100%">
+    style="width:50%">
 </div>  
 <div></div>  
 </div>	
