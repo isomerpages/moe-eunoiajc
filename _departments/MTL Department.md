@@ -32,3 +32,13 @@ Dean (JC2)
 </div>	
 [Mdm Ng Lai Sze 吴丽诗](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/mdm-ng-lai-sze/) <br>
 Deputy Head (Mother Tongue Languages)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff-Profile_s.png" 
+    style="width:100%">
+</div>  
+<div></div>  
+</div>	
+Mdm Elavarasi Sundararaju <br>
+Lead Teacher (Character & Citizenship Education)
