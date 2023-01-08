@@ -80,5 +80,15 @@ Teacher (Economics)
 </div>  
 <div></div>  
 </div>	
-[Ms Juliana Wong](https://eunoiajc.moe.edu.sg/about/staff/econs/ms-juliana-wong/) <Br>
+[Ms Juliana Wong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-juliana-wong/) <Br>
+Teacher (Economics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Econs_KelvinTeo_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Kelvin Teo](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/mr-kelvin-teo/) <br>
 Teacher (Economics)
