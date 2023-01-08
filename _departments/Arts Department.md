@@ -104,3 +104,14 @@ Teacher (Geography)
 [Ms Rachel Lim](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/arts/ms-rachel-lim/)
 <br>
 Teacher (Geography)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Quek-Jia-Qi-s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Quek Jia Qi](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/arts/ms-quek-jia-qi/)
+<br>
+Teacher (Art)
