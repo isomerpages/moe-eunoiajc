@@ -43,3 +43,13 @@ Deputy Head (Geography)
 </div>	
 [Dr Gooi Tah Choe](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/arts/dr-gooi-tah-choe/) <br>
 Deputy Head (Aesthetics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Arts_AlsonYong_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Alson Yong](https://eunoiajc.moe.edu.sg/about/staff/arts/mr-alson-yong/) <br>
+Deputy Head (Student Leadership)
