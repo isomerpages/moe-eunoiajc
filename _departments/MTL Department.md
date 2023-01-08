@@ -101,5 +101,45 @@ Teacher (Chinese Language)
 </div>  
 <div></div>  
 </div>	
-[Ms Lu Jing 吕晶](https://eunoiajc.moe.edu.sg/about/staff/mtl/ms-lu-jing/) <br>
+[Ms Lu Jing 吕晶](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/ms-lu-jing/) <br>
 Teacher (Chinese Language)
+
+<div>  
+<div style="float: left">  
+<img src="/images/MTL-Pan-Qun_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mdm Pan Qun 潘群](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/mdm-pan-qun/) <br>
+Teacher (China Studies in Chinese)
+
+<div>  
+<div style="float: left">  
+<img src="/images/MTL-Sun-Xiaojun_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Sun Xiaojun 孙晓军](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/mr-sun-xiaojun/) <br>
+Teacher (China Studies in Chinese)
+
+<div>  
+<div style="float: left">  
+<img src="/images/MTL-Nadira_s-1.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Nadira Mohamed Sedik](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/ms-nadira-mohamed-sedik/) <br>
+Teacher (Malay Language)
+
+<div>  
+<div style="float: left">  
+<img src="/images/MTL-Uma-Thiru_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mrs Uma Thiruselvam உமா திருச்செல்வம்](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/mrs-uma-thiruselvam/) <br>
+Teacher (Tamil Language)
