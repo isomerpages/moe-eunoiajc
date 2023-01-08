@@ -115,3 +115,14 @@ Teacher (Geography)
 [Ms Quek Jia Qi](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/arts/ms-quek-jia-qi/)
 <br>
 Teacher (Art)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Arts-Lee-Ji-Heng_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Lee Ji Heng](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/arts/mr-lee-ji-heng/)
+<br>
+Teacher (Music)
