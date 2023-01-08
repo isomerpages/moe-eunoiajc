@@ -33,3 +33,13 @@ Dean (JC2)
 [Mr Fred Ong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/arts/mr-fred-ong/)
 <br>
 Deputy Head (Geography)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Arts-Gooi-Tah-Choe_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Dr Gooi Tah Choe](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/arts/dr-gooi-tah-choe/) <br>
+Deputy Head (Aesthetics)
