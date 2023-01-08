@@ -73,3 +73,34 @@ Deputy Head (HSP & Talent Management)
 </div>	
 [Mr Azhar Amin](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/arts/mr-azhar-amin/) <br>
 Senior Teacher (History)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Arts-Low-Sok-Hui_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Low Sok Hui](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/arts/ms-low-sok-hui/) <br>
+Senior Teacher (Art)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Arts-Leong-Wymin_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Leong Wymin](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/arts/ms-leong-wymin/) <br>
+Teacher (Geography)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Arts-Rachel-Lim_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Rachel Lim](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/arts/ms-rachel-lim/)
+<br>
+Teacher (Geography)
