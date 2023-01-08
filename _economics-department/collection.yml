@@ -2,5 +2,6 @@ collections:
   economics-department:
     output: true
     order:
+      - Ms Koh Han Yun.md
       - Mr Benjamin Liang.md
       - Mr Kevin Tan.md
