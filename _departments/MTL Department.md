@@ -82,3 +82,24 @@ Teacher (Chinese Language)
 </div>	
 [Mr Chng Tsu Pang 庄祖邦](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/mr-chng-tsu-pang/) <br>
 Teacher (Chinese Language)
+
+<div>  
+<div style="float: left">  
+<img src="/images/MTL-Lim-Tian-Min_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+Mdm Lim Tian Min
+<br>
+Teacher (Chinese Language)
+
+<div>  
+<div style="float: left">  
+<img src="/images/MTL-Lu-Jing_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Lu Jing 吕晶](https://eunoiajc.moe.edu.sg/about/staff/mtl/ms-lu-jing/) <br>
+Teacher (Chinese Language)
