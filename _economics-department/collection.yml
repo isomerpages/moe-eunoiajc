@@ -2,7 +2,6 @@ collections:
   economics-department:
     output: true
     order:
-      - Mr Peter Soh.md
       - Mr Benjamin Liang.md
       - Mr Kevin Tan.md
       - Ms Koh Han Yun.md
@@ -14,3 +13,4 @@ collections:
       - Mr Kelvin Teo.md
       - Ms Lim Lyn Na.md
       - Mr Ma Mingwei.md
+      - Mr Peter Soh.md
