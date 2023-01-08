@@ -2,6 +2,7 @@ collections:
   arts-department:
     output: true
     order:
+      - Ms Leong Wymin.md
       - Ms Low Sok Hui.md
       - Mr Justin Lee.md
       - Mr Jared Goh.md
