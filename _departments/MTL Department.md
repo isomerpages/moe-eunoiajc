@@ -42,3 +42,13 @@ Deputy Head (Mother Tongue Languages)
 </div>	
 Mdm Elavarasi Sundararaju <br>
 Lead Teacher (Character & Citizenship Education)
+
+<div>  
+<div style="float: left">  
+<img src="/images/MTL-Cao-Jiandong_s2.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Cao Jiandong 曹剑东](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/mr-cao-jiandong/) <br>
+Senior Teacher (Chinese Language)
