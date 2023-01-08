@@ -12,3 +12,13 @@ description: ""
 </div>	
 [Mr Tay Theng Hwee 郑澄辉](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/mr-tay-theng-hwee/) <br>
 HOD (Mother Tongue Languages & BSP)
+
+<div>  
+<div style="float: left">  
+<img src="/images/MTL-Yang-Shu-Hung_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Yang Shu Hung 杨淑闳](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/ms-yang-shu-hung/) <br>
+Dean (JC2)
