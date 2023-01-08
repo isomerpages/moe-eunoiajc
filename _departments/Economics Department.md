@@ -111,7 +111,7 @@ Teacher (Economics)
 </div>  
 <div></div>  
 </div>	
-[Ms Lim Lyn Na](https://eunoiajc.moe.edu.sg/about/staff/econs/ms-lim-lyn-na/)
+[Ms Lim Lyn Na](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-lim-lyn-na/)
 <br>
 Teacher (Economics)
 
@@ -122,6 +122,49 @@ Teacher (Economics)
 </div>  
 <div></div>  
 </div>	
-[Mr Ma Mingwei](https://eunoiajc.moe.edu.sg/about/staff/econs/mr-ma-mingwei/)
+[Mr Ma Mingwei](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/mr-ma-mingwei/)
 <br>
+Teacher (Economics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Econs-Michelle-Chiang_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+Ms Michelle Chiang
+<br>
+Teacher (Economics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff-Profile_s%20(1).png" 
+    style="width:500%">
+</div>  
+<div></div>  
+</div>	
+Mr Peter Soh
+<br>
+Teacher (Economics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Econs-Serene-Tan_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Serene Tan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-serene-tan/)
+<br>
+Teacher (Economics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Econs-Chen-Jinqi_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mrs Wee-Chen Jinqi](https://eunoiajc.moe.edu.sg/about/staff/econs/mrs-wee-chen-jinqi/) <br>
 Teacher (Economics)
