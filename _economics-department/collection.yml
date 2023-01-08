@@ -2,7 +2,6 @@ collections:
   economics-department:
     output: true
     order:
-      - Ms Lim Lyn Na.md
       - Mr Benjamin Liang.md
       - Mr Kevin Tan.md
       - Ms Koh Han Yun.md
@@ -12,3 +11,4 @@ collections:
       - Mr Gary Fong.md
       - Ms Juliana Wong.md
       - Mr Kelvin Teo.md
+      - Ms Lim Lyn Na.md
