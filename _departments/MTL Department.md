@@ -62,3 +62,23 @@ Senior Teacher (Chinese Language)
 </div>	
 [Ms Cao Xinxin](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/ms-cao-xinxin/)<br>
 Teacher (Chinese Language)
+
+<div>  
+<div style="float: left">  
+<img src="/images/MTL-Chen-Lili_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mdm Chen Lili 陈丽丽](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/mdm-chen-lili/) <br>
+Teacher (Chinese Language)
+
+<div>  
+<div style="float: left">  
+<img src="/images/MTL-Chng-Tsu-Pang_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Chng Tsu Pang 庄祖邦](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/mr-chng-tsu-pang/) <br>
+Teacher (Chinese Language)
