@@ -2,7 +2,6 @@ collections:
   economics-department:
     output: true
     order:
-      - Mr Kelvin Teo.md
       - Mr Benjamin Liang.md
       - Mr Kevin Tan.md
       - Ms Koh Han Yun.md
@@ -11,3 +10,4 @@ collections:
       - Ms Elizabeth Chin.md
       - Mr Gary Fong.md
       - Ms Juliana Wong.md
+      - Mr Kelvin Teo.md
