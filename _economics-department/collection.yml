@@ -2,7 +2,6 @@ collections:
   economics-department:
     output: true
     order:
-      - Mr Ma Mingwei.md
       - Mr Benjamin Liang.md
       - Mr Kevin Tan.md
       - Ms Koh Han Yun.md
@@ -13,3 +12,4 @@ collections:
       - Ms Juliana Wong.md
       - Mr Kelvin Teo.md
       - Ms Lim Lyn Na.md
+      - Mr Ma Mingwei.md
