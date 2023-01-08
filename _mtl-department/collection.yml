@@ -2,7 +2,6 @@ collections:
   mtl-department:
     output: true
     order:
-      - Mr Sun Xiaojun.md
       - Mr Tay Theng Hwee.md
       - Ms Yang Shu Hung.md
       - Mdm Ng Lai Sze.md
@@ -12,3 +11,4 @@ collections:
       - Mr Chng Tsu Pang.md
       - Ms Lu Jing.md
       - Mdm Pan Qun.md
+      - Mr Sun Xiaojun.md
