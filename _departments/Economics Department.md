@@ -10,7 +10,7 @@ description: ""
 </div>  
 <div></div>  
 </div>	
-[Mr Benjamin Liang](https://staging.d2ftoa31ukircm.amplifyapp.com//about/staff/econs/mr-benjamin-liang/) <br>
+[Mr Benjamin Liang](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/mr-benjamin-liang/) <br>
 HOD (Economics)
 
 <div>  
@@ -20,7 +20,7 @@ HOD (Economics)
 </div>  
 <div></div>  
 </div>	
-[Mr Kevin Tan](https://staging.d2ftoa31ukircm.amplifyapp.com//about/staff/econs/mr-kevin-tan/) <br>
+[Mr Kevin Tan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/mr-kevin-tan/) <br>
 School Staff Developer
 
 <div>  
@@ -30,7 +30,7 @@ School Staff Developer
 </div>  
 <div></div>  
 </div>	
-[Ms Koh Han Yun](https://staging.d2ftoa31ukircm.amplifyapp.com//about/staff/econs/ms-koh-han-yun/) <br>
+[Ms Koh Han Yun](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-koh-han-yun/) <br>
 HOD (Student Leadership & Talent Management
 
 <div>  
@@ -40,5 +40,15 @@ HOD (Student Leadership & Talent Management
 </div>  
 <div></div>  
 </div>	
-[Ms Tan Liu Yin](https://staging.d2ftoa31ukircm.amplifyapp.com//about/staff/econs/ms-tan-liu-yin/)<br>
+[Ms Tan Liu Yin](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-tan-liu-yin/)<br>
 Deputy Head (Economics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Econs-Loh-Xin-Min_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Loh Xin Min](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-loh-xin-min/)<br>
+Senior Teacher (Economics)
