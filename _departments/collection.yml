@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - MTL Department.md
       - English Department.md
       - Project Work Department.md
