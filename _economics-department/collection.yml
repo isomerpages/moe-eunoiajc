@@ -1,0 +1,4 @@
+collections:
+  economics-department:
+    output: true
+    order: []
