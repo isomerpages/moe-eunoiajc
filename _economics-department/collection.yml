@@ -1,4 +1,5 @@
 collections:
   economics-department:
     output: true
-    order: []
+    order:
+      - Mr Benjamin Liang.md
