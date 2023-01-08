@@ -2,4 +2,5 @@ collections:
   mtl-department:
     output: true
     order:
+      - Ms Yang Shu Hung.md
       - Mr Tay Theng Hwee.md
