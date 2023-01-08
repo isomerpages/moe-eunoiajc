@@ -70,5 +70,15 @@ Teacher (Economics)
 </div>  
 <div></div>  
 </div>	
-[Mr Gary Fong](https://eunoiajc.moe.edu.sg/about/staff/econs/mr-gary-fong/) <br>
+[Mr Gary Fong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/mr-gary-fong/) <br>
+Teacher (Economics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Econs_JulianaWong_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Juliana Wong](https://eunoiajc.moe.edu.sg/about/staff/econs/ms-juliana-wong/) <Br>
 Teacher (Economics)
