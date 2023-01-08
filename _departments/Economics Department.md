@@ -92,3 +92,25 @@ Teacher (Economics)
 </div>	
 [Mr Kelvin Teo](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/mr-kelvin-teo/) <br>
 Teacher (Economics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Econs-Lim-Lay-Peng_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+Mdm Lim Lay Peng
+<br>
+Teacher (Economics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Econs_Lim_LynNa_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Lim Lyn Na](https://eunoiajc.moe.edu.sg/about/staff/econs/ms-lim-lyn-na/)
+<br>
+Teacher (Economics)
