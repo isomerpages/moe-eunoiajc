@@ -52,3 +52,13 @@ Deputy Head (Economics)
 </div>	
 [Ms Loh Xin Min](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-loh-xin-min/)<br>
 Senior Teacher (Economics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Econs-Elizabeth-Chin_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Elizabeth Chin](https://staging.d2ftoa31ukircm.amplifyapp.com/ms-elizabeth-chin/) <br>
+Teacher (Economics)
