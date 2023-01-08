@@ -2,6 +2,7 @@ collections:
   arts-department:
     output: true
     order:
+      - Mr Alson Yong.md
       - Mr Justin Lee.md
       - Mr Jared Goh.md
       - Mr Fred Ong.md
