@@ -62,3 +62,13 @@ Senior Teacher (Economics)
 </div>	
 [Ms Elizabeth Chin](https://staging.d2ftoa31ukircm.amplifyapp.com/ms-elizabeth-chin/) <br>
 Teacher (Economics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Econs-Gary-Fong_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Gary Fong](https://eunoiajc.moe.edu.sg/about/staff/econs/mr-gary-fong/) <br>
+Teacher (Economics)
