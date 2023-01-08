@@ -10,5 +10,5 @@ description: ""
 </div>  
 <div></div>  
 </div>	
-[Ms Stephanie Hua](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/mr-tay-theng-hwee/) <br>
-HOD (English)
+[Mr Tay Theng Hwee 郑澄辉](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/mr-tay-theng-hwee/) <br>
+HOD (Mother Tongue Languages & BSP)
