@@ -25,7 +25,7 @@ Dean (JC2)
 
 <div>  
 <div style="float: left">  
-<img src="images/MTL-Ng-Lai-Sze_s.jpg" 
+<img src="/images/MTL-Ng-Lai-Sze_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
