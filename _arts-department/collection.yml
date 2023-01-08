@@ -2,6 +2,7 @@ collections:
   arts-department:
     output: true
     order:
+      - Dr Gooi Tah Choe.md
       - Mr Fred Ong.md
       - Mr Justin Lee.md
       - Mr Jared Goh.md
