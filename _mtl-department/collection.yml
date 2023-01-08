@@ -2,9 +2,9 @@ collections:
   mtl-department:
     output: true
     order:
-      - Mdm Chen Lili.md
       - Mr Tay Theng Hwee.md
       - Ms Yang Shu Hung.md
       - Mdm Ng Lai Sze.md
       - Mr Cao Jiandong.md
       - Ms Cao Xinxin.md
+      - Mdm Chen Lili.md
