@@ -2,10 +2,10 @@ collections:
   economics-department:
     output: true
     order:
-      - Mr Gary Fong.md
       - Mr Benjamin Liang.md
       - Mr Kevin Tan.md
       - Ms Koh Han Yun.md
       - Ms Tan Liu Yin.md
       - Ms Loh Xin Min.md
       - Ms Elizabeth Chin.md
+      - Mr Gary Fong.md
