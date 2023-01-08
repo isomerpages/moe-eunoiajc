@@ -2,7 +2,6 @@ collections:
   mtl-department:
     output: true
     order:
-      - Ms Lu Jing.md
       - Mr Tay Theng Hwee.md
       - Ms Yang Shu Hung.md
       - Mdm Ng Lai Sze.md
@@ -10,3 +9,4 @@ collections:
       - Ms Cao Xinxin.md
       - Mdm Chen Lili.md
       - Mr Chng Tsu Pang.md
+      - Ms Lu Jing.md
