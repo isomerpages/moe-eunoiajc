@@ -1,0 +1,4 @@
+collections:
+  arts-department:
+    output: true
+    order: []
