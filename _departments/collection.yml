@@ -2,8 +2,8 @@ collections:
   departments:
     output: true
     order:
-      - Economics Department.md
       - English Department.md
       - Project Work Department.md
       - MTL Department.md
       - Arts Department.md
+      - Economics Department.md
