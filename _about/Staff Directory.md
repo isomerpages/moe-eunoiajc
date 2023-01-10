@@ -45,3 +45,13 @@ description: ""
     </div>
 
 </li>
+	
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">22-A5</label>
+    <div>
+			<p> <b> Mrs Charlotte Lee</b> charlotte.lee@ejc.edu.sg</p>
+    </div>
+
+</li>
