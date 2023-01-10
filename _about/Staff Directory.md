@@ -96,3 +96,44 @@ description: ""
 			<b>Ms Ng Yi Xin</b> ng.yi.xin@ejc.edu.sg
 			</div>
 </li>
+	
+<li>
+    <input type="checkbox" id="accordion12">
+    <label for="accordion12">22-E6</label>
+    <div>
+			<b>Mr Ma Mingwei</b> ma.mingwei@ejc.edu.sg
+			</div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion13">
+    <label for="accordion13">22-I1</label>
+    <div>
+			<b>Ms Anna Loh Kai Suan</b>loh.kai.suan@ejc.edu.sg
+			</div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion14">
+    <label for="accordion14">22-I2</label>
+    <div>
+			<b>Ms Cham Bei Qing</b>cham.bei.qing@ejc.edu.sg <br> <b>Mr Chuah Jun Jie</b> chuah.jun.jie@ejc.edu.sg
+			</div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion15">
+    <label for="accordion15">22-I3</label>
+    <div>
+			<b>Ms Karol Ann Tan</b>karol.ann.tan@ejc.edu.sg
+			</div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion16">
+    <label for="accordion16">22-I4</label>
+    <div>
+			<b>Dr Wang Guangquan</b> wang.guangquan@ejc.edu.sg <br>
+			<b>Mr Darren Chong</b>darren.chong@ejc.edu.sg
+			</div>
+</li>
