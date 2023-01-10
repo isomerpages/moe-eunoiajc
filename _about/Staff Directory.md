@@ -298,3 +298,18 @@ description: ""
 			<b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg
 			</div>
 </li>
+
+<li>
+    <input type="checkbox" id="accordion34">
+    <label for="accordion34">Chinese Language</label>
+    <div>
+			<b>Ms Cao Xin Xin</b> cao.xin.xin@ejc.edu.sg <br>
+			<b>Mdm Chen Lili</b> chen.lili@ejc.edu.sg <br>
+			<b> Mr Chng Tsu Pang</b> chng.tsu.pang@ejc.edu.sg <br> 
+			<b> Ms Lu Jing </b> lu.jing@ejc.edu.sg <br>
+			<b> Mdm Ng Lai Sze </b> ng.lai.sze@ejc.edu.sg <br> 
+			<b> Mdm Pan Qun </b> pan.qun@ejc.edu.sg <br>
+			<b> Mr Tay Theng Hwee </b>  tay.theng.hwee@ejc.edu.sg <br>
+			<b> Ms Yang Shu Hung </b> yang.shu.hung@ejc.edu.sg
+			</div>
+</li>
