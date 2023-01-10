@@ -247,6 +247,8 @@ description: ""
 	
 ### Subject Tutors
 	
+<ul class="jekyllcodex_accordion">
+
 <li>
     <input type="checkbox" id="accordion30">
     <label for="accordion30">Art</label>
