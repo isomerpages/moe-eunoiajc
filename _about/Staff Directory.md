@@ -12,3 +12,9 @@ description: ""
     <div>
 			<p> <b> Mr Sun Xiaojun </b> sun.xiaojun@ejc.edu.sg<br>
 				
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">22-A2</label>
+    <div>
+			<p> <b> Mr Chng Tsu Pang</b>chng.tsu.pang@ejc.edu.sg<br>
