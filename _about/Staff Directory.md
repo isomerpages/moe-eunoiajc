@@ -15,7 +15,6 @@ description: ""
     </div>
 
 </li>
-	<li>
 		
 <ul class="jekyllcodex_accordion">
   <li>
@@ -26,4 +25,3 @@ description: ""
     </div>
 
 </li>
-	<li>
