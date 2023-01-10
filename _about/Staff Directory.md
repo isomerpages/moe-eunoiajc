@@ -383,3 +383,14 @@ description: ""
 			<b> Ms Rachel Lim </b> rachel.lim@ejc.edu.sg
 			</div>
 </li>
+	
+<li>
+    <input type="checkbox" id="accordion39">
+    <label for="accordion39">History</label>
+    <div>
+			<b> Mr Alson Yong </b> alson.yong@ejc.edu.sg <br>
+			<b> Mr Azhar Amin </b> azhar.amin@ejc.edu.sg <br>
+			<b> Mr Justin Lee </b> justin.lee@ejc.edu.sg <br>
+			<b> Mr Mahmood Fahmi Ahamed </b> mahmood.fahmi@ejc.edu.sg
+			</div>
+</li>
