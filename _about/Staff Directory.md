@@ -70,3 +70,12 @@ description: ""
 			<b>Mr Ng Boon Hong</b>ng.boon.hong@ejc.edu.sg <br> <b>Mr Kelvin Teo </b> kelvin.teo@ejc.edu.sg
 			</div>
 </li>
+	
+<li>
+    <input type="checkbox" id="accordion9">
+    <label for="accordion9">22-E3</label>
+    <div>
+			<b>Mrs Yew-Tay Li Kim</b> tay.li.kim@ejc.edu.sg <br>
+			<b>Mrs Uma Thiruselvam</b> uma.thiruselvam@ejc.edu.sg
+			</div>
+</li>
