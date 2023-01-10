@@ -457,3 +457,19 @@ description: ""
 			<b> Mr Lee Ji Heng </b> lee.ji.heng@ejc.edu.sg
 			</div>
 </li>
+	
+<li>
+    <input type="checkbox" id="accordion45">
+    <label for="accordion45">Physical Education</label>
+    <div>
+			<b> Mr Allen Lee </b> allen.lee@ejc.edu.sg <br> 
+			<b> Mr Bryan Chan </b> bryan.chan@ejc.edu.sg <br>
+			<b> Mr Charles Cheak </b> charles.cheak@ejc.edu.sg <br>
+			<b> Mr George Danapal </b> george.danapal@ejc.edu.sg <br> 
+			<b> Ms Anna Loh Kai Suan </b> loh.kai.suan@ejc.edu.sg <br>
+			<b> Ms Karine Teo </b> karine.teo@ejc.edu.sg <br>
+			<b> Mr Ng Boon Hong </b> ng.boon.hong@ejc.edu.sg <br> 
+			<b> Mr Ng Jun Kiat </b> ng.jun.kiat@ejc.edu.sg <br> 
+<b> Mr Trevor Tay </b> trevor.tay@ejc.edu.sg
+			</div>
+</li>
