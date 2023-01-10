@@ -163,3 +163,43 @@ description: ""
 			<b>Dr Edson Ng </b> edson.ng@ejc.edu.sg
 			</div>
 </li>
+	
+<li>
+    <input type="checkbox" id="accordion20">
+    <label for="accordion20">22-O2</label>
+    <div>
+			<b>Ms Kajal Kaur Khaira </b> kajal.kaur.khaira@ejc.edu.sg
+			</div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion21">
+    <label for="accordion21">22-O3</label>
+    <div>
+			<b>Ms Elizabeth Chin </b>elizabeth.chin@ejc.edu.sg
+			</div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion22">
+    <label for="accordion22">22-O4</label>
+    <div>
+			<b>Mr Tan Zhen Yong Keith</b>tan.zhen.yong@ejc.edu.sg
+			</div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion23">
+    <label for="accordion23">22-O5</label>
+    <div>
+			<b>Ms Priyah Haritheertham </b> priyah.haritheertham@ejc.edu.sg
+			</div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion24">
+    <label for="accordion24">22-O6</label>
+    <div>
+			<b>Mrs Chin-Tan Wei Lin</b>tan.wei.lin@ejc.edu.sg
+			</div>
+</li>
