@@ -227,3 +227,19 @@ description: ""
 			<b>Mr Chen Jinquan </b>chen.jinquan@ejc.edu.sg
 			</div>
 </li>
+	
+<li>
+    <input type="checkbox" id="accordion28">
+    <label for="accordion28">22-U4</label>
+    <div>
+			<b>Mr Bryan Chan</b>bryan.chan@ejc.edu.sg
+			</div>
+</li>
+
+<li>
+    <input type="checkbox" id="accordion29">
+    <label for="accordion29">22-U5</label>
+    <div>
+			<b>Mr Tan Khoon Han</b> tan.khoon.han@ejc.edu.sg
+			</div>
+</li>
