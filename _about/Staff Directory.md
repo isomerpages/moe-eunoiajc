@@ -137,3 +137,29 @@ description: ""
 			<b>Mr Darren Chong</b>darren.chong@ejc.edu.sg
 			</div>
 </li>
+	
+<li>
+    <input type="checkbox" id="accordion17">
+    <label for="accordion17">22-I5</label>
+    <div>
+			<b>Mr Ng Jun Kiat</b>ng.jun.kiat@ejc.edu.sg
+			</div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion18">
+    <label for="accordion18">22-I6</label>
+    <div>
+			<b>Mr Ng Yixin </b> ng.yixin@ejc.edu.sg <br>
+			<b>Ms Leong Wymin </b> leong.wymin@ejc.edu.sg
+			</div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion19">
+    <label for="accordion19">22-O1</label>
+    <div>
+			<b>Mr Allen Lee</b> allen.lee@ejc.edu.sg <br>
+			<b>Dr Edson Ng </b> edson.ng@ejc.edu.sg
+			</div>
+</li>
