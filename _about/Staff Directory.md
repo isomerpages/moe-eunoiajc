@@ -315,3 +315,34 @@ description: ""
 			<b> Ms Yang Shu Hung </b> yang.shu.hung@ejc.edu.sg
 			</div>
 </li>
+	
+<li>
+    <input type="checkbox" id="accordion35">
+    <label for="accordion35">Chinese Language and Literature</label>
+    <div>
+			<b>Mdm Chen Lili </b> chen.lili@ejc.edu.sg <br>
+			<b> Mdm Ng Lai Sze </b> ng.lai.sze@ejc.edu.sg
+			</div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion36">
+    <label for="accordion36">Economics</label>
+    <div>
+			<b> Mr Benjamin Liang </b> benjamin.liang@ejc.edu.sg <br>
+			<b> Ms Elizabeth Chin </b> elizabeth.chin@ejc.edu.sg <br> 
+			<b> Mr Gary Fong </b> fong.wen.zhong@ejc.edu.sg <br>
+			<b> Mr Kelvin Teo </b> kelvin.teo@ejc.edu.sg <br> 
+			<b> Mr Kevin Tan </b> kevin.tan@ejc.edu.sg <br> 
+			<b> Ms Koh Han Yun </b> koh.han.yun@ejc.edu.sg <br>
+			<b> Mdm Lim Lay Peng </b> lim.lay.peng@ejc.edu. <br>
+			<b> Ms Lim Lyn Na </b> lim.lyn.na@ejc.edu.sg <br> 
+			<b> Ms Loh Xin Min </b> loh.xin.min@ejc.edu.sg <br>
+			<b> Mr Ma Mingwei </b> ma.mingwei@ejc.edu.sg <br> 
+			<b> Ms Michelle Chiang </b> michelle.chiang@ejc.edu.sg <br> 
+			<b> Mr Peter Soh </b> peter.soh@ejc.edu.sg <br> 
+			<b> Ms Serene Tan </b> serene.tan@ejc.edu.sg <br>
+			<b> Ms Tan Liu Yin </b> tan.liu.yin@ejc.edu.sg <br> 
+			<b> Mrs Wee-Chen Jinqi </b> wee.chen.jinqi@ejc.edu.sg
+			</div>
+</li>
