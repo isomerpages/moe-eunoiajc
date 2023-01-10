@@ -30,3 +30,11 @@ description: ""
 			<b>Mr Chng Tsu Pang</b> chng.tsu.pang@ejc.edu.sg
 			</div>
 </li>
+	
+<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">22-A4</label>
+    <div>
+			<b>Mr Lim Teck Seng </b> lim.teck.seng@ejc.edu.sg
+			</div>
+</li>
