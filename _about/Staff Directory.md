@@ -264,3 +264,25 @@ description: ""
 			<b> Ms Zulaiha Said</b>  zulaiha.said@ejc.edu.sg
 			</div>
 </li>
+	
+<li>
+    <input type="checkbox" id="accordion32">
+    <label for="accordion32">Chemistry</label>
+    <div>
+			<b>Dr Chan Kim Seng</b>chan.kim.seng@ejc.edu.sg<br>
+			<b>Ms Chia Xin Hui</b>chia.xin.hui@ejc.edu.sg <br>
+			<b> Dr Chok Yew Keong</b>chok.yew.keong@ejc.edu.sg <br>
+			<b> Mr Christopher Tan</b>christopher.tan@ejc.edu.sg <br> <b>Ms Diana Ma</b>diana.ma@ejc.edu.sg <br>
+			<b>Mr Enoch Tang </b>enoch.tang@ejc.edu.sg <br>
+			<b>Ms Jacintha Huang</b>jacintha.huang@ejc.edu.sg<br>
+			<b>Mr Justin Lim</b>justin.lim@ejc.edu.sg<br>
+			<b>Mdm Lam Wing Yee</b>lam.wing.yee@ejc.edu.sg<br>
+			<b>Mdm Liu Shuyu</b>liu.shuyu@ejc.edu.sg<br>
+			<b>Mr Ong Wee Yong</b>ong.wee.yong@ejc.edu.sg<br>
+			<b>Ms Suellen Goh</b>suellen.goh@ejc.edu.sg<br>
+			<b>Ms Tan Fangxi</b>tan.fangxi@ejc.edu.sg<br>
+			<b>Mdm Tan Lingmin</b>tan.lingmin@ejc.edu.sg<br>
+			<b>Ms Vivien Ng</b>vivien.ng@ejc.edu.sg<br>
+			<b>Mrs Yew-Tay Li Kim</b>tay.li.kim@ejc.edu.sg
+			</div>
+</li>
