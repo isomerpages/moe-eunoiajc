@@ -372,3 +372,14 @@ description: ""
 			<b> Mr Timothy Ng </b> timothy.ng@ejc.edu.sg
 			</div>
 </li>
+	
+<li>
+    <input type="checkbox" id="accordion38">
+    <label for="accordion38">Geography</label>
+    <div>
+			<b> Mr Fred Ong </b> fred.ong@ejc.edu.sg <br>
+			<b> Mr Jared Goh </b> jared.goh@ejc.edu.sg <br>
+			<b> Ms Leong Wymin </b> leong.wymin@ejc.edu.sg <br>
+			<b> Ms Rachel Lim </b> rachel.lim@ejc.edu.sg
+			</div>
+</li>
