@@ -243,3 +243,24 @@ description: ""
 			<b>Mr Tan Khoon Han</b> tan.khoon.han@ejc.edu.sg
 			</div>
 </li>
+	
+### Subject Tutors
+	
+<li>
+    <input type="checkbox" id="accordion30">
+    <label for="accordion30">Art</label>
+    <div>
+			<b>Ms Low Sok Hui </b> low.sok.hui@ejc.edu.sg <br>
+			<b>Ms Quek Jia Qi </b> quek.jia.qi@ejc.edu.sg
+			</div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion31">
+    <label for="accordion31">Biology</label>
+    <div>
+			<b>Mr Benjamin Choo</b>benjamin.choo@ejc.edu.sg <br> <b>Mr Chan Ter Yue </b> chan.ter.yue@ejc.edu.sg <br> <b>Ms Emeline Choo </b> emeline.choo@ejc.edu.sg <br> <b>Mr Gabriel Woon </b> gabriel.woon@ejc.edu.sg <br> <b> Ms Lu Huiping </b> lu.huiping@ejc.edu.sg <br> 
+			<b>Ms Ng Siow Ying </b> ng.siow.ying@ejc.edu.sg <br> 
+			<b> Ms Zulaiha Said</b>  zulaiha.said@ejc.edu.sg
+			</div>
+</li>
