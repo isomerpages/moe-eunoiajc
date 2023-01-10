@@ -286,3 +286,14 @@ description: ""
 			<b>Mrs Yew-Tay Li Kim</b>tay.li.kim@ejc.edu.sg
 			</div>
 </li>
+	
+<li>
+    <input type="checkbox" id="accordion33">
+    <label for="accordion33">China Studies in Chinese</label>
+    <div>
+			<b>Mr Cao Jiandong</b>cao.jiandong@ejc.edu.sg<br>
+			<b>Ms Cao Xinxin</b>cao.xinxin@ejc.edu.sg<br>
+			<b>Mdm Pan Qun</b>pan.qun@ejc.edu.sg<br>
+			<b>Mr Sun Xiaojun</b>sun.xiaojun@ejc.edu.sg
+			</div>
+</li>
