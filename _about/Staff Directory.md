@@ -25,3 +25,13 @@ description: ""
     </div>
 
 </li>
+	
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">22-A3</label>
+    <div>
+			<p> <b> Mr Chng Tsu Pang</b> chng.tsu.pang@ejc.edu.sg</p>
+    </div>
+
+</li>
