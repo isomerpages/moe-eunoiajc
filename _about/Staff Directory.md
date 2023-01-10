@@ -448,3 +448,12 @@ description: ""
 			<b> Mr Wong Jia Sheng </b> wong.jia.sheng@ejc.edu.sg
 			</div>
 </li>
+	
+<li>
+    <input type="checkbox" id="accordion44">
+    <label for="accordion44">Music</label>
+    <div>
+			<b> Dr Gooi Tah Choe </b> gooi.tah.choe@ejc.edu.sg <br>
+			<b> Mr Lee Ji Heng </b> lee.ji.heng@ejc.edu.sg
+			</div>
+</li>
