@@ -33,3 +33,17 @@ description: ""
 			</div>
 
 </li>
+	
+	<li>
+
+    <input type="checkbox" id="accordion3">
+
+    <label for="accordion3">22-A3</label>
+
+    <div>
+			
+			<b>Mr Chng Tsu Pang</b> chng.tsu.pang@ejc.edu.sg
+			
+			</div>
+
+</li>
