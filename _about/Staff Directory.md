@@ -79,3 +79,20 @@ description: ""
 			<b>Mrs Uma Thiruselvam</b> uma.thiruselvam@ejc.edu.sg
 			</div>
 </li>
+	
+<li>
+    <input type="checkbox" id="accordion10">
+    <label for="accordion10">22-E4</label>
+    <div>
+			<b>Mrs Ng-Phoon Lai Yong</b> phoon.lai.yong@ejc.edu.sg
+			</div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion11">
+    <label for="accordion11">22-E5</label>
+    <div>
+			<b>Ms Serene Tan</b>serene.tan@ejc.edu.sg <br>
+			<b>Ms Ng Yi Xin</b> ng.yi.xin@ejc.edu.sg
+			</div>
+</li>
