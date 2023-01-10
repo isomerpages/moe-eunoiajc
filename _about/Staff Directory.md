@@ -346,3 +346,29 @@ description: ""
 			<b> Mrs Wee-Chen Jinqi </b> wee.chen.jinqi@ejc.edu.sg
 			</div>
 </li>
+	
+<li>
+    <input type="checkbox" id="accordion37">
+    <label for="accordion37">General Paper</label>
+    <div>
+			<b> Mr Benjamin Chew </b> benjamin.chew@ejc.edu.sg <br> 
+			<b> Ms Cham Bei Qing </b> cham.bei.qing@ejc.edu.sg <br> 
+			<b> Mrs Charlotte Lee </b> charlotte.lee@ejc.edu.sg <br> 
+			<b> Mrs Danielle Low </b> danielle.marie.low@ejc.edu.sg <br> 
+			<b> Mr Darren Chong </b> darren.chong@ejc.edu.sg <br>
+			<b> Mrs Elaine Toh-Tan </b> elaine.toh@ejc.edu.sg <br> 
+			<b> Ms Eleanor Wong </b> eleanor.wong@ejc.edu.sg <br> 
+			<b> Ms Geraldine Wong </b> geraldine.wong@ejc.edu.sg <br>
+			<b> Mr Joshua Ng </b> joshua.ng@ejc.edu.sg <br> 
+			<b> Ms Kajal Kaur Khaira </b> kajal.kaur.khaira@ejc.edu.sg <br> 
+			<b> Ms Karol Ann Tan </b> karol.ann.tan@ejc.edu.sg <br> 
+			<b> Ms Kok Li-en </b> kok.li.en@ejc.edu.sg <br>
+			<b> Ms Heon Mak </b> heon.mak@ejc.edu.sg <br>
+			<b> Mr Perrin Singarayar </b> perrin.singarayar@ejc.edu.sg <br>
+			<b> Ms Priyah Haritheertham </b> priyadharshini@ejc.edu.sg <br> 
+			<b> Ms Renuka Satianathan </b> renuka.satianathan@ejc.edu.sg <br>
+			<b> Mr Samuel Wong </b> samuel.wong@ejc.edu.sg <br>
+			<b> Ms Stephanie Hua </b> stephanie.hua@ejc.edu.sg <br> 
+			<b> Mr Timothy Ng </b> timothy.ng@ejc.edu.sg
+			</div>
+</li>
