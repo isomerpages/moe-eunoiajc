@@ -243,6 +243,7 @@ description: ""
 			<b>Mr Tan Khoon Han</b> tan.khoon.han@ejc.edu.sg
 			</div>
 </li>
+</ul>
 	
 ### Subject Tutors
 	
