@@ -394,3 +394,23 @@ description: ""
 			<b> Mr Mahmood Fahmi Ahamed </b> mahmood.fahmi@ejc.edu.sg
 			</div>
 </li>
+	
+<li>
+    <input type="checkbox" id="accordion40">
+    <label for="accordion40">Knowledge and Inquiry</label>
+    <div>
+			<b> Mr Perrin Singarayar </b> perrin.singarayar@ejc.edu.sg
+			</div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion41">
+    <label for="accordion41">Literature in English</label>
+    <div>
+			<b> Mr Crispin Rodrigues </b> crispin.rodrigues@ejc.edu.sg <br>
+			<b> Dr Edson Ng </b> edson.ng@ejc.edu.sg <br>
+			<b> Mr Marc Kenji Lim </b> marc.kenji.lim@ejc.edu.sg <br>
+			<b> Ms Ng Hui Qi </b> ng.hui.qi@ejc.edu.sg <br>
+			<b> Ms Sandra Chan </b> sandra.chan@ejc.edu.sg
+			</div>
+</li>
