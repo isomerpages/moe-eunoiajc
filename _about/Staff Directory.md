@@ -11,7 +11,10 @@ description: ""
     <label for="accordion1">22-A1</label>
     <div>
 			<p> <b> Mr Sun Xiaojun </b> sun.xiaojun@ejc.edu.sg<br>
-				
+				</div>
+</li>
+	<li>
+		
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion2">
