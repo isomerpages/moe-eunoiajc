@@ -15,4 +15,4 @@ description: ""
 
     <div>
 
-			<p> <b> **Mr Sun Xiaojun**   [sun.xiaojun@ejc.edu.sg](mailto:sun.xiaojun@ejc.edu.sg) </b><br>
+			<p> <b> Mr Sun Xiaojun [sun.xiaojun@ejc.edu.sg](mailto:sun.xiaojun@ejc.edu.sg) </b><br>
