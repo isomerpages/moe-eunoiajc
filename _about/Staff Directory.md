@@ -38,3 +38,35 @@ description: ""
 			<b>Mr Lim Teck Seng </b> lim.teck.seng@ejc.edu.sg
 			</div>
 </li>
+	
+<li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">22-A5</label>
+    <div>
+			<b>Mrs Charlotte Lee </b> charlotte.lee@ejc.edu.sg
+			</div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">22-A6</label>
+    <div>
+			<b>Ms Lim Yen Chui </b> lim.yen.chui@ejc.edu.sg
+			</div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">22-E1</label>
+    <div>
+			<b>Ms Quek Jia Qi </b> quek.jia.qi@ejc.edu.sg
+			</div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8">22-E2</label>
+    <div>
+			<b>Mr Ng Boon Hong</b>ng.boon.hong@ejc.edu.sg <br> <b>Mr Kelvin Teo </b> kelvin.teo@ejc.edu.sg
+			</div>
+</li>
