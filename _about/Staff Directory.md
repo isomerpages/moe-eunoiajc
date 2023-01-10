@@ -203,3 +203,27 @@ description: ""
 			<b>Mrs Chin-Tan Wei Lin</b>tan.wei.lin@ejc.edu.sg
 			</div>
 </li>
+	
+<li>
+    <input type="checkbox" id="accordion25">
+    <label for="accordion25">22-U1</label>
+    <div>
+			<b>Ms Elena Tan</b>elena.tan@ejc.edu.sg
+			</div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion26">
+    <label for="accordion26">22-U2</label>
+    <div>
+			<b>Ms Emeline Choo</b> emeline.choo@ejc.edu.sg
+			</div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion27">
+    <label for="accordion27">22-U3</label>
+    <div>
+			<b>Mr Chen Jinquan </b>chen.jinquan@ejc.edu.sg
+			</div>
+</li>
