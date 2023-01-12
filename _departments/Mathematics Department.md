@@ -84,3 +84,24 @@ Teacher (Mathematics)
 </div>	
 [Mr Chu Wee Yong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mr-chu-wee-yong/) <Br>
 Teacher (Mathematics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Maths-Chua-Jian-Rong_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Chua Jian Rong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mr-chua-jian-rong/) <br>
+Teacher (Mathematics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Maths-Clarice-Chan_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Clarice Chan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/ms-clarice-chan/)
+<br>
+Teacher (Mathematics)
