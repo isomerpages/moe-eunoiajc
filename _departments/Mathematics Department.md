@@ -54,3 +54,14 @@ Senior Teacher (Mathematics)
 [Mr Alex Teo](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mr-alex-teo/)
 <br>
 Teacher (Mathematics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Maths-Chen-Jinquan_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Chen Jinquan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mr-chen-jinquan/)
+<br>
+Teacher (Mathematics)
