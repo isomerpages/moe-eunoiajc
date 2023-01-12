@@ -506,3 +506,12 @@ description: ""
 			<b> Ms Zulaiha Said </b> zulaiha.said@ejc.edu.sg
 			</div>
 </li>
+	
+<li>
+    <input type="checkbox" id="accordion48">
+    <label for="accordion48">Tamil Language / Tamil Language and Literature</label>
+    <div>
+			<b> Mdm Elavarasi Sundararaju </b> ela.sundararaju@ejc.edu.sg <br> 
+			<b> Mrs Uma Thiruselvam </b> uma.thiruselvam@ejc.edu.sg 
+			</div>
+</li>
