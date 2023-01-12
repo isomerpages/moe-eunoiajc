@@ -56,3 +56,5 @@ Ang Mo Kio and Yio Chu Kang residents can board services [74](https://www.trans
 Commuters travelling from Punggol, Serangoon and Upper Serangoon may board [74](https://www.transitlink.com.sg/eservice/eguide/service_route.php?service=74) and [88](https://www.transitlink.com.sg/eservice/eguide/service_route.php?service=88). Bus service [88](https://www.transitlink.com.sg/eservice/eguide/service_route.php?service=88) also plies the Pasir Ris estate. Bus service [13](https://www.transitlink.com.sg/eservice/eguide/service_route.php?service=851) plies Upper East Coast, Marine Parade, Aljunied and Upper Serangoon estates before reaching the college.
 
 Bus service [851](https://www.transitlink.com.sg/eservice/eguide/service_route.php?service=851) plies Yishun, Ang Mo Kio, Thomson, Shunfu and Tiong Bahru estates, while service [852](https://www.transitlink.com.sg/eservice/eguide/service_route.php?service=852) provides access from Yishun, Ang Mo Kio, Bukit Timah and Bukit Batok.
+
+</insert map>
