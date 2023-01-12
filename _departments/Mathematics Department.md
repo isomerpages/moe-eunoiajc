@@ -157,3 +157,14 @@ Teacher (Mathematics)
 [Ms Ng Yixin](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/ms-ng-yixin/)
 <br>
 Teacher (Mathematics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Maths-Ng-Phoon-Lai-Yong_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mrs Ng-Phoon Lai Yong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mrs-ng-phoon-lai-yong/)
+<br>
+Teacher (Mathematics)
