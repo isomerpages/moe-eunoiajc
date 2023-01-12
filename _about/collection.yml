@@ -2,7 +2,6 @@ collections:
   about:
     output: true
     order:
-      - Campus.md
       - Principal's Message.md
       - College Ethos.md
       - College Identity.md
@@ -10,3 +9,4 @@ collections:
       - College Partners.md
       - College Staff.md
       - Staff Directory.md
+      - Campus.md
