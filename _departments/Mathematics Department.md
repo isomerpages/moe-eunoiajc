@@ -105,3 +105,13 @@ Teacher (Mathematics)
 [Ms Clarice Chan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/ms-clarice-chan/)
 <br>
 Teacher (Mathematics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Kuang-Kim-Chun_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Kuang Kim Chun](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mr-kuang-kim-chun/) <br>
+Teacher (Mathematics)
