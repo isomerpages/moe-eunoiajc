@@ -453,8 +453,7 @@ description: ""
     <input type="checkbox" id="accordion44">
     <label for="accordion44">Music</label>
     <div>
-			<b> Dr Gooi Tah Choe </b> gooi.tah.choe@ejc.edu.sg <br>
-			<b> Mr Lee Ji Heng </b> lee.ji.heng@ejc.edu.sg
+			<b> Dr Gooi Tah Choe </b> gooi.tah.choe@ejc.edu.sg <br> <b> Mr Lee Ji Heng </b> lee.ji.heng@ejc.edu.sg
 			</div>
 </li>
 	
@@ -507,4 +506,3 @@ description: ""
 			<b> Ms Zulaiha Said </b> zulaiha.said@ejc.edu.sg
 			</div>
 </li>
-	
