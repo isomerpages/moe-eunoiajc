@@ -126,3 +126,13 @@ Teacher (Mathematics)
 [Mr Lee Boon Ann](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mr-lee-boon-ann/)
 <br>
 Teacher (Mathematics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Maths-Lee-Ngern-Sim_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Lee Ngern Sim](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/ms-lee-ngern-sim/) <br>
+Teacher (Mathematics)
