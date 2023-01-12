@@ -115,3 +115,14 @@ Teacher (Mathematics)
 </div>	
 [Mr Kuang Kim Chun](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mr-kuang-kim-chun/) <br>
 Teacher (Mathematics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Maths-Lee-Boon-Ann_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Lee Boon Ann](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mr-lee-boon-ann/)
+<br>
+Teacher (Mathematics)
