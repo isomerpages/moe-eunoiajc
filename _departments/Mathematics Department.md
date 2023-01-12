@@ -63,5 +63,24 @@ Teacher (Mathematics)
 <div></div>  
 </div>	
 [Mr Chen Jinquan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mr-chen-jinquan/)
-<br>
+<br> Teacher (Mathematics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Maths-Chng-Xian-Yi_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Chng Xian Yi](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mr-chng-xian-yi/)
+<br> Teacher (Mathematics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Maths-Chu-Wee-Yong_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Chu Wee Yong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mr-chu-wee-yong/) <Br>
 Teacher (Mathematics)
