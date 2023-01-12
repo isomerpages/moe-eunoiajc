@@ -515,3 +515,13 @@ description: ""
 			<b> Mrs Uma Thiruselvam </b> uma.thiruselvam@ejc.edu.sg 
 			</div>
 </li>
+	
+<li>
+    <input type="checkbox" id="accordion49">
+    <label for="accordion49">Translation (Chinese)</label>
+    <div>
+			<b> Mr Chng Tsu Pang </b> chng.tsu.pang@ejc.edu.sg <br> 
+			<b> Mdm Ng Lai Sze </b> ng.lai.sze@ejc.edu.sg <br> 
+			<b> Ms Yang Shu Hung </b> yang.shu.hung@ejc.edu.sg
+			</div>
+</li>
