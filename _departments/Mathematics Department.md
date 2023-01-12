@@ -22,3 +22,14 @@ HOD (Mathematics)
 </div>	
 [Mr Barry Chia](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mr-barry-chia/) <br>
 Deputy Head (Mathematics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Maths-Lim-Yin_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Lim Yin](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mr-lim-yin/)
+<br>
+Deputy Head (Mathematics)
