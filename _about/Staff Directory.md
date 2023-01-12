@@ -473,3 +473,38 @@ description: ""
 			<b> Mr Trevor Tay </b> trevor.tay@ejc.edu.sg
 			</div>
 </li>
+	
+<li>
+    <input type="checkbox" id="accordion46">
+    <label for="accordion46">Physics</label>
+    <div>
+			<b> Mr Allen Lee </b> allen.lee@ejc.edu.sg <br>
+			<b> Mr Bryan Chan </b> bryan.chan@ejc.edu.sg <br>
+			<b> Mr Charles Cheak </b> charles.cheak@ejc.edu.sg <br>
+			<b> Mr George Danapal </b> george.danapal@ejc.edu.sg <br>
+			<b> Ms Anna Loh Kai Suan </b> loh.kai.suan@ejc.edu.sg <br>
+			<b> Ms Karine Teo </b> karine.teo@ejc.edu.sg <br>
+			<b> Mr Ng Boon Hong </b> ng.boon.hong@ejc.edu.sg <br>
+			<b> Mr Ng Jun Kiat </b> ng.jun.kiat@ejc.edu.sg <br> 
+			<b> Mr Trevor Tay </b> trevor.tay@ejc.edu.sg
+			</div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion47">
+    <label for="accordion47">Project Work</label>
+    <div>
+			<b> Ms Adrienne de Souza </b> adrienne.de.souza@ejc.edu.sg <br> 
+			<b> Mr Daniel Kwan </b> daniel.kwan@ejc.edu.sg <br>
+			<b> Ms Elaine Lim </b> elaine.lim@ejc.edu.sg <br>
+			<b> Mrs Joanne Lee </b> joanne.lee@ejc.edu.sg <br>
+			<b> Ms Iris Lee </b> iris.lee@ejc.edu.sg <br> 
+			<b> Ms Ng Lee Siah </b> ng.lee.siah@ejc.edu.sg <br>
+			<b> Mr Omar Basri Sulaimir </b> omar.basri.sulaimir@ejc.edu.sg <br>
+			<b> Ms Nadira Mohamed Sedik </b> nadira.md.sedik@ejc.edu.sg <br>
+			<b> Ms Rachel Yau </b> rachel.yau@ejc.edu.sg <br>
+			<b> Ms Vivien Ng </b> vivien.ng@ejc.edu.sg <br> 
+			<b> Ms Zulaiha Said </b> zulaiha.said@ejc.edu.sg
+			</div>
+</li>
+	
