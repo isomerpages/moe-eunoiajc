@@ -168,3 +168,34 @@ Teacher (Mathematics)
 [Mrs Ng-Phoon Lai Yong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mrs-ng-phoon-lai-yong/)
 <br>
 Teacher (Mathematics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Maths-Tan-Khoon-Han_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Tan Khoon Han](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mr-tan-khoon-han/) <br>
+Teacher (Mathematics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Maths-Wong-Jia-Sheng_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Wong Jia Sheng](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mr-wong-jia-sheng/) <br>
+Teacher (Mathematics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Maths-Berner-Poh_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+Mr Berner Poh
+<br>
+Teacher (Mathematics)
