@@ -146,3 +146,14 @@ Teacher (Mathematics)
 </div>	
 [Ms Lim Yen Chui](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/ms-lim-yen-chui/) <br>
 Teacher (Mathematics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Maths-Ng-Yixin_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Ng Yixin](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/ms-ng-yixin/)
+<br>
+Teacher (Mathematics)
