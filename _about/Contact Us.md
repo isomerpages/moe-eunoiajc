@@ -62,3 +62,4 @@ There are four gates leading to our Bishan campus.
 | **North Gate** | 7am - 9pm | Side gate linked to Bishan - AMK Park | 
 | | |
 
+![](/images/Bishan-Location.png)
