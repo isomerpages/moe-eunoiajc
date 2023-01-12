@@ -136,3 +136,13 @@ Teacher (Mathematics)
 </div>	
 [Ms Lee Ngern Sim](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/ms-lee-ngern-sim/) <br>
 Teacher (Mathematics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Maths-Lim-Yen-Chui_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Lim Yen Chui](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/ms-lim-yen-chui/) <br>
+Teacher (Mathematics)
