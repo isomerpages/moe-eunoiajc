@@ -2,8 +2,8 @@ collections:
   mathematics-department:
     output: true
     order:
-      - Mr Chen Jinquan.md
       - Mr Alvin Toh.md
       - Mr Barry Chia.md
       - Mrs Tcheau Seow Hong.md
       - Mr Alex Teo.md
+      - Mr Chen Jinquan.md
