@@ -2,7 +2,6 @@ collections:
   mathematics-department:
     output: true
     order:
-      - Ms Clarice Chan.md
       - Mr Alvin Toh.md
       - Mr Barry Chia.md
       - Mrs Tcheau Seow Hong.md
@@ -11,3 +10,4 @@ collections:
       - Mr Chng Xian Yi.md
       - Mr Chu Wee Yong.md
       - Mr Chua Jian Rong.md
+      - Ms Clarice Chan.md
