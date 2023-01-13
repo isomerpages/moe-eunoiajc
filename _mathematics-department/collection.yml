@@ -2,7 +2,6 @@ collections:
   mathematics-department:
     output: true
     order:
-      - Ms Lim Yen Chui.md
       - Mr Alvin Toh.md
       - Mr Barry Chia.md
       - Mrs Tcheau Seow Hong.md
@@ -15,3 +14,4 @@ collections:
       - Mr Kuang Kim Chun.md
       - Mr Lee Boon Ann.md
       - Ms Lee Ngern Sim.md
+      - Ms Lim Yen Chui.md
