@@ -2,7 +2,6 @@ collections:
   mathematics-department:
     output: true
     order:
-      - Mrs Ng Phoon Lai Yong.md
       - Mr Alvin Toh.md
       - Mr Barry Chia.md
       - Mrs Tcheau Seow Hong.md
@@ -18,3 +17,4 @@ collections:
       - Ms Lim Yen Chui.md
       - Mr Lim Yin.md
       - Ms Ng Yixin.md
+      - Mrs Ng Phoon Lai Yong.md
