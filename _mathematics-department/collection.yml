@@ -2,7 +2,6 @@ collections:
   mathematics-department:
     output: true
     order:
-      - Mr Wong Jia Sheng.md
       - Mr Alvin Toh.md
       - Mr Barry Chia.md
       - Mrs Tcheau Seow Hong.md
@@ -20,3 +19,4 @@ collections:
       - Ms Ng Yixin.md
       - Mrs Ng Phoon Lai Yong.md
       - Mr Tan Khoon Han.md
+      - Mr Wong Jia Sheng.md
