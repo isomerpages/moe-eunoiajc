@@ -2,7 +2,6 @@ collections:
   mathematics-department:
     output: true
     order:
-      - Mr Tan Khoon Han.md
       - Mr Alvin Toh.md
       - Mr Barry Chia.md
       - Mrs Tcheau Seow Hong.md
@@ -19,3 +18,4 @@ collections:
       - Mr Lim Yin.md
       - Ms Ng Yixin.md
       - Mrs Ng Phoon Lai Yong.md
+      - Mr Tan Khoon Han.md
