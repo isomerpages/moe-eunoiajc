@@ -2,7 +2,6 @@ collections:
   mathematics-department:
     output: true
     order:
-      - Ms Lee Ngern Sim.md
       - Mr Alvin Toh.md
       - Mr Barry Chia.md
       - Mrs Tcheau Seow Hong.md
@@ -14,3 +13,4 @@ collections:
       - Mr Chua Jian Rong.md
       - Mr Kuang Kim Chun.md
       - Mr Lee Boon Ann.md
+      - Ms Lee Ngern Sim.md
