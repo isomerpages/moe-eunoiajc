@@ -2,6 +2,6 @@ collections:
   mathematics-department:
     output: true
     order:
-      - Mrs Tcheau Seow Hong.md
       - Mr Alvin Toh.md
       - Mr Barry Chia.md
+      - Mrs Tcheau Seow Hong.md
