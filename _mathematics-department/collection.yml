@@ -2,5 +2,5 @@ collections:
   mathematics-department:
     output: true
     order:
-      - Mr Barry Chia.md
       - Mr Alvin Toh.md
+      - Mr Barry Chia.md
