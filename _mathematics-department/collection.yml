@@ -2,8 +2,6 @@ collections:
   mathematics-department:
     output: true
     order:
-      - Mr Lee Boon Ann.md
-      - Mr Kuang Kim Chun.md
       - Mr Alvin Toh.md
       - Mr Barry Chia.md
       - Mrs Tcheau Seow Hong.md
@@ -13,3 +11,5 @@ collections:
       - Mr Chu Wee Yong.md
       - Ms Clarice Chan.md
       - Mr Chua Jian Rong.md
+      - Mr Kuang Kim Chun.md
+      - Mr Lee Boon Ann.md
