@@ -47,6 +47,13 @@ HOD (Character & Citizenship Education)
 <br>
 Deputy Head (Biology)
 
-### [![staff-profile_s](https://eunoiajc.moe.edu.sg/wp-content/uploads/2021/01/Sci-Chan-Kim-Seng_s.jpg)Dr Chan Kim Seng](https://eunoiajc.moe.edu.sg/about/staff/science/dr-chan-kim-seng/)
-
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Chan-Kim-Seng_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Dr Chan Kim Seng](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/dr-chan-kim-seng/)
+<br>
 Deputy Head (Chemistry)
