@@ -442,7 +442,7 @@ description: ""
 			<b> Ms Lim Yen Chui </b> lim.yen.chui@ejc.edu.sg <br>
 			<b> Mr Lim Yin </b> lim.yin@ejc.edu.sg <br> 
 			<b> Ms Ng Yixin </b> ng.yixin@ejc.edu.sg <br>
-			<b> Mrs Ng-Phoon Lai Yong </b>  phoon.lai.yong@ejc.edu.sg <b>
+			<b> Mrs Ng-Phoon Lai Yong </b>  phoon.lai.yong@ejc.edu.sg <br>
 			<b> Mr Tan Khoon Han </b> tan.khoon.han@ejc.edu.sg <br> 
 			<b> Mrs Tcheau Seow Hong </b> tcheau.seow.hong@ejc.edu.sg <br> 
 			<b> Mr Wong Jia Sheng </b> wong.jia.sheng@ejc.edu.sg
