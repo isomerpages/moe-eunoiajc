@@ -14,8 +14,7 @@ description: ""
 			<b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg
 </div>
 </li>
-	
-	<li>
+<li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">22-A2</label>
     <div>
