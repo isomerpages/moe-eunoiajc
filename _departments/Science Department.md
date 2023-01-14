@@ -123,3 +123,45 @@ Deputy Head (IME)
 [Mr Gabriel Woon](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-gabriel-woon/)
 <br>
 Deputy Head (Student Well-being)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Jacintha-Huang_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Ms Jacintha Huang](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-jacintha-huang/)
+<br>
+Deputy Head (Careers, Scholarships & Higher Education)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Suellen-Goh_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Ms Suellen Goh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-suellen-goh/)
+<br>
+Deputy Head (Character & Citizenship Education)
+
+### [![staff-profile_s](https://eunoiajc.moe.edu.sg/wp-content/uploads/2022/01/Sci-Zulaiha-Said_s.jpg)Ms Zulaiha Said](https://eunoiajc.moe.edu.sg/about/staff/science/ms-zulaiha-said/)
+
+Deputy Head (Student Engagement)
+
+### [![staff-profile](https://eunoiajc.moe.edu.sg/wp-content/uploads/2016/08/Sci-Chan-Ter-Yue_s.jpg)](https://eunoiajc.moe.edu.sg/about/staff/science/mr-chan-ter-yue/)
+
+### [**Mr Chan Ter Yue**](https://eunoiajc.moe.edu.sg/about/staff/science/mr-chan-ter-yue/)
+
+Senior Teacher (Biology)
+
+### [![staff-profile_s](https://eunoiajc.moe.edu.sg/wp-content/uploads/2016/08/Sci-Christopher-Tan_s.jpg)Mr Christopher Tan](https://eunoiajc.moe.edu.sg/about/staff/science/mr-christopher-tan/)
+
+Senior Teacher (Chemistry)
+
+### [![staff-profile](https://eunoiajc.moe.edu.sg/wp-content/uploads/2016/08/Sci-Felix-Lim_s.jpg)](https://eunoiajc.moe.edu.sg/about/staff/science/mr-felix-lim/)
+
+### [**Mr Felix Lim**](https://eunoiajc.moe.edu.sg/about/staff/science/mr-felix-lim/)
+
+Senior Teacher (Physics)
