@@ -80,18 +80,46 @@ Deputy Head (Chemistry)
 <br>
 Deputy Head (Physics & Curriculum Innovation)
 
-### [![Sci-Soh-Yong-Li_s](https://eunoiajc.moe.edu.sg/wp-content/uploads/2016/08/Sci-Soh-Yong-Li_s-1.jpg)](https://eunoiajc.moe.edu.sg/about/staff/science/mr-soh-yong-li-robin/)[Mr Robin Soh](https://eunoiajc.moe.edu.sg/about/staff/science/mr-soh-yong-li-robin/)
-
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Soh-Yong-Li_s-1.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Mr Robin Soh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-soh-yong-li-robin/)
+<br>
 Deputy Head (Physics)
 
-### [![staff-profile_s](https://eunoiajc.moe.edu.sg/wp-content/uploads/2016/08/Sci-Diana-Ma_s.jpg)Ms Diana Ma](https://eunoiajc.moe.edu.sg/about/staff/science/ms-diana-ma/)
-
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Diana-Ma_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Ms Diana Ma](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-diana-ma/)
+<br>
 Deputy Head (IME)
 
-### [![staff-profile_s](https://eunoiajc.moe.edu.sg/wp-content/uploads/2019/01/Sci-Enoch-Tang_s.jpg)](https://eunoiajc.moe.edu.sg/about/staff/science/mr-enoch-tang/)[Mr Enoch Tang](https://eunoiajc.moe.edu.sg/about/staff/science/mr-enoch-tang/)
-
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Enoch-Tang_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Mr Enoch Tang](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-enoch-tang/)
+<br>
 Deputy Head (IME)
 
-### [![staff-profile_s](https://eunoiajc.moe.edu.sg/wp-content/uploads/2019/04/Sci-Gabriel-Woon_s.jpg)Mr Gabriel Woon](https://eunoiajc.moe.edu.sg/about/staff/science/mr-gabriel-woon/)
-
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Gabriel-Woon_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Mr Gabriel Woon](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-gabriel-woon/)
+<br>
 Deputy Head (Student Well-being)
