@@ -57,3 +57,14 @@ Deputy Head (Biology)
 [Dr Chan Kim Seng](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/dr-chan-kim-seng/)
 <br>
 Deputy Head (Chemistry)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Tan-Lingmin_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mdm Tan Lingmin](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mdm-tan-lingmin/)
+<br>
+Deputy Head (Chemistry)
