@@ -43,7 +43,7 @@ HOD (Character & Citizenship Education)
 </div>  
 <div></div>  
 </div>	
-[Mr Benjamin Choo](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-benjamin-choo/)  
+[Mr Benjamin Choo](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-benjamin-choo/) 
 <br>
 Deputy Head (Biology)
 
