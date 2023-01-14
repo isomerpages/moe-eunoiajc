@@ -200,3 +200,25 @@ Senior Teacher (Physics)
 [Ms Emeline Choo](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-emeline-choo/)
 <br>
 Teacher (Biology)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Lu-Huiping-s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Ms Lu Huiping](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-lu-huiping/)
+<br>
+Teacher (Biology)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Ng-Siow-Ying_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Ms Ng Siow Ying](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-ng-siow-ying/)
+<br>
+Teacher (Biology)
