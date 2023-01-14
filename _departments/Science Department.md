@@ -36,13 +36,15 @@ HOD (ICT&IME)
 <br>
 HOD (Character & Citizenship Education)
 
-
-
-### [![staff-profile](https://eunoiajc.moe.edu.sg/wp-content/uploads/2020/07/Sci-Benjamin-Choo_s.jpg)](https://eunoiajc.moe.edu.sg/about/staff/science/mr-benjamin-choo/)
-
-### **[Mr Benjamin Choo](https://eunoiajc.moe.edu.sg/about/staff/science/mr-benjamin-choo/)  
-**
-
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Benjamin-Choo_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Benjamin Choo](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-benjamin-choo/)  
+<br>
 Deputy Head (Biology)
 
 ### [![staff-profile_s](https://eunoiajc.moe.edu.sg/wp-content/uploads/2021/01/Sci-Chan-Kim-Seng_s.jpg)Dr Chan Kim Seng](https://eunoiajc.moe.edu.sg/about/staff/science/dr-chan-kim-seng/)
