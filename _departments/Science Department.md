@@ -244,3 +244,14 @@ Teacher (Chemistry)
 [Ms Chia Xin Hui](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-chia-xin-hui/)
 <br>
 Teacher (Chemistry)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Justin_s2.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Mr Justin Lim](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-justin-lim/)
+<br>
+Teacher (Chemistry)
