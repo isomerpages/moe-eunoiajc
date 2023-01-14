@@ -146,22 +146,46 @@ Deputy Head (Careers, Scholarships & Higher Education)
 <br>
 Deputy Head (Character & Citizenship Education)
 
-### [![staff-profile_s](https://eunoiajc.moe.edu.sg/wp-content/uploads/2022/01/Sci-Zulaiha-Said_s.jpg)Ms Zulaiha Said](https://eunoiajc.moe.edu.sg/about/staff/science/ms-zulaiha-said/)
-
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Zulaiha-Said_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Ms Zulaiha Said](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-zulaiha-said/)
+<br>
 Deputy Head (Student Engagement)
 
-### [![staff-profile](https://eunoiajc.moe.edu.sg/wp-content/uploads/2016/08/Sci-Chan-Ter-Yue_s.jpg)](https://eunoiajc.moe.edu.sg/about/staff/science/mr-chan-ter-yue/)
-
-### [**Mr Chan Ter Yue**](https://eunoiajc.moe.edu.sg/about/staff/science/mr-chan-ter-yue/)
-
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Chan-Ter-Yue_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Mr Chan Ter Yue](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-chan-ter-yue/)
+<br>
 Senior Teacher (Biology)
 
-### [![staff-profile_s](https://eunoiajc.moe.edu.sg/wp-content/uploads/2016/08/Sci-Christopher-Tan_s.jpg)Mr Christopher Tan](https://eunoiajc.moe.edu.sg/about/staff/science/mr-christopher-tan/)
-
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Christopher-Tan_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Mr Christopher Tan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-christopher-tan/)
+<br>
 Senior Teacher (Chemistry)
 
-### [![staff-profile](https://eunoiajc.moe.edu.sg/wp-content/uploads/2016/08/Sci-Felix-Lim_s.jpg)](https://eunoiajc.moe.edu.sg/about/staff/science/mr-felix-lim/)
-
-### [**Mr Felix Lim**](https://eunoiajc.moe.edu.sg/about/staff/science/mr-felix-lim/)
-
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Felix-Lim_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Mr Felix Lim](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-felix-lim/)
+<br>
 Senior Teacher (Physics)
