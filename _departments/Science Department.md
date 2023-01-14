@@ -222,3 +222,14 @@ Teacher (Biology)
 [Ms Ng Siow Ying](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-ng-siow-ying/)
 <br>
 Teacher (Biology)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Chan-Xin-Yu-s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Ms Chan Xin Yu](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-chan-xin-yu/)
+<br>
+Teacher (Chemistry)
