@@ -13,3 +13,38 @@ description: ""
 [Dr Chok Yew Keong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/dr-chok-yew-keong/)
 <br>
 HOD (Science)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Koh-Siong-Yang_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Koh Siong Yang](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-koh-siong-yang/)
+<Br>
+HOD (ICT&IME)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Tan-Fangxi_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Tan Fangxi](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-tan-fangxi/)
+<br>
+HOD (Character & Citizenship Education)
+
+
+
+### [![staff-profile](https://eunoiajc.moe.edu.sg/wp-content/uploads/2020/07/Sci-Benjamin-Choo_s.jpg)](https://eunoiajc.moe.edu.sg/about/staff/science/mr-benjamin-choo/)
+
+### **[Mr Benjamin Choo](https://eunoiajc.moe.edu.sg/about/staff/science/mr-benjamin-choo/)  
+**
+
+Deputy Head (Biology)
+
+### [![staff-profile_s](https://eunoiajc.moe.edu.sg/wp-content/uploads/2021/01/Sci-Chan-Kim-Seng_s.jpg)Dr Chan Kim Seng](https://eunoiajc.moe.edu.sg/about/staff/science/dr-chan-kim-seng/)
+
+Deputy Head (Chemistry)
