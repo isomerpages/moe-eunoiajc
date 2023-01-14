@@ -233,3 +233,14 @@ Teacher (Biology)
 [Ms Chan Xin Yu](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-chan-xin-yu/)
 <br>
 Teacher (Chemistry)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Chia-Xin-Hui_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Ms Chia Xin Hui](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-chia-xin-hui/)
+<br>
+Teacher (Chemistry)
