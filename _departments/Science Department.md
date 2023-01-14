@@ -189,3 +189,14 @@ Senior Teacher (Chemistry)
 [Mr Felix Lim](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-felix-lim/)
 <br>
 Senior Teacher (Physics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Emeline-Choo_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Ms Emeline Choo](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-emeline-choo/)
+<br>
+Teacher (Biology)
