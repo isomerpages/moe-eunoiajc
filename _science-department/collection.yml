@@ -2,7 +2,6 @@ collections:
   science-department:
     output: true
     order:
-      - Ms Suellen Goh.md
       - Dr Chok Yew Keong.md
       - Mr Koh Siong Yang.md
       - Ms Tan Fangxi.md
@@ -15,3 +14,4 @@ collections:
       - Ms Diana Ma.md
       - Mr Enoch Tang.md
       - Ms Jacintha Huang.md
+      - Ms Suellen Goh.md
