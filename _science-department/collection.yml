@@ -2,7 +2,6 @@ collections:
   science-department:
     output: true
     order:
-      - Mr Enoch Tang.md
       - Dr Chok Yew Keong.md
       - Mr Koh Siong Yang.md
       - Ms Tan Fangxi.md
@@ -13,3 +12,4 @@ collections:
       - Mr Robin Soh.md
       - Mr Gabriel Woon.md
       - Ms Diana Ma.md
+      - Mr Enoch Tang.md
