@@ -2,4 +2,5 @@ collections:
   science-department:
     output: true
     order:
+      - Mr Koh Siong Yang.md
       - Dr Chok Yew Keong.md
