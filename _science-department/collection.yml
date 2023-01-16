@@ -2,7 +2,6 @@ collections:
   science-department:
     output: true
     order:
-      - Ms Jacintha Huang.md
       - Dr Chok Yew Keong.md
       - Mr Koh Siong Yang.md
       - Ms Tan Fangxi.md
@@ -14,3 +13,4 @@ collections:
       - Mr Gabriel Woon.md
       - Ms Diana Ma.md
       - Mr Enoch Tang.md
+      - Ms Jacintha Huang.md
