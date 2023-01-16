@@ -255,3 +255,69 @@ Teacher (Chemistry)
 [Mr Justin Lim](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-justin-lim/)
 <br>
 Teacher (Chemistry)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Liu-Shuyu_s-1.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Mdm Liu Shuyu](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mdm-liu-shuyu/)
+<br>
+Teacher (Chemistry)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff-Profile_s%20(2).png" 
+    style="width:100%">
+</div>  
+<div></div>  
+</div>
+Mr Luke Lau
+<br>
+Teacher (Chemistry)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Ong-Wee-Yong_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Mr Ong Wee Yong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-ong-wee-yong/)
+<br>
+Teacher (Chemistry)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Tay-Li-Kim_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Mrs Yew-Tay Li Kim](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mrs-yew-li-kim/)
+<br>
+Teacher (Chemistry)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Chin-Tan-Wei-Lin_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Mrs Chin-Tan Wei Lin](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mrs-chin-tan-wei-lin/)
+<br>
+Teacher (Physics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Claudia-Tan_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Ms Claudia Tan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-claudia-tan/)
+<br>
+Teacher (Physics)
