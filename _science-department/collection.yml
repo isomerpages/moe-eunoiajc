@@ -2,9 +2,9 @@ collections:
   science-department:
     output: true
     order:
-      - Mdm Tan Lingmin.md
       - Dr Chok Yew Keong.md
       - Mr Koh Siong Yang.md
       - Ms Tan Fangxi.md
       - Mr Benjamin Choo.md
       - Dr Chan Kim Seng.md
+      - Mdm Tan Lingmin.md
