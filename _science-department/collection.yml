@@ -1,0 +1,4 @@
+collections:
+  science-department:
+    output: true
+    order: []
