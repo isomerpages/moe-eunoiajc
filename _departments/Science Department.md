@@ -332,3 +332,58 @@ Teacher (Physics)
 [Mr Ho Hon Wing](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-ho-hon-wing/)
 <br>
 Teacher (Physics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Lim-Teck-Seng-s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Mr Lim Teck Seng](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-lim-teck-seng/)
+<br>
+Teacher (Physics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Ong-Eng-Yee-Wen_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+Mrs Ong-Eng Yee Wen
+<br>
+Teacher (Physics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Rizal_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Mr Rizal Abu Bakar](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-rizal-abu-bakar/)
+<br>
+Teacher (Physics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Tan-Zheng-Yong_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Mr Tan Zhen Yong Keith](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-tan-zhen-yong/)
+<br>
+Teacher (Physics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Wang-Guangquan-s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Dr Wang Guangquan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/dr-wang-guangquan/)
+<br>
+Teacher (Physics)
