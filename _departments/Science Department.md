@@ -321,3 +321,14 @@ Teacher (Physics)
 [Ms Claudia Tan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-claudia-tan/)
 <br>
 Teacher (Physics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Ho-Hon-Wing_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Mr Ho Hon Wing](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-ho-hon-wing/)
+<br>
+Teacher (Physics)
