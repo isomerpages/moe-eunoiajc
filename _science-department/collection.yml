@@ -2,6 +2,6 @@ collections:
   science-department:
     output: true
     order:
-      - Ms Tan Fangxi.md
       - Dr Chok Yew Keong.md
       - Mr Koh Siong Yang.md
+      - Ms Tan Fangxi.md
