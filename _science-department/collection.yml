@@ -2,7 +2,6 @@ collections:
   science-department:
     output: true
     order:
-      - Mr Gabriel Woon.md
       - Dr Chok Yew Keong.md
       - Mr Koh Siong Yang.md
       - Ms Tan Fangxi.md
@@ -11,3 +10,4 @@ collections:
       - Mdm Tan Lingmin.md
       - Mr Ngiam Song Wee.md
       - Mr Robin Soh.md
+      - Mr Gabriel Woon.md
