@@ -2,10 +2,10 @@ collections:
   science-department:
     output: true
     order:
-      - Mr Ngiam Song Wee.md
       - Dr Chok Yew Keong.md
       - Mr Koh Siong Yang.md
       - Ms Tan Fangxi.md
       - Mr Benjamin Choo.md
       - Dr Chan Kim Seng.md
       - Mdm Tan Lingmin.md
+      - Mr Ngiam Song Wee.md
