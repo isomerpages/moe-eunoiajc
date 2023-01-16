@@ -2,7 +2,6 @@ collections:
   science-department:
     output: true
     order:
-      - Ms Diana Ma.md
       - Dr Chok Yew Keong.md
       - Mr Koh Siong Yang.md
       - Ms Tan Fangxi.md
@@ -12,3 +11,4 @@ collections:
       - Mr Ngiam Song Wee.md
       - Mr Robin Soh.md
       - Mr Gabriel Woon.md
+      - Ms Diana Ma.md
