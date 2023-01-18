@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Student Development Team.md
       - English Department.md
       - Project Work Department.md
       - MTL Department.md
@@ -11,3 +10,4 @@ collections:
       - Mathematics Department.md
       - Science Department.md
       - PE & CCA Department.md
+      - Student Development Team.md
