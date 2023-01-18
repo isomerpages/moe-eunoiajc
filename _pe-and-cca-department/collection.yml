@@ -2,8 +2,8 @@ collections:
   pe-and-cca-department:
     output: true
     order:
-      - Ms Anna Loh Kai Suan.md
       - Mr Charles Cheak.md
       - Mr George Danapal.md
       - Ms Karine Teo.md
       - Mr Allen Lee.md
+      - Ms Anna Loh Kai Suan.md
