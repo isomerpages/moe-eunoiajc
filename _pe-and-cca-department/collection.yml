@@ -2,6 +2,6 @@ collections:
   pe-and-cca-department:
     output: true
     order:
-      - Ms Karine Teo.md
       - Mr Charles Cheak.md
       - Mr George Danapal.md
+      - Ms Karine Teo.md
