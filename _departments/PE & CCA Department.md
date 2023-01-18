@@ -68,3 +68,36 @@ Teacher (Physical Education)
 [Mr Bryan Chan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/pe/mr-bryan-chan/)
 <br>
 Teacher (Physical Education)
+
+<div>  
+<div style="float: left">  
+<img src="/images/PE-Ng-Boon-Hong_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Ng Boon Hong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/pe/mr-ng-boon-hong/)  
+<br>
+Teacher (Physical Education)
+
+<div>  
+<div style="float: left">  
+<img src="/images/PE-Ng-Jun-Kiat_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Ng Jun Kiat](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/pe/mr-ng-jun-kiat/)
+<br>
+Teacher (Physical Education)
+
+<div>  
+<div style="float: left">  
+<img src="/images/PE-Trevor-Tay_s-1.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Trevor Tay](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/pe/mr-trevor-tay/)
+<br>
+Teacher (Physical Education)
