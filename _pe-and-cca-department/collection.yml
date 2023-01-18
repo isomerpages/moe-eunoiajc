@@ -2,7 +2,6 @@ collections:
   pe-and-cca-department:
     output: true
     order:
-      - Mr Trevor Tay.md
       - Mr Charles Cheak.md
       - Mr George Danapal.md
       - Ms Karine Teo.md
@@ -11,3 +10,4 @@ collections:
       - Mr Bryan Chan.md
       - Mr Ng Boon Hong.md
       - Mr Ng Jun Kiat.md
+      - Mr Trevor Tay.md
