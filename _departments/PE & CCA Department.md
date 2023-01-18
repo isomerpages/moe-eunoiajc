@@ -76,7 +76,7 @@ Teacher (Physical Education)
 </div>  
 <div></div>  
 </div>	
-[Mr Ng Boon Hong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/pe/mr-ng-boon-hong/)  
+[Mr Ng Boon Hong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/pe/mr-ng-boon-hong/)
 <br>
 Teacher (Physical Education)
 
