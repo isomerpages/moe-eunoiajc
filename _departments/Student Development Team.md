@@ -134,3 +134,14 @@ Deputy Head (CCA)
 [Ms Iris Lee](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/pw/ms-iris-lee/)
 <br>
 Deputy Head (Character & Citizenship Education)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Suellen-Goh_s%20(1).jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Suellen Goh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-suellen-goh/)
+<br>
+Deputy Head (Character & Citizenship Education)
