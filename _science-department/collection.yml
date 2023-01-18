@@ -2,7 +2,6 @@ collections:
   science-department:
     output: true
     order:
-      - Mr Justin Lim.md
       - Dr Chok Yew Keong.md
       - Mr Koh Siong Yang.md
       - Ms Tan Fangxi.md
@@ -25,3 +24,4 @@ collections:
       - Ms Ng Siow Ying.md
       - Ms Chan Xin Yu.md
       - Ms Chia Xin Hui.md
+      - Mr Justin Lim.md
