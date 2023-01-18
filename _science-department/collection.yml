@@ -2,7 +2,6 @@ collections:
   science-department:
     output: true
     order:
-      - Mr Chan Ter Yue.md
       - Dr Chok Yew Keong.md
       - Mr Koh Siong Yang.md
       - Ms Tan Fangxi.md
@@ -17,3 +16,4 @@ collections:
       - Ms Jacintha Huang.md
       - Ms Suellen Goh.md
       - Ms Zulaiha Said.md
+      - Mr Chan Ter Yue.md
