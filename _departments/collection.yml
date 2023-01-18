@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - PE & CCA Department.md
       - English Department.md
       - Project Work Department.md
       - MTL Department.md
@@ -10,3 +9,4 @@ collections:
       - Economics Department.md
       - Mathematics Department.md
       - Science Department.md
+      - PE & CCA Department.md
