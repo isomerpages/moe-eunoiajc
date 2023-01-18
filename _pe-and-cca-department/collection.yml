@@ -2,7 +2,6 @@ collections:
   pe-and-cca-department:
     output: true
     order:
-      - Mr Ng Jun Kiat.md
       - Mr Charles Cheak.md
       - Mr George Danapal.md
       - Ms Karine Teo.md
@@ -10,3 +9,4 @@ collections:
       - Ms Anna Loh Kai Suan.md
       - Mr Bryan Chan.md
       - Mr Ng Boon Hong.md
+      - Mr Ng Jun Kiat.md
