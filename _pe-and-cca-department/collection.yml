@@ -2,5 +2,5 @@ collections:
   pe-and-cca-department:
     output: true
     order:
-      - Mr George Danapal.md
       - Mr Charles Cheak.md
+      - Mr George Danapal.md
