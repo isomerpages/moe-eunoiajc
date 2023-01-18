@@ -2,6 +2,7 @@ collections:
   science-department:
     output: true
     order:
+      - Mr Rizal Abu Bakar.md
       - Dr Chok Yew Keong.md
       - Mr Koh Siong Yang.md
       - Ms Tan Fangxi.md
