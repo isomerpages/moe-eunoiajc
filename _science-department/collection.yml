@@ -2,7 +2,6 @@ collections:
   science-department:
     output: true
     order:
-      - Dr Wang Guangquan.md
       - Dr Chok Yew Keong.md
       - Mr Koh Siong Yang.md
       - Ms Tan Fangxi.md
@@ -30,3 +29,4 @@ collections:
       - Mr Ong Wee Yong.md
       - Mr Rizal Abu Bakar.md
       - Mr Tan Zhen Yong Keith.md
+      - Dr Wang Guangquan.md
