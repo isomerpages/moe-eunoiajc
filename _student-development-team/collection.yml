@@ -2,4 +2,5 @@ collections:
   student-development-team:
     output: true
     order:
+      - Ms Jasmine Ng.md
       - Ms Joanna Lee.md
