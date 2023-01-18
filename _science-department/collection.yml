@@ -2,7 +2,6 @@ collections:
   science-department:
     output: true
     order:
-      - Ms Zulaiha Said.md
       - Dr Chok Yew Keong.md
       - Mr Koh Siong Yang.md
       - Ms Tan Fangxi.md
@@ -16,3 +15,4 @@ collections:
       - Mr Enoch Tang.md
       - Ms Jacintha Huang.md
       - Ms Suellen Goh.md
+      - Ms Zulaiha Said.md
