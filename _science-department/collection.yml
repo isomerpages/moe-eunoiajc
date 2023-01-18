@@ -2,7 +2,6 @@ collections:
   science-department:
     output: true
     order:
-      - Ms Lu Huiping.md
       - Dr Chok Yew Keong.md
       - Mr Koh Siong Yang.md
       - Ms Tan Fangxi.md
@@ -21,3 +20,4 @@ collections:
       - Mr Christopher Tan.md
       - Mr Felix Lim.md
       - Ms Emeline Choo.md
+      - Ms Lu Huiping.md
