@@ -2,7 +2,6 @@ collections:
   science-department:
     output: true
     order:
-      - Mr Ong Wee Yong.md
       - Dr Chok Yew Keong.md
       - Mr Koh Siong Yang.md
       - Ms Tan Fangxi.md
@@ -27,3 +26,4 @@ collections:
       - Ms Chia Xin Hui.md
       - Mr Justin Lim.md
       - Mdm Liu Shuyu.md
+      - Mr Ong Wee Yong.md
