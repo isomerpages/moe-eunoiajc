@@ -2,7 +2,6 @@ collections:
   science-department:
     output: true
     order:
-      - Ms Chan Xin Yu.md
       - Dr Chok Yew Keong.md
       - Mr Koh Siong Yang.md
       - Ms Tan Fangxi.md
@@ -23,3 +22,4 @@ collections:
       - Ms Emeline Choo.md
       - Ms Lu Huiping.md
       - Ms Ng Siow Ying.md
+      - Ms Chan Xin Yu.md
