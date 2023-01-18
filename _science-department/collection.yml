@@ -2,7 +2,6 @@ collections:
   science-department:
     output: true
     order:
-      - Mr Rizal Abu Bakar.md
       - Dr Chok Yew Keong.md
       - Mr Koh Siong Yang.md
       - Ms Tan Fangxi.md
@@ -28,3 +27,4 @@ collections:
       - Mr Justin Lim.md
       - Mdm Liu Shuyu.md
       - Mr Ong Wee Yong.md
+      - Mr Rizal Abu Bakar.md
