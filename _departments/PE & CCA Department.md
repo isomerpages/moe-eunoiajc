@@ -10,7 +10,7 @@ description: ""
 </div>  
 <div></div>  
 </div>	
-[Mr Charles Cheak](https://staging.d2ftoa31ukircm.amplifyapp.com/about/leadership/mr-charles-cheak/)
+[Mr Charles Cheak](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/pe/mr-charles-cheak/)
 <br>
 HOD (PE & CCA)
 
