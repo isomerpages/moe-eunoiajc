@@ -1,0 +1,4 @@
+collections:
+  pe-and-cca-department:
+    output: true
+    order: []
