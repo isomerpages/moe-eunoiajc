@@ -2,7 +2,6 @@ collections:
   science-department:
     output: true
     order:
-      - Ms Chia Xin Hui.md
       - Dr Chok Yew Keong.md
       - Mr Koh Siong Yang.md
       - Ms Tan Fangxi.md
@@ -24,3 +23,4 @@ collections:
       - Ms Lu Huiping.md
       - Ms Ng Siow Ying.md
       - Ms Chan Xin Yu.md
+      - Ms Chia Xin Hui.md
