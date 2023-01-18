@@ -2,7 +2,6 @@ collections:
   science-department:
     output: true
     order:
-      - Ms Ng Siow Ying.md
       - Dr Chok Yew Keong.md
       - Mr Koh Siong Yang.md
       - Ms Tan Fangxi.md
@@ -22,3 +21,4 @@ collections:
       - Mr Felix Lim.md
       - Ms Emeline Choo.md
       - Ms Lu Huiping.md
+      - Ms Ng Siow Ying.md
