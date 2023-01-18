@@ -1,4 +1,5 @@
 collections:
   pe-and-cca-department:
     output: true
-    order: []
+    order:
+      - Mr Charles Cheak.md
