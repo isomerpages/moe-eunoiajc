@@ -2,6 +2,7 @@ collections:
   student-development-team:
     output: true
     order:
+      - Mr George Danapal.md
       - Ms Joanna Lee.md
       - Ms Jasmine Ng.md
       - Ms Yang Shu Hung.md
