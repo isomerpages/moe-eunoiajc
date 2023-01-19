@@ -68,3 +68,69 @@ HOD (Project Work & Flagship Programmes)
 [Mr Alvin Toh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mr-alvin-toh/)
 <br>
 HOD (Mathematics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Econs-Benjamin-Liang_s%20(1).jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Benjamin Liang](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/mr-benjamin-liang/)
+<br>
+HOD (Economics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/PE-Charles-Cheak_s-1%20(2).jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Charles Cheak](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/pe/mr-charles-cheak/)
+<br>
+HOD (PE & CCA)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Chok-Yew-Keong_s%20(1).jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Dr Chok Yew Keong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/dr-chok-yew-keong/)
+<br>
+HOD (Science)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Arts-Jared-Goh_s%20(2).jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Jared Goh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/arts/mr-jared-goh/)
+<br>
+Dean (JC2)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Arts_JustinLee_s%20(1).jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Justin Lee](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/arts/mr-justin-lee/)
+<br>
+HOD (Arts)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Econs_KevinTan_s%20(1).jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Kevin Tan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/mr-kevin-tan/)
+<br>
+School Staff Developer
