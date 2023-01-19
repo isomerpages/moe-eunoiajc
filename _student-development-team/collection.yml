@@ -2,9 +2,9 @@ collections:
   student-development-team:
     output: true
     order:
-      - Ms Karine Teo.md
       - Ms Joanna Lee.md
       - Ms Jasmine Ng.md
       - Ms Yang Shu Hung.md
       - Mr Jared Goh.md
       - Ms Zulaiha Said.md
+      - Ms Karine Teo.md
