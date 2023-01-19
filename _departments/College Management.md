@@ -156,3 +156,47 @@ HOD (Student Leadership & Talent Management)
 [Mr Koh Siong Yang](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-koh-siong-yang/)
 <br>
 HOD (ICT&IME)
+
+<div>  
+<div style="float: left">  
+<img src="/images/HOD-Marc-Kenji-Lim_s%20(1).jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Marc Kenji Lim](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-marc-kenji-lim/)
+<br>
+HOD (Corporate Communications & Partnerships)
+
+<div>  
+<div style="float: left">  
+<img src="/images/EL-Stephanie-Hua_s%20(1).jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Stephanie Hua](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-stephanie-hua/)
+<br>
+HOD(English)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Tan-Fangxi_s%20(2).jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Tan Fangxi](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-tan-fangxi/)
+<br>
+HOD (Character & Citizenship Education)
+
+<div>  
+<div style="float: left">  
+<img src="/images/HOD-Tay-Theng-Hwee_s2%20(1).jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Tay Theng Hwee](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/mr-tay-theng-hwee/)
+<br>
+HOD (Mother Tongue Languages & BSP)
