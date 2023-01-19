@@ -2,7 +2,6 @@ collections:
   student-development-team:
     output: true
     order:
-      - Ms Iris Lee.md
       - Ms Joanna Lee.md
       - Ms Jasmine Ng.md
       - Ms Yang Shu Hung.md
@@ -14,3 +13,4 @@ collections:
       - Mr Charles Cheak.md
       - Ms Koh Han Yun.md
       - Mr George Danapal.md
+      - Ms Iris Lee.md
