@@ -134,3 +134,25 @@ HOD (Arts)
 [Mr Kevin Tan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/mr-kevin-tan/)
 <br>
 School Staff Developer
+
+<div>  
+<div style="float: left">  
+<img src="/images/Econs_KohHanYun_s%20(2).jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Koh Han Yun](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-koh-han-yun/)
+<br>
+HOD (Student Leadership & Talent Management)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Sci-Koh-Siong-Yang_s%20(1).jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Koh Siong Yang](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-koh-siong-yang/)
+<br>
+HOD (ICT&IME)
