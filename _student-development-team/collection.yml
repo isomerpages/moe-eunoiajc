@@ -2,8 +2,8 @@ collections:
   student-development-team:
     output: true
     order:
-      - Ms Zulaiha Said.md
       - Ms Joanna Lee.md
       - Ms Jasmine Ng.md
       - Ms Yang Shu Hung.md
       - Mr Jared Goh.md
+      - Ms Zulaiha Said.md
