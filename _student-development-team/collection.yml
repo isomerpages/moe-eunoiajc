@@ -2,7 +2,6 @@ collections:
   student-development-team:
     output: true
     order:
-      - Mr Charles Cheak.md
       - Ms Joanna Lee.md
       - Ms Jasmine Ng.md
       - Ms Yang Shu Hung.md
@@ -11,3 +10,4 @@ collections:
       - Ms Karine Teo.md
       - Mr Gabriel Woon.md
       - Ms Tan Fangxi.md
+      - Mr Charles Cheak.md
