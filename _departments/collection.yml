@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - College Management.md
       - English Department.md
       - Project Work Department.md
       - MTL Department.md
@@ -12,3 +11,4 @@ collections:
       - Science Department.md
       - PE & CCA Department.md
       - Student Development Team.md
+      - College Management.md
