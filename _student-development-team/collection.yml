@@ -2,7 +2,6 @@ collections:
   student-development-team:
     output: true
     order:
-      - Mr George Danapal.md
       - Ms Joanna Lee.md
       - Ms Jasmine Ng.md
       - Ms Yang Shu Hung.md
@@ -13,3 +12,4 @@ collections:
       - Ms Tan Fangxi.md
       - Mr Charles Cheak.md
       - Ms Koh Han Yun.md
+      - Mr George Danapal.md
