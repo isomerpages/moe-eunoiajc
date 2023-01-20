@@ -2,6 +2,7 @@ collections:
   college-management:
     output: true
     order:
+      - Mr Mohamad Amran Shah.md
       - Mr Andrew Tan.md
       - Mr Edmund Chen.md
       - Ms Lynn Koh.md
