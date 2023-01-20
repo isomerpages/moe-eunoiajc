@@ -60,7 +60,8 @@ Teacher (Project Work)
 </div>  
 <div></div>  
 </div>
-Mrs Joanne Lee <br>
+<b>Mrs Joanne Lee</b>
+<br>
 Teacher (Project Work)
 
 <div>  
