@@ -2,7 +2,6 @@ collections:
   college-management:
     output: true
     order:
-      - Mr Charles Cheak.md
       - Mr Andrew Tan.md
       - Mr Edmund Chen.md
       - Ms Lynn Koh.md
@@ -10,3 +9,4 @@ collections:
       - Ms Adrienne de Souza.md
       - Mr Alvin Toh.md
       - Mr Benjamin Liang.md
+      - Mr Charles Cheak.md
