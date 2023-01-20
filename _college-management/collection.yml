@@ -2,5 +2,5 @@ collections:
   college-management:
     output: true
     order:
-      - Mr Edmund Chen.md
       - Mr Andrew Tan.md
+      - Mr Edmund Chen.md
