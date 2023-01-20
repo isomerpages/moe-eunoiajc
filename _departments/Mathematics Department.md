@@ -196,6 +196,6 @@ Teacher (Mathematics)
 </div>  
 <div></div>  
 </div>	
-Mr Berner Poh
+<b>Mr Berner Poh</b>
 <br>
 Teacher (Mathematics)
