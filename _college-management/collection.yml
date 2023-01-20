@@ -2,7 +2,6 @@ collections:
   college-management:
     output: true
     order:
-      - Mr Jared Goh.md
       - Mr Andrew Tan.md
       - Mr Edmund Chen.md
       - Ms Lynn Koh.md
@@ -12,3 +11,4 @@ collections:
       - Mr Benjamin Liang.md
       - Mr Charles Cheak.md
       - Dr Chok Yew Keong.md
+      - Mr Jared Goh.md
