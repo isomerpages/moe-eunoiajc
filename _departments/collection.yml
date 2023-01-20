@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Executive & Admin Staff.md
       - English Department.md
       - Project Work Department.md
       - MTL Department.md
@@ -14,3 +13,4 @@ collections:
       - Student Development Team.md
       - College Management.md
       - ICT & IME Department.md
+      - Executive & Admin Staff.md
