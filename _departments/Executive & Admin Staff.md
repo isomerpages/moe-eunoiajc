@@ -255,3 +255,25 @@ Technical Support Officer (SLT)
 Ms Iffah Suraya Binte Salleh
 <br>
 Technical Support Officer (SLT)
+
+<div>  
+<div style="float: left">  
+<img src="/images/EAS-Miza_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+<b>Ms Miza Hamizah Binte Roslan</b>
+<br>
+Technical Support Officer (SLT)
+
+<div>  
+<div style="float: left">  
+<img src="/images/LayHwa_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+<b>Mdm Tan Lay Hwa</b>
+<br>
+Technical Support Officer (SLT)
