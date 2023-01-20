@@ -2,7 +2,6 @@ collections:
   college-management:
     output: true
     order:
-      - Mr Marc Kenji Lim.md
       - Mr Andrew Tan.md
       - Mr Edmund Chen.md
       - Ms Lynn Koh.md
@@ -17,3 +16,4 @@ collections:
       - Mr Kevin Tan.md
       - Ms Koh Han Yun.md
       - Mr Koh Siong Yang.md
+      - Mr Marc Kenji Lim.md
