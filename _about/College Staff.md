@@ -12,3 +12,11 @@ description: ""
 | <a href="https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/"> <img style="width:100%" src="/images/Science.jpg"> </a> | <a href="https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/pe/"> <img style="width:100%" src="/images/Physical%20Education.jpg"> </a> | <a href="https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/sd/"> <img style="width:100%" src="/images/Student%20Development.jpg"> </a> |
 | <a href="https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/cmc/"> <img style="width:100%" src="/images/CMC.jpg"> </a> | <a href="https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/ict-mrl/"> <img style="width:100%" src="/images/ICT%20MRL.jpg"> </a> | <a href="https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/eas/"> <img style="width:100%" src="/images/EAS.jpg"> </a> |
 | | |
+
+##### CIVICS TUTORS
+
+Please visit our [Staff Directory](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff-directory/) page for a full list of teaching staff and their email addresses.
+
+##### SUBJECT TUTORS
+
+Please visit our [Staff Directory](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff-directory/) page for a full list of teaching staff and their email addresses.
