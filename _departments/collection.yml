@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Executive & Admin Staff.md
       - English Department.md
       - Project Work Department.md
       - MTL Department.md
