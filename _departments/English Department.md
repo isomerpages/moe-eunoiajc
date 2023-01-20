@@ -239,7 +239,8 @@ Teacher (General Paper)
 </div>  
 <div></div>  
 </div>	
-Mrs Joey Tan <br>
+<b>Mrs Joey Tan</b>
+<br>
 Teacher (General Paper)
 
 <div>  
@@ -249,5 +250,6 @@ Teacher (General Paper)
 </div>  
 <div></div>  
 </div>	
-Ms Vivien Yeo <br>
+<b>Ms Vivien Yeo</b>
+<br>
 Teacher (General Paper)
