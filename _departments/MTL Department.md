@@ -40,7 +40,8 @@ Deputy Head (Mother Tongue Languages)
 </div>  
 <div></div>  
 </div>	
-Mdm Elavarasi Sundararaju <br>
+<b>Mdm Elavarasi Sundararaju</b>
+<br>
 Lead Teacher (Character & Citizenship Education)
 
 <div>  
@@ -90,7 +91,7 @@ Teacher (Chinese Language)
 </div>  
 <div></div>  
 </div>	
-Mdm Lim Tian Min
+<b>Mdm Lim Tian Min</b>
 <br>
 Teacher (Chinese Language)
 
