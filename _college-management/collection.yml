@@ -2,10 +2,10 @@ collections:
   college-management:
     output: true
     order:
-      - Mr Benjamin Liang.md
       - Mr Andrew Tan.md
       - Mr Edmund Chen.md
       - Ms Lynn Koh.md
       - Mr Mohamad Amran Shah.md
       - Ms Adrienne de Souza.md
       - Mr Alvin Toh.md
+      - Mr Benjamin Liang.md
