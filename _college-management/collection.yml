@@ -2,7 +2,6 @@ collections:
   college-management:
     output: true
     order:
-      - Mr Kevin Tan.md
       - Mr Andrew Tan.md
       - Mr Edmund Chen.md
       - Ms Lynn Koh.md
@@ -14,3 +13,4 @@ collections:
       - Dr Chok Yew Keong.md
       - Mr Jared Goh.md
       - Mr Justin Lee.md
+      - Mr Kevin Tan.md
