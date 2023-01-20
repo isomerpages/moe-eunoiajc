@@ -2,6 +2,6 @@ collections:
   college-management:
     output: true
     order:
-      - Ms Lynn Koh.md
       - Mr Andrew Tan.md
       - Mr Edmund Chen.md
+      - Ms Lynn Koh.md
