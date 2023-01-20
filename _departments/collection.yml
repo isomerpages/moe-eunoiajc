@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - ICT & IME Department.md
       - English Department.md
       - Project Work Department.md
       - MTL Department.md
@@ -13,3 +12,4 @@ collections:
       - PE & CCA Department.md
       - Student Development Team.md
       - College Management.md
+      - ICT & IME Department.md
