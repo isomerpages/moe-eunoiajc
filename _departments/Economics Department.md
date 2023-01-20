@@ -100,7 +100,7 @@ Teacher (Economics)
 </div>  
 <div></div>  
 </div>	
-Mdm Lim Lay Peng
+<b>Mdm Lim Lay Peng</b>
 <br>
 Teacher (Economics)
 
@@ -133,7 +133,7 @@ Teacher (Economics)
 </div>  
 <div></div>  
 </div>	
-Ms Michelle Chiang
+<b>Ms Michelle Chiang</b>
 <br>
 Teacher (Economics)
 
@@ -144,7 +144,7 @@ Teacher (Economics)
 </div>  
 <div></div>  
 </div>	
-Mr Peter Soh
+<b>Mr Peter Soh</b>
 <br>
 Teacher (Economics)
 
