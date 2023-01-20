@@ -274,7 +274,7 @@ Teacher (Chemistry)
 </div>  
 <div></div>  
 </div>
-Mr Luke Lau
+<b>Mr Luke Lau</b>
 <br>
 Teacher (Chemistry)
 
@@ -351,7 +351,7 @@ Teacher (Physics)
 </div>  
 <div></div>  
 </div>
-Mrs Ong-Eng Yee Wen
+<b>Mrs Ong-Eng Yee Wen</b>
 <br>
 Teacher (Physics)
 
