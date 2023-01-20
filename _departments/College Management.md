@@ -219,7 +219,7 @@ Dean (JC1)
 </div>  
 <div></div>  
 </div>	
-<b>Mdm Erni Suriyani</b>
+Mdm Erni Suriyani
 <br>
 Administration Manager
 
@@ -230,6 +230,6 @@ Administration Manager
 </div>  
 <div></div>  
 </div>	
-<b>Ms Sherilyn Ang</b>
+Ms Sherilyn Ang
 <br>
 Administration Manager
