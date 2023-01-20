@@ -54,7 +54,7 @@ Deputy Head (IME)
 </div>  
 <div></div>  
 </div>	
-Mr Jothi Raj Karuppiah
+<b>Mr Jothi Raj Karuppiah</b>
 <br>
 ICT Manager
 
@@ -65,7 +65,7 @@ ICT Manager
 </div>  
 <div></div>  
 </div>	
-Mr Kent Chua Boon Hwee
+<b>Mr Kent Chua Boon Hwee</b>
 <br>
 ICT Manager
 
@@ -76,7 +76,7 @@ ICT Manager
 </div>  
 <div></div>  
 </div>	
-Mr Hugo Chong
+<b>Mr Hugo Chong</b>
 <br>
 Desktop Engineer
 
@@ -87,7 +87,7 @@ Desktop Engineer
 </div>  
 <div></div>  
 </div>	
-Mdm Rohaya Zainal Abidin
+<b>Mdm Rohaya Zainal Abidin</b>
 <br>
 Librarian
 
@@ -98,6 +98,6 @@ Librarian
 </div>  
 <div></div>  
 </div>	
-Mdm Zalina Bte Abdullah
+<b>Mdm Zalina Bte Abdullah</b>
 <br>
 Librarian Assistant
