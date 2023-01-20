@@ -2,7 +2,6 @@ collections:
   college-management:
     output: true
     order:
-      - Dr Chok Yew Keong.md
       - Mr Andrew Tan.md
       - Mr Edmund Chen.md
       - Ms Lynn Koh.md
@@ -11,3 +10,4 @@ collections:
       - Mr Alvin Toh.md
       - Mr Benjamin Liang.md
       - Mr Charles Cheak.md
+      - Dr Chok Yew Keong.md
