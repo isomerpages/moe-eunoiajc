@@ -68,3 +68,36 @@ ICT Manager
 Mr Kent Chua Boon Hwee
 <br>
 ICT Manager
+
+<div>  
+<div style="float: left">  
+<img src="/images/EAS-Hugo_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+Mr Hugo Chong
+<br>
+Desktop Engineer
+
+<div>  
+<div style="float: left">  
+<img src="/images/rohaya_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+Mdm Rohaya Zainal Abidin
+<br>
+Librarian
+
+<div>  
+<div style="float: left">  
+<img src="/images/zalina_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+Mdm Zalina Bte Abdullah
+<br>
+Librarian Assistant
