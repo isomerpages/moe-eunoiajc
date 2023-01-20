@@ -2,7 +2,6 @@ collections:
   college-management:
     output: true
     order:
-      - Ms Tan Fangxi.md
       - Mr Andrew Tan.md
       - Mr Edmund Chen.md
       - Ms Lynn Koh.md
@@ -19,3 +18,4 @@ collections:
       - Mr Koh Siong Yang.md
       - Mr Marc Kenji Lim.md
       - Ms Stephanie Hua.md
+      - Ms Tan Fangxi.md
