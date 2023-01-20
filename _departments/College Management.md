@@ -200,3 +200,36 @@ HOD (Character & Citizenship Education)
 [Mr Tay Theng Hwee](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/mr-tay-theng-hwee/)
 <br>
 HOD (Mother Tongue Languages & BSP)
+
+<div>  
+<div style="float: left">  
+<img src="/images/MTL-Yang-Shu-Hung_s%20(2).jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Yang Shu Hung](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/ms-yang-shu-hung/)
+<br>
+Dean (JC1)
+
+<div>  
+<div style="float: left">  
+<img src="/images/cmc-erni-suriyani_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+<b>Mdm Erni Suriyani</b>
+<br>
+Administration Manager
+
+<div>  
+<div style="float: left">  
+<img src="/images/EAS-SherilynAng_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+<b>Ms Sherilyn Ang</b>
+<br>
+Administration Manager
