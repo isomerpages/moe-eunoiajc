@@ -139,8 +139,8 @@ Teacher (Economics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff-Profile_s%20(1).png" 
-    style="width:500%">
+<img src="/images/Staff-Profile%20(1).png" 
+    style="width:50%">
 </div>  
 <div></div>  
 </div>	
