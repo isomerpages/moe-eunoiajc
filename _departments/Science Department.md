@@ -269,8 +269,8 @@ Teacher (Chemistry)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff-Profile_s%20(2).png" 
-    style="width:100%">
+<img src="/images/Staff-Profile%20(1).png" 
+    style="width:50%">
 </div>  
 <div></div>  
 </div>
