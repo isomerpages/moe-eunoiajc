@@ -5,7 +5,7 @@ description: ""
 ---
 Eunoians who live out the ethos of Beautiful Thinking, Goodwill to All each day are the people who make this college a community and this building a home. In Volume Three, we feature Nadia, Jia Sen, Felynn, Eleanor and Yanisa who used their talents in the sciences and sports to fulfil their passion for serving others.
 
-##### PHOTOS BY AARUSHI SALUNKHE, TIFFANY LIM, ZOU YAN FANG, NIKITA PARMAR
+**PHOTOS BY AARUSHI SALUNKHE, TIFFANY LIM, ZOU YAN FANG, NIKITA PARMAR**
 
 ![](/images/nadia%20sun.jpg)
 
