@@ -5,7 +5,7 @@ description: ""
 ---
 The Class of 2021 demonstrated how our dreams can take flight when we pursue our passions and spread our love for learning. In this final volume, Deon, Lauren, Leia, Yi Xuan, Tiantian and Amanda reflect on their pursuit of excellence in the Humanities and the Arts and impart words of wisdom to their juniors!
 
-##### PHOTOS BY AARUSHI SALUNKHE, TIFFANY LIM, ZOU YAN FANG, NIKITA PARMAR
+**PHOTOS BY AARUSHI SALUNKHE, TIFFANY LIM, ZOU YAN FANG, NIKITA PARMAR**
 
 ![](/images/deon%20loke.jpg)
 
