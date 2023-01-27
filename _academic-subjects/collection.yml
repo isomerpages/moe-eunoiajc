@@ -2,6 +2,7 @@ collections:
   academic-subjects:
     output: true
     order:
+      - Humanties & the Arts/Music.md
       - Humanties & the Arts/.keep
       - Academic Subjects.md
       - Mathematics & Sciences/Mathematics.md
