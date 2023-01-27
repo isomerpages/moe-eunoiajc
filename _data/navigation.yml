@@ -6,3 +6,6 @@ links:
     collection: about
   - title: Admissions
     collection: admissions
+  - title: Curriculum
+    url: /permalink
+    sublinks: []
