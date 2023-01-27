@@ -3,37 +3,50 @@ title: Academic Subjects
 permalink: /academic-subjects/academic-subjects/
 description: ""
 ---
-**KNOWLEDGE SKILLS**
+### KNOWLEDGE SKILLS
 
-<h4><a href="link">General Paper</a></h4>
-<h4><a href="link">Knowledge & Inquiry</a></h4>
-<h4><a href="link">Project Work</a></h4>
+[General Paper](/academic-subjects/Knowledge-Skills/general-paper/)  
+[Knowledge & Inquiry](/academic-subjects/Knowledge-Skills/knowledge-and-inquiry/)  
+[Project Work](/academic-subjects/Knowledge-Skills/project-work/)
 
+##### LANGUAGES
 
-**LANGUAGES**
+[Foreign Languages](https://eunoiajc.moe.edu.sg/curriculum/academic-subjects/foreign-languages/)
 
-<a href="link"><h4>Foreign Languages</h4></a>
-<a href="link"><h4>Mother Tongue Languages</h4></a>
+[Mother Tongue Languages](https://eunoiajc.moe.edu.sg/curriculum/academic-subjects/mother-tongue-languages/)
 
+##### HUMANITIES & THE ARTS
 
-**HUMANITIES & THE ARTS**
+[Economics](https://eunoiajc.moe.edu.sg/curriculum/academic-subjects/economics/)
 
-<a href="link"><h4>Economics</h4></a>
-<a href="link"><h4>Geography</h4></a>
-<a href="link"><h4>History</h4></a>
-<a href="link"><h4>Literature in English</h4></a>
-<a href="link"><h4>China Studies in Chinese</h4></a>
-<a href="link"><h4>Chinese Language & Literature</h4></a>
-<a href="link"><h4>Malay Language & Literature</h4></a>
-<a href="link"><h4>Tamil Language & Literature</h4></a>
-<a href="link"><h4>Translation (Chinese)</h4></a>
-<a href="link"><h4>Art</h4></a>
-<a href="link"><h4>Music</h4></a>
+[Geography](https://eunoiajc.moe.edu.sg/curriculum/academic-subjects/geography/)
 
-**MATHEMATICS & SCIENCES**
+[History](https://eunoiajc.moe.edu.sg/curriculum/academic-subjects/history/)
 
-<a href="/academic-subjects/Mathematics-and-Sciences/mathematics/"><h4>Mathematics</h4></a>
-<a href="/academic-subjects/Mathematics-and-Sciences/further-mathematics/"><h4>Further Mathematics</h4></a>
-<a href="/academic-subjects/Mathematics-and-Sciences/biology/"><h4>Biology</h4></a>
-<a href="/academic-subjects/Mathematics-and-Sciences/chemistry/"><h4>Chemistry</h4></a>
-<a href="/academic-subjects/Mathematics-and-Sciences/physics/"><h4>Physics</h4></a>
+[Literature in English](https://eunoiajc.moe.edu.sg/curriculum/academic-subjects/literature-in-english/)
+
+[China Studies in Chinese](https://eunoiajc.moe.edu.sg/curriculum/academic-subjects/china-studies-in-chinese/)
+
+[Chinese Language & Literature](https://eunoiajc.moe.edu.sg/curriculum/academic-subjects/chinese-language-literature/)
+
+[Malay Language & Literature](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9576_y22_sy.pdf)
+
+[Tamil Language & Literature](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9577_y22_sy.pdf)
+
+[Translation (Chinese)](https://eunoiajc.moe.edu.sg/curriculum/academic-subjects/translation/)
+
+[Art](https://eunoiajc.moe.edu.sg/curriculum/academic-subjects/art/)
+
+[Music](https://eunoiajc.moe.edu.sg/curriculum/academic-subjects/music/)
+
+##### MATHEMATICS & SCIENCES
+
+[Mathematics](https://eunoiajc.moe.edu.sg/curriculum/academic-subjects/mathematics/)
+
+[Further Mathematics](https://eunoiajc.moe.edu.sg/curriculum/academic-subjects/further-mathematics/)
+
+[Biology](https://eunoiajc.moe.edu.sg/curriculum/academic-subjects/biology/)
+
+[Chemistry](https://eunoiajc.moe.edu.sg/curriculum/academic-subjects/chemistry/)
+
+[Physics](https://eunoiajc.moe.edu.sg/curriculum/academic-subjects/physics/)
