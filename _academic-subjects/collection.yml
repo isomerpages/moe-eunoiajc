@@ -2,6 +2,7 @@ collections:
   academic-subjects:
     output: true
     order:
+      - Languages/Mother Tongue Languages.md
       - Languages/Foreign Languages.md
       - Languages/.keep
       - Humanties & the Arts/Economics.md
