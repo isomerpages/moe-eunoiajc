@@ -14,21 +14,19 @@ Learners recognise that paying close attention and being actively engaged in lea
 
 ##### STAGE 2
 
-Connect Information
-===================
+### Connect Information
 
 Learners connect newly-acquired information to existing knowledge in their brains. #WorkingMemory
 
 ##### STAGE 3
 
 ## Create Meaning
-==============
 
 Learners cement their new learning by making this new information meaningful to themselves. #Elaboration #Organisation
 
 ##### STAGE 4
 
-Retrieve Knowledge
-==================
+### Retrieve Knowledge
+
 
 Learners retrieve and apply their knowledge quickly and accurately using retrieval techniques and cues. #Retrieve
