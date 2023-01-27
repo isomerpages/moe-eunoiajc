@@ -4,17 +4,20 @@ permalink: /academic-subjects/academic-subjects/
 description: ""
 ---
 **KNOWLEDGE SKILLS**
+
 <a href="link"><h4>General Paper</h4></a>
 <a href="link"><h4>Knowledge & Inquiry</h4></a>
 <a href="link"><h4>Project Work</h4></a>
 
 
 **LANGUAGES**
+
 <a href="link"><h4>Foreign Languages</h4></a>
 <a href="link"><h4>Mother Tongue Languages</h4></a>
 
 
 **HUMANITIES & THE ARTS**
+
 <a href="link"><h4>Economics</h4></a>
 <a href="link"><h4>Geography</h4></a>
 <a href="link"><h4>History</h4></a>
@@ -28,6 +31,7 @@ description: ""
 <a href="link"><h4>Music</h4></a>
 
 **MATHEMATICS & SCIENCES**
+
 <a href="/academic-subjects/Mathematics-and-Sciences/mathematics/"><h4>Mathematics</h4></a>
 <a href="/academic-subjects/Mathematics-and-Sciences/further-mathematics/"><h4>Further Mathematics</h4></a>
 <a href="/academic-subjects/Mathematics-and-Sciences/biology/"><h4>Biology</h4></a>
