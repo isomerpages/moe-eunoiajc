@@ -2,6 +2,7 @@ collections:
   academic-subjects:
     output: true
     order:
+      - Humanties & the Arts/Geography.md
       - Humanties & the Arts/History.md
       - Humanties & the Arts/Literature in English.md
       - Humanties & the Arts/China Studies in Chinese.md
