@@ -28,8 +28,8 @@ description: ""
 <a href="link"><h4>Music</h4></a>
 
 **MATHEMATICS & SCIENCES**
-<a href="link"><h4>Mathematics</h4></a>
-<a href="link"><h4>Further Mathematics</h4></a>
-<a href="link"><h4>Biology</h4></a>
-<a href="link"><h4>Chemistry</h4></a>
-<a href="link"><h4>Physics</h4></a>
+<a href="/academic-subjects/Mathematics-and-Sciences/mathematics/"><h4>Mathematics</h4></a>
+<a href="/academic-subjects/Mathematics-and-Sciences/further-mathematics/"><h4>Further Mathematics</h4></a>
+<a href="/academic-subjects/Mathematics-and-Sciences/biology/"><h4>Biology</h4></a>
+<a href="/academic-subjects/Mathematics-and-Sciences/chemistry/"><h4>Chemistry</h4></a>
+<a href="/academic-subjects/Mathematics-and-Sciences/physics/"><h4>Physics</h4></a>
