@@ -14,7 +14,7 @@ description: ""
 [Foreign Languages](/academic-subjects/Languages/foreign-languages/)  
 [Mother Tongue Languages](/academic-subjects/Languages/mother-tongue-languages/)
 
-##### HUMANITIES & THE ARTS
+### HUMANITIES & THE ARTS
 
 [Economics](/academic-subjects/Humanties-and-the-Arts/economics/)   
 [Geography](/academic-subjects/Humanties-and-the-Arts/geography/)   
@@ -28,7 +28,7 @@ description: ""
 [Art](/academic-subjects/Humanties-and-the-Arts/art/)  
 [Music](/academic-subjects/Humanties-and-the-Arts/music/)
 
-##### MATHEMATICS & SCIENCES
+### MATHEMATICS & SCIENCES
 
 [Mathematics](/academic-subjects/Mathematics-and-Sciences/mathematics/)   
 [Further Mathematics](/academic-subjects/Mathematics-and-Sciences/further-mathematics/)   
