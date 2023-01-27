@@ -3,7 +3,7 @@ title: Teaching and Learning Philosophy
 permalink: /teaching-and-learning-philosophy/
 description: ""
 ---
-<center><h5>THE FOUR STAGES OF LEARNING</h5></center>
+<center><h3>THE FOUR STAGES OF LEARNING</h3></center>
 
 
 ##### STAGE 1
@@ -20,7 +20,7 @@ Learners connect newly-acquired information to existing knowledge in their brain
 
 ##### STAGE 3
 
-## Create Meaning
+### Create Meaning
 
 Learners cement their new learning by making this new information meaningful to themselves. #Elaboration #Organisation
 
