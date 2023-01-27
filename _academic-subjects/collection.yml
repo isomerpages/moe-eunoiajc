@@ -2,6 +2,7 @@ collections:
   academic-subjects:
     output: true
     order:
+      - Humanties & the Arts/Chinese Language & Literature.md
       - Humanties & the Arts/Malay Language & Literature.md
       - Humanties & the Arts/Tamil Language & Literature.md
       - Humanties & the Arts/Translation (Chinese).md
