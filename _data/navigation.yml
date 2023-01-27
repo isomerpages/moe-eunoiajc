@@ -8,4 +8,6 @@ links:
     collection: admissions
   - title: Curriculum
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: T&L Philsophy
+        url: /teaching-and-learning-philosophy
