@@ -4,7 +4,7 @@ permalink: /academic-subjects/Humanties-and-the-Arts/chinese-language-and-litera
 description: ""
 third_nav_title: Humanties & the Arts
 ---
-<center><h4><em>“My works are Chinese Literature, which is part of<br>world literature. They show the life of Chinese<br>people as well as the country’s unique culture and folk customs."<br><b>Mo Yan</b></em></h4></center>
+<center><h4><em>“My works are Chinese Literature, which is part of<br>world literature. They show the life of Chinese<br>people as well as the country’s unique<br>culture and folk customs."<br><b>Mo Yan</b></em></h4></center>
 
 Is the pen mightier than the sword? As an EJC Chinese Language & Literature (CLL) student, you get to wield both. You will leap from _wuxia_ novels to social media posts, analysing and appreciating them at a higher level than before. With the ability to think critically and communicate effectively, the might of the Chinese language is yours to keep.
 
