@@ -23,4 +23,4 @@ To us, history is ever-present. We will re-imagine debates between Gorbachev and
 
 [H2 History](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9174_y24_sy.pdf)
 
-[H3 History](https://eunoiajc.moe.edu.sg/curriculum/academic-subjects/history/)
+[H3 History] (link here)
