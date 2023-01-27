@@ -6,8 +6,8 @@ description: ""
 **KNOWLEDGE SKILLS**
 
 <h4><a href="link">General Paper</a></h4>
-<a href="link"><h4>Knowledge & Inquiry</h4></a>
-<a href="link"><h4>Project Work</h4></a>
+<h4><a href="link">Knowledge & Inquiry</a></h4>
+<h4><a href="link">Project Work</a></h4>
 
 
 **LANGUAGES**
