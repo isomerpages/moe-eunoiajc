@@ -17,7 +17,7 @@ Do our genes determine who we are? Does human biology influence the decisions we
 
 As an EJC Science student, you are endowed with both depth and breadth of learning. Experience the forefront of scientific research at NUS and NTU or be enlightened by renowned academics at guest lectures and workshops. Learning journeys to STEM-related industries will broaden your understanding of how science is applied in society. You could develop the next big idea right here, with our in-house research opportunities, online courses and customised training for Science Olympiads. For budding professors, engage in university-style literature reviews and presentations. At EJC, we bond rigour and discovery.
 
-### SYLLABUS DOCUMENTS
+### Syllabus Documents
 
 [H2 Biology](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9744_y24_sy.pdf)
 
