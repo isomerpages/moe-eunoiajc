@@ -4,33 +4,28 @@ permalink: /academic-subjects/academic-subjects/
 description: ""
 ---
 **KNOWLEDGE SKILLS**
-<a href="link"><h4>worddisplay</h4></a>General Paper
-<a href="link"><h4>worddisplay</h4></a>Knowledge & Inquiry
-<a href="link"><h4>worddisplay</h4></a>Project Work
+<a href="link"><h4>General Paper</h4></a>General Paper
+<a href="link"><h4>Knowledge & Inquiry</h4></a>
+<a href="link"><h4>Project Work</h4></a>
+
 
 **LANGUAGES**
-<a href="link"><h4>worddisplay</h4></a>Foreign Languages
-<a href="link"><h4>worddisplay</h4></a>Mother Tongue Languages
+<a href="link"><h4>Foreign Languages</h4></a>
+<a href="link"><h4>Mother Tongue Languages</h4></a>
+
 
 **HUMANITIES & THE ARTS**
-<a href="link"><h4>worddisplay</h4></a>Economics
-
-<a href="link"><h4>worddisplay</h4></a>Geography
-
-<a href="link"><h4>worddisplay</h4></a>History
-
-<a href="link"><h4>worddisplay</h4></a>Literature in English
-
-<a href="link"><h4>worddisplay</h4></a>China Studies in Chinese
-
-<a href="link"><h4>worddisplay</h4></a>Chinese Language & Literature
-
-<a href="link"><h4>worddisplay</h4></a>Malay Language & Literature
-
-<a href="link"><h4>worddisplay</h4></a>Tamil Language & Literature
-<a href="link"><h4>worddisplay</h4></a>Translation (Chinese)
-<a href="link"><h4>worddisplay</h4></a>Art
-<a href="link"><h4>worddisplay</h4></a>Music
+<a href="link"><h4>Economics</h4></a>
+<a href="link"><h4>Geography</h4></a>
+<a href="link"><h4>History</h4></a>
+<a href="link"><h4>Literature in English</h4></a>
+<a href="link"><h4>China Studies in Chinese</h4></a>
+<a href="link"><h4>Chinese Language & Literature</h4></a>
+<a href="link"><h4>Malay Language & Literature</h4></a>
+<a href="link"><h4>Tamil Language & Literature</h4></a>
+<a href="link"><h4>Translation (Chinese)</h4></a>
+<a href="link"><h4>Art</h4></a>
+<a href="link"><h4>Music</h4></a>
 
 **MATHEMATICS & SCIENCES**
 <a href="link"><h4>Mathematics</h4></a>
