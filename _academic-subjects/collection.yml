@@ -2,4 +2,5 @@ collections:
   academic-subjects:
     output: true
     order:
+      - Academic Subjects.md
       - Mathematics & Sciences/.keep
