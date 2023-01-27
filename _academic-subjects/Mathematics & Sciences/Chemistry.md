@@ -4,7 +4,7 @@ permalink: /academic-subjects/Mathematics-and-Sciences/chemistry/
 description: ""
 third_nav_title: Mathematics & Sciences
 ---
-<center><h5><em>“With his five senses, man explores the universe<br>around him and calls the adventure Science."<br><b>Edwin Hubble</b></em></h5></center>
+<center><h4><em>“With his five senses, man explores the universe<br>around him and calls the adventure Science."<br><b>Edwin Hubble</b></em></h4></center>
 
 As an EJC Science student, you are endowed with both depth and breadth of learning. Experience the forefront of scientific research at NUS and NTU or be enlightened by renowned academics at guest lectures and workshops. Learning journeys to STEM-related industries will broaden your understanding of how science is applied in society. You could develop the next big idea right here, with our in-house research opportunities, online courses and customised training for Science Olympiads. For budding professors, engage in university-style literature reviews and presentations. At EJC, we bond rigour and discovery.
 
