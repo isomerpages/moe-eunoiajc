@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Academic Subjects.md
+      - Mathematics & Sciences/Mathematics.md
       - Mathematics & Sciences/Further Mathematics.md
       - Mathematics & Sciences/Biology.md
       - Mathematics & Sciences/Chemistry.md
