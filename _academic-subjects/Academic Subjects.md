@@ -5,7 +5,7 @@ description: ""
 ---
 **KNOWLEDGE SKILLS**
 
-<a href="link"><h4>General Paper</h4></a>
+<h4><a href="link">General Paper</a></h4>
 <a href="link"><h4>Knowledge & Inquiry</h4></a>
 <a href="link"><h4>Project Work</h4></a>
 
