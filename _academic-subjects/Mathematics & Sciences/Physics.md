@@ -4,7 +4,7 @@ permalink: /academic-subjects/Mathematics-and-Sciences/physics/
 description: ""
 third_nav_title: Mathematics & Sciences
 ---
-<center><h5><em>“With his five senses, man explores the universe<br>around him and calls the adventure Science.”<br><b>Edwin Hubble</b></em></h5></center>
+<center><h4><em>“With his five senses, man explores the universe<br>around him and calls the adventure Science.”<br><b>Edwin Hubble</b></em></h4></center>
 
 Scientific thinking is beautiful thinking. To us, science is more than a body of knowledge. We see science as a way of life — of knowing and doing. Biology, Chemistry and Physics students will learn to navigate uncertainty, practise scientific inquiry and solve real-world problems both critically and creatively. We look beyond ‘right’ answers and are not afraid of mistakes. We want you, the EJC Science student, to embrace increasingly open and complex levels of knowledge, and experience the epiphany of Science.
 
