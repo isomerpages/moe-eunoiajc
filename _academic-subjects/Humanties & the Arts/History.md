@@ -17,12 +17,10 @@ History considers regional and international developments of the twentieth centu
 
 To us, history is ever-present. We will re-imagine debates between Gorbachev and Reagan, stage mock-protests in Burma, hold Model United Nations conferences and engage in other activities that bring the subject to life and into the spotlight. On an overseas immersion trip in Asia or Europe, you will experience first-hand how the past has shaped the present in authentic case studies. Bring your broad perspectives to ministry dialogues and public seminars, peering deep into national and international concerns. To leap forward, take a step back through History.
 
-### SYLLABUS DOCUMENTS
+### Syllabus Documents
 
 [H1 History](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8821_y24_sy.pdf)
 
-
 [H2 History](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9174_y24_sy.pdf)
- 
- 
+
 [H3 History](https://eunoiajc.moe.edu.sg/curriculum/academic-subjects/history/)
