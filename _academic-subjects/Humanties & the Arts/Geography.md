@@ -16,7 +16,7 @@ Geography, as a bridge between the natural and social sciences, seeks to underst
 
 Seeing, hearing, questioning and expressing are essential to the study of Geography. Be engaged in field trips, where you will collect and evaluate data, observe the interaction between the physical and human worlds, and present your findings. Take part in seminars and urban development challenges, or take it to the next level by proposing solutions to government ministries. Geography uncovers new territories and carves new routes between old ones, so that your knowledge is as far-reaching as it can be.
 
-### SYLLABUS DOCUMENTS
+### Syllabus Documents
 
 [H1 Geography](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8834_y24_sy.pdf)
 
