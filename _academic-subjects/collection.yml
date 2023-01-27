@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Academic Subjects.md
+      - Mathematics & Sciences/Chemistry.md
       - Mathematics & Sciences/Physics.md
       - Mathematics & Sciences/.keep
