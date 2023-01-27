@@ -20,10 +20,8 @@ The EJC Mathematics Talent Development Programme aims to groom a pool of Mathema
 
 [H1 Mathematics](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8865_y24_sy.pdf)
 
- 
 
 [H2 Mathematics](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9758_y24_sy.pdf)
 
- 
 
 [H3 Mathematics](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9820_y24_sy.pdf)
