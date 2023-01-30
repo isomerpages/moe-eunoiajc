@@ -3,7 +3,7 @@ title: Life Coaching Programme
 permalink: /flagship-programmes/lcp/
 description: ""
 ---
-<center><h4><em>“Every day may not be good… but there’s something good in every day”<br><b>Alice Morse Earle</b></em></h4></center>
+<center><h4><em>“Every day may not be good… but there’s<br>something good in every day”<br><b>Alice Morse Earle</b></em></h4></center>
 
 
 At Eunoia, every student receives individualised coaching. We believe that you have life experiences which can be tapped on for reflection and learning. We believe that you have unique gifts waiting to be awakened or strengthened.
