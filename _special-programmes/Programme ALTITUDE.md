@@ -3,7 +3,7 @@ title: Programme ALTITUDE
 permalink: /special-programmes/altitude/
 description: ""
 ---
-<center><h4><em>“Breakthrough innovation occurs when we bring down boundaries and encourage disciplines to learn from each other.”  <br><b>Gyan Nagpal</b></em></h4></center>
+<center><h4><em>“Breakthrough innovation occurs when we bring<br>down boundaries and encourage disciplines to learn<br>from each other.”  <br><b>Gyan Nagpal</b></em></h4></center>
 
 
 Programme ALTITUDE aims to develop in EJC students the capacity to consider the perspectives of the Arts and Humanities while gaining exposure to Science, Technology, Engineering and Mathematics (STEM) fields, with a specific focus on the future impact on Singapore’s society.
