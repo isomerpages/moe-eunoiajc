@@ -51,11 +51,11 @@ All students may propose their **preferred subject combination** if it is not 
 
 ##### **'HYBRID' COMBINATIONS**
 
-Students intending to offer 2 Mathematics and Sciences subjects and 2 Humanities and the Arts subjects may refer to page 7 of the [**information booklet.**](/files/EJC-SCOPE-2023.pdf) The college offers 12 ‘hybrid’ subject combinations in the **Science** stream: S4-1 to S4-6, and S5-1 to S5-6.
+Students intending to offer 2 Mathematics and Sciences subjects and 2 Humanities and the Arts subjects may refer to page 7 of the **[information booklet.](/files/EJC-SCOPE-2023.pdf)** The college offers 12 ‘hybrid’ subject combinations in the **Science** stream: S4-1 to S4-6, and S5-1 to S5-6.
 
 ##### **COMBINATIONS WITH KNOWLEDGE AND INQUIRY**
 
-[**H2 Knowledge and Inquiry**](/academic-subjects/Knowledge-Skills/knowledge-and-inquiry/) is included in the following subject combinations: A1-K, A2-K, A1-N, A2-N, S1-N, and S2-N. Refer to page 8 of the [**information booklet**](/files/EJC-SCOPE-2023.pdf). The A1-K and A2-K subject combinations each consist of 11 units of study.
+**[H2 Knowledge and Inquiry](/academic-subjects/Knowledge-Skills/knowledge-and-inquiry/)** is included in the following subject combinations: A1-K, A2-K, A1-N, A2-N, S1-N, and S2-N. Refer to page 8 of the **[information booklet](/files/EJC-SCOPE-2023.pdf)**. The A1-K and A2-K subject combinations each consist of 11 units of study.
 
 ### Requirements
 
