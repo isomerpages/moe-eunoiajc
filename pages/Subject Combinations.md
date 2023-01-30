@@ -9,3 +9,13 @@ For the academic course of 2023-24, the college is offering **39 Arts combinati
 
 The [EJC Subject Combination Proposal Exercise (SCOPE)](/files/EJC-SCOPE-2023.pdf) information booklet can be downloaded in [PDF](/files/EJC-SCOPE-2023.pdf) format.
 
+
+##### Arts A1 to A4
+
+##### Arts A5 to A8
+
+##### Science S1 to S2
+
+##### Science S3 to S5
+
+##### With KI
