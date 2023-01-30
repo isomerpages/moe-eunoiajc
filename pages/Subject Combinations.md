@@ -37,6 +37,4 @@ The [EJC Subject Combination Proposal Exercise (SCOPE)](/files/EJC-SCOPE-2023.p
      style="width:75%">
 
 
-##### [Download](/files/EJC-SCOPE-2023.pdf)
-
-##### [Subjects](/academic-subjects/)
+##### [Download](/files/EJC-SCOPE-2023.pdf)   |       [Subjects](/academic-subjects/)
