@@ -2,6 +2,7 @@ collections:
   flagship-programmes:
     output: true
     order:
+      - Passion Pursuit.md
       - World Readiness Programme.md
       - Talent Development Programme.md
       - Life Coaching Programme.md
