@@ -4,7 +4,7 @@ permalink: /flagship-programmes/lcp/
 description: ""
 ---
 > “Every day may not be good… but there’s something good in every day”  
-> **Alice Morse Earle**
+> ***Alice Morse Earle***
 
 At Eunoia, every student receives individualised coaching. We believe that you have life experiences which can be tapped on for reflection and learning. We believe that you have unique gifts waiting to be awakened or strengthened.
 
