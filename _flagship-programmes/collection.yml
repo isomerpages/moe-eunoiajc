@@ -1,4 +1,5 @@
 collections:
   flagship-programmes:
     output: true
-    order: []
+    order:
+      - Life Coaching Programme.md
