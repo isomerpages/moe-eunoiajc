@@ -12,7 +12,14 @@ The [EJC Subject Combination Proposal Exercise (SCOPE)](/files/EJC-SCOPE-2023.p
 
 ##### Arts A1 to A4
 
+<img src="/images/A1-A4-725x1024.jpeg" 
+     style="width:75%">
+
+
 ##### Arts A5 to A8
+
+<img src="/images/principal.jpg" 
+     style="width:65%">
 
 ##### Science S1 to S2
 
