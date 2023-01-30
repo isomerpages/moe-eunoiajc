@@ -2,4 +2,5 @@ collections:
   special-programmes:
     output: true
     order:
+      - Programme MAGNITUDE.md
       - Stem Research Programmes.md
