@@ -3,10 +3,6 @@ title: Life Coaching Programme
 permalink: /flagship-programmes/lcp/
 description: ""
 ---
-> “Every day may not be good… but there’s something good in every day”  
-> ***Alice Morse Earle***
-
-
 <center><h4><em>“Every day may not be good… but there’s something good in every day”<br><b>Alice Morse Earle</b></em></h4></center>
 
 
