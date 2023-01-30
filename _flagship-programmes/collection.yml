@@ -2,5 +2,6 @@ collections:
   flagship-programmes:
     output: true
     order:
+      - World Readiness Programme.md
       - Talent Development Programme.md
       - Life Coaching Programme.md
