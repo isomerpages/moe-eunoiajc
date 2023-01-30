@@ -15,7 +15,9 @@ The recognition that these students are our future leaders necessitates a delibe
 
 The exploration and examination of these beyond the confines of the classroom, and the experience of engaging in meaningful exchanges with various partners would hopefully embolden them to be the change they want to see.
 
-![](/images/Latitude-1.jpeg)
+<img src="/images/Latitude-1.jpeg" 
+     style="width:65%">
+
 
 ##### STRUCTURE
 
@@ -29,4 +31,5 @@ The target audience are Junior College Year 1 Eunoians with a keen interest in t
 
 Students will have to write an essay for selection and attend an interview. Selection will be based on their intellectual ability, disposition and maturity to engage diverse perspectives.
 
-![](/images/Latitude-2.jpeg)
+<img src="/images/Latitude-2.jpeg" 
+     style="width:65%">
