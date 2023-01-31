@@ -5,18 +5,18 @@ description: ""
 ---
 [Careers, Scholarships & Higher Education](/student-development/csh/)
 
-[Character & Citizenship Education](https://eunoiajc.moe.edu.sg/curriculum/sd/cce/)
+[Character & Citizenship Education](/student-development/cce/)
 
-[Cyber Wellness](https://eunoiajc.moe.edu.sg/curriculum/sd/cyber-wellness/)
+[Cyber Wellness](https://eunoiajc.moe.edu.sg/curriculum/sd/cyber-wellness/) **[MISSING CONTENT]**
 
-[Environmental Literacy Programme](https://eunoiajc.moe.edu.sg/curriculum/special/elp/)
+[Environmental Literacy Programme](/student-development/elp/)
 
-[Global Orientation Programme](https://eunoiajc.moe.edu.sg/curriculum/sd/go/)
+[Global Orientation Programme](/student-development/go/)
 
-[Leadership Academy](https://eunoiajc.moe.edu.sg/curriculum/sd/leadership/)
+[Leadership Academy](/student-development/leadership/)
 
-[Life Coaching Programme](https://eunoiajc.moe.edu.sg/curriculum/flagship/lcp/)
+[Life Coaching Programme](/student-development/lcp/)
 
-[Sexuality Education](https://eunoiajc.moe.edu.sg/curriculum/sd/sed/)
+[Sexuality Education](/sed/)
 
-[Values in Action](https://eunoiajc.moe.edu.sg/curriculum/sd/values-in-action/)
+[Values in Action](/student-development/values-in-action/)
