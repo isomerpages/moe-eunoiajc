@@ -2,6 +2,7 @@ collections:
   special-programmes:
     output: true
     order:
+      - Community Engagement Scholarship Programme.md
       - Talent Development Programme.md
       - Programme LATITUDE.md
       - Programme ALTITUDE.md
