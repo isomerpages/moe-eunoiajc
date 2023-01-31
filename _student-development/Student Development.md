@@ -5,7 +5,7 @@ description: ""
 ---
 [Careers, Scholarships & Higher Education](/student-development/csh/)   
 [Character & Citizenship Education](/student-development/cce/)   
-[Cyber Wellness](/student-development/cyber-wellness/) **[MISSING CONTENT]**   
+[Cyber Wellness](/student-development/cyber-wellness/)    
 [Environmental Literacy Programme](/student-development/elp/)   
 [Global Orientation Programme](/student-development/go/)   
 [Leadership Academy](/student-development/leadership/)   
