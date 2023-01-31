@@ -2,11 +2,11 @@ collections:
   student-development:
     output: true
     order:
-      - Cyber Wellness.md
       - Student Development.md
       - Careers, Scholarships & Higher Education.md
       - Character & Citizenship Education.md
       - Global Orientation Programme.md
+      - Cyber Wellness.md
       - Environmental Literacy Programme.md
       - Leadership Academy.md
       - Life Coaching Programme.md
