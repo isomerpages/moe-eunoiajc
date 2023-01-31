@@ -2,6 +2,7 @@ collections:
   special-programmes:
     output: true
     order:
+      - Special Programmes/Stem Research Programmes.md
       - Special Programmes/.keep
       - MOE Special Programmes/.keep
       - MOE Special Programmes/Bicultural Studies Programme.md
