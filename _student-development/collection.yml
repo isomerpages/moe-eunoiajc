@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Global Orientation Programme.md
       - Environmental Literacy Programme.md
       - Leadership Academy.md
       - Life Coaching Programme.md
