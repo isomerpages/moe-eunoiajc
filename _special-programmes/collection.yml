@@ -2,6 +2,7 @@ collections:
   special-programmes:
     output: true
     order:
+      - Humanities Scholarship and Programme.md
       - Music Elective Programme.md
       - Community Engagement Scholarship Programme.md
       - Talent Development Programme.md
