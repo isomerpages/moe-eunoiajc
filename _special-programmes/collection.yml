@@ -2,6 +2,7 @@ collections:
   special-programmes:
     output: true
     order:
+      - Bicultural Studies Programme.md
       - Humanities Scholarship and Programme.md
       - Music Elective Programme.md
       - Community Engagement Scholarship Programme.md
