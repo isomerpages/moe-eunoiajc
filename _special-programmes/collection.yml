@@ -2,15 +2,15 @@ collections:
   special-programmes:
     output: true
     order:
+      - Special Programmes.md
+      - MOE Special Programmes/.keep
+      - MOE Special Programmes/Bicultural Studies Programme.md
+      - MOE Special Programmes/Humanities Scholarship and Programme.md
+      - MOE Special Programmes/Music Elective Programme.md
+      - Special Programmes/.keep
       - Special Programmes/Community Engagement Scholarship Programme.md
       - Special Programmes/Talent Development Programme.md
       - Special Programmes/Programme LATITUDE.md
       - Special Programmes/Programme ALTITUDE.md
       - Special Programmes/Programme MAGNITUDE.md
       - Special Programmes/Stem Research Programmes.md
-      - Special Programmes/.keep
-      - MOE Special Programmes/.keep
-      - MOE Special Programmes/Bicultural Studies Programme.md
-      - MOE Special Programmes/Humanities Scholarship and Programme.md
-      - MOE Special Programmes/Music Elective Programme.md
-      - Special Programmes.md
