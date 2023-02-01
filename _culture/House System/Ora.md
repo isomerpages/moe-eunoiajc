@@ -39,3 +39,29 @@ Mr Alson Yong and Mrs Charlotte Lee
   </tr>
 </tbody>
 </table>
+
+![](/images/Ora-2019-Commitee.jpeg)
+
+
+### Committee
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 400px">
+<col style="width: 400px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-x5q1"><span style="font-weight:bold;font-style:normal">HOUSE MASTER</span><br><span style="font-weight:400;font-style:normal">Mr Alson Yong </span><br><br><span style="font-weight:bold;font-style:normal">ASSISTANT HOUSE MISTRESS</span><br><span style="font-weight:400;font-style:normal">Mrs Charlotte Lee </span><br><br><span style="font-weight:bold;font-style:normal">HOUSE CAPTAIN</span><br><span style="font-weight:400;font-style:normal">Andrea Gracia Andradi (22-O1) </span><br><br><span style="font-weight:bold;font-style:normal">HOUSE VICE-CAPTAINS</span><br><span style="font-weight:400;font-style:normal">Wee Yuet Tung (22-O3)</span><br><span style="font-weight:400;font-style:normal">Isaac Yong Yeow Keat (22-O5)</span></td>
+    <td class="tg-x5q1"><span style="font-weight:bold;font-style:normal">HOUSE REPRESENTATIVES</span><br><span style="font-weight:400;font-style:normal">De Souza Keira Ann (22-O1)</span><br><span style="font-weight:400;font-style:normal">Tahseenah Reaz (22-O1)</span><br><span style="font-weight:400;font-style:normal">Or Rae Ting (22-O2)</span><br><span style="font-weight:400;font-style:normal">Chew Chang Kai (22-O2)</span><br><span style="font-weight:400;font-style:normal">Beatrice Jong Wen Qi (22-O3)</span><br><span style="font-weight:400;font-style:normal">Chang Su-Ann (22-O3)</span><br><span style="font-weight:400;font-style:normal">Ang Jing Yi (22-O4)</span><br><span style="font-weight:400;font-style:normal">Teh Shu Ting, Hannah (22-O4)</span><br><span style="font-weight:400;font-style:normal">Li Shuheng (22-O5)</span><br><span style="font-weight:400;font-style:normal">Leong Yi Xin Cherie (22-O5)</span><br><span style="font-weight:400;font-style:normal">Chong Wei Kit Xavier (22-O6)</span><br><span style="font-weight:400;font-style:normal">Josh Chua Yi Jie (22-O6)</span></td>
+  </tr>
+</tbody>
+</table>
