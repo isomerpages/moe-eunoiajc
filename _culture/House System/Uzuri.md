@@ -119,20 +119,19 @@ Mr Azhar Amin and Mr Alex Teo
   <tr>
     <td class="tg-0lax"><a href = "/culture/House-System/akila/" target = "_self"> 
           <img src="/images/Houses-Akila-Crest.png" 
-     style="width:100%"></a>
-</td>
+     style="width:100%"></a></td>
     <td class="tg-0lax"><a href = "/culture/House-System/eder/" target = "_self"> 
           <img src="/images/Houses-Eder-Crest.png" 
-     style="width:100%"></td>
+     style="width:100%"></a></td>
     <td class="tg-0lax"><a href = "/culture/House-System/isami/" target = "_self"> 
           <img src="/images/Houses-Isami-Crest.png" 
-     style="width:100%"></td>
+     style="width:100%"></a></td>
     <td class="tg-0lax"><a href = "/culture/House-System/ora/" target = "_self"> 
           <img src="/images/Houses-Ora-Crest.png" 
-     style="width:100%"></td>
+     style="width:100%"></a></td>
     <td class="tg-0lax"><a href = "/culture/House-System/uzuri/" target = "_self"> 
           <img src="/images/Houses-Uzuri-Crest.png" 
-     style="width:100%"></td>
+     style="width:100%"></a></td>
   </tr>
 </tbody>
 </table>
