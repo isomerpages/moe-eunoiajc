@@ -134,3 +134,33 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 7\. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STI/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
 **At Eunoia Junior College, the _eTeens_ programme will be implemented as follows in 2022:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l5uw{background-color:#FFFFFE;color:#484848;font-size:18px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-on1j{background-color:#FFFFFE;color:#484848;font-size:18px;text-align:center;vertical-align:middle}
+.tg .tg-y2np{background-color:#FFFFFE;color:#484848;font-size:18px;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 799px">
+<colgroup>
+<col style="width: 224px">
+<col style="width: 394px">
+<col style="width: 181px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-l5uw"><span style="font-weight:bold">Topics/Lessons</span></td>
+    <td class="tg-l5uw"><span style="font-weight:bold">Programme Learning Objectives</span></td>
+    <td class="tg-l5uw"><span style="font-weight:bold">Time Period</span></td>
+  </tr>
+  <tr>
+    <td class="tg-on1j">Mass Talk by HPB appointed vendor</td>
+    <td class="tg-y2np">·       Awareness of the different STI and HIV<br>·       Modes of transmission for STI and HIV<br>·       Modes of protection against infection, specifically abstinence and the correct use of condom<br>·       Consequences and impact of STI/HIV<br>·       State the ways of managing the impact</td>
+    <td class="tg-on1j">Term 3 Week 6</td>
+  </tr>
+</tbody>
+</table>
