@@ -65,3 +65,26 @@ Mr Alson Yong and Mrs Charlotte Lee
   </tr>
 </tbody>
 </table>
+
+### History
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 400px">
+<col style="width: 400px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-x5q1"><span style="font-weight:bold;font-style:normal">PAST HOUSE CAPTAINS</span><br><span style="font-weight:400;font-style:normal">Angelique Chia Rui Yi (17-O2)</span><br><span style="font-weight:400;font-style:normal">Koh Zi Yi (18-O2)</span><br><span style="font-weight:400;font-style:normal">Lee Xin Chun (19-O4)</span><br><span style="font-weight:400;font-style:normal">Yanisa Kee (20-O5)</span><br><span style="font-weight:400;font-style:normal">Isabel Hikaru Yamada (21-O1)</span><br><span style="font-weight:400;font-style:normal"> </span><br><span style="font-weight:bold;font-style:normal">PAST HOUSE VICE-CAPTAINS</span><br><span style="font-weight:400;font-style:normal">Lai Shu Ying Nicole (17-O1)</span><br><span style="font-weight:400;font-style:normal">Kairos Koh Jia Jun (17-O4)</span><br><span style="font-weight:400;font-style:normal">Lucas Ng Jinn Hern (18-O3)</span><br><span style="font-weight:400;font-style:normal">Aye Chan Khin (18-O4)</span><br><span style="font-weight:400;font-style:normal">Clement Hooi (19-O1)</span><br><span style="font-weight:400;font-style:normal">Jadyn Chua (19-O2)</span><br><span style="font-weight:400;font-style:normal">Deon Loke (20-O1)</span><br><span style="font-weight:400;font-style:normal">Colette Hu (20-O4)</span><br><span style="font-weight:400;font-style:normal">Benjamin Ho Boon Hao (21-O3)</span><br><span style="font-weight:400;font-style:normal">Im Sing Lu (21-O4)</span></td>
+    <td class="tg-x5q1"><span style="font-weight:bold;font-style:normal">PAST HOUSE MASTERS AND MISTRESSES</span><br><span style="font-weight:400;font-style:normal">Mr Jeffrey Ha</span><br><span style="font-weight:400;font-style:normal">Ms Emeline Choo</span><br><span style="font-weight:400;font-style:normal">Ms Sandra Chan</span><br><span style="font-weight:400;font-style:normal">Mr Jonathan Lee</span><br><span style="font-weight:400;font-style:normal">Mr Allen Lee</span><br></td>
+  </tr>
+</tbody>
+</table>
