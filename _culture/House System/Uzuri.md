@@ -58,10 +58,10 @@ Mr Azhar Amin and Mr Alex Teo
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-cqfb{font-size:16px;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 725px">
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
-<col style="width: 358px">
-<col style="width: 367px">
+<col style="width: 400px">
+<col style="width: 400px">
 </colgroup>
 <tbody>
   <tr>
@@ -83,10 +83,10 @@ Mr Azhar Amin and Mr Alex Teo
 .tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
 .tg .tg-cqfb{font-size:16px;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 725px">
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
-<col style="width: 358px">
-<col style="width: 367px">
+<col style="width: 400px">
+<col style="width: 400px">
 </colgroup>
 <tbody>
   <tr>
