@@ -23,26 +23,27 @@ Mathematics & Sciences Programme](/academic-subjects/academic-subjects/)
 
 ##### **INTROSPECT**
 
-**[Life Coaching Programme](/flagship/lcp/)\***    
+**[Life Coaching Programme](/flagship-programmes/cp/)\***    
 [Leadership Academy  
 ](/student-development/leadership/)    
 [Character & Citizenship Education Programme  
 ](/student-development/cce/)    
-[Co-Curricular Activities](https://eunoiajc.moe.edu.sg/student-life/cca/)
+[Co-Curricular Activities](/culture/cca/)
 
 ##### **INVIGORATE**
 
-**[Passion Pursuit](https://eunoiajc.moe.edu.sg/curriculum/flagship/pp/)\***  
-[Physical Education Programme](https://eunoiajc.moe.edu.sg/student-life/pe/)  
-[Internship & Externship](https://eunoiajc.moe.edu.sg/student-life/internships/)  
-[Aesthetics Programme](https://eunoiajc.moe.edu.sg/student-life/aesthetics/)
+[Passion Pursuit](/flagship-programmes/pp/)\*    
+[Physical Education Programme](/about/staff/pe/)  
+[Internship & Externship](/culture/internships/)  
+[Aesthetics Programme](/culture/aesthetics/)
 
 ##### **IMPACT**
 
-**[World Readiness Programme\*](https://eunoiajc.moe.edu.sg/curriculum/flagship/wrp/)  
-**[Community Engagement Scholarship Programme](https://eunoiajc.moe.edu.sg/curriculum/special/csp/)[Global Orientation Programme](https://eunoiajc.moe.edu.sg/curriculum/sd/go/)[  
-Environmental Literacy Programme](https://eunoiajc.moe.edu.sg/curriculum/special/elp/)  
-[Values-in-Action](https://eunoiajc.moe.edu.sg/curriculum/sd/values-in-action/)
+[World Readiness Programme](/flagship-programmes/wrp/)\*  
+[Community Engagement Scholarship Programme](/special-programmes/Special-Programmes/csp/)   
+[Global Orientation Programme](/student-development/go/)    
+[Environmental Literacy Programme](/student-development/elp/)  
+[Values-in-Action](/student-development/values-in-action/)
 
 \*Flagship Programmes
 
@@ -67,12 +68,3 @@ Passion is focussed energy. We want our students to be in love with life and har
 ### Impact
 
 Without making a contribution, great ambition and achievements are of little significance — what is an educational experience without the opportunity to make an impact? Students can look forward to exciting opportunities to make an immediate impact, and learn how to continue making a difference to our future. In our flagship World Readiness Programme, Community Engagement Scholarship Programme, Global Orientation Programme, Environmental Literacy Programme and Values-in-Action, they will build better communities, a better Singapore and a better world.
-
-### Curriculum
-
-*   [T&L Philosophy](https://eunoiajc.moe.edu.sg/curriculum/philosophy/)
-*   [Academic Subjects](https://eunoiajc.moe.edu.sg/curriculum/academic-subjects/)
-*   [Subject Combinations](https://eunoiajc.moe.edu.sg/curriculum/subject-combinations/)
-*   [Flagship Programmes](https://eunoiajc.moe.edu.sg/curriculum/flagship/)
-*   [Special Programmes](https://eunoiajc.moe.edu.sg/curriculum/special/)
-*   [Student Development](https://eunoiajc.moe.edu.sg/curriculum/sd/)
