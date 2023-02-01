@@ -169,9 +169,9 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 8\. Parents may opt their children out of Sexuality Education and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable **[here](/files/Growing-Years-Opt-out-2022.pdf)**. The completed form is to be submitted by 11/03/2022.
+9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Growing-Years-Opt-out-2022.pdf). The completed form is to be submitted by 11/03/2022.
 
-10\. Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [**here**](/files/eTeens-Parents-Opt-out-Form-JCCI-2022.pdf). The completed form is to be submitted by 11/03/2022.
+10\. Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/eTeens-Parents-Opt-out-Form-JCCI-2022.pdf). The completed form is to be submitted by 11/03/2022.
 
 11\. Parents can contact the school at [**eunoiajc@moe.edu.sg**](mailto:eunoiajc@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 
