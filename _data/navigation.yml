@@ -23,3 +23,5 @@ links:
         url: /student-development/sd/
       - title: Student Showcase
         url: https://ejceudaimonia.com/
+  - title: Menu Title
+    collection: about
