@@ -8,25 +8,27 @@ description: ""
 [Knowledge Skills Programme  
 Languages Programme  
 Humanities & the Arts Programme  
-Mathematics & Sciences Programme](https://eunoiajc.moe.edu.sg/curriculum/academic-subjects/)
+Mathematics & Sciences Programme](/academic-subjects/academic-subjects/)
 
 ##### **INSPIRE**
 
-**[Talent Development Programme (GLIDE)](https://eunoiajc.moe.edu.sg/curriculum/flagship/tdp/)\***  
+[Talent Development Programme (GLIDE)](/flagship-programmes/tdp/)\*  
 [Bicultural Studies Programme (Chinese)  
-](https://eunoiajc.moe.edu.sg/curriculum/special/bsp/)[Humanities Scholarship and Programme](https://eunoiajc.moe.edu.sg/curriculum/special/hsp/)  
-[Music Elective Programme](https://eunoiajc.moe.edu.sg/curriculum/special/mep/)  
-[Programme ALTITUDE](https://eunoiajc.moe.edu.sg/curriculum/special/altitude/)  
-[Programme LATITUDE](https://eunoiajc.moe.edu.sg/curriculum/special/latitude/)  
-[Programme MAGNITUDE](https://eunoiajc.moe.edu.sg/curriculum/special/magnitude/)  
-[STEM Research Programme](https://eunoiajc.moe.edu.sg/curriculum/special/stem/)
+](/special-programmes/MOE-Special-Programmes/bsp/)[Humanities Scholarship and Programme](/special-programmes/MOE-Special-Programmes/hsp/)  
+[Music Elective Programme](/special-programmes/MOE-Special-Programmes/mep/)  
+[Programme ALTITUDE](/special-programmes/Special-Programmes/altitude/)  
+[Programme LATITUDE](/special-programmes/Special-Programmes/latitude/)  
+[Programme MAGNITUDE](/special-programmes/Special-Programmes/magnitude/)  
+[STEM Research Programme](/special-programmes/Special-Programmes/stem/)
 
 ##### **INTROSPECT**
 
-**[Life Coaching Programme](https://eunoiajc.moe.edu.sg/flagship/lcp/)\***  
+**[Life Coaching Programme](/flagship/lcp/)\***    
 [Leadership Academy  
-](https://eunoiajc.moe.edu.sg/curriculum/sd/leadership/)[Character & Citizenship Education Programme  
-](https://eunoiajc.moe.edu.sg/curriculum/sd/cce/)[Co-Curricular Activities](https://eunoiajc.moe.edu.sg/student-life/cca/)
+](/student-development/leadership/)    
+[Character & Citizenship Education Programme  
+](/student-development/cce/)    
+[Co-Curricular Activities](https://eunoiajc.moe.edu.sg/student-life/cca/)
 
 ##### **INVIGORATE**
 
