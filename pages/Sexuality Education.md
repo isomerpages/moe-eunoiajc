@@ -40,41 +40,41 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-v5vt{background-color:#FFFFFE;color:#484848;text-align:center;vertical-align:middle}
-.tg .tg-jxvq{background-color:#FFFFFE;color:#484848;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-kcsl{background-color:#FFFFFE;color:#484848;text-align:left;vertical-align:middle}
+.tg .tg-8sjc{background-color:#FFFFFE;color:#484848;font-size:18px;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-on1j{background-color:#FFFFFE;color:#484848;font-size:18px;text-align:center;vertical-align:middle}
+.tg .tg-y2np{background-color:#FFFFFE;color:#484848;font-size:18px;text-align:left;vertical-align:middle}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 796px">
 <colgroup>
 <col style="width: 96px">
-<col style="width: 110px">
-<col style="width: 430px">
+<col style="width: 136px">
+<col style="width: 410px">
 <col style="width: 160px">
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-jxvq"><span style="font-weight:bold">LESSONS</span></td>
-    <td class="tg-jxvq"><span style="font-weight:bold">DURATION</span></td>
-    <td class="tg-jxvq"><span style="font-weight:bold">Lesson Objectives</span><br>At the end of the lesson, students will be able to:</td>
-    <td class="tg-jxvq"><span style="font-weight:bold">TIME PERIOD</span></td>
+    <td class="tg-8sjc"><span style="font-weight:bold">LESSONS </span></td>
+    <td class="tg-8sjc"><span style="font-weight:bold">DURATION</span></td>
+    <td class="tg-8sjc"><span style="font-weight:bold">Lesson Objectives</span><br>At the end of the lesson, students will be able to:</td>
+    <td class="tg-8sjc"><span style="font-weight:bold">TIME PERIOD</span></td>
   </tr>
   <tr>
-    <td class="tg-v5vt"> 1</td>
-    <td class="tg-v5vt">(60 mins)</td>
-    <td class="tg-kcsl">·       navigate challenges in a dating relationship<br>·       identify early indications of a breakdown in a relationship<br>·       know when to seek help and who to turn to for support<br>·       appreciate that one can emerge stronger and be better prepared for future relationships<br>·       develop a deeper understanding of what dating and family violence entails and be reminded of the importance of respect for others</td>
-    <td class="tg-v5vt">Term 2 Week 10</td>
+    <td class="tg-on1j"> 1</td>
+    <td class="tg-on1j">(60 mins)</td>
+    <td class="tg-y2np">·       navigate challenges in a dating relationship<br>·       identify early indications of a breakdown in a relationship<br>·       know when to seek help and who to turn to for support<br>·       appreciate that one can emerge stronger and be better prepared for future relationships<br>·       develop a deeper understanding of what dating and family violence entails and be reminded of the importance of respect for others</td>
+    <td class="tg-on1j">Term 2 Week 10</td>
   </tr>
   <tr>
-    <td class="tg-v5vt">2</td>
-    <td class="tg-v5vt">(60 mins)</td>
-    <td class="tg-kcsl">·       examine issues related to abstinence<br>·       explore the tension between being free to make personal choices regardless of consequences, and being responsible for the consequences of their choices<br>·       understand that, in the face of conflicting voices and perspectives, they need to focus on integrity, and choose to act in accordance with sound values and moral principles<br>·       understand that in so doing, one makes responsible decisions for oneself and others, and accepts the consequences of doing so</td>
-    <td class="tg-v5vt">Term 2 Week 8</td>
+    <td class="tg-on1j">2</td>
+    <td class="tg-on1j">(60 mins)</td>
+    <td class="tg-y2np">·       examine issues related to abstinence<br>·       explore the tension between being free to make personal choices regardless of consequences, and being responsible for the consequences of their choices<br>·       understand that, in the face of conflicting voices and perspectives, they need to focus on integrity, and choose to act in accordance with sound values and moral principles<br>·       understand that in so doing, one makes responsible decisions for oneself and others, and accepts the consequences of doing so</td>
+    <td class="tg-on1j">Term 2 Week 8</td>
   </tr>
   <tr>
-    <td class="tg-v5vt">3</td>
-    <td class="tg-v5vt">(60 mins)</td>
-    <td class="tg-kcsl">·       examine issues related to abortion and the impact of sexually transmitted infections (STIs)<br>·       understand that one has to make responsible decisions for both self and others<br>·       understand that sexual abstinence is the only way to remove any risks that come with casual sex<br>·       know how to support friends or others who may be pregnant or have STIs</td>
-    <td class="tg-v5vt">Term 3 Week 8</td>
+    <td class="tg-on1j">3</td>
+    <td class="tg-on1j">(60 mins)</td>
+    <td class="tg-y2np">·       examine issues related to abortion and the impact of sexually transmitted infections (STIs)<br>·       understand that one has to make responsible decisions for both self and others<br>·       understand that sexual abstinence is the only way to remove any risks that come with casual sex<br>·       know how to support friends or others who may be pregnant or have STIs</td>
+    <td class="tg-on1j">Term 3 Week 8</td>
   </tr>
 </tbody>
 </table>
@@ -125,4 +125,3 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
   </tr>
 </tbody>
 </table>
-
