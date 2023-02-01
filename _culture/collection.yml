@@ -2,4 +2,5 @@ collections:
   culture:
     output: true
     order:
+      - Physical Education.md
       - Student Culture.md
