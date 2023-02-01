@@ -24,4 +24,7 @@ links:
       - title: Student Showcase
         url: https://ejceudaimonia.com/
   - title: Menu Title
-    collection: about
+    url: /permalink
+    sublinks:
+      - title: Student Press
+        url: https://eunoiapress.wordpress.com/
