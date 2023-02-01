@@ -42,3 +42,28 @@ Mr Azhar Amin and Mr Alex Teo
   </tr>
 </tbody>
 </table>
+
+![](/images/Uzuri-2019-Commitee.jpeg)
+
+### Committee
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cqfb{font-size:16px;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 725px">
+<colgroup>
+<col style="width: 358px">
+<col style="width: 367px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-cqfb"><span style="font-weight:bold;font-style:normal">HOUSE MASTER</span><br><span style="font-weight:400;font-style:normal">Mr Azhar Amin </span><br><br><span style="font-weight:bold;font-style:normal">ASSISTANT HOUSE MASTER</span><br><span style="font-weight:400;font-style:normal">Mr Alex Teo </span><br><br><span style="font-weight:bold;font-style:normal">HOUSE CAPTAIN</span><br><span style="font-weight:400;font-style:normal">Jazelle Neo Jiaqi (22-U1) </span><br><br><span style="font-weight:bold;font-style:normal">HOUSE VICE-CAPTAINS</span><br><span style="font-weight:400;font-style:normal">Joy Wong Xinyi (22-U1)</span><br><span style="font-weight:400;font-style:normal">Helena Grace Ding Xing You (22-U3)</span></td>
+    <td class="tg-cqfb"><span style="font-weight:bold;font-style:normal">HOUSE REPRESENTATIVES</span><br><br><span style="font-weight:400;font-style:normal">Ng Wen Wei, Natalie (22-U1)</span><br><span style="font-weight:400;font-style:normal">Alexia Teo Yi Ting (22-U1)</span><br><span style="font-weight:400;font-style:normal">Cayla Koh (22-U2)</span><br><span style="font-weight:400;font-style:normal">Sasha Anand (22-U2)</span><br><span style="font-weight:400;font-style:normal">Kwa Yan Cheng Ezio (22-U3)</span><br><span style="font-weight:400;font-style:normal">Ong Lee-Ann (22-U3)</span><br><span style="font-weight:400;font-style:normal">Gerald Thong Wai Hong (22-U4)</span><br><span style="font-weight:400;font-style:normal">Jeroy Yit Jun Yu (22-U4)</span><br><span style="font-weight:400;font-style:normal">Yu Kheng Lyn (22-U5)</span><br><span style="font-weight:400;font-style:normal">Yap Jit En Faith (22-U5)</span></td>
+  </tr>
+</tbody>
+</table>
