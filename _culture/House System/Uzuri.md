@@ -67,3 +67,28 @@ Mr Azhar Amin and Mr Alex Teo
   </tr>
 </tbody>
 </table>
+
+
+### History
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-cqfb{font-size:16px;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 725px">
+<colgroup>
+<col style="width: 358px">
+<col style="width: 367px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-cqfb"><span style="font-weight:bold">PAST HOUSE CAPTAINS</span><br>Ye Ganghua (17-U2)<br>Elizabeth Teo Min (18-U2)<br>Tan Hon Jung (19-U3)<br>Alden Ng (20-U4)<br>Isaac Chia Le (21-U6)<br> <br><span style="font-weight:bold">PAST HOUSE VICE-CAPTAINS</span><br>Chua Kai Ling (17-U3)<br>Timothy Chua Wen Jie (17-U4)<br>Loke Mun Shane (18-U2)<br>Kuan Xuan Wei, Keefe (18-U4)<br>Gabrielle Lee (19-U1)<br>Carson Tan (19-U3)<br>Lye Tse Hao (20-U4)<br>Rachel Grace Ong (20-U1)<br>Lydia Yong Yen-Pin (21-U3)<br>Bernice Sim Kai Tong (21-U5)</td>
+    <td class="tg-x5q1"><span style="font-weight:bold">PAST HOUSE MASTERS AND MISTRESSES</span><br>Mr Ganison Rajamohan<br>Mr David Hoe<br>Ms Sim Yi Min<br>Mr Mahmood Fahmi<br>Ms Koh Han Yun<br>Ms Karine Teo<br>Mr Alson Yong<br></td>
+  </tr>
+</tbody>
+</table>
