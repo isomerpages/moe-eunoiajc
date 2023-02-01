@@ -82,47 +82,46 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 <center><h3>JC2</h3></center>
 
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-v5vt{background-color:#FFFFFE;color:#484848;text-align:center;vertical-align:middle}
-.tg .tg-jxvq{background-color:#FFFFFE;color:#484848;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-kcsl{background-color:#FFFFFE;color:#484848;text-align:left;vertical-align:middle}
+.tg .tg-8sjc{background-color:#FFFFFE;color:#484848;font-size:18px;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-on1j{background-color:#FFFFFE;color:#484848;font-size:18px;text-align:center;vertical-align:middle}
+.tg .tg-y2np{background-color:#FFFFFE;color:#484848;font-size:18px;text-align:left;vertical-align:middle}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 796px">
 <colgroup>
 <col style="width: 96px">
-<col style="width: 110px">
-<col style="width: 430px">
+<col style="width: 136px">
+<col style="width: 410px">
 <col style="width: 160px">
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-jxvq"><span style="font-weight:bold">UNIT</span></td>
-    <td class="tg-jxvq"><span style="font-weight:bold">LESSONS / DURATION</span></td>
-    <td class="tg-jxvq"><span style="font-weight:bold">Lesson Objectives</span><br>At the end of the lesson, students will be able to:</td>
-    <td class="tg-jxvq"><span style="font-weight:bold">TIME PERIOD</span></td>
+    <td class="tg-8sjc"><span style="font-weight:bold">UNIT</span></td>
+    <td class="tg-8sjc"><span style="font-weight:bold">LESSONS / DURATION</span></td>
+    <td class="tg-8sjc"><span style="font-weight:bold">Lesson Objectives</span><br>At the end of the lesson, students will be able to:</td>
+    <td class="tg-8sjc"><span style="font-weight:bold">TIME PERIOD</span></td>
   </tr>
   <tr>
-    <td class="tg-v5vt" rowspan="2">Lessons about Love (Part 7)</td>
-    <td class="tg-v5vt">4<br><br>(60 mins)</td>
-    <td class="tg-kcsl">·       identify signs of an unhealthy dating relationship and the early indications of a breakdown of relationship<br><br>·       appreciate that one can emerge stronger despite having gone through a breakup<br>·       explore beliefs about marriage<br>·       know the possible psychological impact on children experiencing parental separation or divorce<br>·       recognise the importance of having family support for a relationship<br>·       aspire to develop similar enduring character traits and qualities that one would consider in a life partner<br>·       appreciate that marriage is a lifetime commitment and that there will be challenges in marriage as in any other relationships</td>
-    <td class="tg-v5vt">Term 2 Week 8</td>
+    <td class="tg-on1j" rowspan="2">Lessons about Love (Part 7)</td>
+    <td class="tg-on1j">4<br><br>(60 mins)</td>
+    <td class="tg-y2np">·       identify signs of an unhealthy dating relationship and the early indications of a breakdown of relationship<br>·       appreciate that one can emerge stronger despite having gone through a breakup<br>·       explore beliefs about marriage<br>·       know the possible psychological impact on children experiencing parental separation or divorce<br>·       recognise the importance of having family support for a relationship<br>·       aspire to develop similar enduring character traits and qualities that one would consider in a life partner<br>·       appreciate that marriage is a lifetime commitment and that there will be challenges in marriage as in any other relationships</td>
+    <td class="tg-on1j">Term 2 Week 8</td>
   </tr>
   <tr>
-    <td class="tg-v5vt">5<br><br>(60 mins)</td>
-    <td class="tg-kcsl">·       recognise that personal decisions on how one displays own affections in public can affect others<br><br>·       discern the impact of new media on relationship building</td>
-    <td class="tg-v5vt">Term 2 Week 2</td>
+    <td class="tg-on1j">5<br><br>(60 mins)</td>
+    <td class="tg-y2np">·       recognise that personal decisions on how one displays own affections in public can affect others<br>·       discern the impact of new media on relationship building</td>
+    <td class="tg-on1j">Term 2 Week 2</td>
   </tr>
   <tr>
-    <td class="tg-v5vt">NA</td>
-    <td class="tg-v5vt">6<br><br>(60 mins)</td>
-    <td class="tg-kcsl">This will be a culminating formative assessment task for students to consolidate what they have learnt from the previous lessons.</td>
-    <td class="tg-v5vt">Formative assessment task is included in a form of introspection exercises at the end of each lesson.</td>
+    <td class="tg-on1j">NA</td>
+    <td class="tg-on1j">6<br><br>(60 mins)</td>
+    <td class="tg-y2np">This will be a culminating formative assessment task for students to consolidate what they have learnt from the previous lessons.</td>
+    <td class="tg-on1j">Formative assessment task is included in a form of introspection exercises at the end of each lesson.</td>
   </tr>
 </tbody>
 </table>
