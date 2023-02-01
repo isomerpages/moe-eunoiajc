@@ -7,7 +7,7 @@ links:
   - title: Admissions
     collection: admissions
   - title: Curriculum
-    url: /permalink
+    url: /curriculum
     sublinks:
       - title: T&L Philsophy
         url: /teaching-and-learning-philosophy
