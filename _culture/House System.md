@@ -39,7 +39,7 @@ The houses uphold their own distinct identity, including house colours, emblem
     <td class="tg-pxya"><span style="font-weight:bold;color:#CB0000">Akila House</span><span style="font-weight:bold"> </span>is represented by the colour red. Its house emblem is the <span style="font-weight:bold">eagle</span>.</td>
   </tr>
   <tr>
-    <td class="tg-xsvg"><a href="https://eunoiajc.moe.edu.sg/culture/houses/akila/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#070632">ENTER AKILA HOUSE</span></a></td>
+    <td class="tg-xsvg"><a href="https://eunoiajc.moe.edu.sg/culture/houses/akila/"><span style="text-decoration:none;color:#070632">ENTER AKILA HOUSE</span></a></td>
   </tr>
   <tr>
     <td class="tg-r28n" rowspan="2"><a href = "linkhere" target = "_self"> 
@@ -48,7 +48,7 @@ The houses uphold their own distinct identity, including house colours, emblem
     <td class="tg-pxya"><span style="font-weight:bold;color:#32CB00">Eder House</span><span style="font-weight:bold"> </span>is represented by the colour green. Its house emblem is the <span style="font-weight:bold">stallion</span>.</td>
   </tr>
   <tr>
-    <td class="tg-lswp"><a href="https://eunoiajc.moe.edu.sg/culture/houses/eder/" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;text-decoration:none;color:#070632">ENTER EDER HOUSE</span></a></td>
+    <td class="tg-lswp"><a href="https://eunoiajc.moe.edu.sg/culture/houses/eder/"><span style="font-weight:bold;text-decoration:none;color:#070632">ENTER EDER HOUSE</span></a></td>
   </tr>
   <tr>
     <td class="tg-nrix" rowspan="2"><a href = "linkhere" target = "_self"> 
@@ -57,7 +57,7 @@ The houses uphold their own distinct identity, including house colours, emblem
     <td class="tg-pxya"><span style="font-weight:bold;color:#F56B00">Isami House</span><span style="font-weight:bold"> </span>is represented by the colour orange. Its house emblem is the <span style="font-weight:bold">wolf</span>.</td>
   </tr>
   <tr>
-    <td class="tg-z9od"><a href="https://eunoiajc.moe.edu.sg/culture/houses/isami/" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;text-decoration:none;color:#070632">ENTER ISAMI HOUSE</span></a></td>
+    <td class="tg-z9od"><a href="https://eunoiajc.moe.edu.sg/culture/houses/isami/"><span style="font-weight:bold;text-decoration:none;color:#070632">ENTER ISAMI HOUSE</span></a></td>
   </tr>
   <tr>
     <td class="tg-nrix" rowspan="2"><a href = "linkhere" target = "_self"> 
@@ -66,7 +66,7 @@ The houses uphold their own distinct identity, including house colours, emblem
     <td class="tg-pxya"><span style="font-weight:bold;color:#68CBD0">Ora House</span><span style="font-weight:bold;color:#38FFF8"> </span>is represented by the colour cyan. Its house emblem is the <span style="font-weight:bold">bison</span>.</td>
   </tr>
   <tr>
-    <td class="tg-z9od"><a href="https://eunoiajc.moe.edu.sg/culture/houses/ora/" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;text-decoration:none;color:#070632">ENTER ORA HOUSE</span></a></td>
+    <td class="tg-z9od"><a href="https://eunoiajc.moe.edu.sg/culture/houses/ora/"><span style="font-weight:bold;text-decoration:none;color:#070632">ENTER ORA HOUSE</span></a></td>
   </tr>
   <tr>
     <td class="tg-r28n" rowspan="2"><a href = "linkhere" target = "_self"> 
@@ -75,7 +75,7 @@ The houses uphold their own distinct identity, including house colours, emblem
     <td class="tg-pxya"><span style="font-weight:bold;color:#6200C9">Uzuri</span> House is represented by the colour purple. Its house emblem is the <span style="font-weight:bold">bear</span>.</td>
   </tr>
   <tr>
-    <td class="tg-z9od"><a href="https://eunoiajc.moe.edu.sg/culture/houses/uzuri/" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;text-decoration:none;color:#070632">ENTER UZURI HOUSE</span></a></td>
+    <td class="tg-z9od"><a href="https://eunoiajc.moe.edu.sg/culture/houses/uzuri/"><span style="font-weight:bold;text-decoration:none;color:#070632">ENTER UZURI HOUSE</span></a></td>
   </tr>
 </tbody>
 </table>
