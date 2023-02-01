@@ -53,7 +53,7 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-8sjc"><span style="font-weight:bold">LESSONS </span></td>
+    <td class="tg-8sjc"><span style="font-weight:bold">LESSONS</span></td>
     <td class="tg-8sjc"><span style="font-weight:bold">DURATION</span></td>
     <td class="tg-8sjc"><span style="font-weight:bold">Lesson Objectives</span><br>At the end of the lesson, students will be able to:</td>
     <td class="tg-8sjc"><span style="font-weight:bold">TIME PERIOD</span></td>
