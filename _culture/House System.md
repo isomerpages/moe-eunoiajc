@@ -19,34 +19,53 @@ The houses uphold their own distinct identity, including house colours, emblem
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
-.tg .tg-60hs{font-size:20px;text-align:left;vertical-align:top}
-.tg .tg-wrlh{font-size:13px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-z9od{font-size:12px;text-align:left;vertical-align:top}
+.tg .tg-xsvg{font-size:12px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-r28n{font-size:18px;text-align:center;vertical-align:middle}
+.tg .tg-lswp{color:#000000;font-size:12px;text-align:left;vertical-align:top}
+.tg .tg-pxya{font-size:22px;text-align:left;vertical-align:middle}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 713px">
+<table class="tg" style="undefined;table-layout: fixed; width: 787px">
 <colgroup>
-<col style="width: 307px">
-<col style="width: 406px">
+<col style="width: 388px">
+<col style="width: 399px">
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nx8p" rowspan="2"></td>
-    <td class="tg-60hs"><span style="font-weight:bold;color:#CB0000">Akila House</span><span style="font-weight:bold"> </span>is represented by the colour red. Its house emblem is the <br><span style="font-weight:bold">eagle</span>.</td>
+    <td class="tg-r28n" rowspan="2"></td>
+    <td class="tg-pxya"><span style="font-weight:bold;color:#CB0000">Akila House</span><span style="font-weight:bold"> </span>is represented by the colour red. Its house emblem is the <span style="font-weight:bold">eagle</span>.</td>
   </tr>
   <tr>
-    <td class="tg-wrlh"><a href="https://eunoiajc.moe.edu.sg/culture/houses/akila/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#000">ENTER AKILA HOUSE</span></a></td>
+    <td class="tg-xsvg"><a href="https://eunoiajc.moe.edu.sg/culture/houses/akila/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#070632">ENTER AKILA HOUSE</span></a></td>
   </tr>
   <tr>
-    <td class="tg-nx8p"></td>
-    <td class="tg-60hs"></td>
+    <td class="tg-r28n" rowspan="2"></td>
+    <td class="tg-pxya"><span style="font-weight:bold;color:#32CB00">Eder House</span><span style="font-weight:bold"> </span>is represented by the colour green. Its house emblem is the <span style="font-weight:bold">stallion</span>.</td>
   </tr>
   <tr>
-    <td class="tg-nx8p"></td>
-    <td class="tg-60hs"></td>
+    <td class="tg-lswp"><a href="https://eunoiajc.moe.edu.sg/culture/houses/eder/" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;text-decoration:none;color:#070632">ENTER EDER HOUSE</span></a></td>
   </tr>
   <tr>
-    <td class="tg-nx8p"></td>
-    <td class="tg-60hs"></td>
+    <td class="tg-nrix" rowspan="2"></td>
+    <td class="tg-pxya"><span style="font-weight:bold;color:#F56B00">Isami House</span><span style="font-weight:bold"> </span>is represented by the colour orange. Its house emblem is the <span style="font-weight:bold">wolf</span>.</td>
+  </tr>
+  <tr>
+    <td class="tg-z9od"><a href="https://eunoiajc.moe.edu.sg/culture/houses/isami/" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;text-decoration:none;color:#070632">ENTER ISAMI HOUSE</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="2"></td>
+    <td class="tg-pxya"><span style="font-weight:bold;color:#68CBD0">Ora House</span><span style="font-weight:bold;color:#38FFF8"> </span>is represented by the colour cyan. Its house emblem is the <span style="font-weight:bold">bison</span>.</td>
+  </tr>
+  <tr>
+    <td class="tg-z9od"><a href="https://eunoiajc.moe.edu.sg/culture/houses/ora/" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;text-decoration:none;color:#070632">ENTER ORA HOUSE</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-r28n" rowspan="2"></td>
+    <td class="tg-pxya"><span style="font-weight:bold;color:#6200C9">Uzuri</span> House is represented by the colour purple. Its house emblem is the <span style="font-weight:bold">bear</span>.</td>
+  </tr>
+  <tr>
+    <td class="tg-z9od"><a href="https://eunoiajc.moe.edu.sg/culture/houses/uzuri/" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold;text-decoration:none;color:#070632">ENTER UZURI HOUSE</span></a></td>
   </tr>
 </tbody>
 </table>
