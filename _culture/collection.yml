@@ -2,6 +2,7 @@ collections:
   culture:
     output: true
     order:
+      - Community Outreach.md
       - Internships & Externships.md
       - Physical Education.md
       - Student Culture.md
