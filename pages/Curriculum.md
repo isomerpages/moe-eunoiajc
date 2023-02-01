@@ -23,10 +23,9 @@ Mathematics & Sciences Programme](/academic-subjects/academic-subjects/)
 
 ##### **INTROSPECT**
 
-**[Life Coaching Programme](/flagship-programmes/cp/)\***    
-[Leadership Academy  
-](/student-development/leadership/)    
-[Character & Citizenship Education Programme  
+[Life Coaching Programme](/flagship-programmes/cp/)\*   
+[Leadership Academy](/student-development/leadership/)    
+[Character & Citizenship Education Programme
 ](/student-development/cce/)    
 [Co-Curricular Activities](/culture/cca/)
 
