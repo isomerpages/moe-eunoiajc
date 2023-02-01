@@ -79,3 +79,14 @@ The houses uphold their own distinct identity, including house colours, emblem
   </tr>
 </tbody>
 </table>
+
+
+### Houses are Home
+
+The network of relationships within each house is developed through long acquaintance in a stable community and regular interaction throughout the year. The social calendar promises a rich and regular rhythm of life week after week, month after month, letting students feel personally secure while the academic curriculum stretches their abilities.
+
+Not only are there house events such as House Parties, House Assemblies and House Camps, which nurture friendships and a sense of belonging, there are also inter-house events such as the Road Run, the Inter-House Games and the Spartan Race, which inspire loyalty and a sense of being part of something greater than oneself.
+
+The college's Civics Groups are also named after their respective Houses, with each house comprising students from an even spread of subject combinations.
+
+![](/images/House-Mural-Colour.jpeg)
