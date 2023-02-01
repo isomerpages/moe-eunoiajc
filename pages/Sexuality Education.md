@@ -44,9 +44,9 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 .tg .tg-on1j{background-color:#FFFFFE;color:#484848;font-size:18px;text-align:center;vertical-align:middle}
 .tg .tg-y2np{background-color:#FFFFFE;color:#484848;font-size:18px;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 796px">
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
-<col style="width: 96px">
+<col style="width: 100px">
 <col style="width: 136px">
 <col style="width: 410px">
 <col style="width: 160px">
