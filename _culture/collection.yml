@@ -2,5 +2,6 @@ collections:
   culture:
     output: true
     order:
+      - Internships & Externships.md
       - Physical Education.md
       - Student Culture.md
