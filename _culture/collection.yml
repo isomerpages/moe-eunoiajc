@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - House System/.keep
-      - House System.md
       - Aesthetics Programme.md
       - Community Outreach.md
       - Internships & Externships.md
