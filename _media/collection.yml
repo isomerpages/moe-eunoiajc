@@ -2,7 +2,7 @@ collections:
   media:
     output: true
     order:
-      - Style Guide/Visual Guide.md
+      - Style Guide/Visual Identity.md
       - Style Guide/Identity Guidelines.md
       - Style Guide/Colour Guide.md
       - Style Guide/Typography Guide.md
