@@ -34,7 +34,8 @@ Mr Darren Chong and Ms Elizabeth Chin
 <tbody>
   <tr>
     <td class="tg-x5q1"><span style="font-weight:bold;font-style:normal">HOUSE EMBLEM</span><br><span style="font-weight:400;font-style:normal">The wolf is a symbol of intelligence, loyalty and spirit.</span><br><span style="font-weight:400;font-style:normal"> </span><br><span style="font-weight:bold;font-style:normal">HOUSE CHEER</span><br><span style="font-weight:400;font-style:normal">Who are we? ISAMI (x3)</span><br><span style="font-weight:400;font-style:normal">I - will win the war</span><br><span style="font-weight:400;font-style:normal">S - you’ll see us soar</span><br><span style="font-weight:400;font-style:normal">A - ain’t gonna fall</span><br><span style="font-weight:400;font-style:normal">Make Isami roar</span><br><span style="font-weight:400;font-style:normal">(x3)</span><br><span style="font-weight:400;font-style:normal">(11 claps)</span><br><span style="font-weight:400;font-style:normal">ISAMI!</span><br></td>
-    <td class="tg-gqad"></td>
+    <td class="tg-gqad"><img src="/images/Houses-Isami-Crest.png" 
+     style="width:100%"></td>
   </tr>
 </tbody>
 </table>
