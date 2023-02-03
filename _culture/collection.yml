@@ -2,13 +2,13 @@ collections:
   culture:
     output: true
     order:
+      - House System/.keep
+      - House System/House System.md
       - House System/Akila.md
       - House System/Eder.md
       - House System/Isami.md
       - House System/Ora.md
       - House System/Uzuri.md
-      - House System/House System.md
-      - House System/.keep
       - Aesthetics Programme.md
       - Community Outreach.md
       - Internships & Externships.md
