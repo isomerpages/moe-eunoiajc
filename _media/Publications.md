@@ -11,7 +11,9 @@ description: ""
 
 ### EJC Viewbook 2017-18
 
-[![epic](https://eunoiajc.moe.edu.sg/wp-content/uploads/2017/01/EPIC-1-1024x1024.png)](https://issuu.com/eunoiajc/docs/epic)
+<a href = "https://issuu.com/eunoiajc/docs/epic" target = "_self"> 
+          <img src="/images/EPIC-1-768x768.png" 
+     style="width:50%"></a>
 
 ### JIP Prospectus 2017-18
 
