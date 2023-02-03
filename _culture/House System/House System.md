@@ -37,7 +37,7 @@ The houses uphold their own distinct identity, including house colours, emblem
     <td class="tg-r28n" rowspan="2"><a href = "/culture/House-System/akila/" target = "_self"> 
           <img src="/images/Houses-Akila-Crest.png" 
      style="width:85%"></a></td>
-    <td class="tg-pxya"><span style="font-weight:bold;color:#CB0000">Akila House</span><span style="font-weight:bold"> </span>is represented by the colour red. Its house emblem is the <span style="font-weight:bold">eagle</span>.</td>
+    <td class="tg-pxya"><span style="font-weight:bold;color:#ED1C24">Akila House</span><span style="font-weight:bold"> </span>is represented by the colour red. Its house emblem is the <span style="font-weight:bold">eagle</span>.</td>
   </tr>
   <tr>
     <td class="tg-xsvg"><a href="/culture/House-System/akila/"><span style="text-decoration:none;color:#070632">ENTER AKILA HOUSE</span></a></td>
@@ -46,7 +46,7 @@ The houses uphold their own distinct identity, including house colours, emblem
     <td class="tg-r28n" rowspan="2"><a href = "/culture/House-System/eder/" target = "_self"> 
           <img src="/images/Houses-Eder-Crest.png" 
      style="width:85%"></a></td>
-    <td class="tg-pxya"><span style="font-weight:bold;color:#32CB00">Eder House</span><span style="font-weight:bold"> </span>is represented by the colour green. Its house emblem is the <span style="font-weight:bold">stallion</span>.</td>
+    <td class="tg-pxya"><span style="font-weight:bold;color:#22FF02">Eder House</span><span style="font-weight:bold"> </span>is represented by the colour green. Its house emblem is the <span style="font-weight:bold">stallion</span>.</td>
   </tr>
   <tr>
     <td class="tg-lswp"><a href="/culture/House-System/eder/"><span style="font-weight:bold;text-decoration:none;color:#070632">ENTER EDER HOUSE</span></a></td>
@@ -55,7 +55,7 @@ The houses uphold their own distinct identity, including house colours, emblem
     <td class="tg-nrix" rowspan="2"><a href = "/culture/House-System/isami/" target = "_self"> 
           <img src="/images/Houses-Isami-Crest.png" 
      style="width:85%"></a></td>
-    <td class="tg-pxya"><span style="font-weight:bold;color:#F56B00">Isami House</span><span style="font-weight:bold"> </span>is represented by the colour orange. Its house emblem is the <span style="font-weight:bold">wolf</span>.</td>
+    <td class="tg-pxya"><span style="font-weight:bold;color:#FF6600">Isami House</span><span style="font-weight:bold"> </span>is represented by the colour orange. Its house emblem is the <span style="font-weight:bold">wolf</span>.</td>
   </tr>
   <tr>
     <td class="tg-z9od"><a href="/culture/House-System/isami/"><span style="font-weight:bold;text-decoration:none;color:#070632">ENTER ISAMI HOUSE</span></a></td>
@@ -64,7 +64,7 @@ The houses uphold their own distinct identity, including house colours, emblem
     <td class="tg-nrix" rowspan="2"><a href = "/culture/House-System/ora/" target = "_self"> 
           <img src="/images/Houses-Ora-Crest.png" 
      style="width:85%"></a></td>
-    <td class="tg-pxya"><span style="font-weight:bold;color:#68CBD0">Ora House</span><span style="font-weight:bold;color:#38FFF8"> </span>is represented by the colour cyan. Its house emblem is the <span style="font-weight:bold">bison</span>.</td>
+    <td class="tg-pxya"><span style="font-weight:bold;color:#00C9FF">Ora House</span> is represented by the colour cyan. Its house emblem is the <span style="font-weight:bold">bison</span>.</td>
   </tr>
   <tr>
     <td class="tg-z9od"><a href="/culture/House-System/ora/"><span style="font-weight:bold;text-decoration:none;color:#070632">ENTER ORA HOUSE</span></a></td>
@@ -73,7 +73,7 @@ The houses uphold their own distinct identity, including house colours, emblem
     <td class="tg-r28n" rowspan="2"><a href = "/culture/House-System/uzuri/" target = "_self"> 
           <img src="/images/Houses-Uzuri-Crest.png" 
      style="width:85%"></a></td>
-    <td class="tg-pxya"><span style="font-weight:bold;color:#6200C9">Uzuri</span> House is represented by the colour purple. Its house emblem is the <span style="font-weight:bold">bear</span>.</td>
+    <td class="tg-pxya"><span style="font-weight:bold;color:#4E008E">Uzuri</span> House is represented by the colour purple. Its house emblem is the <span style="font-weight:bold">bear</span>.</td>
   </tr>
   <tr>
     <td class="tg-z9od"><a href="/culture/House-System/uzuri/"><span style="font-weight:bold;text-decoration:none;color:#070632">ENTER UZURI HOUSE</span></a></td>
