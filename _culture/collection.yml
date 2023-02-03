@@ -2,6 +2,7 @@ collections:
   culture:
     output: true
     order:
+      - House System/Isami.md
       - House System/Ora.md
       - House System/Uzuri.md
       - House System/House System.md
