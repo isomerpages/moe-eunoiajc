@@ -40,7 +40,11 @@ Mr Darren Chong and Ms Elizabeth Chin
 </tbody>
 </table>
 
+<br>
+
+
 ![](/images/Isami-2019-Commitee.jpeg)
+
 
 ### Committee
 
@@ -89,6 +93,7 @@ Mr Darren Chong and Ms Elizabeth Chin
 </tbody>
 </table>
 
+<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
