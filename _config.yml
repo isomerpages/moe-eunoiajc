@@ -2,11 +2,11 @@ title: Eunoia Junior College
 url: https://eunoiajc.moe.edu.sg
 favicon: /images/EJC-Crest.png
 colors:
-  primary-color: "#08245c"
-  secondary-color: "#08245c"
+  primary-color: "#00205b"
+  secondary-color: "#00205b"
   media-colors:
     - title: media-color-one
-      color: "#ffc629"
+      color: "#ffc72c"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
