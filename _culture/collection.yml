@@ -2,6 +2,7 @@ collections:
   culture:
     output: true
     order:
+      - Co Curricular Activities/Squash.md
       - Co Curricular Activities/Table Tennis.md
       - Co Curricular Activities/Taekwondo.md
       - Co Curricular Activities/Tennis.md
