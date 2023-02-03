@@ -2,5 +2,6 @@ collections:
   media:
     output: true
     order:
+      - Style Guide/Typography Guide.md
       - Style Guide/Writing Guide.md
       - Style Guide/.keep
