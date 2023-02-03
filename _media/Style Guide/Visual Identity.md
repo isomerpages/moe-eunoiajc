@@ -19,4 +19,21 @@ The Eunoia crest should be used with optimal readability and visibility in min
   <figcaption>CREST (L) AND SECONDARY CREST (R)</figcaption>
 </figure>
 
+### Wordmark
+
+The Eunoia wordmark or logotype employs FF Mark to represent the name of the college in a stylised setting. It should not be recreated using word processing or design applications, or substituted with alternative representations.
+
+It can be paired with the Eunoia crest in combination marks (see below). It can also be used as a standalone logo where the crest is already present. For instance, the crest is printed on the front of the college PE and polo t-shirts, with the wordmark appearing on the back of both.
+
+A simplified wordmark, bearing only 'eunoia', may also be used in small-scale applications where the words 'junior college' may not be rendered clearly.
+
+![](/images/Logo-Wordmark.png)
+
+###### WORDMARK
+
+### Combination Marks
+
+The Eunoia combination marks pair the Eunoia crest and wordmark in horizontal and vertical configurations. These are used when the name of the college is necessary for recognition by all stakeholders. The crest can only be paired with the wordmark, and authorised logotypes of departments, committees, and programmes.
+
+The vertical configuration is applied in settings where the crest and wordmark are the main feature and symmetry is preferred. These include signage, name cards and presentation slides.
 
