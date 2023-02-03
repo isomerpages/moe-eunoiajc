@@ -4,7 +4,7 @@ permalink: /culture/House-System/uzuri/
 description: ""
 third_nav_title: House System
 ---
-Dearest Cubs
+**Dearest Cubs**
 
 Welcome to our family! You may hail from different places and names, but you are now part of the winning Uzuri family. In this house, we believe that everyone matters and that every Cub is a winner. Regardless of your background, there is a place for all Cubs. In our eyes, you are a winner in your own right as long as you win graciously and respectfully.
 
