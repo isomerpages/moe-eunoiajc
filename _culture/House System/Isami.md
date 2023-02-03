@@ -39,3 +39,53 @@ Mr Darren Chong and Ms Elizabeth Chin
   </tr>
 </tbody>
 </table>
+
+![](/images/Isami-2019-Commitee.jpeg)
+
+### Committee
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 400px">
+<col style="width: 400px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-x5q1"><span style="font-weight:bold;font-style:normal">HOUSE MISTRESS</span><br><span style="font-weight:400;font-style:normal">Mr Darren Chong</span><br><span style="font-weight:400;font-style:normal"> </span><br><span style="font-weight:bold;font-style:normal">ASSISTANT HOUSE MISTRESS</span><br><span style="font-weight:400;font-style:normal">Ms Elizabeth Chin</span><br><span style="font-weight:400;font-style:normal"> </span><br><span style="font-weight:bold;font-style:normal">HOUSE CAPTAIN</span><br><span style="font-weight:400;font-style:normal">Ng Xuan Jie (22-I2)</span><br><span style="font-weight:400;font-style:normal"> </span><br><span style="font-weight:bold;font-style:normal">HOUSE VICE-CAPTAINS</span><br><span style="font-weight:400;font-style:normal">Clayton Rokson Lau (22-I4)</span><br><span style="font-weight:400;font-style:normal">Fung Ho Yeung Paxson (22-I5)</span><br></td>
+    <td class="tg-x5q1"><span style="font-weight:bold;font-style:normal">HOUSE REPRESENTATIVES</span><br><span style="font-weight:400;font-style:normal">Luke Chan Man En (22-I1)</span><br><span style="font-weight:400;font-style:normal">Gwenevere Yeap (22-I1)</span><br><span style="font-weight:400;font-style:normal">Astella Yip Enhui (22-I2)</span><br><span style="font-weight:400;font-style:normal">Charlotte Megan Lee Rui (22-I2)</span><br><span style="font-weight:400;font-style:normal">Gabriel Lee Jia You (22-I3)</span><br><span style="font-weight:400;font-style:normal">Wong Rui Xin (22-I3)</span><br><span style="font-weight:400;font-style:normal">Valerie Tan Ya Xin (22-I4)</span><br><span style="font-weight:400;font-style:normal">Kylie Wee Hui Xian (22-I4)</span><br><span style="font-weight:400;font-style:normal">Aw Ming Xuan (22-I5)</span><br><span style="font-weight:400;font-style:normal">Tan Ming Hwei Millicent (22-I5)</span><br><span style="font-weight:400;font-style:normal">Valerie Ang (22-I6)</span><br><span style="font-weight:400;font-style:normal">Chloe Tan (22-I6)</span><br></td>
+  </tr>
+</tbody>
+</table>
+
+
+### History
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 400px">
+<col style="width: 400px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-x5q1"><span style="font-weight:bold;font-style:normal">PAST HOUSE CAPTAINS</span><br><span style="font-weight:400;font-style:normal">Darren Sum (17-I4)</span><br><span style="font-weight:400;font-style:normal">Hazel Wong (18-I1)</span><br><span style="font-weight:400;font-style:normal">Julia Ng (19-I3)</span><br><span style="font-weight:400;font-style:normal">Andre Koh (20-I5)</span><br><span style="font-weight:400;font-style:normal">Clarianne Effendi (21-I6)</span><br><span style="font-weight:400;font-style:normal"> </span><br><span style="font-weight:bold;font-style:normal">PAST HOUSE VICE-CAPTAINS</span><br><span style="font-weight:400;font-style:normal">Kaelyn Neo (17-I1)</span><br><span style="font-weight:400;font-style:normal">Caspian Ng (17-I1)</span><br><span style="font-weight:400;font-style:normal">Tang Xin Ru (18-I2)</span><br><span style="font-weight:400;font-style:normal">Tan Jia Wen (18-I5)</span><br><span style="font-weight:400;font-style:normal">Lim Yong Xu (19-I3)</span><br><span style="font-weight:400;font-style:normal">Gwyneth Tan (19-I4)</span><br><span style="font-weight:400;font-style:normal">Ashley Tung (20-I2)</span><br><span style="font-weight:400;font-style:normal">Isabelle Lim (20-I4)</span><br><span style="font-weight:400;font-style:normal">Kaslyn Neo Kai Xin (21-I2)</span><br><span style="font-weight:400;font-style:normal">Lee Xin Ning (21-I4)</span><br></td>
+    <td class="tg-x5q1"><span style="font-weight:bold;font-style:normal">PAST HOUSE MASTERS AND MISTRESSES</span><br><span style="font-weight:400;font-style:normal">Mr Chuah Jun Jie</span><br><span style="font-weight:400;font-style:normal">Ms Iris Lee</span><br><span style="font-weight:400;font-style:normal">Ms Lu Jing</span><br><span style="font-weight:400;font-style:normal">Ms Elena Tan</span><br></td>
+  </tr>
+</tbody>
+</table>
+
