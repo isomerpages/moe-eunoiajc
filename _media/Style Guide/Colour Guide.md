@@ -100,3 +100,7 @@ images
   </tr>
 </tbody>
 </table>
+
+### House Colours
+
+![](/images/Colours-Houses-2048x293.png)
