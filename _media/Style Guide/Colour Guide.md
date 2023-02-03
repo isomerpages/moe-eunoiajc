@@ -74,7 +74,7 @@ Our expanded colour palette includes lighter and darker shades of the college c
 <br>
 
 <img src="/images/ColourPalette-2.png" 
-     style="width:85%">
+     style="width:100%">
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
