@@ -2,6 +2,8 @@ collections:
   culture:
     output: true
     order:
+      - Student Culture.md
+      - Co Curricular Activities/.keep
       - Co Curricular Activities/Co–Curricular Activities.md
       - Co Curricular Activities/Badminton.md
       - Co Curricular Activities/Basketball.md
@@ -32,7 +34,6 @@ collections:
       - Co Curricular Activities/Service Learning.md
       - Co Curricular Activities/Visual Arts.md
       - Co Curricular Activities/Student Council.md
-      - Co Curricular Activities/.keep
       - Student Council.md
       - House System/.keep
       - House System/House System.md
@@ -45,4 +46,3 @@ collections:
       - Community Outreach.md
       - Internships & Externships.md
       - Physical Education.md
-      - Student Culture.md
