@@ -2,6 +2,7 @@ collections:
   culture:
     output: true
     order:
+      - Co Curricular Activities/Outdoor Adventure club (ODAC).md
       - Co Curricular Activities/Press.md
       - Co Curricular Activities/Service Learning.md
       - Co Curricular Activities/Visual Arts.md
