@@ -7,7 +7,8 @@ third_nav_title: Co Curricular Activities
 ### CCA Schedule
 
 **Tueday**  
-5.00 - 8.00pmMulti-Purpose Hall
+5.00 - 8.00pm   
+Multi-Purpose Hall
 
 **Thursday**  
 5.00 - 8.00pm  
