@@ -5,7 +5,7 @@ description: ""
 ---
 ##### MEDIA RELEASES
 
-[Eunoia Junior College Updates](https://eunoiajc.moe.edu.sg/wp-content/uploads/2016/08/2016-08-03-Eunoia-Junior-College-Updates.pdf), 3 Aug 2016  
+[Eunoia Junior College Updates](/files/2016-08-03-Eunoia-Junior-College-Updates.pdf), 3 Aug 2016  
 [Be The First- Eunoia Junior College Outreach Event](https://eunoiajc.moe.edu.sg/wp-content/uploads/2016/08/2016-04-20-Be-The-First.zip),  20 Apr 2016  
 [New Government Junior College To Be Named Eunoia Junior College](https://www.moe.gov.sg/news/press-releases/new-government-junior-college-to-be-named-eunoia-junior-college),  29 Dec 2015
 
