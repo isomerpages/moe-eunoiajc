@@ -10,7 +10,7 @@ third_nav_title: Co Curricular Activities
 5.00 - 7.30pm  
 MEP Studios / LT2 / LT3
 
-**Friday**
+**Friday**   
 5.00 - 7.30pm  
 MEP Studios / LT2 / LT3
 
