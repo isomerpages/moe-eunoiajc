@@ -37,3 +37,11 @@ The Eunoia combination marks pair the Eunoia crest and wordmark in horizontal an
 
 The vertical configuration is applied in settings where the crest and wordmark are the main feature and symmetry is preferred. These include signage, name cards and presentation slides.
 
+![](/images/Logo-CrestWM-V_Colours.png)
+
+###### COMBINATION MARK - VERTICAL CONFIGURATION
+
+The horizontal configuration should be applied where a wide space needs to be filled or where there is limited vertical space. Examples of such environments include document headers, digital headers, graphical user interfaces and signage.
+
+![](/images/Logo-CrestWM-H_Colours.png)
+###### COMBINATION MARK - HORIZONTAL CONFIGURATION
