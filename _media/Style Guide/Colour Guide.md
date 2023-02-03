@@ -38,7 +38,9 @@ Black and grey are also used in the primary palette. Pantone Coated Black 6C and
 
 Our expanded colour palette includes lighter and darker shades of the college colours, the colours of our five Houses, and the colours of our Joint Integrated Programme partner schools. This diverse palette gives us a personality that is bright, invigorating and impactful. It is used in publicity collaterals, digital communications, student collaterals and spatial graphics.
 
-images here
+<img src="/images/ColourPalette-1.png" 
+     style="width:85%">
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
