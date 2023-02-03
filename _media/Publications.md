@@ -3,3 +3,16 @@ title: Publications
 permalink: /media/publications/
 description: ""
 ---
+### EJC Prospectus 2017-18
+
+<a href = "https://issuu.com/eunoiajc/docs/beautiful_thinking" target = "_self"> 
+          <img src="/images/EJC-Prospectus-2017-18-768x1091.png" 
+     style="width:50%"></a>
+
+### EJC Viewbook 2017-18
+
+[![epic](https://eunoiajc.moe.edu.sg/wp-content/uploads/2017/01/EPIC-1-1024x1024.png)](https://issuu.com/eunoiajc/docs/epic)
+
+### JIP Prospectus 2017-18
+
+[![JIP Prospectus](https://eunoiajc.moe.edu.sg/wp-content/uploads/2016/08/JIP-Prospectus-800x1024.png)](https://issuu.com/eunoiajc/docs/jip_prospectus_2017-18)
