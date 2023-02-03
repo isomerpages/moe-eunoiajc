@@ -2,6 +2,7 @@ collections:
   culture:
     output: true
     order:
+      - Co Curricular Activities/Floorball.md
       - Co Curricular Activities/Ultimate Frisbee.md
       - Co Curricular Activities/Hockey.md
       - Co Curricular Activities/Netball.md
