@@ -4,9 +4,12 @@ permalink: /culture/House-System/akila/
 description: ""
 third_nav_title: House System
 ---
+**Young Eaglets of Akila,**
 
+Within your wings there is limitless potential to soar to untold heights. After all, we are the only creatures here blessed with the gift of flight. We can surmount any obstacle, we can transcend any frontier, we can rise above any mountain. This power we have always used for good: our sharp sight to watch for trouble in the lands below us, our lofty position to guide and rule with wisdom and kindness. It is our wish that you carry on this legacy as the most gifted and able from your land. Despite our diversity, we hope that you will unite, using our strengths to protect our aerie and making sure that no eagle is left behind. Together we conquer the skies!
 
-
+Your House Masters  
+Mr Daniel Kwan and Mr Justin Lim
 
 <br>
 
