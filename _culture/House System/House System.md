@@ -4,8 +4,6 @@ permalink: /culture/House-System/houses/
 description: ""
 third_nav_title: House System
 ---
-
-
 ### Five Houses, One Eunoia
 
 Houses are the heartbeat of Eunoia. The Eunoia House System seeks to promote college experiences through deeper engagement with students in a closer, tightly knit community. Five houses exist to divide the college population into small, permanent, cross-sectional, teacher-led and student-initiated, family-like communities that foster both learning and loyalty. They are led by their respective student-elected House Captains and House Committees, under the guidance of their House Mistresses / Masters.
@@ -36,49 +34,49 @@ The houses uphold their own distinct identity, including house colours, emblem
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-r28n" rowspan="2"><a href = "linkhere" target = "_self"> 
+    <td class="tg-r28n" rowspan="2"><a href = "/culture/House-System/akila/" target = "_self"> 
           <img src="/images/Houses-Akila-Crest.png" 
      style="width:85%"></a></td>
     <td class="tg-pxya"><span style="font-weight:bold;color:#CB0000">Akila House</span><span style="font-weight:bold"> </span>is represented by the colour red. Its house emblem is the <span style="font-weight:bold">eagle</span>.</td>
   </tr>
   <tr>
-    <td class="tg-xsvg"><a href="https://eunoiajc.moe.edu.sg/culture/houses/akila/"><span style="text-decoration:none;color:#070632">ENTER AKILA HOUSE</span></a></td>
+    <td class="tg-xsvg"><a href="/culture/House-System/akila/"><span style="text-decoration:none;color:#070632">ENTER AKILA HOUSE</span></a></td>
   </tr>
   <tr>
-    <td class="tg-r28n" rowspan="2"><a href = "linkhere" target = "_self"> 
+    <td class="tg-r28n" rowspan="2"><a href = "/culture/House-System/eder/" target = "_self"> 
           <img src="/images/Houses-Eder-Crest.png" 
      style="width:85%"></a></td>
     <td class="tg-pxya"><span style="font-weight:bold;color:#32CB00">Eder House</span><span style="font-weight:bold"> </span>is represented by the colour green. Its house emblem is the <span style="font-weight:bold">stallion</span>.</td>
   </tr>
   <tr>
-    <td class="tg-lswp"><a href="https://eunoiajc.moe.edu.sg/culture/houses/eder/"><span style="font-weight:bold;text-decoration:none;color:#070632">ENTER EDER HOUSE</span></a></td>
+    <td class="tg-lswp"><a href="/culture/House-System/eder/"><span style="font-weight:bold;text-decoration:none;color:#070632">ENTER EDER HOUSE</span></a></td>
   </tr>
   <tr>
-    <td class="tg-nrix" rowspan="2"><a href = "linkhere" target = "_self"> 
+    <td class="tg-nrix" rowspan="2"><a href = "/culture/House-System/isami/" target = "_self"> 
           <img src="/images/Houses-Isami-Crest.png" 
      style="width:85%"></a></td>
     <td class="tg-pxya"><span style="font-weight:bold;color:#F56B00">Isami House</span><span style="font-weight:bold"> </span>is represented by the colour orange. Its house emblem is the <span style="font-weight:bold">wolf</span>.</td>
   </tr>
   <tr>
-    <td class="tg-z9od"><a href="https://eunoiajc.moe.edu.sg/culture/houses/isami/"><span style="font-weight:bold;text-decoration:none;color:#070632">ENTER ISAMI HOUSE</span></a></td>
+    <td class="tg-z9od"><a href="/culture/House-System/isami/"><span style="font-weight:bold;text-decoration:none;color:#070632">ENTER ISAMI HOUSE</span></a></td>
   </tr>
   <tr>
-    <td class="tg-nrix" rowspan="2"><a href = "linkhere" target = "_self"> 
+    <td class="tg-nrix" rowspan="2"><a href = "/culture/House-System/ora/" target = "_self"> 
           <img src="/images/Houses-Ora-Crest.png" 
      style="width:85%"></a></td>
     <td class="tg-pxya"><span style="font-weight:bold;color:#68CBD0">Ora House</span><span style="font-weight:bold;color:#38FFF8"> </span>is represented by the colour cyan. Its house emblem is the <span style="font-weight:bold">bison</span>.</td>
   </tr>
   <tr>
-    <td class="tg-z9od"><a href="https://eunoiajc.moe.edu.sg/culture/houses/ora/"><span style="font-weight:bold;text-decoration:none;color:#070632">ENTER ORA HOUSE</span></a></td>
+    <td class="tg-z9od"><a href="/culture/House-System/ora/"><span style="font-weight:bold;text-decoration:none;color:#070632">ENTER ORA HOUSE</span></a></td>
   </tr>
   <tr>
-    <td class="tg-r28n" rowspan="2"><a href = "linkhere" target = "_self"> 
+    <td class="tg-r28n" rowspan="2"><a href = "/culture/House-System/uzuri/" target = "_self"> 
           <img src="/images/Houses-Uzuri-Crest.png" 
      style="width:85%"></a></td>
     <td class="tg-pxya"><span style="font-weight:bold;color:#6200C9">Uzuri</span> House is represented by the colour purple. Its house emblem is the <span style="font-weight:bold">bear</span>.</td>
   </tr>
   <tr>
-    <td class="tg-z9od"><a href="https://eunoiajc.moe.edu.sg/culture/houses/uzuri/"><span style="font-weight:bold;text-decoration:none;color:#070632">ENTER UZURI HOUSE</span></a></td>
+    <td class="tg-z9od"><a href="/culture/House-System/uzuri/"><span style="font-weight:bold;text-decoration:none;color:#070632">ENTER UZURI HOUSE</span></a></td>
   </tr>
 </tbody>
 </table>
