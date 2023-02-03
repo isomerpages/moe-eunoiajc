@@ -27,9 +27,11 @@ It can be paired with the Eunoia crest in combination marks (see below). It can 
 
 A simplified wordmark, bearing only 'eunoia', may also be used in small-scale applications where the words 'junior college' may not be rendered clearly.
 
-![](/images/Logo-Wordmark.png)
 
-###### WORDMARK
+<figure>
+  <img src="/images/Logo-Wordmark.png" alt="Image description">
+  <figcaption>WORDMARK</figcaption>
+</figure>
 
 ### Combination Marks
 
@@ -37,11 +39,14 @@ The Eunoia combination marks pair the Eunoia crest and wordmark in horizontal an
 
 The vertical configuration is applied in settings where the crest and wordmark are the main feature and symmetry is preferred. These include signage, name cards and presentation slides.
 
-![](/images/Logo-CrestWM-V_Colours.png)
-
-###### COMBINATION MARK - VERTICAL CONFIGURATION
+<figure>
+  <img src="/images/Logo-CrestWM-V_Colours.png" alt="Image description">
+  <figcaption>COMBINATION MARK - VERTICAL CONFIGURATION</figcaption>
+</figure>
 
 The horizontal configuration should be applied where a wide space needs to be filled or where there is limited vertical space. Examples of such environments include document headers, digital headers, graphical user interfaces and signage.
 
-![](/images/Logo-CrestWM-H_Colours.png)
-###### COMBINATION MARK - HORIZONTAL CONFIGURATION
+<figure>
+  <img src="/images/Logo-CrestWM-H_Colours.png" alt="Image description">
+  <figcaption>COMBINATION MARK - HORIZONTAL CONFIGURATION</figcaption>
+</figure>
