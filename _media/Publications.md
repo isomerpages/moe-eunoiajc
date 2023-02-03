@@ -17,4 +17,7 @@ description: ""
 
 ### JIP Prospectus 2017-18
 
-[![JIP Prospectus](https://eunoiajc.moe.edu.sg/wp-content/uploads/2016/08/JIP-Prospectus-800x1024.png)](https://issuu.com/eunoiajc/docs/jip_prospectus_2017-18)
+
+<a href = "https://issuu.com/eunoiajc/docs/jip_prospectus_2017-18" target = "_self"> 
+          <img src="/images/JIP-Prospectus-800x1024.png" 
+     style="width:50%"></a>
