@@ -11,6 +11,32 @@ Within your wings there is limitless potential to soar to untold heights. After 
 Your House Masters  
 Mr Daniel Kwan and Mr Justin Lim
 
+
+### Identity
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-gqad{font-size:16px;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 824px">
+<colgroup>
+<col style="width: 395px">
+<col style="width: 429px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-x5q1"><span style="font-weight:bold;font-style:normal">HOUSE EMBLEM</span><br><span style="font-weight:400;font-style:normal">The eagle is a symbol of power, freedom and transcendence. </span><br><br><span style="font-weight:bold;font-style:normal">HOUSE CHEER</span><br><span style="font-weight:400;font-style:normal">Akila, who are we?</span><br><span style="font-weight:400;font-style:normal">Who who who are we?</span><br><span style="font-weight:400;font-style:normal">Ah Ah Akila!</span><br><span style="font-weight:400;font-style:normal">Who who who are we</span><br><span style="font-weight:400;font-style:normal">Ah Ah Akila!</span><br><span style="font-weight:400;font-style:normal">Akilaaaaaa</span><br><span style="font-weight:400;font-style:normal">I said brr it’s cold in here</span><br><span style="font-weight:400;font-style:normal">There must be Akila in the atmosphere</span><br><span style="font-weight:400;font-style:normal">I said brr it’s cold in here</span><br><span style="font-weight:400;font-style:normal">There must be some eagles in the atmosphere</span><br><span style="font-weight:400;font-style:normal">I said sst it’s hot in here</span><br><span style="font-weight:400;font-style:normal">There must be Akila in the atmosphere</span><br><span style="font-weight:400;font-style:normal">I said sst it’s hot in here</span><br><span style="font-weight:400;font-style:normal">There must be some champions in the atmosphere</span><br><span style="font-weight:400;font-style:normal">Ah-akila ah-ah-akila</span><br><span style="font-weight:400;font-style:normal">Ah-akila ah-ah-akila</span></td>
+    <td class="tg-gqad"><img src="/images/Houses-Akila-Crest.png" 
+     style="width:100%"></td>
+  </tr>
+</tbody>
+</table>
+
 <br>
 
 
