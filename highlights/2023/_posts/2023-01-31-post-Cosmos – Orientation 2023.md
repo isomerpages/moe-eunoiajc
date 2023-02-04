@@ -28,3 +28,70 @@ Assembly will be held at the **Auditorium**. Flag raising begins at 8 am.
 ##### REPORTING VENUE
 
 Auditorium (Levels 1 and 2)
+
+![](/images/Ori-2022_Campus.png)
+
+
+Please also bring a **water bottle** and some **writing materials**.
+
+Our OGLs will contact you shortly after the release of the JAE Posting Results to provide the above information and to answer any immediate queries you may have. The full Orientation programme will be communicated to you on the first day.
+
+For additional information, contact us at 6351 8388 or [**eunoiajc@moe.edu.sg**](mailto:eunoiajc@moe.edu.sg).
+
+We look forward to seeing you real soon!
+
+### Selection and Diagnostic Tests
+
+#### H2 Music
+
+**Diagnostic / Selection Test, Audition and Interview:** 3 Feb 2023, 2 - 4 pm (MEP Studio 1)
+
+Students with a <u>pass in O-Level Music/Higher Music</u> intending to take H2 Music will take a DIAGNOSTIC TEST, AUDITION and INTERVIEW.
+
+Students <u>without O-Level Music / Higher Music</u> intending to take H2 Music will take a SELECTION TEST, AUDITION and INTERVIEW
+
+Students who wish to take Music must attend the diagnostic/selection test and Audition for the teachers to support curricular design that better meets their learning.
+
+For clarification, please contact Dr Gooi Tah Choe <[gooi.tah.choe@ejc.edu.sg](mailto:gooi.tah.choe@ejc.edu.sg)\> or Mr Lee Ji Heng <[lee.ji.heng@ejc.edu.sg](mailto:lee.ji.heng@ejc.edu.sg)\>.
+
+#### H2 Art
+
+**Diagnostic Test, Drawing Test & Portfolio Interview:** 3 Feb 2023, 2 - 5pm (Art Room)
+
+Students with O-Level Art Background who wish to take Art will take a DIAGNOSTIC TEST and portfolio INTERVIEW.
+
+Students without Upper Sec Art Background who wish to take Art will take a DIAGNOSTIC TEST, DRAWING TEST and portfolio INTERVIEW.
+
+Students who wish to take Art must attend the diagnostic/drawing test and portfolio interview for the teachers to support curricular design that better meets their learning.
+
+For the diagnostic test, please bring along drawing material (e.g. pencils, coloured pencils & writing material). For portfolio interview, please bring along 7-10 pieces of original artworks. Digital portfolio is allowed but must be saved in a thumb drive.
+
+For clarification, please contact Ms Quek Jia Qi <[quek.jia.qi@ejc.edu.sg](mailto:quek.jia.qi@ejc.edu.sg)\>
+
+#### H2 Translation (Chinese)
+
+**Selection Test:** 3 Feb 2023, 10 - 11 am (LT1)
+
+To offer Translation (Chinese), students must have obtained a minimum of A2 for English Language and B3 for Higher Chinese or A2 for Chinese at GCE O-Level.
+
+It is not compulsory for you to take the diagnostic test if you have met the above centrally-stated prerequisites. This is a DIAGNOSTIC TEST for students who have met the centrally stated pre-requisite. It allows prospective students to assess their aptitude for the subject and for teachers to support curricular design that better meets their learning.
+
+Students who have fulfilled only one of the above prerequisites and intend to offer H2 Translation (Chinese) should take this as a qualifying test for the college to assess your suitability.
+
+For clarification, please contact Mr Chng Tsu Pang <[chng.tsu.pang@ejc.edu.sg](mailto:chng.tsu.pang@ejc.edu.sg)\>
+
+#### H2 Further Mathematics
+
+**Selection Test:** 3 Feb 2023, 3.30 - 5 pm (LT1)
+
+Students who wish to take Further Mathematics must have taken and passed the SELECTION TEST.
+
+For clarification, please contact Mr Kuang Kim Chun <[kuang.kim.chun@ejc.edu.sg](mailto:kuang.kim.chun@ejc.edu.sg)\>
+
+#### H2 Knowledge & Inquiry
+
+**Selection Test:** 3 Feb 2023, 1.30 - 3 pm (LT1)
+
+Students who wish to take Knowledge & Inquiry must have taken and passed the SELECTION TEST.
+
+For clarification, please contact Mr Perrin Singarayar <[perrin.singarayar@ejc.edu.sg](mailto:perrin.singarayar@ejc.edu.sg)\>
