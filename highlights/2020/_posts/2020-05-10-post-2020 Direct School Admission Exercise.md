@@ -6,3 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/2020DSA_Banner.jpeg)
+
+The 2020 Direct School Admission (DSA-JC) exercise for admission into JC1 in 2021 opens on **11 May 2020**. The college is looking for outstanding individuals in the following areas:
+
