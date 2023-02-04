@@ -118,11 +118,10 @@ Interested students should fill in the online application via our DSA applicatio
 
 Applicants go through **three** **selection** **phases**: (i) shortlisting; (ii) video conferencing selection exercise; and (iii) panel e-interview.
 
-\-
+
 
 ##### **PHASE 1 - SHORTLISTING**
 
-\-
 
 ##### SPORTS
 
@@ -130,9 +129,8 @@ Students should demonstrate passion and strong ability in their niche area.
 
 They should meet one or more of the following criteria:
 
-\- Achievement / awards in international / regional / national / zonal competitions;
-
-\- Represented the Country or Singapore Schools
+* Achievement / awards in international / regional / national / zonal competitions;
+* Represented the Country or Singapore Schools
 
 ##### PERFORMING ARTS
 
@@ -140,9 +138,8 @@ Students should demonstrate passion and strong ability in their niche area.
 
 They should meet one or more of the following criteria:
 
-\- Achievement / awards in international / regional / national competitions;
-
-\- Participated in Singapore Youth Festival.
+* Achievement / awards in international / regional / national competitions;
+* Participated in Singapore Youth Festival.
 
 ##### BILINGUALISM
 
@@ -150,49 +147,38 @@ Students should demonstrate passion and strong ability in the English and Chines
 
 They should meet one or more of the following criteria:
 
-\- Consistently attained distinctions in O-Level English Language, as well as either Chinese or Higher Chinese at secondary school examinations.
-
-\- Achievement/awards in competitions, essays, projects that shows passion and flair in both English and Chinese Language.
-
-\- Strong interest to learn about the Western and Chinese cultures.
+* Consistently attained distinctions in O-Level English Language, as well as either Chinese or Higher Chinese at secondary school examinations.
+* Achievement/awards in competitions, essays, projects that shows passion and flair in both English and Chinese Language.
+* Strong interest to learn about the Western and Chinese cultures.
 
 ##### HUMANITIES PROGRAMME
 
 Students should have overall consistently strong academic results, demonstrate passion and strong ability in the humanities, and have good CCA/ holistic contributions.
 
 They should meet one or more of the following criteria:
-
-\- Consistently attained distinctions in O-Level English Language and one or more Humanities subjects at secondary school examinations.
-
-\- Strong and heightened interest in global and local issues, with a unique personal voice.
-
-\- Balanced reading diet (beyond textbooks and literature texts).
+* Consistently attained distinctions in O-Level English Language and one or more Humanities subjects at secondary school examinations.
+* Strong and heightened interest in global and local issues, with a unique personal voice.
+* Balanced reading diet (beyond textbooks and literature texts).
 
 ##### MUSIC ELECTIVE PROGRAMME
 
 Students should demonstrate passion and strong ability in music.
 
 They should meet one or more of the following criteria:
-
-\- Consistently attained distinctions in O-Level Music or Higher Music at secondary school examinations.
-
-\- Achievement / awards in music performing or composing.
-
-\- Participation in national-level music ensembles, e.g. Singapore National Youth Orchestra (SNYO), Singapore National Youth Chinese Orchestra (SNYCO).
+* Consistently attained distinctions in O-Level Music or Higher Music at secondary school examinations.
+* Achievement / awards in music performing or composing.
+* Participation in national-level music ensembles, e.g. Singapore National Youth Orchestra (SNYO), Singapore National Youth Chinese Orchestra (SNYCO).
 
 ##### LEADERSHIP
 
 Student leaders should have qualities aligned to our College Vision:
-
-\- Youth with Passion: one with the passion and the conviction to lead in various capacity (in social causes, student leadership bodies, school population and the community)
-
-\- Thinker with Heart: one with the heart to serve by inspiring and influencing others with initiative, dedication and empathy
-
-\- Leader with Courage: one with the moral courage to do what is right, the confidence to speak up for others, the integrity to do right by the community
+* Youth with Passion: one with the passion and the conviction to lead in various capacity (in social causes, student leadership bodies, school population and the community)
+* Thinker with Heart: one with the heart to serve by inspiring and influencing others with initiative, dedication and empathy
+* Leader with Courage: one with the moral courage to do what is right, the confidence to speak up for others, the integrity to do right by the community
 
 They should meet the following criterion:
 
-\- A portfolio consisting of supporting documents of your leadership experiences and reflections of those experiences.  
+* A portfolio consisting of supporting documents of your leadership experiences and reflections of those experiences.  
 
 
 ##### **PHASE 2 - VIDEO CONFERENCING SELECTION EXERCISE**
@@ -223,7 +209,6 @@ i) Two samples of writing (one in English; one in Chinese – could include scho
 
 ii) A 500-word personal statement on "What does being bilingual mean in the current world context?”现今社会，双语人才应该具备哪些条件？
 
-\-
 
 ##### **HUMANITIES PROGRAMME**
 
@@ -231,7 +216,6 @@ i) Two samples of writing: school essays can be included
 
 ii) A 500-word response to "What is the value of the Humanities in today's world?"
 
-\-
 
 ##### **MUSIC ELECTIVE PROGRAMME**
 
@@ -240,8 +224,6 @@ i) A music composition (up to 3 minutes)
 ii) A 500-word personal statement on "How do you envision yourself contributing to EJC's music and aesthetics scene as a Eunoia MEP student?"
 
 iii) An audition video (5-10 minutes)
-
-\-
 
 ##### **LEADERSHIP**
 
