@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Our Beginning
-=============
+## Our Beginning
 
 Eunoia Junior College operated from its interim campus at 53 Mount Sinai Road from 2017 to 2019, while construction of its permanent home on Sin Ming Avenue was ongoing. Before welcoming its first cohort of students, the college was situated in nearby offices at the Ministry of Education (Ghim Moh) headquarters and the Singapore Centre for Chinese Language in 2015 and 2016 respectively.
 
@@ -19,8 +18,7 @@ To meet the needs of a modern junior college curriculum, rejuvenation works at t
 ![](/images/mtsinai-4.png)
 ![](/images/mtsinai-5.png)
 
-Our Home
-========
+## Our Home
 
 The college's pioneering cohorts would find a home at our Mount Sinai campus. For some, the day began with a shuttle bus from MRT stations as far as Bedok and Sembawang. For many, reaching school meant a short ride on bus service 92 from Buona Vista station or a slightly longer walk from Commonwealth Ave West or Holland Road. Morning assembly started at 8 am in the hall and the quickening of footsteps could be heard from 7.55 am as the march-in music played.
 
@@ -38,3 +36,20 @@ Amidst the gruelling training and fun, much of Eunoia's history took place in th
 ![](/images/mtsinai-9.png)
 ![](/images/mtsinai-10.png)
 
+## Our Gratitude
+
+After the 2019 A-Level Examination concluded in early December, the college began its campus shift operations. A group of Eunoians from the Class of 2019 started _Project Mohmento_ in July to gather notes of appreciation for the stall owners at Ghim Moh and visited them in December to personally thank them for being a part of their life at Eunoia Junior College. In an email to their peers, they wrote:
+
+> On 4th Dec, Project Mohmento went down to Ghim Moh to deliver the postcards we've all written to appreciate the hawkers and people who contributed to our memories at Mount Sinai. The pictures we have with them are attached. As we conclude our journey here, we would like to thank everyone for making this project a meaningful ending note for Mount Sinai.
+> 
+> The hawkers have expressed both their gratitude and their dejection that they've not just lost any random customer, but people who've integrated into the Ghim Moh community the past 3 years. Thank you for all the support you have given us, and we are sure that Ghim Moh would never forget the mohmentos of gratitude and love, and the same for all of us! 🙂 Remember to come back for the food!
+
+
+<table>
+  <tr>
+    <td align="right"><b><em>ALASTAIR, ALYSSA, ELIJAH, ELIZABETH, GERALD, MIN HAN, JOLYN AND LONG HAO</em></b></td>
+  </tr>
+</table>
+
+
+The Eunoia community is thankful for the memories at Mount Sinai. Even as we look forward to our new home in Bishan, we regard the time at our first home as fond, most beautiful years.
