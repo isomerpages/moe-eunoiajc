@@ -17,7 +17,7 @@ sections:
           url: /2022-dsa
         - title: Highlights
           description: 2021 A-Level Results
-          url: /2021-results
+          url: /highlights/2022/2021-results/
   - infopic:
       title: JC1 Scholarship & Award Recipients 2022
       subtitle: NEWS
