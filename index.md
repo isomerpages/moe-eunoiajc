@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Highlights
           description: OH EUNOIA! 2023 – 13 Jan
-          url: /oh2023/
+          url: /highlights/2022/oh2023/
         - title: Highlights
           description: 2022 Direct School Admission
           url: /2022-dsa
