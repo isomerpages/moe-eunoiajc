@@ -53,3 +53,5 @@ After the 2019 A-Level Examination concluded in early December, the college bega
 
 
 The Eunoia community is thankful for the memories at Mount Sinai. Even as we look forward to our new home in Bishan, we regard the time at our first home as fond, most beautiful years.
+
+![](/images/mtsinai-11.png)
