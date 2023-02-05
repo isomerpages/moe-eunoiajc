@@ -54,8 +54,9 @@ Together we move the world. Travel to the world's fastest-growing city and cultu
 
 What’s next? Only the next greater you. Discover more at our Open House on 16 Jan 2019.
 
-[Programme](/highlights/2018/oh2019/)
-
-[Follow Us](https://www.instagram.com/eunoiajc)
-
+[Programme](/highlights/2018/oh2019/)   
+[Follow Us](https://www.instagram.com/eunoiajc)   
 [Ask Us](https://ask.fm/eunoiajc)
+
+
+<center><h2>Make Your Next Move<br>16 Jan 2019<br>9am - 4pm</h2></center>
