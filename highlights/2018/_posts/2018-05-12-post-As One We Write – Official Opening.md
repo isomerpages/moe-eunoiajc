@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/AOWW18_Banner1.jpg)
+
+<center><b>Eunoia Junior College</b><br>Official Opening<br>5 May 2018</center>
