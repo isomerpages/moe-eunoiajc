@@ -15,7 +15,7 @@ Hello and a warmest welcome&nbsp;to the Eunoia family! You complete us, and with
 **Mrs Kellie Woo**  
 Dean
 
-<img style="width:45%" src="/images/Odyssey.png">
+<img style="width:55%" src="/images/Odyssey.png">
 
 
 ### The Odyssey Begins
