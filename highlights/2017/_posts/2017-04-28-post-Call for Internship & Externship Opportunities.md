@@ -56,3 +56,8 @@ Eunoia Junior College is currently sourcing for a variety of opportunities to pr
   </tr>
 </tbody>
 </table>
+
+Eunoia Junior College is keen to explore the above opportunities by liaising directly with partners or organisations. If your organisation is keen to partner us or if you would like to provide us contact information of potential partners, please send an email to [**eunoiajc@moe.edu.sg**](mailto:eunoiajc@moe.edu.sg) or contact us at **6351 8388**.
+
+Thank you.
+
