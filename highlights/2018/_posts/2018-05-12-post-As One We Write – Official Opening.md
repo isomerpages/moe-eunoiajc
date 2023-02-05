@@ -68,3 +68,7 @@ The resident emcees for the Feast segment,&nbsp;Gilliam Lam (18-A1) and Lek Sian
 As the sun set and the long day became night, there was to be one more reminder of the Eunoia story that has been written and can be written&nbsp;— a long line of balloons that rose ever higher, flying, shining in the night sky.
 
 <center><em>Eunoia is now complete, a dream made reality in a kaleidoscope of colour and talent. We celebrate our journey thus far, and we promise to light the way forward for everyone we meet along the way.</em></center>
+
+![](/images/aoww-4.png)
+
+###### PHOTOS BY CINDY YU, CLYDE LHUI, JAYDEN SIM, JUSTIN DE COTTA, SANDRA TAN AND YAU YU HAO
