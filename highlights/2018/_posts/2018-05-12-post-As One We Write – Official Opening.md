@@ -54,3 +54,17 @@ Beautiful thinking, goodwill to all. Words that every Eunoian would identify wit
 ![](/images/aoww-3.png)
 
 <center><em>Eunoians are visionaries&nbsp;— our pioneers dreamed and built a junior college on the ideals of beautiful thinking and goodwill to all. We are trailblazers, guided by a sense of service and purpose for our fellow people. Hear our story.&nbsp;Look at our journey of writing Eunoia's history, destiny and legacy.</em></center>
+
+![](/images/AOWW18_Banner2.jpg)
+
+### Feast
+
+No celebration in Eunoia would be complete without food, music and dance. Tucking into bento boxes with their classes, our Eunoians staged their own picnic in the courtyard.
+
+The roving Music Caravan too made its way to the grandstand, serenading all with tunes from Donavan Bay (17-E5), Jelita Jaimon (17-U1), Nigel Goh (17-U4) and Twinkle Shakthi (18-I1) and the signature dance moves of XYZ, comprising Kwek Xiu Qi, Lam Kai Yi (both 17-I4) and Lim Zhineng (17-U4).
+
+The resident emcees for the Feast segment,&nbsp;Gilliam Lam (18-A1) and Lek Siang Ern (18-U1), added to the festive mood, urging our Eunoians to their feet and end the night with a dance-off between JC1s and JC2s.
+
+As the sun set and the long day became night, there was to be one more reminder of the Eunoia story that has been written and can be written&nbsp;— a long line of balloons that rose ever higher, flying, shining in the night sky.
+
+<center><em>Eunoia is now complete, a dream made reality in a kaleidoscope of colour and talent. We celebrate our journey thus far, and we promise to light the way forward for everyone we meet along the way.</em></center>
