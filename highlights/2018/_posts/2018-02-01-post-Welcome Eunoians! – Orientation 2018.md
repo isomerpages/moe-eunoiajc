@@ -43,9 +43,9 @@ The sale of&nbsp;**uniforms**&nbsp;will be held on 5&nbsp;Feb 2018 (Mon) and 6 F
 
 ### Embarkation Point
 
-We are located at 53 Mount Sinai Road, Singapore 276880. For directions, you may&nbsp;refer to our&nbsp;**[Mount Sinai campus](https://eunoiajc.moe.edu.sg/about/campus/)**&nbsp;page.
+We are located at 53 Mount Sinai Road, Singapore 276880. For directions, you may&nbsp;refer to our&nbsp;[Mount Sinai campus](https://eunoiajc.moe.edu.sg/about/campus/)&nbsp;page.
 
-If you are travelling via public transport, our student-leaders will be waiting&nbsp;to welcome you at&nbsp;Buona Vista MRT station (EW21 and CC22).&nbsp;You can then take bus service&nbsp;[**92**](https://www.transitlink.com.sg/eservice/eguide/service_route.php?service=92)&nbsp;from the bus stop closer to the East-West Line station and The Star Vista, and alight at the bus stop 112131 (Aft Grove Rd).
+If you are travelling via public transport, our student-leaders will be waiting&nbsp;to welcome you at&nbsp;Buona Vista MRT station (EW21 and CC22).&nbsp;You can then take bus service&nbsp;[92](https://www.transitlink.com.sg/eservice/eguide/service_route.php?service=92)&nbsp;from the bus stop closer to the East-West Line station and The Star Vista, and alight at the bus stop 112131 (Aft Grove Rd).
 
 Alternatively, you can&nbsp;take a ten-minute walk from Buona Vista MRT station through Ghim Moh estate to our campus.
 
