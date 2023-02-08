@@ -101,7 +101,7 @@ The 2022 Joint Admissions Exercise (JAE) Appeal Exercise is for students who hav
 Hello to our newest Eunoians! Read on for more information on your first day in Eunoia (7 Feb 2022) and the ways you’ll level up throughout Orientation 2022!
 
 -----
-[Thank You, Mrs Wong – Our Tribute](https://eunoiajc.moe.edu.sg/mrs-wong/ "Thank You, Mrs Wong – Our Tribute")
+[Thank You, Mrs Wong – Our Tribute](/mrs-wong/)
 
 
 15 Dec 2021
@@ -110,7 +110,7 @@ Mrs Wong-Cheang Mei Heng, our founding principal, will be retiring from the educ
 
 -----
 
-[Graduation Day 2021 – Into a New World](https://eunoiajc.moe.edu.sg/2021-grad-day/ "Graduation Day 2021 – Into a New World")
+[Graduation Day 2021 – Into a New World](/2021-grad-day/)
 
 
 25 Oct 2021
@@ -119,7 +119,7 @@ The Class of 2021 marked the end of their two-year journey in the college on a h
 
 -----
 
-[Eunoia: Our Aspirations – College Day 2021](https://eunoiajc.moe.edu.sg/aspirations/ "Eunoia: Our Aspirations – College Day 2021")
+[Eunoia: Our Aspirations – College Day 2021](/aspirations/)
 
 
 09 Sep 2021
@@ -128,13 +128,13 @@ Hear from our Eunoians, alumni, staff and stakeholders on what Eunoia means to t
 
 -----
 
-[Ministry of Education Special Awards 2021](https://eunoiajc.moe.edu.sg/2021-moe-sa/ "Ministry of Education Special Awards 2021")   
+[Ministry of Education Special Awards 2021](/2021-moe-sa/)   
 06 Sep 2021   
 The college congratulates three of our Eunoians and alumni who received MOE Special Awards and one who was awarded the Ee Hoe Hean Book Prize.
 
 -----
 
-[JC1 Scholarship and Award Recipients 2021](https://eunoiajc.moe.edu.sg/jc1-scholars-2021/ "JC1 Scholarship and Award Recipients 2021")
+[JC1 Scholarship and Award Recipients 2021](/jc1-scholars-2021/)
 
 
 06 Sep 2021
@@ -143,7 +143,7 @@ The college congratulates 79 of our JC1 Eunoians on being awarded scholarships f
 
 -----
 
-[We Are Home – College Day 2021](https://eunoiajc.moe.edu.sg/college-day-2021/ "We Are Home – College Day 2021")
+[We Are Home – College Day 2021](/college-day-2021/)
 
 
 06 Sep 2021
@@ -152,7 +152,7 @@ The college celebrated the official opening of its Bishan campus on 6 Aug 2021, 
 
 -----
 
-[STRONGER – Pre-University Seminar 2021](https://eunoiajc.moe.edu.sg/stronger/ "STRONGER – Pre-University Seminar 2021")
+[STRONGER – Pre-University Seminar 2021](/stronger/)
 
 
 10 Jun 2021
@@ -161,7 +161,7 @@ Pre-U Sem 2021 is a four-day non-residential programme that brings together stud
 
 -----
 
-[2021 Direct School Admission Exercise](https://eunoiajc.moe.edu.sg/2021-dsa/ "2021 Direct School Admission Exercise")
+[2021 Direct School Admission Exercise](/2021-dsa/)
 
 
 04 May 2021
@@ -170,7 +170,7 @@ The 2021 Direct School Admission exercise (DSA-JC) for admission to JC1 in 2022 
 
 -----
 
-[The Class of 2020 Take Flight – Vol 4](https://eunoiajc.moe.edu.sg/class-2020-4/ "The Class of 2020 Take Flight – Vol 4")
+[The Class of 2020 Take Flight – Vol 4](/class-2020-4/)
 
 
 09 Mar 2021
@@ -179,7 +179,7 @@ In this fourth volume, Wei Ting, Hon Jung, Ga-lan, and Jia Yi share the importan
 
 -----
 
-[The Class of 2020 Take Flight – Vol 3](https://eunoiajc.moe.edu.sg/class-2020-3/ "The Class of 2020 Take Flight – Vol 3")
+[The Class of 2020 Take Flight – Vol 3](/class-2020-3/)
 
 08 Mar 2021
 
@@ -187,7 +187,7 @@ In Vol 3, our student-athletes Hannah, Verrell and Jolene share words of inspira
 
 -----
 
-[The Class of 2020 Take Flight – Vol 2](https://eunoiajc.moe.edu.sg/class-2020-2/ "The Class of 2020 Take Flight – Vol 2")
+[The Class of 2020 Take Flight – Vol 2](/class-2020-2/)
 
 03 Mar 2021
 
@@ -195,7 +195,7 @@ In Vol 2, Ellard, Lauren, James and Ming Ying reflect on their journeys as stude
 
 -----
 
-[The Class of 2020 Take Flight – Vol 1](https://eunoiajc.moe.edu.sg/class-2020-1/ "The Class of 2020 Take Flight – Vol 1")
+[The Class of 2020 Take Flight – Vol 1](/class-2020-1/)
 
 
 28 Feb 2021
@@ -204,7 +204,7 @@ From the Class of 2020, Phaedra, Gaston, Sherman and Leslie tell us about how ou
 
 -----
 
-[Writing as One – EJC Yearbook 2019-20](https://eunoiajc.moe.edu.sg/2020-yearbook/ "Writing as One – EJC Yearbook 2019-20")
+[Writing as One – EJC Yearbook 2019-20](/2020-yearbook/)
 
 
 19 Feb 2021
@@ -213,7 +213,7 @@ Read stories of ingenuity, resilience and generosity from our Eunoians and Eunoi
 
 -----
 
-[Our Hearts Unite – Release of 2020 A-Level Results](https://eunoiajc.moe.edu.sg/2020-release/ "Our Hearts Unite – Release of 2020 A-Level Results")
+[Our Hearts Unite – Release of 2020 A-Level Results](/2020-release/)
 
 
 16 Feb 2021
@@ -222,7 +222,7 @@ Dear Class of 2020, the release of the 2020 GCE A-Level examination results will
 
 -----
 
-[Here Comes the Sun – Orientation 2021](https://eunoiajc.moe.edu.sg/ori-2021/ "Here Comes the Sun – Orientation 2021")
+[Here Comes the Sun – Orientation 2021](/ori-2021/)
 
 
 27 Jan 2021
@@ -231,7 +231,7 @@ Welcome to the family, our newest Eunoians! Read on for more information on your
 
 -----
 
-[Appeals for JC1 Admission – JAE 2021](https://eunoiajc.moe.edu.sg/2021-appeals/ "Appeals for JC1 Admission – JAE 2021")
+[Appeals for JC1 Admission – JAE 2021](/2021-appeals/)
 
 
 26 Jan 2021
