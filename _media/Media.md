@@ -26,10 +26,7 @@ The 2022 Direct School Admission exercise (DSA-JC) for admission to JC1 in 2023 
 
 ----
 
-[Class of 2021 Soaring  
-– Vol 4](https://eunoiajc.moe.edu.sg/class-2021-4/ "Class of 2021 Soaring – Vol 4")
-
-
+[Class of 2021 Soaring – Vol 4](https://eunoiajc.moe.edu.sg/class-2021-4/ "Class of 2021 Soaring – Vol 4")   
 20 Mar 2022
 
 In our final volume, Deon, Lauren, Leia, Yi Xuan, Tiantian and Amanda share what inspires them in their pursuit of the Humanities and the Arts.
