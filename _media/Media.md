@@ -9,7 +9,7 @@ View Eunoia Highlights [here](/highlights/).
 
 ## News
 
-[Appeals for JC1 Admission – JAE 2023](https://eunoiajc.moe.edu.sg/2023-appeals/ "Appeals for JC1 Admission – JAE 2023")   
+[Appeals for JC1 Admission – JAE 2023](/2023-appeals/)   
 01 Feb 2023    
 The 2023 Joint Admissions Exercise (JAE) Appeal Exercise is for students who have not been posted to the college under the JAE Posting Exercise.    
 
