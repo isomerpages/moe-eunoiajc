@@ -519,7 +519,7 @@ Read about our Eunoians’ solutions to crises and advertising breakthroughs in 
 [Read More](https://eunoiajc.moe.edu.sg/2018-pw-2/ "2018 A-Level Project Work Journey – Volume 2")
 
 [2018 A-Level Project Work Journey – Volume 1](https://eunoiajc.moe.edu.sg/2018-pw/ "2018 A-Level Project Work Journey – Volume 1")
------------------------------------------------------------------------------------------------------------------------------------
+
 
 26 Apr 2019
 
@@ -528,7 +528,7 @@ Our second cohort of Eunoians have charted the way forward with their excellent 
 [Read More](https://eunoiajc.moe.edu.sg/2018-pw/ "2018 A-Level Project Work Journey – Volume 1")
 
 [Celebrating Our First Class – Volume 4](https://eunoiajc.moe.edu.sg/first-class-4/ "Celebrating Our First Class – Volume 4")
------------------------------------------------------------------------------------------------------------------------------
+
 
 13 Mar 2019
 
@@ -537,7 +537,7 @@ We speak to Tan Zi Hao, Isabel Chan and Wong Zann Yee in our second feature on o
 [Read More](https://eunoiajc.moe.edu.sg/first-class-4/ "Celebrating Our First Class – Volume 4")
 
 [Celebrating Our First Class – Volume 3](https://eunoiajc.moe.edu.sg/first-class-3/ "Celebrating Our First Class – Volume 3")
------------------------------------------------------------------------------------------------------------------------------
+
 
 12 Mar 2019
 
@@ -546,7 +546,7 @@ In one of two features on our Humanities Scholars, Jelita Jaimon, Audrey Choong,
 [Read More](https://eunoiajc.moe.edu.sg/first-class-3/ "Celebrating Our First Class – Volume 3")
 
 [Celebrating Our First Class – Volume 2](https://eunoiajc.moe.edu.sg/first-class-2/ "Celebrating Our First Class – Volume 2")
------------------------------------------------------------------------------------------------------------------------------
+
 
 11 Mar 2019
 
@@ -555,7 +555,7 @@ Keen to learn more about their passion, we spoke to Caspian Ng, Seck Li-lyn, Sar
 [Read More](https://eunoiajc.moe.edu.sg/first-class-2/ "Celebrating Our First Class – Volume 2")
 
 [Celebrating Our First Class – Volume 1](https://eunoiajc.moe.edu.sg/first-class-1/ "Celebrating Our First Class – Volume 1")
------------------------------------------------------------------------------------------------------------------------------
+
 
 10 Mar 2019
 
@@ -564,7 +564,7 @@ Celebrating the holistic achievements of our First Class, we interviewed Marisa 
 [Read More](https://eunoiajc.moe.edu.sg/first-class-1/ "Celebrating Our First Class – Volume 1")
 
 [First Class Once More – Release of A-Level Results](https://eunoiajc.moe.edu.sg/2018-release/ "First Class Once More – Release of A-Level Results")
-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 15 Feb 2019
 
@@ -573,7 +573,7 @@ The results of the 2018 GCE A-Level Examination will be released on 22 Feb 2019 
 [Read More](https://eunoiajc.moe.edu.sg/2018-release/ "First Class Once More – Release of A-Level Results")
 
 [Your Next Move Begins Here – Orientation 2019](https://eunoiajc.moe.edu.sg/begins-here/ "Your Next Move Begins Here – Orientation 2019")
------------------------------------------------------------------------------------------------------------------------------------------
+
 
 28 Jan 2019
 
@@ -582,7 +582,7 @@ To our newest Eunoians, welcome to the Eunoia family! We look forward to meeting
 [Read More](https://eunoiajc.moe.edu.sg/begins-here/ "Your Next Move Begins Here – Orientation 2019")
 
 [Appeals for JC1 Admission – JAE 2019](https://eunoiajc.moe.edu.sg/2019-appeals/ "Appeals for JC1 Admission – JAE 2019")
-------------------------------------------------------------------------------------------------------------------------
+
 
 25 Jan 2019
 
@@ -591,7 +591,7 @@ The 2019 Joint Admissions Exercise (JAE) Appeal Exercise is for students who hav
 [Read More](https://eunoiajc.moe.edu.sg/2019-appeals/ "Appeals for JC1 Admission – JAE 2019")
 
 [Making the Next Move – OH EUNOIA! 2019](https://eunoiajc.moe.edu.sg/oh-eunoia-2019/ "Making the Next Move – OH EUNOIA! 2019")
-------------------------------------------------------------------------------------------------------------------------------
+
 
 18 Jan 2019
 
@@ -600,7 +600,7 @@ Were you with us at OH EUNOIA! 2019? We opened the doors of our Mount Sinai home
 [Read More](https://eunoiajc.moe.edu.sg/oh-eunoia-2019/ "Making the Next Move – OH EUNOIA! 2019")
 
 [Inspiring Teacher of English Award 2018](https://eunoiajc.moe.edu.sg/itea-2018/ "Inspiring Teacher of English Award 2018")
----------------------------------------------------------------------------------------------------------------------------
+
 
 23 Oct 2018
 
@@ -609,7 +609,7 @@ We congratulate Literature tutor Ms Bernice Yeo on receiving the Inspiring Teach
 [Read More](https://eunoiajc.moe.edu.sg/itea-2018/ "Inspiring Teacher of English Award 2018")
 
 [JC1 Scholarship and Award Recipients 2018](https://eunoiajc.moe.edu.sg/2018-jc1-scholars/ "JC1 Scholarship and Award Recipients 2018")
----------------------------------------------------------------------------------------------------------------------------------------
+
 
 22 Sep 2018
 
@@ -618,7 +618,7 @@ The college congratulates 53 of our JC1 Eunoians on being awarded scholarships f
 [Read More](https://eunoiajc.moe.edu.sg/2018-jc1-scholars/ "JC1 Scholarship and Award Recipients 2018")
 
 [International Geography Olympiad 2018](https://eunoiajc.moe.edu.sg/igeo18/ "International Geography Olympiad 2018")
---------------------------------------------------------------------------------------------------------------------
+
 
 22 Aug 2018
 
@@ -627,7 +627,7 @@ Cheryl Yong (18-A4) represented Team Singapore at the International Geography Ol
 [Read More](https://eunoiajc.moe.edu.sg/igeo18/ "International Geography Olympiad 2018")
 
 [Ministry of Education Special Awards 2018](https://eunoiajc.moe.edu.sg/2018-moe-sa/ "Ministry of Education Special Awards 2018")
----------------------------------------------------------------------------------------------------------------------------------
+
 
 20 Aug 2018
 
@@ -636,7 +636,7 @@ The college congratulates Ong Chong Yu (18-A1) and Megan Choo (18-O4) on receivi
 [Read More](https://eunoiajc.moe.edu.sg/2018-moe-sa/ "Ministry of Education Special Awards 2018")
 
 [National Day Celebrations & Inter-House Games 2018](https://eunoiajc.moe.edu.sg/nd-ihg-2018/ "National Day Celebrations & Inter-House Games 2018")
----------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 17 Aug 2018
 
@@ -645,7 +645,7 @@ The college celebrated the nation’s 53rd birthday with a bang, adding plenty o
 [Read More](https://eunoiajc.moe.edu.sg/nd-ihg-2018/ "National Day Celebrations & Inter-House Games 2018")
 
 [JC1 Parent-Teacher Meet 2018](https://eunoiajc.moe.edu.sg/jc1ptm-2018/ "JC1 Parent-Teacher Meet 2018")
--------------------------------------------------------------------------------------------------------
+
 
 27 Jul 2018
 
@@ -654,7 +654,7 @@ Parents of our JC1 Eunoians are invited to the JC1 Parent-Teacher Meet on 3 Aug 
 [Read More](https://eunoiajc.moe.edu.sg/jc1ptm-2018/ "JC1 Parent-Teacher Meet 2018")
 
 [Two recipients of SAF Young Leader Award 2018](https://eunoiajc.moe.edu.sg/syla-2018/ "Two recipients of SAF Young Leader Award 2018")
----------------------------------------------------------------------------------------------------------------------------------------
+
 
 20 Jul 2018
 
