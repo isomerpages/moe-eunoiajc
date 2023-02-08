@@ -60,7 +60,7 @@ From the Class of 2021, Gwen, Rui Ting, Clement and E-Xuan tell us about how the
 
 -----
 
-[Lighting the Way – EJC Yearbook 2020-21](https://eunoiajc.moe.edu.sg/2021-yearbook/ "Lighting the Way – EJC Yearbook 2020-21")
+[Lighting the Way – EJC Yearbook 2020-21](/2021-yearbook/)
 
 
 22 Feb 2022
@@ -69,7 +69,7 @@ The 4th edition of our yearbook chronicles the inspiring stories of our students
 
 -----
 
-[Blue, Gold, White – Release of 2021 A-Level Results](https://eunoiajc.moe.edu.sg/2021-release/ "Blue, Gold, White – Release of 2021 A-Level Results")
+[Blue, Gold, White – Release of 2021 A-Level Results](/2021-release/)
 
 
 15 Feb 2022
