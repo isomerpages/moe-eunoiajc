@@ -12,8 +12,7 @@ Mrs Wong-Cheang Mei Heng, our founding principal, will be retiring from the educ
 > I appreciated how ready you were to entertain wild ideas that supported a culture of creativity and openness, and the sheer variety of names helped us converge on some principles — and having a name that will give us a unique three-letter acronym was one consideration. I remember that when we discussed “Eunoia”, of course we considered the sound and pronunciation of the name.
 > 
 > And because we all agreed that the meaning resonated with us, you shared this perspective — that we are teachers, and so we will teach people to say our name. And we did. I felt that this exemplified leading with the heart of a teacher.
-
-###### MS ADRIENNE DE SOUZA, HOD (PROJECT WORK & FLAGSHIP PROGRAMMES)
+> ###### MS ADRIENNE DE SOUZA, HOD (PROJECT WORK & FLAGSHIP PROGRAMMES)
 
 <br>
 
@@ -26,8 +25,7 @@ Mrs Wong-Cheang Mei Heng, our founding principal, will be retiring from the educ
 ![](/images/MrsWong_1.jpg)
 
 > From the time we occupied one small corner office at MOE HQ (Ghim Moh), it has been a very enriching experience for me to learn from her. I remember the times when Mrs Wong bonded the newly form team of KPs, through many staff welfare activities that she would be the lead and even becoming the trainer for us! Mrs Wong, always being elegant and well composed, brought assurances to us that we were on the right track on uncharted waters, throughout our time together.
-
-###### MS NG KOH YEE, ADMINISTRATION MANAGER (2015-2018)
+> ###### MS NG KOH YEE, ADMINISTRATION MANAGER (2015-2018)
 
 <br>
 
@@ -41,5 +39,4 @@ Mrs Wong-Cheang Mei Heng, our founding principal, will be retiring from the educ
 <br>
 
 > Thank you, Mrs Wong, for always holding that strong belief that our college will make history. You have instilled courage in us to dare to be different. You have shaped our college to be one that embraces students' creativity and initiative and which provides so much safe space us to experiment, make mistakes and do even better the next time. Thank you for setting up such a wonderful foundation for our college. I am so excited for the many things you will pursue beyond Eunoia.
-
-###### MS LEE XIN CHUN, CLASS OF 2020
+> ###### MS LEE XIN CHUN, CLASS OF 2020
