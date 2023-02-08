@@ -34,7 +34,7 @@ The 2022 Direct School Admission exercise (DSA-JC) for admission to JC1 in 2023 
 
 In our final volume, Deon, Lauren, Leia, Yi Xuan, Tiantian and Amanda share what inspires them in their pursuit of the Humanities and the Arts.
 
-[Read More](https://eunoiajc.moe.edu.sg/class-2021-4/ "Class of 2021 Soaring – Vol 4")
+-----
 
 [Class of 2021 Soaring  
 – Vol 3](https://eunoiajc.moe.edu.sg/class-2021-3/ "Class of 2021 Soaring – Vol 3")
@@ -44,7 +44,7 @@ In our final volume, Deon, Lauren, Leia, Yi Xuan, Tiantian and Amanda share what
 
 In this third volume, Nadia, Jia Sen, Felynn, Eleanor and Yanisa share their passion for the sciences, the importance of beautiful thinking.
 
-[Read More](https://eunoiajc.moe.edu.sg/class-2021-3/ "Class of 2021 Soaring – Vol 3")
+-----
 
 [Class of 2021 Soaring  
 – Vol 2](https://eunoiajc.moe.edu.sg/class-2021-2/ "Class of 2021 Soaring – Vol 2")
@@ -54,7 +54,7 @@ In this third volume, Nadia, Jia Sen, Felynn, Eleanor and Yanisa share their pas
 
 In Vol 2, Andre, Bin Xin, Vanessa, Mayanee and Rowena reflect on their journeys as student-leaders and give their juniors some wisdom for the road ahead.
 
-[Read More](https://eunoiajc.moe.edu.sg/class-2021-2/ "Class of 2021 Soaring – Vol 2")
+-----
 
 [Class of 2021 Soaring  
 – Vol 1](https://eunoiajc.moe.edu.sg/class-2021-1/ "Class of 2021 Soaring – Vol 1")
@@ -64,7 +64,7 @@ In Vol 2, Andre, Bin Xin, Vanessa, Mayanee and Rowena reflect on their journeys 
 
 From the Class of 2021, Gwen, Rui Ting, Clement and E-Xuan tell us about how they turned obstacles into opportunities on their A-Level journey.
 
-[Read More](https://eunoiajc.moe.edu.sg/class-2021-1/ "Class of 2021 Soaring – Vol 1")
+-----
 
 [Lighting the Way – EJC Yearbook 2020-21](https://eunoiajc.moe.edu.sg/2021-yearbook/ "Lighting the Way – EJC Yearbook 2020-21")
 
@@ -73,7 +73,7 @@ From the Class of 2021, Gwen, Rui Ting, Clement and E-Xuan tell us about how the
 
 The 4th edition of our yearbook chronicles the inspiring stories of our students and staff lighting their passion and shining their light on others.
 
-[Read More](https://eunoiajc.moe.edu.sg/2021-yearbook/ "Lighting the Way – EJC Yearbook 2020-21")
+-----
 
 [Blue, Gold, White – Release of 2021 A-Level Results](https://eunoiajc.moe.edu.sg/2021-release/ "Blue, Gold, White – Release of 2021 A-Level Results")
 
@@ -82,7 +82,7 @@ The 4th edition of our yearbook chronicles the inspiring stories of our students
 
 Dear Class of 2021, the release of the 2021 GCE A-Level examination results will take place on 22 Feb 2022 (Tue) at 2.00pm. Please read on for important details.
 
-[Read More](https://eunoiajc.moe.edu.sg/2021-release/ "Blue, Gold, White – Release of 2021 A-Level Results")
+-----
 
 [Appeals for JC1 Admission – JAE 2022](https://eunoiajc.moe.edu.sg/2022-appeals/ "Appeals for JC1 Admission – JAE 2022")
 
@@ -91,7 +91,7 @@ Dear Class of 2021, the release of the 2021 GCE A-Level examination results will
 
 The 2022 Joint Admissions Exercise (JAE) Appeal Exercise is for students who have not been posted to the college under the JAE Posting Exercise.
 
-[Read More](https://eunoiajc.moe.edu.sg/2022-appeals/ "Appeals for JC1 Admission – JAE 2022")
+-----
 
 [Level Up! – Orientation 2022](https://eunoiajc.moe.edu.sg/ori-2022/ "Level Up! – Orientation 2022")
 
@@ -100,8 +100,7 @@ The 2022 Joint Admissions Exercise (JAE) Appeal Exercise is for students who hav
 
 Hello to our newest Eunoians! Read on for more information on your first day in Eunoia (7 Feb 2022) and the ways you’ll level up throughout Orientation 2022!
 
-[Read More](https://eunoiajc.moe.edu.sg/ori-2022/ "Level Up! – Orientation 2022")
-
+-----
 [Thank You, Mrs Wong – Our Tribute](https://eunoiajc.moe.edu.sg/mrs-wong/ "Thank You, Mrs Wong – Our Tribute")
 
 
@@ -109,7 +108,7 @@ Hello to our newest Eunoians! Read on for more information on your first day in 
 
 Mrs Wong-Cheang Mei Heng, our founding principal, will be retiring from the education service at the end of 2021. This is our tribute to her.
 
-[Read More](https://eunoiajc.moe.edu.sg/mrs-wong/ "Thank You, Mrs Wong – Our Tribute")
+-----
 
 [Graduation Day 2021 – Into a New World](https://eunoiajc.moe.edu.sg/2021-grad-day/ "Graduation Day 2021 – Into a New World")
 
@@ -118,7 +117,7 @@ Mrs Wong-Cheang Mei Heng, our founding principal, will be retiring from the educ
 
 The Class of 2021 marked the end of their two-year journey in the college on a high note, complete with games, treats and a rousing end.
 
-[Read More](https://eunoiajc.moe.edu.sg/2021-grad-day/ "Graduation Day 2021 – Into a New World")
+-----
 
 [Eunoia: Our Aspirations – College Day 2021](https://eunoiajc.moe.edu.sg/aspirations/ "Eunoia: Our Aspirations – College Day 2021")
 
@@ -127,16 +126,13 @@ The Class of 2021 marked the end of their two-year journey in the college on a h
 
 Hear from our Eunoians, alumni, staff and stakeholders on what Eunoia means to them and their aspirations for the college.
 
-[Read More](https://eunoiajc.moe.edu.sg/aspirations/ "Eunoia: Our Aspirations – College Day 2021")
+-----
 
-[Ministry of Education Special Awards 2021](https://eunoiajc.moe.edu.sg/2021-moe-sa/ "Ministry of Education Special Awards 2021")
-
-
-06 Sep 2021
-
+[Ministry of Education Special Awards 2021](https://eunoiajc.moe.edu.sg/2021-moe-sa/ "Ministry of Education Special Awards 2021")   
+06 Sep 2021   
 The college congratulates three of our Eunoians and alumni who received MOE Special Awards and one who was awarded the Ee Hoe Hean Book Prize.
 
-[Read More](https://eunoiajc.moe.edu.sg/2021-moe-sa/ "Ministry of Education Special Awards 2021")
+-----
 
 [JC1 Scholarship and Award Recipients 2021](https://eunoiajc.moe.edu.sg/jc1-scholars-2021/ "JC1 Scholarship and Award Recipients 2021")
 
@@ -145,7 +141,7 @@ The college congratulates three of our Eunoians and alumni who received MOE Spec
 
 The college congratulates 79 of our JC1 Eunoians on being awarded scholarships from the Ministry of Education and external agencies in 2021.
 
-[Read More](https://eunoiajc.moe.edu.sg/jc1-scholars-2021/ "JC1 Scholarship and Award Recipients 2021")
+-----
 
 [We Are Home – College Day 2021](https://eunoiajc.moe.edu.sg/college-day-2021/ "We Are Home – College Day 2021")
 
@@ -154,7 +150,7 @@ The college congratulates 79 of our JC1 Eunoians on being awarded scholarships f
 
 The college celebrated the official opening of its Bishan campus on 6 Aug 2021, graced by Minister for Education Chan Chun Sing.
 
-[Read More](https://eunoiajc.moe.edu.sg/college-day-2021/ "We Are Home – College Day 2021")
+-----
 
 [STRONGER – Pre-University Seminar 2021](https://eunoiajc.moe.edu.sg/stronger/ "STRONGER – Pre-University Seminar 2021")
 
@@ -163,7 +159,7 @@ The college celebrated the official opening of its Bishan campus on 6 Aug 2021, 
 
 Pre-U Sem 2021 is a four-day non-residential programme that brings together students from 30 pre-university institutions, jointly organised by MOE and EJC.
 
-[Read More](https://eunoiajc.moe.edu.sg/stronger/ "STRONGER – Pre-University Seminar 2021")
+-----
 
 [2021 Direct School Admission Exercise](https://eunoiajc.moe.edu.sg/2021-dsa/ "2021 Direct School Admission Exercise")
 
@@ -172,7 +168,7 @@ Pre-U Sem 2021 is a four-day non-residential programme that brings together stud
 
 The 2021 Direct School Admission exercise (DSA-JC) for admission to JC1 in 2022 opens on 5 May 2021. Interested students should apply by 28 June 2021.
 
-[Read More](https://eunoiajc.moe.edu.sg/2021-dsa/ "2021 Direct School Admission Exercise")
+-----
 
 [The Class of 2020 Take Flight – Vol 4](https://eunoiajc.moe.edu.sg/class-2020-4/ "The Class of 2020 Take Flight – Vol 4")
 
@@ -181,16 +177,15 @@ The 2021 Direct School Admission exercise (DSA-JC) for admission to JC1 in 2022 
 
 In this fourth volume, Wei Ting, Hon Jung, Ga-lan, and Jia Yi share the importance of support structures and a never-say-die attitude.
 
-[Read More](https://eunoiajc.moe.edu.sg/class-2020-4/ "The Class of 2020 Take Flight – Vol 4")
+-----
 
 [The Class of 2020 Take Flight – Vol 3](https://eunoiajc.moe.edu.sg/class-2020-3/ "The Class of 2020 Take Flight – Vol 3")
---------------------------------------------------------------------------------------------------------------------------
 
 08 Mar 2021
 
 In Vol 3, our student-athletes Hannah, Verrell and Jolene share words of inspiration and insights into their paths to success.
 
-[Read More](https://eunoiajc.moe.edu.sg/class-2020-3/ "The Class of 2020 Take Flight – Vol 3")
+-----
 
 [The Class of 2020 Take Flight – Vol 2](https://eunoiajc.moe.edu.sg/class-2020-2/ "The Class of 2020 Take Flight – Vol 2")
 
@@ -198,7 +193,7 @@ In Vol 3, our student-athletes Hannah, Verrell and Jolene share words of inspira
 
 In Vol 2, Ellard, Lauren, James and Ming Ying reflect on their journeys as student-leaders and gave their juniors some wisdom for the road ahead.
 
-[Read More](https://eunoiajc.moe.edu.sg/class-2020-2/ "The Class of 2020 Take Flight – Vol 2")
+-----
 
 [The Class of 2020 Take Flight – Vol 1](https://eunoiajc.moe.edu.sg/class-2020-1/ "The Class of 2020 Take Flight – Vol 1")
 
@@ -207,7 +202,7 @@ In Vol 2, Ellard, Lauren, James and Ming Ying reflect on their journeys as stude
 
 From the Class of 2020, Phaedra, Gaston, Sherman and Leslie tell us about how our dreams take flight when hearts unite and minds ignite.
 
-[Read More](https://eunoiajc.moe.edu.sg/class-2020-1/ "The Class of 2020 Take Flight – Vol 1")
+-----
 
 [Writing as One – EJC Yearbook 2019-20](https://eunoiajc.moe.edu.sg/2020-yearbook/ "Writing as One – EJC Yearbook 2019-20")
 
@@ -216,7 +211,7 @@ From the Class of 2020, Phaedra, Gaston, Sherman and Leslie tell us about how ou
 
 Read stories of ingenuity, resilience and generosity from our Eunoians and Eunoia staff in this landmark 3rd edition of our yearbook.
 
-[Read More](https://eunoiajc.moe.edu.sg/2020-yearbook/ "Writing as One – EJC Yearbook 2019-20")
+-----
 
 [Our Hearts Unite – Release of 2020 A-Level Results](https://eunoiajc.moe.edu.sg/2020-release/ "Our Hearts Unite – Release of 2020 A-Level Results")
 
@@ -225,7 +220,7 @@ Read stories of ingenuity, resilience and generosity from our Eunoians and Eunoi
 
 Dear Class of 2020, the release of the 2020 GCE A-Level examination results will take place on 19 Feb 2021 (Fri) at 2.00pm. Please read on for important details.
 
-[Read More](https://eunoiajc.moe.edu.sg/2020-release/ "Our Hearts Unite – Release of 2020 A-Level Results")
+-----
 
 [Here Comes the Sun – Orientation 2021](https://eunoiajc.moe.edu.sg/ori-2021/ "Here Comes the Sun – Orientation 2021")
 
@@ -234,7 +229,7 @@ Dear Class of 2020, the release of the 2020 GCE A-Level examination results will
 
 Welcome to the family, our newest Eunoians! Read on for more information on your first day of school (29 Jan 2021) and the journey that lies before you!
 
-[Read More](https://eunoiajc.moe.edu.sg/ori-2021/ "Here Comes the Sun – Orientation 2021")
+-----
 
 [Appeals for JC1 Admission – JAE 2021](https://eunoiajc.moe.edu.sg/2021-appeals/ "Appeals for JC1 Admission – JAE 2021")
 
@@ -243,7 +238,7 @@ Welcome to the family, our newest Eunoians! Read on for more information on your
 
 The 2021 Joint Admissions Exercise (JAE) Appeal Exercise is for students who have not been posted to the college under the JAE Posting Exercise.
 
-[Read More](https://eunoiajc.moe.edu.sg/2021-appeals/ "Appeals for JC1 Admission – JAE 2021")
+-----
 
 [Graduation Day 2020 – Dreaming with Courage](https://eunoiajc.moe.edu.sg/2020-grad-day/ "Graduation Day 2020 – Dreaming with Courage")
 
@@ -252,7 +247,7 @@ The 2021 Joint Admissions Exercise (JAE) Appeal Exercise is for students who hav
 
 The college’s Graduation Day for its third cohort, the first-ever at its Bishan campus, was a cosy, safe celebration to be remembered.
 
-[Read More](https://eunoiajc.moe.edu.sg/2020-grad-day/ "Graduation Day 2020 – Dreaming with Courage")
+-----
 
 [JC2 Scholarship and Award Recipients 2020](https://eunoiajc.moe.edu.sg/jc2-scholarship-and-award-recipients-2020/ "JC2 Scholarship and Award Recipients 2020")
 
@@ -261,7 +256,7 @@ The college’s Graduation Day for its third cohort, the first-ever at its Bisha
 
 Our JC2 Eunoians received the SAF Young Leader Award and Computing@SMU Award in recognition of their outstanding holistic achievements.
 
-[Read More](https://eunoiajc.moe.edu.sg/jc2-scholarship-and-award-recipients-2020/ "JC2 Scholarship and Award Recipients 2020")
+-----
 
 [JC1 Scholarship and Award Recipients 2020](https://eunoiajc.moe.edu.sg/2020-jc1-scholars/ "JC1 Scholarship and Award Recipients 2020")
 
@@ -270,7 +265,7 @@ Our JC2 Eunoians received the SAF Young Leader Award and Computing@SMU Award in 
 
 The college congratulates 60 of our JC1 Eunoians on being awarded scholarships from the Ministry of Education and external agencies in 2020.
 
-[Read More](https://eunoiajc.moe.edu.sg/2020-jc1-scholars/ "JC1 Scholarship and Award Recipients 2020")
+-----
 
 [Ministry of Education Special Awards 2020](https://eunoiajc.moe.edu.sg/2020-moe-sa/ "Ministry of Education Special Awards 2020")
 
@@ -279,7 +274,7 @@ The college congratulates 60 of our JC1 Eunoians on being awarded scholarships f
 
 The college congratulates our four JC1 Eunoians and alumni who received MOE Special Awards in 2020.
 
-[Read More](https://eunoiajc.moe.edu.sg/2020-moe-sa/ "Ministry of Education Special Awards 2020")
+-----
 
 [Gradual Resumption of CCA Activities from 27 July 2020](https://eunoiajc.moe.edu.sg/resume-cca-2020/ "Gradual Resumption of CCA Activities from 27 July 2020")
 
@@ -288,7 +283,7 @@ The college congratulates our four JC1 Eunoians and alumni who received MOE Spec
 
 From the week of 27 July 2020, the college is resuming lower-risk Co-Curricular Activities with appropriate SMMs in place. Read more for the schedule.
 
-[Read More](https://eunoiajc.moe.edu.sg/resume-cca-2020/ "Gradual Resumption of CCA Activities from 27 July 2020")
+-----
 
 [COVID-19 Precautionary Measures for Terms 3-4](https://eunoiajc.moe.edu.sg/covid-19/ "COVID-19 Precautionary Measures for Terms 3-4")
 
@@ -297,7 +292,7 @@ From the week of 27 July 2020, the college is resuming lower-risk Co-Curricular 
 
 As the college welcomes our Eunoians back from the May holidays, we have put in place a suite of safe management measures.
 
-[Read More](https://eunoiajc.moe.edu.sg/covid-19/ "COVID-19 Precautionary Measures for Terms 3-4")
+-----
 
 [The Class of 2019 Light The Way – Vol 5](https://eunoiajc.moe.edu.sg/class-2019-5/ "The Class of 2019 Light The Way – Vol 5")
 
@@ -306,7 +301,7 @@ As the college welcomes our Eunoians back from the May holidays, we have put in 
 
 We met Kenneth, Faith, Sarah-Ann and Isabel from the Class of 2019 to learn how they found courage from anxiety and pick up their words of inspiration.
 
-[Read More](https://eunoiajc.moe.edu.sg/class-2019-5/ "The Class of 2019 Light The Way – Vol 5")
+-----
 
 [The Class of 2019 Light the Way – Vol 4](https://eunoiajc.moe.edu.sg/class-2019-4/ "The Class of 2019 Light the Way – Vol 4")
 
@@ -315,7 +310,7 @@ We met Kenneth, Faith, Sarah-Ann and Isabel from the Class of 2019 to learn how 
 
 Matthias, Megan, Alastair, and Isabelle from the class of 2019 share how success is beyond just academic excellence and what made their JC life complete.
 
-[Read More](https://eunoiajc.moe.edu.sg/class-2019-4/ "The Class of 2019 Light the Way – Vol 4")
+-----
 
 [The Class of 2019 Light the Way – Vol 3](https://eunoiajc.moe.edu.sg/class-2019-3/ "The Class of 2019 Light the Way – Vol 3")
 
@@ -324,7 +319,7 @@ Matthias, Megan, Alastair, and Isabelle from the class of 2019 share how success
 
 From our Class of 2019, Bruce, Yan Peng, Deborah, David and Michael share their stories of courage and resilience in their Eunoia journey.
 
-[Read More](https://eunoiajc.moe.edu.sg/class-2019-3/ "The Class of 2019 Light the Way – Vol 3")
+-----
 
 [The Class of 2019 Light the Way – Vol 2](https://eunoiajc.moe.edu.sg/class-2019-2/ "The Class of 2019 Light the Way – Vol 2")
 
@@ -333,7 +328,7 @@ From our Class of 2019, Bruce, Yan Peng, Deborah, David and Michael share their 
 
 Gisele, Elizabeth, Sebastian, Daniel, Pei Swhen and Kimmie from the Class of 2019 tell us how they helped define a vibrant college culture.
 
-[Read More](https://eunoiajc.moe.edu.sg/class-2019-2/ "The Class of 2019 Light the Way – Vol 2")
+-----
 
 [The Class of 2019 Light the Way – Vol 1](https://eunoiajc.moe.edu.sg/class-2019-1/ "The Class of 2019 Light the Way – Vol 1")
 
@@ -342,7 +337,7 @@ Gisele, Elizabeth, Sebastian, Daniel, Pei Swhen and Kimmie from the Class of 201
 
 Rebekah, Chong Yu, Sanchana, Wen Xin and Shin Loong from the Class of 2019 share how they made history and defined their glories as student leaders.
 
-[Read More](https://eunoiajc.moe.edu.sg/class-2019-1/ "The Class of 2019 Light the Way – Vol 1")
+-----
 
 [Coming Full Circle – Release of 2019 A-Level Results](https://eunoiajc.moe.edu.sg/2019-release/ "Coming Full Circle – Release of 2019 A-Level Results")
 
@@ -351,7 +346,7 @@ Rebekah, Chong Yu, Sanchana, Wen Xin and Shin Loong from the Class of 2019 shar
 
 Dear Class of 2019, the release of the 2019 GCE A-Level examination results will take place on 21 Feb 2020 (Fri) at 2.30pm. Please read on for important details.
 
-[Read More](https://eunoiajc.moe.edu.sg/2019-release/ "Coming Full Circle – Release of 2019 A-Level Results")
+-----
 
 [Appeals for JC1 Admission  
 – JAE 2020](https://eunoiajc.moe.edu.sg/2020-appeals/ "Appeals for JC1 Admission – JAE 2020")
@@ -361,7 +356,7 @@ Dear Class of 2019, the release of the 2019 GCE A-Level examination results will
 
 The 2020 Joint Admissions Exercise (JAE) Appeal Exercise is for students who have not been posted to the college under the JAE Posting Exercise.
 
-[Read More](https://eunoiajc.moe.edu.sg/2020-appeals/ "Appeals for JC1 Admission – JAE 2020")
+-----
 
 [A Hero Lies in Eunoian – Orientation 2020](https://eunoiajc.moe.edu.sg/ori-2020/ "A Hero Lies in Eunoian – Orientation 2020")
 
@@ -370,7 +365,7 @@ The 2020 Joint Admissions Exercise (JAE) Appeal Exercise is for students who hav
 
 Welcome to the family, our newest Eunoians! Read on for more information on your reporting date (5 Feb 2020) and the heroic adventure that awaits!
 
-[Read More](https://eunoiajc.moe.edu.sg/ori-2020/ "A Hero Lies in Eunoian – Orientation 2020")
+-----
 
 [Making Eunoia Home –  
 OH EUNOIA! 2020](https://eunoiajc.moe.edu.sg/oh-eunoia-2020/ "Making Eunoia Home – OH EUNOIA! 2020")
@@ -380,7 +375,7 @@ OH EUNOIA! 2020](https://eunoiajc.moe.edu.sg/oh-eunoia-2020/ "Making Eunoia Home
 
 Having started 2020 with our Big Move from Mount Sinai, we held our first Open House here at our Bishan campus, inviting prospective students to Make Eunoia Home.
 
-[Read More](https://eunoiajc.moe.edu.sg/oh-eunoia-2020/ "Making Eunoia Home – OH EUNOIA! 2020")
+-----
 
 [OH EUNOIA! #EunoiaHome  
 – 15 Jan 2020](https://eunoiajc.moe.edu.sg/oh2020/ "OH EUNOIA! #EunoiaHome– 15 Jan 2020")
@@ -390,7 +385,7 @@ Having started 2020 with our Big Move from Mount Sinai, we held our first Open H
 
 Discover a whole new Eunoia in Bishan. Find many more reasons why you should make Eunoia home at our Open House on 15 Jan 2020, 9am – 4pm!
 
-[Read More](https://eunoiajc.moe.edu.sg/oh2020/ "OH EUNOIA! #EunoiaHome– 15 Jan 2020")
+-----
 
 [Graduation Day 2019 – Our Dreams Take Flight](https://eunoiajc.moe.edu.sg/2019-grad-day/ "Graduation Day 2019 – Our Dreams Take Flight")
 
@@ -399,7 +394,7 @@ Discover a whole new Eunoia in Bishan. Find many more reasons why you should mak
 
 We bid farewell to the Class of 2018 on an eventful Graduation Day, our second and last in Mount Sinai, on 18 Oct 2019.
 
-[Read More](https://eunoiajc.moe.edu.sg/2019-grad-day/ "Graduation Day 2019 – Our Dreams Take Flight")
+-----
 
 [Inspiring Teacher of English Award 2019](https://eunoiajc.moe.edu.sg/itea-2019/ "Inspiring Teacher of English Award 2019")
 
@@ -408,7 +403,7 @@ We bid farewell to the Class of 2018 on an eventful Graduation Day, our second a
 
 The college congratulates Ms Kok Li-en, one of nine educators to receive the Inspiring Teacher of English Award at a ceremony held on 8 Oct 2019.
 
-[Read More](https://eunoiajc.moe.edu.sg/itea-2019/ "Inspiring Teacher of English Award 2019")
+-----
 
 [MoU with Chongqing No 8 Middle School](https://eunoiajc.moe.edu.sg/mou-chongqing/ "MoU with Chongqing No 8 Middle School")
 
@@ -417,7 +412,7 @@ The college congratulates Ms Kok Li-en, one of nine educators to receive the Ins
 
 Eunoia Junior College is pleased to announce that the college has entered a Memorandum of Understanding with Chongqing No. 8 Middle School.
 
-[Read More](https://eunoiajc.moe.edu.sg/mou-chongqing/ "MoU with Chongqing No 8 Middle School")
+-----
 
 [JC2 Scholarship and Award Recipients 2019](https://eunoiajc.moe.edu.sg/2019-jc2-scholars/ "JC2 Scholarship and Award Recipients 2019")
 
@@ -426,7 +421,7 @@ Eunoia Junior College is pleased to announce that the college has entered a Memo
 
 Our JC2 Eunoians received the LTA Book Prize, SAF Young Leader Award and SPF Book Prize in recognition of their outstanding holistic achievements.
 
-[Read More](https://eunoiajc.moe.edu.sg/2019-jc2-scholars/ "JC2 Scholarship and Award Recipients 2019")
+-----
 
 [Ministry of Education Special Awards 2019](https://eunoiajc.moe.edu.sg/2019-moe-sa/ "Ministry of Education Special Awards 2019")
 
@@ -435,7 +430,7 @@ Our JC2 Eunoians received the LTA Book Prize, SAF Young Leader Award and SPF Boo
 
 Four JC1 Eunoians and one alumna from Eunoia’s First Class received MOE Special Awards at a presentation ceremony on 27 Aug 2019.
 
-[Read More](https://eunoiajc.moe.edu.sg/2019-moe-sa/ "Ministry of Education Special Awards 2019")
+-----
 
 [JC1 Scholarship and Award Recipients 2019](https://eunoiajc.moe.edu.sg/2019-jc1-scholars/ "JC1 Scholarship and Award Recipients 2019")
 
@@ -444,7 +439,7 @@ Four JC1 Eunoians and one alumna from Eunoia’s First Class received MOE Specia
 
 The college congratulates 76 of our JC1 Eunoians on being awarded scholarships from the Ministry of Education and external agencies in 2019.
 
-[Read More](https://eunoiajc.moe.edu.sg/2019-jc1-scholars/ "JC1 Scholarship and Award Recipients 2019")
+-----
 
 [Making His-III – 3rd Student Leaders’ Investiture](https://eunoiajc.moe.edu.sg/his3/ "Making His-III – 3rd Student Leaders’ Investiture")
 
@@ -453,7 +448,7 @@ The college congratulates 76 of our JC1 Eunoians on being awarded scholarships f
 
 History was handed to student leaders from the college’s third cohort at an investiture held on 24 May 2019, for them to own and write.
 
-[Read More](https://eunoiajc.moe.edu.sg/his3/ "Making His-III – 3rd Student Leaders’ Investiture")
+-----
 
 [Light the Way – College Day 2019 (Concert)](https://eunoiajc.moe.edu.sg/concert-2019/ "Light the Way – College Day 2019 (Concert)")
 
@@ -462,7 +457,7 @@ History was handed to student leaders from the college’s third cohort at an in
 
 Our third College Day was also a landmark first — a fundraising concert featuring the combined talent of our aesthetic groups and special interest groups.
 
-[Read More](https://eunoiajc.moe.edu.sg/concert-2019/ "Light the Way – College Day 2019 (Concert)")
+-----
 
 [Light the Way – College Day 2019 (Ceremony)](https://eunoiajc.moe.edu.sg/college-day-2019/ "Light the Way – College Day 2019 (Ceremony)")
 
@@ -471,7 +466,7 @@ Our third College Day was also a landmark first — a fundraising concert featur
 
 The college celebrated the talents, achievements and contributions of Eunoians in a ceremony held at the University Cultural Centre on 11 May 2019.
 
-[Read More](https://eunoiajc.moe.edu.sg/college-day-2019/ "Light the Way – College Day 2019 (Ceremony)")
+-----
 
 [Eunoian of the Year – Nicolette Tan Wen Qi](https://eunoiajc.moe.edu.sg/eoty2019/ "Eunoian of the Year – Nicolette Tan Wen Qi")
 
@@ -480,7 +475,7 @@ The college celebrated the talents, achievements and contributions of Eunoians i
 
 The Eunoian of the Year for 2019 is Nicolette Tan Wen Qi (17-A3). She received the award and delivered her remarks at our third College Day on 11 May 2019.
 
-[Read More](https://eunoiajc.moe.edu.sg/eoty2019/ "Eunoian of the Year – Nicolette Tan Wen Qi")
+-----
 
 [Celebrating Our First Class – Volume 6](https://eunoiajc.moe.edu.sg/first-class-6/ "Celebrating Our First Class – Volume 6")
 
@@ -489,7 +484,7 @@ The Eunoian of the Year for 2019 is Nicolette Tan Wen Qi (17-A3). She received t
 
 Nicholas, Celine, Dean, Nicolette, Jolyn and Xavier stepped forward to create a legacy. In Volume 6, we let their wisdom – and passion – speak.
 
-[Read More](https://eunoiajc.moe.edu.sg/first-class-6/ "Celebrating Our First Class – Volume 6")
+-----
 
 [Celebrating Our First Class – Volume 5](https://eunoiajc.moe.edu.sg/first-class-5/ "Celebrating Our First Class – Volume 5")
 
@@ -498,7 +493,7 @@ Nicholas, Celine, Dean, Nicolette, Jolyn and Xavier stepped forward to create a 
 
 In Volume 5, we look to decipher the secret code of success from Anh, Chelsea, Julian, Jackson and Muchen. Hint: it’s more heart than hard numbers.
 
-[Read More](https://eunoiajc.moe.edu.sg/first-class-5/ "Celebrating Our First Class – Volume 5")
+-----
 
 [2019 Direct School Admission Exercise](https://eunoiajc.moe.edu.sg/2019-dsa/ "2019 Direct School Admission Exercise")
 
@@ -507,7 +502,7 @@ In Volume 5, we look to decipher the secret code of success from Anh, Chelsea, J
 
 The 2019 Direct School Admission exercise (DSA-JC) for admission to JC1 in 2020 opens on 6 May 2019. Interested students should apply by 1 July 2019.
 
-[Read More](https://eunoiajc.moe.edu.sg/2019-dsa/ "2019 Direct School Admission Exercise")
+-----
 
 [2018 A-Level Project Work Journey – Volume 2](https://eunoiajc.moe.edu.sg/2018-pw-2/ "2018 A-Level Project Work Journey – Volume 2")
 
@@ -516,7 +511,7 @@ The 2019 Direct School Admission exercise (DSA-JC) for admission to JC1 in 2020 
 
 Read about our Eunoians’ solutions to crises and advertising breakthroughs in their PW coursework, and their journey of deep learning.
 
-[Read More](https://eunoiajc.moe.edu.sg/2018-pw-2/ "2018 A-Level Project Work Journey – Volume 2")
+-----
 
 [2018 A-Level Project Work Journey – Volume 1](https://eunoiajc.moe.edu.sg/2018-pw/ "2018 A-Level Project Work Journey – Volume 1")
 
