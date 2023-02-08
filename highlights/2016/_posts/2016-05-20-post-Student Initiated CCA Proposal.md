@@ -12,6 +12,6 @@ The college offers a variety of CCAs designed to cater to diverse interests and 
 
 ### Proposal Form
 
-We are currently accepting proposals from Year 4 students in the Joint Integrated Programme. Proposals should be sent to [**eunoiajc@moe.edu.sg**](mailto:eunoiajc@moe.edu.sg) (Attn: Mr Kevin Ang) by **Fri, 2 Sep 2016**.
+We are currently accepting proposals from Year 4 students in the Joint Integrated Programme. Proposals should be sent to [eunoiajc@moe.edu.sg](mailto:eunoiajc@moe.edu.sg) (Attn: Mr Kevin Ang) by **Fri, 2 Sep 2016**.
 
 [Download Form](https://go.gov.sg/student-initiated-cca-proposal)
