@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![](/images/HelloEunoians_Banner.jpg)
 
 **Dear New&nbsp;Eunoians,**
