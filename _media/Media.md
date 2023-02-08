@@ -40,7 +40,7 @@ In our final volume, Deon, Lauren, Leia, Yi Xuan, Tiantian and Amanda share what
 
 -----
 
-[Class of 2021 Soaring – Vol 3](h/class-2021-3/)
+[Class of 2021 Soaring – Vol 3](/class-2021-3/)
 
 18 Mar 2022
 
