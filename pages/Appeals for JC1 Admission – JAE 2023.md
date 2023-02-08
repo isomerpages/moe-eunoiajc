@@ -29,7 +29,7 @@ If you are unable to upload the documents, you can submit the relevant documents
 
 **All appeals must reach the college by 12nn on 8 Feb 2023.** 
 
-Please refer to and understand the [subject combinations](https://eunoiajc.moe.edu.sg/curriculum/subject-combinations/) available in the college before starting the application. 
+Please refer to and understand the [subject combinations](/subject-combinations/) available in the college before starting the application. 
 
 Incomplete / Late applications will not be considered.
 
