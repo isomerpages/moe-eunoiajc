@@ -14,27 +14,27 @@ Mrs Wong-Cheang Mei Heng, our founding principal, will be retiring from the educ
 > And because we all agreed that the meaning resonated with us, you shared this perspective — that we are teachers, and so we will teach people to say our name. And we did. I felt that this exemplified leading with the heart of a teacher.
 > ###### MS ADRIENNE DE SOUZA, HOD (PROJECT WORK & FLAGSHIP PROGRAMMES)
 
-<br>
 
 > I recall how determined Mrs Wong was in ensuring buy-in from all the pioneer staff. Those of us still around would recall our first Staff Eunite, where we engaged in several activities at Ghim Moh, NUS Guild House and the Hort Park. Mrs Wong was instrumental in shaping the programme and engagement of staff, and what you see here was our collective unpacking of the strategic plan. I also remember how she tried to recreate a caterer’s red bean soup for all of us to enjoy, one of the many ways in which Mrs Wong actively looked out for our welfare!
+> ###### MRS BRIGITTE KOH, TEACHER (MATHEMATICS)
 
-###### MRS BRIGITTE KOH, TEACHER (MATHEMATICS)
-
-
+<br>
 
 ![](/images/MrsWong_1.jpg)
+
+<br>
 
 > From the time we occupied one small corner office at MOE HQ (Ghim Moh), it has been a very enriching experience for me to learn from her. I remember the times when Mrs Wong bonded the newly form team of KPs, through many staff welfare activities that she would be the lead and even becoming the trainer for us! Mrs Wong, always being elegant and well composed, brought assurances to us that we were on the right track on uncharted waters, throughout our time together.
 > ###### MS NG KOH YEE, ADMINISTRATION MANAGER (2015-2018)
 
 <br>
 
-
 ![](/images/MrsWong_2.jpg)
 
-> Despite only being in EJ for 2 years, I will always remember Mrs Wong as a motherly figure - someone who is very nurturing. She always smiles and checks in on us whenever she sees us along the corridors. That simple "how are you?" really means a lot and shows how much she cares about us. Thank you for being Eunoia's very first Principal and for leading us to embrace the challenges as we embarked on a journey as the first cohort in EJ. We have come a long way under your leadership and we are very grateful for whatever you have done for us. Your lasting legacy will always be remembered and thank you for being an inspiration to us. 
+<br>
 
-###### MS NICOLETTE TAN, CLASS OF 2018
+> Despite only being in EJ for 2 years, I will always remember Mrs Wong as a motherly figure - someone who is very nurturing. She always smiles and checks in on us whenever she sees us along the corridors. That simple "how are you?" really means a lot and shows how much she cares about us. Thank you for being Eunoia's very first Principal and for leading us to embrace the challenges as we embarked on a journey as the first cohort in EJ. We have come a long way under your leadership and we are very grateful for whatever you have done for us. Your lasting legacy will always be remembered and thank you for being an inspiration to us. 
+> ###### MS NICOLETTE TAN, CLASS OF 2018
 
 <br>
 
