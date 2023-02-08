@@ -18,6 +18,10 @@ sections:
         - title: Highlights
           description: 2021 A-Level Results
           url: /highlights/2022/2021-results/
+  - resources:
+      title: Highlights
+      subtitle: Eunoia
+      button: View All
   - infopic:
       title: JC1 Scholarship & Award Recipients 2022
       subtitle: NEWS
