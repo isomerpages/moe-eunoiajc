@@ -36,3 +36,16 @@ Incomplete / Late applications will not be considered.
 Applicants will be notified by **9 Feb 2023** on the application outcome.
 
 The decision of the Admissions Committee is final. No further appeals will be considered.
+
+### Annexes
+
+<figure>
+  <img src="/images/JAE-Annex-A-784x1024.jpeg" alt="Image description">
+  <figcaption>Sample Form</figcaption>
+</figure>
+
+
+<figure>
+  <img src="/images/JAE-Annex-B-853x1024.jpeg" alt="Image description">
+  <figcaption>Verification Slip</figcaption>
+</figure>
