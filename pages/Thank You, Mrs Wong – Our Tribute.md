@@ -9,11 +9,14 @@ description: ""
 
 Mrs Wong-Cheang Mei Heng, our founding principal, will be retiring from the education service at the end of 2021 to begin a new journey. Since her appointment in December 2014, Mrs Wong has led Eunoia Junior College through many phases of its development: from recruiting the college's pioneering staff to guiding the deputy principals and key personnel, from creating the college vision to cultivating beautiful thinking amongst Eunoians, and from rejuvenating the Mount Sinai campus to overseeing the completion of our home in Bishan. Pivotal as she is, Mrs Wong was more than a Principal - an artist, teacher, leader, mentor, colleague and the head of a young Eunoia family. Together with our first five cohorts of students, teaching and non-teaching staff, parents and stakeholders, Mrs Wong has made a blank canvas into a beautiful community. While words alone cannot express our gratitude to Mrs Wong for her seven years of leading Eunoia Junior College, this is our little tribute:
 
+<br>
+
 > I appreciated how ready you were to entertain wild ideas that supported a culture of creativity and openness, and the sheer variety of names helped us converge on some principles — and having a name that will give us a unique three-letter acronym was one consideration. I remember that when we discussed “Eunoia”, of course we considered the sound and pronunciation of the name.
 > 
 > And because we all agreed that the meaning resonated with us, you shared this perspective — that we are teachers, and so we will teach people to say our name. And we did. I felt that this exemplified leading with the heart of a teacher.
 > ###### MS ADRIENNE DE SOUZA, HOD (PROJECT WORK & FLAGSHIP PROGRAMMES)
 
+<br>
 
 > I recall how determined Mrs Wong was in ensuring buy-in from all the pioneer staff. Those of us still around would recall our first Staff Eunite, where we engaged in several activities at Ghim Moh, NUS Guild House and the Hort Park. Mrs Wong was instrumental in shaping the programme and engagement of staff, and what you see here was our collective unpacking of the strategic plan. I also remember how she tried to recreate a caterer’s red bean soup for all of us to enjoy, one of the many ways in which Mrs Wong actively looked out for our welfare!
 > ###### MRS BRIGITTE KOH, TEACHER (MATHEMATICS)
