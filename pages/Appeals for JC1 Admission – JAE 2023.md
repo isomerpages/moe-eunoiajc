@@ -39,13 +39,16 @@ The decision of the Admissions Committee is final. No further appeals will be co
 
 ### Annexes
 
+
 <figure>
-  <img src="/images/JAE-Annex-A-784x1024.jpeg" alt="Image description">
+  <img src="/images/JAE-Annex-A-784x1024.jpeg" 
+     style="width:65%">
   <figcaption>Sample Form</figcaption>
 </figure>
 
 
 <figure>
-  <img src="/images/JAE-Annex-B-853x1024.jpeg" alt="Image description">
+  <img src="/images/JAE-Annex-B-853x1024.jpeg" 
+     style="width:65%">
   <figcaption>Verification Slip</figcaption>
 </figure>
