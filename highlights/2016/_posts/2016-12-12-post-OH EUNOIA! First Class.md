@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/OH-Eunoia-Banner-1.png)
+
 ## We are Ready to Welcome Our First Class
 
 Swing by our Open House, OH EUNOIA!, to find out more about Eunoia Junior College.&nbsp;Join us in taster lessons, walk through our CCA carnival, tour our innovative learning spaces, and meet your future collaborators. In just one day, terms like&nbsp;5i Curriculum, Passion Pursuit, Student Voice, and more&nbsp;will excite and energise you. We are confident you will be ready to create&nbsp;the Eunoia legacy. Take your first step on 13 January. Join our First Class!
