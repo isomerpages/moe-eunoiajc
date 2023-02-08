@@ -5,4 +5,7 @@ description: ""
 ---
 ### Highlights
 
-View Eunoia Highlights [here](/highlights/)
+View Eunoia Highlights [here](/highlights/).
+
+### News
+
