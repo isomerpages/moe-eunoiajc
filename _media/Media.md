@@ -9,24 +9,31 @@ View Eunoia Highlights [here](/highlights/).
 
 ## News
 
-[Appeals for JC1 Admission – JAE 2023](/2023-appeals/)   
+[Appeals for JC1 Admission – JAE 2023](/2023-appeals/)
+
 01 Feb 2023    
+
 The 2023 Joint Admissions Exercise (JAE) Appeal Exercise is for students who have not been posted to the college under the JAE Posting Exercise.    
 
 ----
-[JC1 Scholarship and Award Recipients 2022](/jc1-scholars-2022/)    
-27 Oct 2022       
+[JC1 Scholarship and Award Recipients 2022](/jc1-scholars-2022/)
+
+27 Oct 2022 
+
 The college congratulates 77 of our JC1 Eunoians on being awarded scholarships from the Ministry of Education and external agencies in 2022.
 
 -----
 
 [2022 Direct School Admission Exercise](/2022-dsa/)   
+
 04 May 2022    
+
 The 2022 Direct School Admission exercise (DSA-JC) for admission to JC1 in 2023 opens on 5 May 2022. Interested students should apply by 26 June 2022.
 
 ----
 
 [Class of 2021 Soaring – Vol 4](/class-2021-4/)   
+
 20 Mar 2022
 
 In our final volume, Deon, Lauren, Leia, Yi Xuan, Tiantian and Amanda share what inspires them in their pursuit of the Humanities and the Arts.
@@ -34,7 +41,6 @@ In our final volume, Deon, Lauren, Leia, Yi Xuan, Tiantian and Amanda share what
 -----
 
 [Class of 2021 Soaring – Vol 3](h/class-2021-3/)
-
 
 18 Mar 2022
 
