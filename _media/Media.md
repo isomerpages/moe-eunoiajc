@@ -520,7 +520,7 @@ Read about our Eunoians’ solutions to crises and advertising breakthroughs in 
 
 Our second cohort of Eunoians have charted the way forward with their excellent A-Level Project Work results in 2018.
 
-[Read More](https://eunoiajc.moe.edu.sg/2018-pw/ "2018 A-Level Project Work Journey – Volume 1")
+-----
 
 [Celebrating Our First Class – Volume 4](https://eunoiajc.moe.edu.sg/first-class-4/ "Celebrating Our First Class – Volume 4")
 
@@ -529,7 +529,7 @@ Our second cohort of Eunoians have charted the way forward with their excellent 
 
 We speak to Tan Zi Hao, Isabel Chan and Wong Zann Yee in our second feature on our Humanities Scholarship Programme graduates.
 
-[Read More](https://eunoiajc.moe.edu.sg/first-class-4/ "Celebrating Our First Class – Volume 4")
+-----
 
 [Celebrating Our First Class – Volume 3](https://eunoiajc.moe.edu.sg/first-class-3/ "Celebrating Our First Class – Volume 3")
 
@@ -538,7 +538,7 @@ We speak to Tan Zi Hao, Isabel Chan and Wong Zann Yee in our second feature on o
 
 In one of two features on our Humanities Scholars, Jelita Jaimon, Audrey Choong, Jeff Chin and Belle Tan share their memories, reflections and inspiring words.
 
-[Read More](https://eunoiajc.moe.edu.sg/first-class-3/ "Celebrating Our First Class – Volume 3")
+-----
 
 [Celebrating Our First Class – Volume 2](https://eunoiajc.moe.edu.sg/first-class-2/ "Celebrating Our First Class – Volume 2")
 
@@ -547,7 +547,7 @@ In one of two features on our Humanities Scholars, Jelita Jaimon, Audrey Choong,
 
 Keen to learn more about their passion, we spoke to Caspian Ng, Seck Li-lyn, Sarah Lai, Clyde Lhui, Law Yue Tian and Megan Heng from our First Class of Eunoians.
 
-[Read More](https://eunoiajc.moe.edu.sg/first-class-2/ "Celebrating Our First Class – Volume 2")
+-----
 
 [Celebrating Our First Class – Volume 1](https://eunoiajc.moe.edu.sg/first-class-1/ "Celebrating Our First Class – Volume 1")
 
@@ -556,7 +556,7 @@ Keen to learn more about their passion, we spoke to Caspian Ng, Seck Li-lyn, Sar
 
 Celebrating the holistic achievements of our First Class, we interviewed Marisa Lim, Jiang Haowen, Nicholas Lee, Faith Yeh and Grace Yeh in our first feature article.
 
-[Read More](https://eunoiajc.moe.edu.sg/first-class-1/ "Celebrating Our First Class – Volume 1")
+-----
 
 [First Class Once More – Release of A-Level Results](https://eunoiajc.moe.edu.sg/2018-release/ "First Class Once More – Release of A-Level Results")
 
@@ -565,7 +565,7 @@ Celebrating the holistic achievements of our First Class, we interviewed Marisa 
 
 The results of the 2018 GCE A-Level Examination will be released on 22 Feb 2019 (Fri). We look forward to meeting our First Class of Eunoians at 2pm in the hall.
 
-[Read More](https://eunoiajc.moe.edu.sg/2018-release/ "First Class Once More – Release of A-Level Results")
+-----
 
 [Your Next Move Begins Here – Orientation 2019](https://eunoiajc.moe.edu.sg/begins-here/ "Your Next Move Begins Here – Orientation 2019")
 
@@ -574,7 +574,7 @@ The results of the 2018 GCE A-Level Examination will be released on 22 Feb 2019 
 
 To our newest Eunoians, welcome to the Eunoia family! We look forward to meeting you on 1 Feb 2019 (Fri) at 7.50am. Read about some important details here.
 
-[Read More](https://eunoiajc.moe.edu.sg/begins-here/ "Your Next Move Begins Here – Orientation 2019")
+-----
 
 [Appeals for JC1 Admission – JAE 2019](https://eunoiajc.moe.edu.sg/2019-appeals/ "Appeals for JC1 Admission – JAE 2019")
 
@@ -583,7 +583,7 @@ To our newest Eunoians, welcome to the Eunoia family! We look forward to meeting
 
 The 2019 Joint Admissions Exercise (JAE) Appeal Exercise is for students who have not been posted to Eunoia Junior College under the JAE Posting Exercise. Students who have accepted Direct School Admission to other institutions are not eligible for this exercise.
 
-[Read More](https://eunoiajc.moe.edu.sg/2019-appeals/ "Appeals for JC1 Admission – JAE 2019")
+-----
 
 [Making the Next Move – OH EUNOIA! 2019](https://eunoiajc.moe.edu.sg/oh-eunoia-2019/ "Making the Next Move – OH EUNOIA! 2019")
 
@@ -592,7 +592,7 @@ The 2019 Joint Admissions Exercise (JAE) Appeal Exercise is for students who hav
 
 Were you with us at OH EUNOIA! 2019? We opened the doors of our Mount Sinai home to potential Eunoians keen to make their next move on 16 Jan 2019.
 
-[Read More](https://eunoiajc.moe.edu.sg/oh-eunoia-2019/ "Making the Next Move – OH EUNOIA! 2019")
+-----
 
 [Inspiring Teacher of English Award 2018](https://eunoiajc.moe.edu.sg/itea-2018/ "Inspiring Teacher of English Award 2018")
 
@@ -601,7 +601,7 @@ Were you with us at OH EUNOIA! 2019? We opened the doors of our Mount Sinai home
 
 We congratulate Literature tutor Ms Bernice Yeo on receiving the Inspiring Teacher of English Award 2018 at a ceremony on 11 Oct 2018.
 
-[Read More](https://eunoiajc.moe.edu.sg/itea-2018/ "Inspiring Teacher of English Award 2018")
+-----
 
 [JC1 Scholarship and Award Recipients 2018](https://eunoiajc.moe.edu.sg/2018-jc1-scholars/ "JC1 Scholarship and Award Recipients 2018")
 
@@ -610,7 +610,7 @@ We congratulate Literature tutor Ms Bernice Yeo on receiving the Inspiring Teach
 
 The college congratulates 53 of our JC1 Eunoians on being awarded scholarships from the Ministry of Education and external agencies.
 
-[Read More](https://eunoiajc.moe.edu.sg/2018-jc1-scholars/ "JC1 Scholarship and Award Recipients 2018")
+-----
 
 [International Geography Olympiad 2018](https://eunoiajc.moe.edu.sg/igeo18/ "International Geography Olympiad 2018")
 
@@ -619,7 +619,7 @@ The college congratulates 53 of our JC1 Eunoians on being awarded scholarships f
 
 Cheryl Yong (18-A4) represented Team Singapore at the International Geography Olympiad held in Quebec, Canada, finishing 2nd overall.
 
-[Read More](https://eunoiajc.moe.edu.sg/igeo18/ "International Geography Olympiad 2018")
+-----
 
 [Ministry of Education Special Awards 2018](https://eunoiajc.moe.edu.sg/2018-moe-sa/ "Ministry of Education Special Awards 2018")
 
@@ -628,7 +628,7 @@ Cheryl Yong (18-A4) represented Team Singapore at the International Geography Ol
 
 The college congratulates Ong Chong Yu (18-A1) and Megan Choo (18-O4) on receiving the PM Book Prize and LKY Award for Mathematics and Science.
 
-[Read More](https://eunoiajc.moe.edu.sg/2018-moe-sa/ "Ministry of Education Special Awards 2018")
+-----
 
 [National Day Celebrations & Inter-House Games 2018](https://eunoiajc.moe.edu.sg/nd-ihg-2018/ "National Day Celebrations & Inter-House Games 2018")
 
@@ -637,7 +637,7 @@ The college congratulates Ong Chong Yu (18-A1) and Megan Choo (18-O4) on receivi
 
 The college celebrated the nation’s 53rd birthday with a bang, adding plenty of sporting spirit and colour in the 2nd edition of its Inter-House Games.
 
-[Read More](https://eunoiajc.moe.edu.sg/nd-ihg-2018/ "National Day Celebrations & Inter-House Games 2018")
+-----
 
 [JC1 Parent-Teacher Meet 2018](https://eunoiajc.moe.edu.sg/jc1ptm-2018/ "JC1 Parent-Teacher Meet 2018")
 
@@ -646,7 +646,7 @@ The college celebrated the nation’s 53rd birthday with a bang, adding plenty o
 
 Parents of our JC1 Eunoians are invited to the JC1 Parent-Teacher Meet on 3 Aug 2018 (Fri) to discuss their child/ward’s academic progress and overall well-being.
 
-[Read More](https://eunoiajc.moe.edu.sg/jc1ptm-2018/ "JC1 Parent-Teacher Meet 2018")
+-----
 
 [Two recipients of SAF Young Leader Award 2018](https://eunoiajc.moe.edu.sg/syla-2018/ "Two recipients of SAF Young Leader Award 2018")
 
@@ -655,7 +655,7 @@ Parents of our JC1 Eunoians are invited to the JC1 Parent-Teacher Meet on 3 Aug 
 
 The college congratulates Audrey Choong Jia Yuan (17-O1) and Ryan Lee Ray Yen (17-U2) on receiving the SAF Young Leader Award 2018.
 
-[Read More](https://eunoiajc.moe.edu.sg/syla-2018/ "Two recipients of SAF Young Leader Award 2018")
+-----
 
 [II-Morrow – 2nd Student Leaders’ Investiture](https://eunoiajc.moe.edu.sg/2morrow/ "II-Morrow – 2nd Student Leaders’ Investiture")
 
@@ -664,7 +664,7 @@ The college congratulates Audrey Choong Jia Yuan (17-O1) and Ryan Lee Ray Yen (1
 
 The college’s 2nd Student Leaders’ Investiture was held on 13 Jul 2018, as the first cohort of student leaders passed the baton to their peers in JC1.
 
-[Read More](https://eunoiajc.moe.edu.sg/2morrow/ "II-Morrow – 2nd Student Leaders’ Investiture")
+-----
 
 [As One We Write  
 – Our Foundation](https://eunoiajc.moe.edu.sg/one-foundation/ "As One We Write– Our Foundation")
@@ -674,7 +674,7 @@ The college’s 2nd Student Leaders’ Investiture was held on 13 Jul 2018, as t
 
 Our pioneering students and staff shared their hopes and dreams for the college at our official opening. Read their remarks here.
 
-[Read More](https://eunoiajc.moe.edu.sg/one-foundation/ "As One We Write– Our Foundation")
+-----
 
 [As One We Write  
 – Welcome Address](https://eunoiajc.moe.edu.sg/one-welcome/ "As One We Write– Welcome Address")
@@ -684,7 +684,7 @@ Our pioneering students and staff shared their hopes and dreams for the college 
 
 Our principal Mrs Wong-Cheang Mei Heng welcomed guest of honour Mr Ong Ye Kung and distinguished guests at our opening. Read her welcome address here.
 
-[Read More](https://eunoiajc.moe.edu.sg/one-welcome/ "As One We Write– Welcome Address")
+-----
 
 [Invest with Integrity – 2017 A-Level PW Journey](https://eunoiajc.moe.edu.sg/2017-pw/ "Invest with Integrity – 2017 A-Level PW Journey")
 
@@ -693,7 +693,7 @@ Our principal Mrs Wong-Cheang Mei Heng welcomed guest of honour Mr Ong Ye Kung a
 
 Our pioneer cohort of Eunoians received their A-Level Project Work results on 17 Apr 2018. We spoke to some of them to hear their thoughts on their PW journey.
 
-[Read More](https://eunoiajc.moe.edu.sg/2017-pw/ "Invest with Integrity – 2017 A-Level PW Journey")
+-----
 
 [Eunoia Junior College – Official Opening](https://eunoiajc.moe.edu.sg/one/ "Eunoia Junior College – Official Opening")
 
@@ -702,7 +702,7 @@ Our pioneer cohort of Eunoians received their A-Level Project Work results on 17
 
 The college has lined up a series of exciting activities on 5 May 2018 (Saturday), 3pm to 7pm at our Mount Sinai campus to celebrate our official launch.
 
-[Read More](https://eunoiajc.moe.edu.sg/one/ "Eunoia Junior College – Official Opening")
+-----
 
 [JC2 Parent-Teacher Meet 2018](https://eunoiajc.moe.edu.sg/jc2ptm-2018/ "JC2 Parent-Teacher Meet 2018")
 
@@ -711,7 +711,7 @@ The college has lined up a series of exciting activities on 5 May 2018 (Saturday
 
 We would like to invite parents of our JC2 students to the JC2 Parent-Teacher Meet (PTM) for an update on their child/ward’s progress.
 
-[Read More](https://eunoiajc.moe.edu.sg/jc2ptm-2018/ "JC2 Parent-Teacher Meet 2018")
+-----
 
 [Road Run 2018 – Reaching for the Sun](https://eunoiajc.moe.edu.sg/road-run-2018/ "Road Run 2018 – Reaching for the Sun")
 
@@ -720,7 +720,7 @@ We would like to invite parents of our JC2 students to the JC2 Parent-Teacher Me
 
 The college held its second Road Run on 23 March 2018, bringing parents, JC1 and JC2 students and staff together for a day under the sun.
 
-[Read More](https://eunoiajc.moe.edu.sg/road-run-2018/ "Road Run 2018 – Reaching for the Sun")
+-----
 
 [Love’s Labour’s Won – 2017 A-Level MTL Results](https://eunoiajc.moe.edu.sg/2017-a-level/ "Love’s Labour’s Won – 2017 A-Level MTL Results")
 
@@ -729,7 +729,7 @@ The college held its second Road Run on 23 March 2018, bringing parents, JC1 and
 
 99 students from our first cohort achieved gleaming results for the 2017 A-Level Examination in their Mother Tongue Language and other H1 language subjects.
 
-[Read More](https://eunoiajc.moe.edu.sg/2017-a-level/ "Love’s Labour’s Won – 2017 A-Level MTL Results")
+-----
 
 [Voyage 2018 – EJC Orientation](https://eunoiajc.moe.edu.sg/orientation-2018/ "Voyage 2018 – EJC Orientation")
 
@@ -738,7 +738,7 @@ The college held its second Road Run on 23 March 2018, bringing parents, JC1 and
 
 Eunoia is complete. Over the course of Orientation 2018, our full cohort of JC1s were integrated into the family and embarked on a spectacular voyage.
 
-[Read More](https://eunoiajc.moe.edu.sg/orientation-2018/ "Voyage 2018 – EJC Orientation")
+-----
 
 [JC1 Parent Engagement Session 2018](https://eunoiajc.moe.edu.sg/jc1pes2018/ "JC1 Parent Engagement Session 2018")
 
@@ -747,7 +747,7 @@ Eunoia is complete. Over the course of Orientation 2018, our full cohort of JC1s
 
 We would like to invite parents of our new JC1s to our parent engagement session, where useful information will be shared and parents can meet their child’s civics tutor(s).
 
-[Read More](https://eunoiajc.moe.edu.sg/jc1pes2018/ "JC1 Parent Engagement Session 2018")
+-----
 
 [Appeals for JC1 Admission – JAE 2018](https://eunoiajc.moe.edu.sg/2018-appeals/ "Appeals for JC1 Admission – JAE 2018")
 
@@ -756,7 +756,7 @@ We would like to invite parents of our new JC1s to our parent engagement session
 
 The 2018 Joint Admissions Exercise (JAE) Appeal Exercise is for students who have not been posted to Eunoia Junior College under the JAE Posting Exercise. Students who have accepted Direct School Admission to other institutions are not eligible for this exercise.
 
-[Read More](https://eunoiajc.moe.edu.sg/2018-appeals/ "Appeals for JC1 Admission – JAE 2018")
+-----
 
 [Eunite 2018 – JIP Orientation](https://eunoiajc.moe.edu.sg/eunite-2018/ "Eunite 2018 – JIP Orientation")
 
@@ -765,7 +765,7 @@ The 2018 Joint Admissions Exercise (JAE) Appeal Exercise is for students who hav
 
 On 8 Jan 2018, the second cohort of JIP students was brought together for a five-day voyage to new and deeper friendships in the college.
 
-[Read More](https://eunoiajc.moe.edu.sg/eunite-2018/ "Eunite 2018 – JIP Orientation")
+-----
 
 [The Eunoians of 2017 – Volume Two](https://eunoiajc.moe.edu.sg/eunoians-2017-v2/ "The Eunoians of 2017 – Volume Two")
 
@@ -774,7 +774,7 @@ On 8 Jan 2018, the second cohort of JIP students was brought together for a five
 
 Friendship, school spirit and a common purpose – four more of our first Eunoians share their journey so far, and what they cherish most about Eunoia.
 
-[Read More](https://eunoiajc.moe.edu.sg/eunoians-2017-v2/ "The Eunoians of 2017 – Volume Two")
+-----
 
 [The Eunoians of 2017 – Volume One](https://eunoiajc.moe.edu.sg/eunoians-2017-v1/ "The Eunoians of 2017 – Volume One")
 
@@ -783,7 +783,7 @@ Friendship, school spirit and a common purpose – four more of our first Eunoia
 
 We catch up with our first cohort of Eunoians to find out about their best memories from 2017 and how they hope to write the Eunoia story in 2018.
 
-[Read More](https://eunoiajc.moe.edu.sg/eunoians-2017-v1/ "The Eunoians of 2017 – Volume One")
+-----
 
 [Euphoria 2017 – From Race to Rave](https://eunoiajc.moe.edu.sg/euphoria-2017/ "Euphoria 2017 – From Race to Rave")
 
@@ -792,7 +792,7 @@ We catch up with our first cohort of Eunoians to find out about their best memor
 
 In a rousing finale to the year, the cohort of 2017 embarked on an Amazing Race around our island-city that culminated at Tanjong Beach, Sentosa on 17 Nov 2017.
 
-[Read More](https://eunoiajc.moe.edu.sg/euphoria-2017/ "Euphoria 2017 – From Race to Rave")
+-----
 
 [Commendation Ceremony 2017](https://eunoiajc.moe.edu.sg/commendation-2017/ "Commendation Ceremony 2017")
 
@@ -801,7 +801,7 @@ In a rousing finale to the year, the cohort of 2017 embarked on an Amazing Race 
 
 Celebrating Achievements, Re-igniting Aspirations with Anticipation. Eunoians took turns to shine and look forward to a more brilliant year of achievements ahead.
 
-[Read More](https://eunoiajc.moe.edu.sg/commendation-2017/ "Commendation Ceremony 2017")
+-----
 
 [JIP Schools Open House 2017](https://eunoiajc.moe.edu.sg/2017-jip-open-house/ "JIP Schools Open House 2017")
 
@@ -810,7 +810,7 @@ Celebrating Achievements, Re-igniting Aspirations with Anticipation. Eunoians to
 
 Our Joint Integrated Programme partner schools will be opening their doors to interested Pri 6 pupils and their parents in November. Click the link to find out more.
 
-[Read More](https://eunoiajc.moe.edu.sg/2017-jip-open-house/ "JIP Schools Open House 2017")
+-----
 
 [Ready to Overcome – Spartan Challenge 2017](https://eunoiajc.moe.edu.sg/spartan-2017/ "Ready to Overcome – Spartan Challenge 2017")
 
@@ -819,7 +819,7 @@ Our Joint Integrated Programme partner schools will be opening their doors to in
 
 On 6 Oct 2017, we saw the five houses pit their strength and stamina against their ultimate foe – themselves – at the inaugural EJC Spartan Challenge.
 
-[Read More](https://eunoiajc.moe.edu.sg/spartan-2017/ "Ready to Overcome – Spartan Challenge 2017")
+-----
 
 [A Beautiful Muse 2017 – Arts Showcase](https://eunoiajc.moe.edu.sg/muse-2017/ "A Beautiful Muse 2017 – Arts Showcase")
 
@@ -828,7 +828,7 @@ On 6 Oct 2017, we saw the five houses pit their strength and stamina against the
 
 Spirited, versatile and talented, students from Eunoia Junior College enchanted at the library@esplanade open stage on 19 Aug 2017 with music and drama.
 
-[Read More](https://eunoiajc.moe.edu.sg/muse-2017/ "A Beautiful Muse 2017 – Arts Showcase")
+-----
 
 [Of a Different League – Teachers’ Day 2017](https://eunoiajc.moe.edu.sg/teachers-day-2017/ "Of a Different League – Teachers’ Day 2017")
 
@@ -837,7 +837,7 @@ Spirited, versatile and talented, students from Eunoia Junior College enchanted 
 
 The teachers at Eunoia Junior College were treated like heroes for a day on 30 Aug 2017, ready to fight another term and more for their appreciative students.
 
-[Read More](https://eunoiajc.moe.edu.sg/teachers-day-2017/ "Of a Different League – Teachers’ Day 2017")
+-----
 
 [JIP Bicultural Studies Symposium 2017](https://eunoiajc.moe.edu.sg/bicultural-studies-symposium-2017/ "JIP Bicultural Studies Symposium 2017")
 
@@ -846,7 +846,7 @@ The teachers at Eunoia Junior College were treated like heroes for a day on 30 A
 
 On 18 Aug 2017, students from EJC, CHS, CHIJ SNGS and SCGS congregated for the annual Joint Integrated Programme Bicultural Studies Programme Symposium.
 
-[Read More](https://eunoiajc.moe.edu.sg/bicultural-studies-symposium-2017/ "JIP Bicultural Studies Symposium 2017")
+-----
 
 [City of Dreams –  
 EJC Symphonic Band](https://eunoiajc.moe.edu.sg/city-of-dreams/ "City of Dreams – EJC Symphonic Band")
@@ -856,7 +856,7 @@ EJC Symphonic Band](https://eunoiajc.moe.edu.sg/city-of-dreams/ "City of Dreams 
 
 The EJC Symphonic Band held its first public performance at the Botanic Gardens on 6 Aug 2017 together with bands from CHS, CHIJ SNGS and SCGS.
 
-[Read More](https://eunoiajc.moe.edu.sg/city-of-dreams/ "City of Dreams – EJC Symphonic Band")
+-----
 
 [National Day 2017 Celebrations](https://eunoiajc.moe.edu.sg/national-day-2017/ "National Day 2017 Celebrations")
 
@@ -865,7 +865,7 @@ The EJC Symphonic Band held its first public performance at the Botanic Gardens 
 
 It was quite the birthday party for a nation 52 years young, commemorated and celebrated by a junior college young in spirit on 8 Aug 2017.
 
-[Read More](https://eunoiajc.moe.edu.sg/national-day-2017/ "National Day 2017 Celebrations")
+-----
 
 [Sports Day & Inter-House Games 2017](https://eunoiajc.moe.edu.sg/sports-day-ihg-2017/ "Sports Day & Inter-House Games 2017")
 
@@ -874,7 +874,7 @@ It was quite the birthday party for a nation 52 years young, commemorated and ce
 
 Decked in house colours for the first time, Eunoians and teachers kicked off the inaugural Sports Day and Inter-House Games on 24 July 2017.
 
-[Read More](https://eunoiajc.moe.edu.sg/sports-day-ihg-2017/ "Sports Day & Inter-House Games 2017")
+-----
 
 [Racial Harmony Day 2017 Celebrations](https://eunoiajc.moe.edu.sg/rhd-2017/ "Racial Harmony Day 2017 Celebrations")
 
@@ -883,7 +883,7 @@ Decked in house colours for the first time, Eunoians and teachers kicked off the
 
 Capping an eventful MTL Fortnight II, the college commemorated Racial Harmony Day in ‘The Singapore Way’ on 21 July 2017.
 
-[Read More](https://eunoiajc.moe.edu.sg/rhd-2017/ "Racial Harmony Day 2017 Celebrations")
+-----
 
 [Learn Explore Discover – Unconference Day 2017](https://eunoiajc.moe.edu.sg/unconference-day-2017/ "Learn Explore Discover – Unconference Day 2017")
 
@@ -892,7 +892,7 @@ Capping an eventful MTL Fortnight II, the college commemorated Racial Harmony Da
 
 The college’s first-ever Unconference Day on 5 July 2017 was a day of learning, exploration and discovery for both Eunoians and teachers alike.
 
-[Read More](https://eunoiajc.moe.edu.sg/unconference-day-2017/ "Learn Explore Discover – Unconference Day 2017")
+-----
 
 [Charting the Future – CSH Day 2017](https://eunoiajc.moe.edu.sg/csh-day-2017/ "Charting the Future – CSH Day 2017")
 
@@ -901,7 +901,7 @@ The college’s first-ever Unconference Day on 5 July 2017 was a day of learning
 
 Our JC1 Eunoians had an early chance to explore and introspect on the first Careers, Scholarships and Higher Education Day held on 4 July 2017.
 
-[Read More](https://eunoiajc.moe.edu.sg/csh-day-2017/ "Charting the Future – CSH Day 2017")
+-----
 
 [JC1 Parent-Teacher Meet on 21 July 2017](https://eunoiajc.moe.edu.sg/2017jc1ptm2/ "JC1 Parent-Teacher Meet on 21 July 2017")
 
@@ -910,7 +910,7 @@ Our JC1 Eunoians had an early chance to explore and introspect on the first Care
 
 The college invites parents of our JC1 students to an in-depth conversation with our staff on 21 July 2017, from 5pm to 7.45pm.
 
-[Read More](https://eunoiajc.moe.edu.sg/2017jc1ptm2/ "JC1 Parent-Teacher Meet on 21 July 2017")
+-----
 
 [Local Soul – Humanities & Aesthetics Week 2017](https://eunoiajc.moe.edu.sg/haw2017/ "Local Soul – Humanities & Aesthetics Week 2017")
 
@@ -919,7 +919,7 @@ The college invites parents of our JC1 students to an in-depth conversation with
 
 Our first Humanities and Aesthetics Week sought to uncover the Local Soul through a kaleidoscope of activities and performances from 15 to 19 May 2017.
 
-[Read More](https://eunoiajc.moe.edu.sg/haw2017/ "Local Soul – Humanities & Aesthetics Week 2017")
+-----
 
 [Running for a Cause – Road Run 2017](https://eunoiajc.moe.edu.sg/road-run-2017/ "Running for a Cause – Road Run 2017")
 
@@ -928,7 +928,7 @@ Our first Humanities and Aesthetics Week sought to uncover the Local Soul throug
 
 The first ever EJC Road Run was held at Bishan-Ang Mo Kio Park II on 19 May 2017 as part of the college’s fundraising efforts.
 
-[Read More](https://eunoiajc.moe.edu.sg/road-run-2017/ "Running for a Cause – Road Run 2017")
+-----
 
 [ST-MOE National Current Affairs Quiz 2017](https://eunoiajc.moe.edu.sg/st-moe-big-quiz-2017/ "ST-MOE National Current Affairs Quiz 2017")
 
@@ -937,7 +937,7 @@ The first ever EJC Road Run was held at Bishan-Ang Mo Kio Park II on 19 May 2017
 
 On 12 May 2017, the college played host to the fourth round of The Straits Times – Ministry of Education National Current Affairs Quiz, or ‘The Big Quiz’.
 
-[Read More](https://eunoiajc.moe.edu.sg/st-moe-big-quiz-2017/ "ST-MOE National Current Affairs Quiz 2017")
+-----
 
 [Beginning with a Dream – College Day 2017](https://eunoiajc.moe.edu.sg/college-day-2017/ "Beginning with a Dream – College Day 2017")
 
@@ -946,7 +946,7 @@ On 12 May 2017, the college played host to the fourth round of The Straits Times
 
 Eunoia Junior College marked its inaugural College Day on 6 May 2017 by commemorating its students and partners’ contributions to the college’s identity and formation.
 
-[Read More](https://eunoiajc.moe.edu.sg/college-day-2017/ "Beginning with a Dream – College Day 2017")
+-----
 
 [Distinction at SYF 2017 – Dance and Band](https://eunoiajc.moe.edu.sg/syf2017/ "Distinction at SYF 2017 – Dance and Band")
 
@@ -955,7 +955,7 @@ Eunoia Junior College marked its inaugural College Day on 6 May 2017 by commemor
 
 The college would like to congratulate students and teachers-in-charge from our Dance and Symphonic Band CCAs for their stellar performance at SYF 2017.
 
-[Read More](https://eunoiajc.moe.edu.sg/syf2017/ "Distinction at SYF 2017 – Dance and Band")
+-----
 
 [STEM Week 2017](https://eunoiajc.moe.edu.sg/stem-week-2017/ "STEM Week 2017")
 
@@ -964,7 +964,7 @@ The college would like to congratulate students and teachers-in-charge from our 
 
 From 17 to 21 April, the college conducted an array of workshops and talks under the banner of STEM Week 2017, that would draw connections between real world design and classroom study, and challenge Eunoians to think beyond. The daily Mathematics puzzles certainly tapped on their curiosity and intellectual persistence, and proved to be the centre \[…\]
 
-[Read More](https://eunoiajc.moe.edu.sg/stem-week-2017/ "STEM Week 2017")
+-----
 
 [感受母语 – MTL Fortnight 2017](https://eunoiajc.moe.edu.sg/mtl-fortnight-2017/ "感受母语 – MTL Fortnight 2017")
 
@@ -973,7 +973,7 @@ From 17 to 21 April, the college conducted an array of workshops and talks under
 
 From 3 to 7 April, the college’s Mother Tongue Languages (MTL) Department held the first half of MTL Fortnight 2017.
 
-[Read More](https://eunoiajc.moe.edu.sg/mtl-fortnight-2017/ "感受母语 – MTL Fortnight 2017")
+-----
 
 [Induction Day 2017 – Start Shining](https://eunoiajc.moe.edu.sg/induction-2017/ "Induction Day 2017 – Start Shining")
 
@@ -982,7 +982,7 @@ From 3 to 7 April, the college’s Mother Tongue Languages (MTL) Department held
 
 The college commemorated its inaugural Induction Day on 20 Feb 2017, which marks the initiation of Eunoians into the college.
 
-[Read More](https://eunoiajc.moe.edu.sg/induction-2017/ "Induction Day 2017 – Start Shining")
+-----
 
 [Odyssey – EJC Orientation 2017](https://eunoiajc.moe.edu.sg/odyssey-2017/ "Odyssey – EJC Orientation 2017")
 
@@ -991,7 +991,7 @@ The college commemorated its inaugural Induction Day on 20 Feb 2017, which marks
 
 To welcome its first-ever JAE cohort and strengthen the Eunoia family, the college’s pioneering cohort embarked on an Odyssey – EJC Orientation 2017.
 
-[Read More](https://eunoiajc.moe.edu.sg/odyssey-2017/ "Odyssey – EJC Orientation 2017")
+-----
 
 [Making a Record for the Community](https://eunoiajc.moe.edu.sg/making-a-record-for-the-community/ "Making a Record for the Community")
 
@@ -1000,7 +1000,7 @@ To welcome its first-ever JAE cohort and strengthen the Eunoia family, the colle
 
 On 10 Feb 2017, our first cohort of students and teachers made it into the Singapore Book of Records with the largest ‘social fabric’ of stories and photographs, measuring 9.3m by 5.9m.
 
-[Read More](https://eunoiajc.moe.edu.sg/making-a-record-for-the-community/ "Making a Record for the Community")
+-----
 
 [Launch of the Eunoia Junior College Anthem](https://eunoiajc.moe.edu.sg/anthem-launch/ "Launch of the Eunoia Junior College Anthem")
 
@@ -1009,7 +1009,7 @@ On 10 Feb 2017, our first cohort of students and teachers made it into the Singa
 
 On 6 Feb 2017, we launched the College Anthem, written and composed by a group of our students, to welcome our JAE cohort into the Eunoia family.
 
-[Read More](https://eunoiajc.moe.edu.sg/anthem-launch/ "Launch of the Eunoia Junior College Anthem")
+-----
 
 [Invitation to JC1 Parent-Teacher Meet](https://eunoiajc.moe.edu.sg/jc1-ptm/ "Invitation to JC1 Parent-Teacher Meet")
 
@@ -1018,7 +1018,7 @@ On 6 Feb 2017, we launched the College Anthem, written and composed by a group o
 
 The college would like to invite parents of our JC1s to the inaugural Parent-Teacher Meet on 24 February 2017 (Friday), from 6pm to 7.30pm in the college.
 
-[Read More](https://eunoiajc.moe.edu.sg/jc1-ptm/ "Invitation to JC1 Parent-Teacher Meet")
+-----
 
 [Bright Spots in Eunoia – Spring Cleaning Time](https://eunoiajc.moe.edu.sg/bright-spots-cny/ "Bright Spots in Eunoia – Spring Cleaning Time")
 
@@ -1027,16 +1027,15 @@ The college would like to invite parents of our JC1s to the inaugural Parent-Tea
 
 In preparation for the Chinese New Year festivities, our Eunoians picked up their cleaning weapons on a campus-wide crusade for cleanliness, and grew closer while at it!
 
-[Read More](https://eunoiajc.moe.edu.sg/bright-spots-cny/ "Bright Spots in Eunoia – Spring Cleaning Time")
+-----
 
 [Appeals for JC1 Admission – JAE 2017](https://eunoiajc.moe.edu.sg/2017-appeals/ "Appeals for JC1 Admission – JAE 2017")
-------------------------------------------------------------------------------------------------------------------------
 
 24 Jan 2017
 
 The Joint Admissions Exercise (JAE) Appeal Exercise is for students who have not been posted to Eunoia Junior College under the JAE Posting Exercise. Students who have accepted Direct School Admission (DSA-JC) to other institutions are not eligible for this exercise.
 
-[Read More](https://eunoiajc.moe.edu.sg/2017-appeals/ "Appeals for JC1 Admission – JAE 2017")
+-----
 
 [Epic – A Eunoia Adventure](https://eunoiajc.moe.edu.sg/epic/ "Epic – A Eunoia Adventure")
 
@@ -1045,7 +1044,7 @@ The Joint Admissions Exercise (JAE) Appeal Exercise is for students who have not
 
 The Eunoia Odyssey is starting and you could be a part of it. Read our college viewbook and find out what it means to be a first-class Eunoian. The story is yours.
 
-[Read More](https://eunoiajc.moe.edu.sg/epic/ "Epic – A Eunoia Adventure")
+-----
 
 [Well Wishes for Eunoians](https://eunoiajc.moe.edu.sg/well-wishes-for-eunoians/ "Well Wishes for Eunoians")
 
@@ -1054,7 +1053,7 @@ The Eunoia Odyssey is starting and you could be a part of it. Read our college v
 
 Parents of our JC1s, alumni and staff from our JIP partner schools send their well wishes to our first cohort of Eunoians on the first day of their journey.
 
-[Read More](https://eunoiajc.moe.edu.sg/well-wishes-for-eunoians/ "Well Wishes for Eunoians")
+-----
 
 [Day One @ Eunoia](https://eunoiajc.moe.edu.sg/day-one/ "Day One @ Eunoia")
 
@@ -1063,7 +1062,7 @@ Parents of our JC1s, alumni and staff from our JIP partner schools send their we
 
 Momentous is probably the only word we could use to describe the 9th of January, 2017, the very first school day for Eunoia Junior College.
 
-[Read More](https://eunoiajc.moe.edu.sg/day-one/ "Day One @ Eunoia")
+-----
 
 [Calling ‘O’ Level Students](https://eunoiajc.moe.edu.sg/calling-o-level-students/ "Calling ‘O’ Level Students")
 
@@ -1072,7 +1071,7 @@ Momentous is probably the only word we could use to describe the 9th of January,
 
 The college is ready to welcome its first ever cohort of students, formed by students from both the ‘O’ Level track and the Joint Integrated Programme. The 2017 Joint Admissions Exercise, which will take place after the release of the ‘O’ Level results, is the first the college will be taking part in. From our outreach efforts \[…\]
 
-[Read More](https://eunoiajc.moe.edu.sg/calling-o-level-students/ "Calling ‘O’ Level Students")
+-----
 
 [Eunited We Stand](https://eunoiajc.moe.edu.sg/eunited-we-stand/ "Eunited We Stand")
 
@@ -1081,7 +1080,7 @@ The college is ready to welcome its first ever cohort of students, formed by stu
 
 Eunoians Eunite! Our Year 4 students from the Joint Integrated Programme were invited to join us on a full day of cheers, activities and a Eunoia GO! trail that brought us around Ghim Moh, Holland Drive, and Buona Vista.
 
-[Read More](https://eunoiajc.moe.edu.sg/eunited-we-stand/ "Eunited We Stand")
+-----
 
 [Now This is What We Call Family](https://eunoiajc.moe.edu.sg/now-this-is-what-we-call-family/ "Now This is What We Call Family")
 
@@ -1090,7 +1089,7 @@ Eunoians Eunite! Our Year 4 students from the Joint Integrated Programme were in
 
 Our house became a home as we celebrated a Housewarming and Family Day on 14 October 2016, which we hope is a first of many.
 
-[Read More](https://eunoiajc.moe.edu.sg/now-this-is-what-we-call-family/ "Now This is What We Call Family")
+-----
 
 [Welcome Home, Eunoia](https://eunoiajc.moe.edu.sg/welcome-home-eunoia/ "Welcome Home, Eunoia")
 
@@ -1099,7 +1098,7 @@ Our house became a home as we celebrated a Housewarming and Family Day on 14 Oct
 
 On the 5th of October, the Eunoia staff moved out from our temporary office at the Singapore Centre for Chinese Language (SCCL) and crossed the road to our rejuvenated Mount Sinai campus.
 
-[Read More](https://eunoiajc.moe.edu.sg/welcome-home-eunoia/ "Welcome Home, Eunoia")
+-----
 
 [Information for Year 4 Students and Parents](https://eunoiajc.moe.edu.sg/information-for-year-4-students-and-parents/ "Information for Year 4 Students and Parents")
 
@@ -1108,7 +1107,7 @@ On the 5th of October, the Eunoia staff moved out from our temporary office at t
 
 On 3 Sep 2016, the college held a pre-opening engagement event for Joint Integrated Programme Year 4 students and their parents. Several important administrative updates were provided at the session, which we are sharing here. You may also download our F!RST Information Booklet for more details on the event and academic matters.   Mount Sinai Campus Tour Date: \[…\]
 
-[Read More](https://eunoiajc.moe.edu.sg/information-for-year-4-students-and-parents/ "Information for Year 4 Students and Parents")
+-----
 
 [Information on 2017 Shuttle Bus Service](https://eunoiajc.moe.edu.sg/information-on-2017-shuttle-bus-service/ "Information on 2017 Shuttle Bus Service")
 
@@ -1117,7 +1116,7 @@ On 3 Sep 2016, the college held a pre-opening engagement event for Joint Integr
 
 One-way shuttle bus services are arranged for students on weekday mornings during the school term. In view of peak hour traffic and other unforeseen delays, the college has planned for students to arrive on campus by 7.30am, before morning assembly begins at 8.00am.
 
-[Read More](https://eunoiajc.moe.edu.sg/information-on-2017-shuttle-bus-service/ "Information on 2017 Shuttle Bus Service")
+-----
 
 [F!RST Pre-Opening Engagement Session](https://eunoiajc.moe.edu.sg/frst-pre-opening-engagement-session/ "F!RST Pre-Opening Engagement Session")
 
@@ -1126,7 +1125,7 @@ One-way shuttle bus services are arranged for students on weekday mornings durin
 
 The college is holding a pre-opening engagement session on 3 September for Joint Integrated Programme Year 4 students and their parents. Letters of invitation and postcards have been sent to our JIP Partner Schools and distributed to Year 4 students. We look forward to meeting our first very cohort of Eunoians, and invite you and your parents to send us questions via the link. Details of the event can be found below.
 
-[Read More](https://eunoiajc.moe.edu.sg/frst-pre-opening-engagement-session/ "F!RST Pre-Opening Engagement Session")
+-----
 
 [Let’s Go Community Mapping!](https://eunoiajc.moe.edu.sg/lets-go-community-mapping/ "Let’s Go Community Mapping!")
 
@@ -1135,7 +1134,7 @@ The college is holding a pre-opening engagement session on 3 September for Joint
 
 Two weeks into the new term, our first ‘cohort’ of teachers took the chance to learn more about the Ghim Moh community. How else, but by doing what Singaporeans do best – eating and shopping! The chance to meet hawkers and shop owners at Ghim Moh Market was something everyone relished, and cherished.
 
-[Read More](https://eunoiajc.moe.edu.sg/lets-go-community-mapping/ "Let’s Go Community Mapping!")
+-----
 
 [Introducing Our College Crest](https://eunoiajc.moe.edu.sg/introducing-our-college-crest/ "Introducing Our College Crest")
 
@@ -1144,7 +1143,7 @@ Two weeks into the new term, our first ‘cohort’ of teachers took the chance 
 
 A crest is more than a beautiful symbol. It tells the story of a school, about how it came to be, its distinctive qualities and most importantly, its vision, mission and values. Having co-created the college ethos with our Joint Integrated Programme students and stakeholders in 2015, we began to conceptualise the crest in early 2016.
 
-[Read More](https://eunoiajc.moe.edu.sg/introducing-our-college-crest/ "Introducing Our College Crest")
+-----
 
 [2016 DSA-JC Exercise](https://eunoiajc.moe.edu.sg/2016-dsa/ "2016 DSA-JC Exercise")
 
@@ -1153,7 +1152,7 @@ A crest is more than a beautiful symbol. It tells the story of a school, about h
 
 The 2016 Direct School Admission – Junior College (DSA-JC) exercise opens on 9 May 2016. DSA-JC applications to Eunoia Junior College have now closed. Students interested in applying to the college may do so via the 2017 Joint Admissions Exercise.
 
-[Read More](https://eunoiajc.moe.edu.sg/2016-dsa/ "2016 DSA-JC Exercise")
+-----
 
 [Prospectus 2017-18](https://eunoiajc.moe.edu.sg/prospectus-2017-18/ "Prospectus 2017-18")
 
@@ -1162,7 +1161,7 @@ The 2016 Direct School Admission – Junior College (DSA-JC) exercise opens on 9
 
 View our prospectus to find out more about our beautiful thinking, a diverse menu of programmes and the unique college experience we have to offer.
 
-[Read More](https://eunoiajc.moe.edu.sg/prospectus-2017-18/ "Prospectus 2017-18")
+-----
 
 [Finding Eunity](https://eunoiajc.moe.edu.sg/finding-eunity/ "Finding Eunity")
 
@@ -1171,7 +1170,7 @@ View our prospectus to find out more about our beautiful thinking, a diverse men
 
 Dear Parents and Alumni Members, All journeys have a beginning, a middle and an end. Midpoints are a good time to take stock and review
 
-[Read More](https://eunoiajc.moe.edu.sg/finding-eunity/ "Finding Eunity")
+-----
 
 [Student-Initiated CCA Proposal](https://eunoiajc.moe.edu.sg/student-initiated-cca-proposal/ "Student-Initiated CCA Proposal")
 
@@ -1180,7 +1179,7 @@ Dear Parents and Alumni Members, All journeys have a beginning, a middle and an 
 
 The college strongly believes in student voice: we empower our students to shape and co-create with us the Eunoia identity. Our students in the Joint Integrated Programme and students who are admitted via the Joint Admissions Exercise are given opportunities to propose CCAs beyond.
 
-[Read More](https://eunoiajc.moe.edu.sg/student-initiated-cca-proposal/ "Student-Initiated CCA Proposal")
+-----
 
 [Creating the Eunoian Experience](https://eunoiajc.moe.edu.sg/creating-the-eunoian-experience/ "Creating the Eunoian Experience")
 
@@ -1189,4 +1188,4 @@ The college strongly believes in student voice: we empower our students to shape
 
 Dear Parents and Alumni Members, The first term of 2016 is behind us, and we hope that it has been every bit as fulfilling as you envisaged. To parents, we hope that your child has settled well into the school year, ready to encounter new possibilities and master the skills they need and want to learn. To both parents and alumni of Catholic High School, CHIJ St. Nicholas Girls’ School and Singapore Chinese Girls’ School, we would like to take this opportunity to keep you abreast of our journey thus far at Eunoia Junior College.
 
-[Read More](https://eunoiajc.moe.edu.sg/creating-the-eunoian-experience/ "Creating the Eunoian Experience")
+-----
