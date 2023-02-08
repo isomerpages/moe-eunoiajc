@@ -78,7 +78,7 @@ Dear Class of 2021, the release of the 2021 GCE A-Level examination results will
 
 -----
 
-[Appeals for JC1 Admission – JAE 2022](https://eunoiajc.moe.edu.sg/2022-appeals/ "Appeals for JC1 Admission – JAE 2022")
+[Appeals for JC1 Admission – JAE 2022](/2022-appeals/)
 
 
 31 Jan 2022
@@ -87,7 +87,7 @@ The 2022 Joint Admissions Exercise (JAE) Appeal Exercise is for students who hav
 
 -----
 
-[Level Up! – Orientation 2022](https://eunoiajc.moe.edu.sg/ori-2022/ "Level Up! – Orientation 2022")
+[Level Up! – Orientation 2022](/ori-2022/)
 
 
 27 Jan 2022
