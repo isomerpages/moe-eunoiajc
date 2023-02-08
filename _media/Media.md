@@ -3,11 +3,11 @@ title: Media
 permalink: /media/media/
 description: ""
 ---
-### Highlights
+## Highlights
 
 View Eunoia Highlights [here](/highlights/).
 
-### News
+## News
 
 [Appeals for JC1 Admission – JAE 2023](https://eunoiajc.moe.edu.sg/2023-appeals/ "Appeals for JC1 Admission – JAE 2023")   
 01 Feb 2023    
