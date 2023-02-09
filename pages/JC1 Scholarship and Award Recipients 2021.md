@@ -99,3 +99,18 @@ Sangireddy Samanvita Reddy (21-O1)
 Shannon Sim Le Xuan (21-O1)  
 Tricia Loh Qiuxuan (21-U1)   
 Yap Zoe Ern (21-O1)
+
+image
+
+### National Elective Tamil Language Programme Scholarship
+Murugan Rakshita (21-E1)
+
+### MOE French Language Elective Scholarship
+Chan Ning (21-I3)   
+Ho Jie Ning Fiona (21-I3)
+
+### MOE German Language Elective Scholarship
+Avril Lim Si-Ying (21-A1)
+
+### MOE Spanish Language Elective Scholarship
+Rachel Edith Lie Mei Rui (21-I3)
