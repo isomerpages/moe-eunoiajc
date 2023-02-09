@@ -5,12 +5,13 @@ description: ""
 ---
 The Class of 2020 demonstrated how when hearts unite and minds ignite, our dreams can take flight. In this fourth volume, Wei Ting, Hon Jung, Ga-lan, and Jia Yi share the importance of having support structures and a never-say-die attitude, factors that contributed to their exceptional achievements and leadership roles.
 
-##### PHOTOS BY ANNABELLE TAY, SEAN KOH AND YONG EE
+###### PHOTOS BY ANNABELLE TAY, SEAN KOH AND YONG EE
+
+![](/images/Class2020_WeiTing.jpg)
 
 ### Chua Wei Ting
 
-
-##### ALUMNA OF CHIJ ST NICHOLAS GIRLS' SCHOOL
+**ALUMNA OF CHIJ ST NICHOLAS GIRLS' SCHOOL**
 
 **Chua Wei Ting (19-E3)** was a highly intelligent and conscientious student who consistently featured on the Dean’s List (Academic). Possessing a natural flair for language, she was a recipient of the MOE Spanish Language Elective Scholarship and offered H2 Spanish. As Head of Video Training and Module in the Media Club, despite not having prior experience in the technicalities of producing videos, Wei Ting picked up filmmaking skills on her own through online tutorials and conducted sessions to help them develop their skills in video production. Despite her multiple commitments such as the Pre-University Seminar, the 8th International Biomedical Quiz and Our Singapore SG75, Wei Ting still found time to help in community Service Learning Projects, demonstrating a strong sense of purpose, heart and courage.
 
@@ -26,9 +27,11 @@ If I could choose a single word to embody my Eunoia experience, it would be “u
 
 The phrase that grounded me through my challenges and difficulties was: “It gets better”. Lightning never strikes twice at the same place, and things are bound to get better. Many things in life are a state of mind, and the first step in many good stories is to fake it until you make it.
 
+![](/images/Class2020_HonJung.jpg)
+
 ### Tan Hon Jung
 
-##### ALUMNUS OF CATHOLIC HIGH SCHOOL
+**ALUMNUS OF CATHOLIC HIGH SCHOOL**
 
 **Tan Hon Jung (19-U3)** was a student leader, Hon Jung believed in empowering the people around him and respecting their opinions. As House Captain, he helmed the organisation and coordination of Uzuri House events such as House Parties and House Signature Events. Jung empowered his House Committee Members by encouraging the sharing of ideas and adopting them in organising House activities. He recognized and harnessed the different strengths and capabilities of his House Committee members, nurturing them into leaders. When it came to making changes to the Orientation Programme so it could be carried out safely amidst the Covid-19 pandemic, Hon Jung exhibited grace under pressure and adapted activities deftly to suit Safety Management Measures. He was tenacious in overcoming challenges and forged a strong camaraderie amongst his team.
 
@@ -44,9 +47,11 @@ It's been an eventful and fulfilling two years in this school. During this time,
 
 I would advise my juniors to learn the importance of balancing work and rest. It might get tough and you might feel disheartened at times but don’t lose sight of the bigger picture. As long as you keep the end goal in mind, hustle on, and trust the process. All will turn out to be fine, and it will all be worth it in the end. Also, make sure you have a strong support system around you and reach out for help when you need it! Take care of one another and everything will be okay.
 
+
+![](/images/Class2020_Galan.jpg)
 ### Gan Ga-Lan
 
-##### ALUMNUS OF ST PATRICK'S SCHOOL
+**ALUMNUS OF ST PATRICK'S SCHOOL**
 
 **Gan Ga-lan (19-E5)** was a diligent and focused student with a positive learning attitude. A reliable and competent leader, Ga-lan was elected to be the Creative Director during the Eunoia Global Orientation Programme to Taiwan in 2019. As a Student Ambassador, he shared his personal learning experiences at many outreach sessions to several secondary schools. He also led campus tours for visitors during college-wide events such as College Day and Open House, and initiated many meaningful conversations with them. Ga-lan stepped up to be part of the planning committee of Eunoia Fiesta, raising funds for the college. Kind and helpful he took the initiative to help his peers who could use added support. He demonstrated excellent time management skills and mental resilience managing both his studies and extra-curricular commitments.
 
@@ -62,9 +67,11 @@ My two years in Eunoia were a rather interesting journey. To this day, I still r
 
 I think one piece of advice I would like to share with my juniors is to not be afraid. Being the ‘odd one out’ at first made me afraid of trying and starting new things. I felt that because of this fear, I didn’t make full use of my time in EJ. If there is a particular cause or activity you want to start, I would fully encourage them to start it. As my teacher, Ms Iris Lee, once told me, “It is better to become than to stay in the becoming." What this means is that one should always strive for what you are really passionate about. Don’t let your fears hinder the pursuit of your passion.
 
+![](/images/Class2020_JiaYi.jpg)
+
 ### Teo Jia Yi
 
-##### ALUMNA OF CHIJ ST NICHOLAS GIRLS' SCHOOL
+**ALUMNA OF CHIJ ST NICHOLAS GIRLS' SCHOOL**
 
 **Teo Jia Yi (19-E3)** was an intelligent and versatile thinker who loved German and attained the MOE German Language Elective Scholarship. She volunteered to be part of German Opportunities Day, an event aimed at introducing German culture to Singaporeans. Jia Yi also served as an outstanding leader who contributed immensely to strengthening house and college pride. As the House Representative for her class, Jia Yi rallied the class to participate in House competitions and was involved in the planning of House activities. She enthusiastically seized opportunities for growth, and was a role model to her peers, possessing the mental and physical stamina to take on rigorous challenges with impressive grace and calm. 
 
