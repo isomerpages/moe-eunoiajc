@@ -7,7 +7,7 @@ The college would like to congratulate 79 students from our 2021 JC1 cohort on r
 
 Among our fifth cohort of Eunoians, we are proud to have 8 MOE Pre-University Scholars, 32 Bicultural Studies Programme Scholars, 27 MOE Humanities Scholars, 1 National Tamil Language Elective Programme Scholar, 4 MOE Foreign Language Elective Scholars, 2 DSTA Junior College scholars, 3 EJC Community Engagement Scholars, and 2 MOE Special Award winners. The JC1 Eunoians receiving scholarships in 2021 are:
 
-image
+![](/images/2021-jc1-scholars-1.jpeg)
 
 ### MOE Pre-University Scholarship
 Aaron Wong Jielun (21-I4)   
@@ -19,20 +19,22 @@ Tan Chern Hong (21-A4)
 Yan Yixiang, Eric (21-A3)   
 Esmond Ee Jun Wei (21-E6)
 
-image
+![](/images/2021-jc1-scholars-3.jpeg)
 
 ### DSTA Junior College Scholarship
 Alexis Foo Li Lin (21-E4)    
 Ho Wenn Mae Caithlin (21-I4)
 
-image
+![](/images/2021-jc1-scholars-2.jpeg)
+
 
 ### EJC Community Engagement Scholarship
 Loh Jen Nin (21-O5)   
 Yap Kah Him (21-I3)   
 Chantel Lee Su Xin (21-O2)
 
-image
+![](/images/2021-jc1-scholars-5.jpeg)
+
 
 ### MOE Bicultural Studies Programme Scholarship
 Chen Ding (21-U2)   
@@ -68,7 +70,8 @@ Sam Li Tong (21-U2)
 Tan Yong (21-U2)   
 Wong Mei Hui (21-U2)
 
-image
+![](/images/2021-jc1-scholars-6.jpeg)
+
 
 
 ### MOE Humanities Scholarship
@@ -100,7 +103,8 @@ Shannon Sim Le Xuan (21-O1)
 Tricia Loh Qiuxuan (21-U1)   
 Yap Zoe Ern (21-O1)
 
-image
+![](/images/2021-jc1-scholars-4.jpeg)
+
 
 ### National Elective Tamil Language Programme Scholarship
 Murugan Rakshita (21-E1)
