@@ -97,7 +97,7 @@ Following the Workshop, the groups will continue to engage in meaningful convers
 
 ### Seminar Highlights
 
-<center><iframe title="vimeo-player" src="https://player.vimeo.com/video/566821029?h=41cb87cc55" width="640" height="360" frameborder="0" allowfullscreen=""></iframe></center>
+<center><iframe allowfullscreen="" frameborder="0" height="360" width="640" src="https://player.vimeo.com/video/566821029?h=41cb87cc55" title="vimeo-player"></iframe></center>
 
 
 ### Opening Ceremony
@@ -171,3 +171,19 @@ _“I am touched by the stories shared and I am genuinely happy that so many of 
 **Area of Focus: Engagement**
 
 
+_“From the Human Library session today, I have learnt a lot regarding Singapore's biodiversity. As an enthusiast myself, I feel motivated to pursue a long-suppressed passion. I liked how_&nbsp;Mr N Sivasothi&nbsp;_shared about his background and how it was not forced on him to pursue a particular field. He was given his freedom to choose and explore. He interacted with nature and had direct touch with insects and animals before his love for nature grew and became his main career. This emphasises the importance of doing something that we feel strongly about so that we can involve ourselves actively in the field. With that too, changes can be made. Now, Singapore is working towards being a green city and so much goes into conserving our marine biodiversity, forests, and even our native fauna. This can be tied back to becoming a stronger Singapore as we can be bolder in our steps to step up for positive changes”_
+
+##### Istinarah
+**STUDENT PARTICIPANT**  
+**Sub-theme: Tougher**    
+**Area of Focus: Security**
+
+_"I find that the discussion on how we can better educate Singaporeans on culture and how we can better represent the history that we have was very insightful. It gave me a new perspective in terms of the way people see and think of history, and how it is being expressed by institutions and people alike. I wonder how we can use the information that is being taught to us by institutions and experts in their respective fields, and use that to gain enough understanding and insight to create positive change. I also wonder how we can use this information to change the way we as a society see the diversity of communities around us, how we can empathise with and integrate marginalised or minority communities. I have been interested in history for as long as I can remember, and I want to be a part of a national discussion that is always revolving in the public eye."_
+##### Raeann
+**STUDENT PARTICIPANT**  
+**Sub-theme: Kinder**    
+**Area of Focus: Empathy**
+
+### Presentation of Deliverables
+
+Following intense days of exploration, research and discussion, our participants generated possibilities, ideas, and solutions, and charted Singapore's future as one united people. Drawing on their collective creativity, they used various forms of expression to showcase their ideas for a **S**TRON**G**ER&nbsp;Singapore. These were presented ahead of the Closing Ceremony on 4 June. In addition, 3 groups had the opportunity to present their projects to the Guest of Honour, Minister for Education Mr. Chan Chun Sing. Here are some of our participants’ deliverables.
