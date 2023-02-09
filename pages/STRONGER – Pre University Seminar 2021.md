@@ -97,7 +97,7 @@ Following the Workshop, the groups will continue to engage in meaningful convers
 
 ### Seminar Highlights
 
-<center><iframe allowfullscreen="" frameborder="0" height="360" width="640" src="https://player.vimeo.com/video/566821029?h=41cb87cc55" title="vimeo-player"></iframe></center>
+<center><iframe title="vimeo-player" src="https://player.vimeo.com/video/566821029?h=41cb87cc55" width="640" height="360" frameborder="0" allowfullscreen=""></iframe></center>
 
 
 ### Opening Ceremony
@@ -148,11 +148,26 @@ _“I think what stuck with me the most, and was touched upon quite a few times 
 **Area of Focus: Engagement**
 
 
+_“It has been an insightful sharing from both the panelists and the participants. It was interesting to understand the different perspectives that people had towards what being "tougher" means in Singapore. I think that it is important for us to recognize that there are many differing viewpoints in Singapore as to what being "tough" (or resilient) would actually mean, and I gained a deeper understanding of some of the issues that our country might still be facing currently. Through today's session, I think what struck me the most is multilateralism and inclusivity: we need to be empathetic towards others to ensure minimal conflict; I believe that this will ultimately be the fuel for maintaining Singapore's success in the future.”_
+
+##### Erica
+**STUDENT PARTICIPANT**    
+**Sub-theme: Tougher**   
+**Area of Focus: Sustainability**
 
 
 ### Human Library
 
+![](/images/WhatsApp-Image-2021-06-03.jpeg)
 
+Following Day 2’s Panel Discussions, our participants had the opportunity to interact with Human Books as part of the Human Library session. Individuals from different walks of life generously contributed their time to be Human Books, and shared their unique personal experiences in intimate online spaces. Through the heartfelt exchange of authentic voices, our participants uncovered fresh stories and perspectives and were inspired to build a&nbsp;STRONGER Singapore.&nbsp;
 
+##### REFLECTIONS
+
+_“I am touched by the stories shared and I am genuinely happy that so many of the Singaporeans are willing to help others at this time of crisis. This phrase was shared by Mr. David Hoe, it is "We become tougher by choosing to care" this is the mindset that all of us should carry. It is about being innovative and being willing to care. We are tougher when we are together.”_
+##### Jia Wen
+**STUDENT PARTICIPANT**   
+**Sub-theme: Bolder**  
+**Area of Focus: Engagement**
 
 
