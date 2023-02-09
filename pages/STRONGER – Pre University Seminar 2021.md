@@ -97,7 +97,7 @@ Following the Workshop, the groups will continue to engage in meaningful convers
 
 ### Seminar Highlights
 
-<center><iframe title="vimeo-player" src="https://player.vimeo.com/video/566821029?h=41cb87cc55" width="640" height="360" frameborder="0" allowfullscreen=""></iframe></center>
+<center><iframe allowfullscreen="" frameborder="0" height="360" width="640" src="https://player.vimeo.com/video/566821029?h=41cb87cc55" title="vimeo-player"></iframe></center>
 
 
 ### Opening Ceremony
@@ -192,7 +192,7 @@ Following intense days of exploration, research and discussion, our participants
 
 ##### LAPIS TIDES
 
-![1 Tougher - Security](https://eunoiajc.moe.edu.sg/wp-content/uploads/2021/03/1-Tougher-Security-scaled.jpeg "1 Tougher - Security")
+![](/images/1-Tougher-Security-scaled.jpeg)
 
 _LAPIS TIDES features a physical sculpture that consists of 14 wire humanoids on a landscape of foam waves and a wooden base. The fishermen and the waves remind us of the&nbsp;“Orang Laut” (the sea people of Singapore)&nbsp;who made a living from fishing and collecting sea products. Hence, they represent food security. The bodies of the statues are made of wires, and the flexibility of the wires represents the human capacity for change. There is also a sense of dynamism as reflected in the poses of the statues. The use of hardy wood for the base of the physical sculpture represents the firm foundation that Singapore has. Our physical sculpture aims to reflect how far Singapore has come._    
 **Sub-theme: Tougher**     
@@ -200,7 +200,7 @@ _LAPIS TIDES features a physical sculpture that consists of 14 wire humanoids on
 
 ##### SEMPUR FORTIS: ALWAYS BRAVE
 
-![1 Bolder - Passion](https://eunoiajc.moe.edu.sg/wp-content/uploads/2021/03/1-Bolder-Passion.png "1 Bolder - Passion")
+![](/images/1-Bolder-Passion.png)
 
 _SEMPUR FORTIS: ALWAYS BRAVE features a short slide story featuring three passionate and brave individuals from different walks of life who stepped out of their comfort zones to make a difference through volunteering at the place we call home. These three volunteer stories show us what it means to be brave for a bolder Singapore._
 
@@ -209,7 +209,7 @@ _SEMPUR FORTIS: ALWAYS BRAVE features a short slide story featuring three passio
 
 ##### LIGHT AT THE END OF THE TUNNEL?
 
-![1 Kinder - Inclusion](https://eunoiajc.moe.edu.sg/wp-content/uploads/2021/03/1-Kinder-Inclusion.png "1 Kinder - Inclusion")
+![](/images/1-Kinder-Inclusion.png)
 
 _LIGHT AT THE END OF THE TUNNEL? features a video that uses digitally drawn pictures to showcase the journey of Thomas, who was incarcerated for 7 years. Due to a series of bad choices in his formative years which led to him taking part in illegal activities that landed him in his arrest and imprisonment. During and after his sentence, Thomas received guidance from organisations such as Yellow Ribbon and Singapore After-Care Association that allowed him to successfully reintegrate into society despite the discrimination and challenges he faced. Through this video, the group aims to emphasise the importance of acceptance, inclusion, as well as the importance of being humane for a kinder Singapore._
 **Sub-theme: Kinder**  
