@@ -24,7 +24,7 @@ To commemorate our 5th College Day and the opening of our Bishan campus, the col
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
+    <td class="tg-nrix"><a href = "/images/Aspirations-01-1024x576.jpeg" target = "_self"> 
           <img src="/images/Aspirations-01-1024x576.jpeg" 
      style="width:100%"></a></td>
     <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
