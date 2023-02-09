@@ -97,7 +97,7 @@ Following the Workshop, the groups will continue to engage in meaningful convers
 
 ### Seminar Highlights
 
-<center><iframe title="vimeo-player" src="https://player.vimeo.com/video/566821029?h=41cb87cc55" width="640" height="360" frameborder="0" allowfullscreen=""></iframe></center>
+<center><iframe allowfullscreen="" frameborder="0" height="360" width="640" src="https://player.vimeo.com/video/566821029?h=41cb87cc55" title="vimeo-player"></iframe></center>
 
 
 ### Opening Ceremony
@@ -219,7 +219,7 @@ _LIGHT AT THE END OF THE TUNNEL? features a video that uses digitally drawn pict
 
 The Special Programme (“From Me to SG”) is a key feature of the Pre-U Seminar Closing Ceremony. Prior to the seminar this year, all participants were asked to design a postcard based on their area of focus and to pen down their hopes and aspirations of Singapore based on their area of focus. 24 postcards from the seminar's three sub-themes (Tougher, Bolder, and Kinder) were eventually selected to be featured - showcasing the creativity of the student participants and their hopes and aspirations for Singapore. Out of them, six postcards were presented in an acrylic frame as tokens of appreciation of the Guests of Honour. As part of this Special Programme, Eunoia Junior College’s Rock Band also penned and performed the song “Stronger” to convey the collective vision of a Tougher, Bolder, and Kinder Singapore.
 
-<center><iframe allowfullscreen="" frameborder="0" height="360" width="640" src="https://player.vimeo.com/video/558983274?h=32a9ce6445" title="vimeo-player"></iframe></center>
+<center><iframe title="vimeo-player" src="https://player.vimeo.com/video/558983274?h=32a9ce6445" width="640" height="360" frameborder="0" allowfullscreen=""></iframe></center>
 
 ### Closing Ceremony
 The virtual closing ceremony marks the end of 2021’s Pre-University Seminar. Minister for Education, Mr Chan Chun Sing, was the Guest of Honour at the closing ceremony. During the ceremony, participants presented their thoughtful and exciting ideas for a Kinder, Tougher, and Bolder Singapore. Minister Chan and distinguished guests also engaged participants in a robust exchange of ideas in the Question &amp; Answer session. 
@@ -229,3 +229,5 @@ In his closing remarks, Minister Chan encouraged our participants to not let cir
 With the end of the Pre-University Seminar journey, we hope that the seminar provided an enriching space for our participants to reflect on their priorities as a community and inspire them to redefine the paths they can take individually and collectively, especially against the current backdrop of the pandemic. With the collective vision they co-created, we hope our participants will continue to be inspired in their desire to build a **S**TRON**G**ER Singapore.
 
 (insert google slides here)
+
+![](/images/stronger-4.png)
