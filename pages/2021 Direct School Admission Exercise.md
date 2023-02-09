@@ -118,11 +118,9 @@ All applicants should note the following instructions:
 
 Applicants go through **three selection phases:** (i) shortlisting; (ii) video conferencing selection exercise; and (iii) panel e-interview.
 
-\-
 
 ##### **PHASE 1 - SHORTLISTING**
 
-\-
 
 ##### SPORTS
 
@@ -193,17 +191,12 @@ Student leaders should have qualities aligned to our College Vision:
 They should meet the following criterion:
 
 \- A portfolio consisting of supporting documents of your leadership experiences and reflections of those experiences.  
-\-
-
-\-
 
 ##### **PHASE 2 - VIDEO CONFERENCING SELECTION EXERCISE**
 
 Applicants who successfully cleared the Shortlisting phase will be required to attend a video conference. Interviews will be conducted in **July 2021**. Details will be emailed/SMSed to successful applicants.
 
 Note: Applicants for DSA (Leadership) will attend 2 rounds of video conferencing: 1 Individual and 1 Group.
-
-\-
 
 ##### **PHASE 3 - PANEL E-INTERVIEW**
 
@@ -219,23 +212,17 @@ Interested students should download the online application form and email [**Eu
 
 Additional requirements for the respective categories are stated below:
 
-\-
-
 ##### **BILINGUALISM**
 
 i) Two samples of writing (one in English; one in Chinese – could include school essays)
 
 ii) A 500-word personal statement on "What does being bilingual mean in the current world context?”现今社会，双语人才应该具备哪些条件？
 
-\-
-
 ##### **HUMANITIES PROGRAMME**
 
 i) Two samples of writing: school essays can be included
 
 ii) A 500-word response to "What is the value of the Humanities in today's world?"
-
-\-
 
 ##### **MUSIC ELECTIVE PROGRAMME**
 
@@ -244,8 +231,6 @@ i) A music composition up to 3 minutes (can be existing composition)
 ii) A 500-word personal statement on "How do you envision yourself contributing to EJC's music and aesthetics scene as a Eunoia MEP student?"
 
 iii) An audition video of 5-10 minutes (can be existing video)
-
-\-
 
 ##### **LEADERSHIP**
 
