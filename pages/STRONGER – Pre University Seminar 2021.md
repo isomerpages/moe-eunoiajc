@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/PUS2021_Banner.png)
 
-**Pre-U Sem 2021** is a four-day non-residential programme that brings together students from thirty pre-university institutions who are keen to make a difference to Singapore.
+**Pre-U Sem 2021**&nbsp;is a four-day non-residential programme that brings together students from thirty pre-university institutions who are keen to make a difference to Singapore.
 
 Participants will examine how Singapore can emerge stronger together as one through panel discussions, human library and brown bag sessions, blended learning and a special exhibition of their work.
 
@@ -21,7 +21,7 @@ Participants will examine how Singapore can emerge stronger together as one thro
 
 ##### SUB-THEMES
 
-**Tougher,** **Bolder,** **Kinder**
+**Tougher,**&nbsp;**Bolder,**&nbsp;**Kinder**
 
 ##### OBJECTIVES
 
@@ -63,7 +63,7 @@ Following the Workshop, the groups will continue to engage in meaningful convers
 
 ### Reflections
 
-> “Although having the programme online made it slightly difficult to get to know each other and to interact, most of us were able to get a much clearer understanding of our theme, sub-theme and area of focus. I was able to gain insight on how my group mates viewed Singapore and what they believed would make a kinder community. In addition, the short bonding sessions allowed us to get to know one another better and I have learnt many new things from the participants from the variety of schools. I am so excited to see what we have planned ahead of us as we continue to plan our deliverables!”
+&gt; “Although having the programme online made it slightly difficult to get to know each other and to interact, most of us were able to get a much clearer understanding of our theme, sub-theme and area of focus. I was able to gain insight on how my group mates viewed Singapore and what they believed would make a kinder community. In addition, the short bonding sessions allowed us to get to know one another better and I have learnt many new things from the participants from the variety of schools. I am so excited to see what we have planned ahead of us as we continue to plan our deliverables!”
 
 ### Seraphina Low
 
@@ -71,7 +71,7 @@ Following the Workshop, the groups will continue to engage in meaningful convers
 **Sub-theme: Kinder**      
 **Area of Focus: Community**
 
-> “At first, I was a bit skeptical about how the programme would be properly carried out online as it would severely limit the face-to-face interactions between the participants. However, I was really surprised by how well the online sessions went! The initial meeting was extremely engaging, considering its online setting. I’m really looking forward to the Seminar in June!"
+&gt; “At first, I was a bit skeptical about how the programme would be properly carried out online as it would severely limit the face-to-face interactions between the participants. However, I was really surprised by how well the online sessions went! The initial meeting was extremely engaging, considering its online setting. I’m really looking forward to the Seminar in June!"
 
 ### Wong Jeun Ming
 
@@ -79,7 +79,7 @@ Following the Workshop, the groups will continue to engage in meaningful convers
 **Sub-theme: Bolder**    
 **Area of Focus: Engagement**
 
-> "Through the application of the ‘See, Recall, Mean’ framework, I gained a deeper understanding of my area of focus, which is Security. With participants coming from different backgrounds and holding different experiences, I had the opportunity to explore the different aspects of security more deeply. In addition to cybersecurity, which is a widely discussed topic in recent years, I also learned more about food and energy security, as well as a less often debated and more intangible topic – security of our identities. Touching on the topic of cybersecurity, one of the participants shared an experience of an internet breach and having personal information stolen. This helped us appreciate that our personal cybersecurity is facing greater risks as compared to the past, and added a more personal touch to the discussion."
+&gt; "Through the application of the ‘See, Recall, Mean’ framework, I gained a deeper understanding of my area of focus, which is Security. With participants coming from different backgrounds and holding different experiences, I had the opportunity to explore the different aspects of security more deeply. In addition to cybersecurity, which is a widely discussed topic in recent years, I also learned more about food and energy security, as well as a less often debated and more intangible topic – security of our identities. Touching on the topic of cybersecurity, one of the participants shared an experience of an internet breach and having personal information stolen. This helped us appreciate that our personal cybersecurity is facing greater risks as compared to the past, and added a more personal touch to the discussion."
 
 ### Sim Jia Hui
 
@@ -89,7 +89,70 @@ Following the Workshop, the groups will continue to engage in meaningful convers
 
 ### Timeline
 
+![](/images/PUS2021_Timeline.png)
 
 ### Seminar Programme
 
+![](/images/stronger-3.png)
+
 ### Seminar Highlights
+
+<center><iframe allowfullscreen="" frameborder="0" height="360" width="640" src="https://player.vimeo.com/video/566821029?h=41cb87cc55" title="vimeo-player"></iframe></center>
+
+
+### Opening Ceremony
+
+The Opening Ceremony kick-started this year’s unique experience of a fully online seminar where our participants joined us in this virtual seminar from their own homes. Focussing on envisioning possibilities for Singapore to emerge stronger amid this period of disruption and transformation, the Opening Ceremony marks the start of our 4-day programme where we embark on this journey of reflection, reinvention, and re-imagination in co-creating a vision of a&nbsp;**S****TRON****G****ER**&nbsp;Singapore.&nbsp;Dr Maliki Osman, Minister in the Prime Minister’s Office and Second Minister for Education and Foreign Affairs, graced the seminar as the Guest of Honour at the Opening Ceremony. In his speech to the participants, Dr Maliki stressed the timeliness of the seminar’s theme, “Stronger”, amidst the challenges faced in the Covid-19 pandemic and how this pandemic would be a clarion call for the youth of Singapore to co-create a vision for a stronger Singapore as we venture into the post-COVID world.&nbsp; We are excited for our participants to be stewards of this vision.
+
+#### Learning Journeys
+
+The Pre-University Seminar opened with our 24 groups of participants embarking on 24 different learning journeys. The learning journeys are a celebration of the&nbsp;**Journeys**&nbsp;undertaken by Singaporeans from all walks of life. Through a diversity of&nbsp;**Voices**, our seminar participants engaged in authentic and meaningful conversations with fellow Singaporeans. Drawing strength from the aspirations of these Singaporeans, our students are inspired to dream, reimagine, and reinvent for our collective Singapore&nbsp;**Dream.**
+
+##### **REFLECTIONS**
+
+_“After the fruitful virtual learning journey we had this morning with the Institute of Mental Health, my greatest takeaway is that Singapore does have the resource capacity (in the form of medical amenities and facilities to care and support mental health), but the obstacle that hinders us from truly being able to maximise these resources is deeply entrenched stigma and negative perceptions of mental illness that prevent patients from seeking help early.”_
+##### Lu Yi
+**STUDENT PARTICIPANT**   
+**Sub-theme: Tougher**  
+**Area of Focus: Capacity**
+
+
+_"At first, I was actually very sceptical of this online learning journey, I wasn't too sure of how much I'll be able to take away. But the talks were really very inspirational. As of now, my aspiration is to become a journalist. This dream of mine came about because I wanted to share untold stories. So the film and the speaker’s words really broadened my perspective as to how storytelling should be like. Storytelling must not sensationalise but instead, be authentic. In the future, it will definitely be a struggle to find a balance, especially as a new writer. However, this just spurred me to continue working hard towards what I believe in."_
+
+##### Kyleen
+**STUDENT PARTICIPANT**    
+**Sub-theme: Kinder**     
+**Area of Focus: Empathy**
+
+### Panel Discussions
+
+![](/images/Day-2-PD-collage.png)
+
+On day two of the seminar programme, our participants engaged in a panel discussion with invited panellists. Three concurrent panel discussions, aligned to the sub-themes Tougher, Bolder and “Kinder, took place and our participants were enriched by the knowledge and experiences shared by our distinguished panellists. The robust and authentic exchange of ideas with the panellists has inspired in our participants a vision of a&nbsp;**S**TRON**G**ER&nbsp;Singapore.
+
+
+##### **REFLECTIONS**
+
+_“I think the biggest insight that I gained from the panel discussions is that kindness should not be forced, but instead should truly come from the heart to mean something. Since young, we've always been told that we have to be kind to others around us, but turning that thought into action also requires a significant deal of courage to be able to go out of our way to approach someone. The government has also been incentivising people to be kind. I think that it may work to make Singapore a much more beautiful place to live in. However, in my opinion, I think that kindness that has been shown through this manner is less meaningful than when it comes from the heart. Kindness should come from understanding, and subsequently wanting to make a difference and help someone.”_
+
+##### Chescia
+**STUDENT PARTICIPANT**   
+**Sub-theme: Kinder**  
+**Area of Focus: Inclusivity**
+
+_“I think what stuck with me the most, and was touched upon quite a few times during the discussion, was the duality of boldness; in certain situations being bold means speaking out and challenging what has been normalised or routinised in society to engage with issues that have been buried and carve new paths for society to embark on, whereas other situations require a more analytical and critical approach to understanding the mechanisms that define society and how we can make changes to this system through our actions even without being forthright or contesting the entire system. But while there is a duality to boldness, it is not a binary; there is a&nbsp; spectrum of boldness that different individuals fall on where we take different actions to pursue our ambitions and hopes for society, but through it all, we must stress the importance of acceptance and support. And lastly, the concept of balance, in that any act of our boldness will expect pushback or retaliation, and that this is merely indicative of the fact that our acts are being seen and should encourage us to continue whilst being open and receptive to other viewpoints.”_
+
+##### Aayush
+**STUDENT PARTICIPANT**   
+**Sub-theme: Bolder**    
+**Area of Focus: Engagement**
+
+
+
+
+### Human Library
+
+
+
+
+
