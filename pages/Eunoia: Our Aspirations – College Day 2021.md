@@ -27,41 +27,41 @@ To commemorate our 5th College Day and the opening of our Bishan campus, the col
     <td class="tg-nrix"><a href = "/images/Aspirations-01-1024x576.jpeg" target = "_self"> 
           <img src="/images/Aspirations-01-1024x576.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
+    <td class="tg-nrix"><a href = "/images/Aspirations-02-1024x576.jpeg" target = "_self"> 
           <img src="/images/Aspirations-02-1024x576.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
+    <td class="tg-nrix"><a href = "/images/Aspirations-03-1024x576.jpeg" target = "_self"> 
           <img src="/images/Aspirations-03-1024x576.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
+    <td class="tg-nrix"><a href = "/images/Aspirations-04-1024x576.jpeg" target = "_self"> 
           <img src="/images/Aspirations-04-1024x576.jpeg" 
      style="width:100%"></a></td>
   </tr>
   <tr>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
+    <td class="tg-nrix"><a href = "/images/Aspirations-05-1024x576.jpeg" target = "_self"> 
           <img src="/images/Aspirations-05-1024x576.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
+    <td class="tg-nrix"><a href = "/images/Aspirations-06-1024x576.jpeg" target = "_self"> 
           <img src="/images/Aspirations-06-1024x576.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
+    <td class="tg-nrix"><a href = "/images/Aspirations-07-1024x576.jpeg" target = "_self"> 
           <img src="/images/Aspirations-07-1024x576.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
+    <td class="tg-nrix"><a href = "/images/Aspirations-08-1024x576.jpeg" target = "_self"> 
           <img src="/images/Aspirations-08-1024x576.jpeg" 
      style="width:100%"></a></td>
   </tr>
   <tr>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
+    <td class="tg-nrix"><a href = "/images/Aspirations-09-1024x576.jpeg" target = "_self"> 
           <img src="/images/Aspirations-09-1024x576.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
+    <td class="tg-nrix"><a href = "/images/Aspirations-10-1024x576.jpeg" target = "_self"> 
           <img src="/images/Aspirations-10-1024x576.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
+    <td class="tg-nrix"><a href = "/images/Aspirations-11-1024x576.jpeg" target = "_self"> 
           <img src="/images/Aspirations-11-1024x576.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
+    <td class="tg-nrix"><a href = "/images/Aspirations-12-1024x576.jpeg" target = "_self"> 
           <img src="/images/Aspirations-12-1024x576.jpeg" 
      style="width:100%"></a></td>
   </tr>
