@@ -97,12 +97,12 @@ Following the Workshop, the groups will continue to engage in meaningful convers
 
 ### Seminar Highlights
 
-<center><iframe allowfullscreen="" frameborder="0" height="360" width="640" src="https://player.vimeo.com/video/566821029?h=41cb87cc55" title="vimeo-player"></iframe></center>
+<center><iframe title="vimeo-player" src="https://player.vimeo.com/video/566821029?h=41cb87cc55" width="640" height="360" frameborder="0" allowfullscreen=""></iframe></center>
 
 
 ### Opening Ceremony
 
-The Opening Ceremony kick-started this year’s unique experience of a fully online seminar where our participants joined us in this virtual seminar from their own homes. Focussing on envisioning possibilities for Singapore to emerge stronger amid this period of disruption and transformation, the Opening Ceremony marks the start of our 4-day programme where we embark on this journey of reflection, reinvention, and re-imagination in co-creating a vision of a&nbsp;**S****TRON****G****ER**&nbsp;Singapore.&nbsp;Dr Maliki Osman, Minister in the Prime Minister’s Office and Second Minister for Education and Foreign Affairs, graced the seminar as the Guest of Honour at the Opening Ceremony. In his speech to the participants, Dr Maliki stressed the timeliness of the seminar’s theme, “Stronger”, amidst the challenges faced in the Covid-19 pandemic and how this pandemic would be a clarion call for the youth of Singapore to co-create a vision for a stronger Singapore as we venture into the post-COVID world.&nbsp; We are excited for our participants to be stewards of this vision.
+The Opening Ceremony kick-started this year’s unique experience of a fully online seminar where our participants joined us in this virtual seminar from their own homes. Focussing on envisioning possibilities for Singapore to emerge stronger amid this period of disruption and transformation, the Opening Ceremony marks the start of our 4-day programme where we embark on this journey of reflection, reinvention, and re-imagination in co-creating a vision of a&nbsp; **S**TRON**G**ER Singapore.&nbsp;Dr Maliki Osman, Minister in the Prime Minister’s Office and Second Minister for Education and Foreign Affairs, graced the seminar as the Guest of Honour at the Opening Ceremony. In his speech to the participants, Dr Maliki stressed the timeliness of the seminar’s theme, “Stronger”, amidst the challenges faced in the Covid-19 pandemic and how this pandemic would be a clarion call for the youth of Singapore to co-create a vision for a stronger Singapore as we venture into the post-COVID world.&nbsp; We are excited for our participants to be stewards of this vision.
 
 #### Learning Journeys
 
@@ -178,7 +178,7 @@ _“From the Human Library session today, I have learnt a lot regarding Singapor
 **Sub-theme: Tougher**    
 **Area of Focus: Security**
 
-_"I find that the discussion on how we can better educate Singaporeans on culture and how we can better represent the history that we have was very insightful. It gave me a new perspective in terms of the way people see and think of history, and how it is being expressed by institutions and people alike. I wonder how we can use the information that is being taught to us by institutions and experts in their respective fields, and use that to gain enough understanding and insight to create positive change. I also wonder how we can use this information to change the way we as a society see the diversity of communities around us, how we can empathise with and integrate marginalised or minority communities. I have been interested in history for as long as I can remember, and I want to be a part of a national discussion that is always revolving in the public eye."_
+_"I find that the discussion on how we can better educate Singaporeans on culture and how we can better represent the history that we have was very insightful. It gave me a new perspective in terms of the way people see and think of history, and how it is being expressed by institutions and people alike. I wonder how we can use the information that is being taught to us by institutions and experts in their respective fields, and use that to gain enough understanding and insight to create positive change. I also wonder how we can use this information to change the way we as a society see the diversity of communities around us, how we can empathise with and integrate marginalised or minority communities. I have been interested in history for as long as I can remember, and I want to be a part of a national discussion that is always revolving in the public eye."_  
 ##### Raeann
 **STUDENT PARTICIPANT**  
 **Sub-theme: Kinder**    
@@ -194,7 +194,7 @@ Following intense days of exploration, research and discussion, our participants
 
 ![](/images/1-Tougher-Security-scaled.jpeg)
 
-_LAPIS TIDES features a physical sculpture that consists of 14 wire humanoids on a landscape of foam waves and a wooden base. The fishermen and the waves remind us of the&nbsp;“Orang Laut” (the sea people of Singapore)&nbsp;who made a living from fishing and collecting sea products. Hence, they represent food security. The bodies of the statues are made of wires, and the flexibility of the wires represents the human capacity for change. There is also a sense of dynamism as reflected in the poses of the statues. The use of hardy wood for the base of the physical sculpture represents the firm foundation that Singapore has. Our physical sculpture aims to reflect how far Singapore has come._    
+_LAPIS TIDES features a physical sculpture that consists of 14 wire humanoids on a landscape of foam waves and a wooden base. The fishermen and the waves remind us of the&nbsp;“Orang Laut” (the sea people of Singapore)&nbsp;who made a living from fishing and collecting sea products. Hence, they represent food security. The bodies of the statues are made of wires, and the flexibility of the wires represents the human capacity for change. There is also a sense of dynamism as reflected in the poses of the statues. The use of hardy wood for the base of the physical sculpture represents the firm foundation that Singapore has. Our physical sculpture aims to reflect how far Singapore has come._     
 **Sub-theme: Tougher**     
 **Area of Focus: Security**
 
@@ -202,8 +202,7 @@ _LAPIS TIDES features a physical sculpture that consists of 14 wire humanoids on
 
 ![](/images/1-Bolder-Passion.png)
 
-_SEMPUR FORTIS: ALWAYS BRAVE features a short slide story featuring three passionate and brave individuals from different walks of life who stepped out of their comfort zones to make a difference through volunteering at the place we call home. These three volunteer stories show us what it means to be brave for a bolder Singapore._
-
+_SEMPUR FORTIS: ALWAYS BRAVE features a short slide story featuring three passionate and brave individuals from different walks of life who stepped out of their comfort zones to make a difference through volunteering at the place we call home. These three volunteer stories show us what it means to be brave for a bolder Singapore._   
 **Sub-theme: Bolder**     
 **Area of Focus: Passion**
 
@@ -211,7 +210,7 @@ _SEMPUR FORTIS: ALWAYS BRAVE features a short slide story featuring three passio
 
 ![](/images/1-Kinder-Inclusion.png)
 
-_LIGHT AT THE END OF THE TUNNEL? features a video that uses digitally drawn pictures to showcase the journey of Thomas, who was incarcerated for 7 years. Due to a series of bad choices in his formative years which led to him taking part in illegal activities that landed him in his arrest and imprisonment. During and after his sentence, Thomas received guidance from organisations such as Yellow Ribbon and Singapore After-Care Association that allowed him to successfully reintegrate into society despite the discrimination and challenges he faced. Through this video, the group aims to emphasise the importance of acceptance, inclusion, as well as the importance of being humane for a kinder Singapore._
+_LIGHT AT THE END OF THE TUNNEL? features a video that uses digitally drawn pictures to showcase the journey of Thomas, who was incarcerated for 7 years. Due to a series of bad choices in his formative years which led to him taking part in illegal activities that landed him in his arrest and imprisonment. During and after his sentence, Thomas received guidance from organisations such as Yellow Ribbon and Singapore After-Care Association that allowed him to successfully reintegrate into society despite the discrimination and challenges he faced. Through this video, the group aims to emphasise the importance of acceptance, inclusion, as well as the importance of being humane for a kinder Singapore._   
 **Sub-theme: Kinder**  
 **Area of Focus: Inclusion**
 
@@ -219,7 +218,7 @@ _LIGHT AT THE END OF THE TUNNEL? features a video that uses digitally drawn pict
 
 The Special Programme (“From Me to SG”) is a key feature of the Pre-U Seminar Closing Ceremony. Prior to the seminar this year, all participants were asked to design a postcard based on their area of focus and to pen down their hopes and aspirations of Singapore based on their area of focus. 24 postcards from the seminar's three sub-themes (Tougher, Bolder, and Kinder) were eventually selected to be featured - showcasing the creativity of the student participants and their hopes and aspirations for Singapore. Out of them, six postcards were presented in an acrylic frame as tokens of appreciation of the Guests of Honour. As part of this Special Programme, Eunoia Junior College’s Rock Band also penned and performed the song “Stronger” to convey the collective vision of a Tougher, Bolder, and Kinder Singapore.
 
-<center><iframe title="vimeo-player" src="https://player.vimeo.com/video/558983274?h=32a9ce6445" width="640" height="360" frameborder="0" allowfullscreen=""></iframe></center>
+<center><iframe allowfullscreen="" frameborder="0" height="360" width="640" src="https://player.vimeo.com/video/558983274?h=32a9ce6445" title="vimeo-player"></iframe></center>
 
 ### Closing Ceremony
 The virtual closing ceremony marks the end of 2021’s Pre-University Seminar. Minister for Education, Mr Chan Chun Sing, was the Guest of Honour at the closing ceremony. During the ceremony, participants presented their thoughtful and exciting ideas for a Kinder, Tougher, and Bolder Singapore. Minister Chan and distinguished guests also engaged participants in a robust exchange of ideas in the Question &amp; Answer session. 
