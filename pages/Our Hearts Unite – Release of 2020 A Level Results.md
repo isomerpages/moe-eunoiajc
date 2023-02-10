@@ -54,6 +54,6 @@ The authorised individual will have to bring along his/her NRIC and proceed to t
 
 You have put in a lot of hard work on your journey, trust yourself and always look forward to new beginnings and new opportunities open to you.
 
-### Every Eunoian A
+### **Every Eunoian A**
 
 Look out for each other, celebrate together with your fellow Eunoians, and be there for friends, forevermore! See you soon!
