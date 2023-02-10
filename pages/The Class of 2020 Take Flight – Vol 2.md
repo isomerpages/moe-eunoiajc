@@ -7,6 +7,7 @@ Eunoia Junior College's Class of 2020 have done themselves and the college proud
 
 ##### PHOTOS BY ANNABELLE TAY, SEAN KOH AND YONG EE
 
+![](/images/Class2020_Ellard.jpg)
 ### Ellard Tan
 **ALUMNUS OF ANGLO-CHINESE SCHOOL (INDEPENDENT)**
 
@@ -28,6 +29,7 @@ For JC2s: Study hard, but also find out a method that works for you. But don’t
 
 Both: Treasure your time with your friends. JC is fast. Appreciate the little moments. Play hard and study hard.
 
+![](/images/Class2020_Lauren.jpg)
 ### Lauren Sim
 **ALUMNA OF CHIJ ST NICHOLAS GIRLS' SCHOOL**
 
@@ -45,6 +47,7 @@ I would describe it as eventful, and a journey of growth. It’s eventful becaus
 
 I would say that the most important thing is to take care of yourself in these 2 years because it is taxing if you just focus on your grades, workload, and commitments. It is always important to remember that you come first, and grades really don't define you. The most important thing to remember is that your best is always enough.
 
+![](/images/Class2020_James.jpg)
 ### James Ong
 **ALUMNUS OF CATHOLIC HIGH SCHOOL**
 
@@ -64,6 +67,8 @@ I would describe my two years in Eunoia as eye-opening. I think the two-year jou
 
 I would like my juniors to know that only you are in control of the two years you spend here. This means that you should never allow others to make choices for you. Lots of people will give you advice but remember that their advice was what worked for them and not necessarily you. It’s time to take control and shape these two years into what you want it to be. All the best!
 
+
+![](/images/Class2020_MingYing.jpg)
 ### Peh Ming Ying
 **ALUMNA OF CHIJ ST NICHOLAS GIRLS' SCHOOL**
 
