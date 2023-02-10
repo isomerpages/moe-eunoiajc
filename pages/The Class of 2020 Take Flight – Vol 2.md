@@ -5,7 +5,7 @@ description: ""
 ---
 Eunoia Junior College's Class of 2020 have done themselves and the college proud. In this second volume, Ellard, Lauren, James and Ming Ying spoke to us about their journeys as student-leaders, looked back at their multi-layered academic pursuits and gave their juniors some wisdom for their juniors on the road to success.
 
-##### PHOTOS BY ANNABELLE TAY, SEAN KOH AND YONG EE
+###### PHOTOS BY ANNABELLE TAY, SEAN KOH AND YONG EE
 
 ![](/images/Class2020_Ellard.jpg)
 ### Ellard Tan
