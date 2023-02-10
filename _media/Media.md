@@ -258,15 +258,6 @@ Our JC2 Eunoians received the SAF Young Leader Award and Computing@SMU Award in 
 
 -----
 
-[JC1 Scholarship and Award Recipients 2020](/2020-jc1-scholars/)
-
-
-30 Sep 2020
-
-The college congratulates 60 of our JC1 Eunoians on being awarded scholarships from the Ministry of Education and external agencies in 2020.
-
------
-
 [Ministry of Education Special Awards 2020](/2020-moe-sa/)
 
 
