@@ -387,7 +387,7 @@ Discover a whole new Eunoia in Bishan. Find many more reasons why you should mak
 
 -----
 
-[Graduation Day 2019 – Our Dreams Take Flight](https://eunoiajc.moe.edu.sg/2019-grad-day/ "Graduation Day 2019 – Our Dreams Take Flight")
+[Graduation Day 2019 – Our Dreams Take Flight](/2019-grad-day/)
 
 
 25 Oct 2019
@@ -396,7 +396,7 @@ We bid farewell to the Class of 2018 on an eventful Graduation Day, our second a
 
 -----
 
-[Inspiring Teacher of English Award 2019](https://eunoiajc.moe.edu.sg/itea-2019/ "Inspiring Teacher of English Award 2019")
+[Inspiring Teacher of English Award 2019](/itea-2019/)
 
 
 15 Oct 2019
@@ -405,7 +405,7 @@ The college congratulates Ms Kok Li-en, one of nine educators to receive the Ins
 
 -----
 
-[MoU with Chongqing No 8 Middle School](https://eunoiajc.moe.edu.sg/mou-chongqing/ "MoU with Chongqing No 8 Middle School")
+[MoU with Chongqing No 8 Middle School](/mou-chongqing/)
 
 
 16 Sep 2019
@@ -414,7 +414,7 @@ Eunoia Junior College is pleased to announce that the college has entered a Memo
 
 -----
 
-[JC2 Scholarship and Award Recipients 2019](https://eunoiajc.moe.edu.sg/2019-jc2-scholars/ "JC2 Scholarship and Award Recipients 2019")
+[JC2 Scholarship and Award Recipients 2019](/2019-jc2-scholars/)
 
 
 12 Sep 2019
@@ -423,7 +423,7 @@ Our JC2 Eunoians received the LTA Book Prize, SAF Young Leader Award and SPF Boo
 
 -----
 
-[Ministry of Education Special Awards 2019](https://eunoiajc.moe.edu.sg/2019-moe-sa/ "Ministry of Education Special Awards 2019")
+[Ministry of Education Special Awards 2019](/2019-moe-sa/)
 
 
 12 Sep 2019
@@ -432,7 +432,7 @@ Four JC1 Eunoians and one alumna from Eunoia’s First Class received MOE Specia
 
 -----
 
-[JC1 Scholarship and Award Recipients 2019](https://eunoiajc.moe.edu.sg/2019-jc1-scholars/ "JC1 Scholarship and Award Recipients 2019")
+[JC1 Scholarship and Award Recipients 2019](/2019-jc1-scholars/)
 
 
 12 Sep 2019
@@ -441,7 +441,7 @@ The college congratulates 76 of our JC1 Eunoians on being awarded scholarships f
 
 -----
 
-[Making His-III – 3rd Student Leaders’ Investiture](https://eunoiajc.moe.edu.sg/his3/ "Making His-III – 3rd Student Leaders’ Investiture")
+[Making His-III – 3rd Student Leaders’ Investiture](/his3/)
 
 
 01 Jun 2019
@@ -450,7 +450,7 @@ History was handed to student leaders from the college’s third cohort at an in
 
 -----
 
-[Light the Way – College Day 2019 (Concert)](https://eunoiajc.moe.edu.sg/concert-2019/ "Light the Way – College Day 2019 (Concert)")
+[Light the Way – College Day 2019 (Concert)](/concert-2019/)
 
 
 19 May 2019
@@ -459,7 +459,7 @@ Our third College Day was also a landmark first — a fundraising concert featur
 
 -----
 
-[Light the Way – College Day 2019 (Ceremony)](https://eunoiajc.moe.edu.sg/college-day-2019/ "Light the Way – College Day 2019 (Ceremony)")
+[Light the Way – College Day 2019 (Ceremony)](/college-day-2019/)
 
 
 18 May 2019
@@ -468,7 +468,7 @@ The college celebrated the talents, achievements and contributions of Eunoians i
 
 -----
 
-[Eunoian of the Year – Nicolette Tan Wen Qi](https://eunoiajc.moe.edu.sg/eoty2019/ "Eunoian of the Year – Nicolette Tan Wen Qi")
+[Eunoian of the Year – Nicolette Tan Wen Qi](/eoty2019/)
 
 
 14 May 2019
@@ -477,7 +477,7 @@ The Eunoian of the Year for 2019 is Nicolette Tan Wen Qi (17-A3). She received t
 
 -----
 
-[Celebrating Our First Class – Volume 6](https://eunoiajc.moe.edu.sg/first-class-6/ "Celebrating Our First Class – Volume 6")
+[Celebrating Our First Class – Volume 6](/first-class-6/)
 
 
 06 May 2019
@@ -486,7 +486,7 @@ Nicholas, Celine, Dean, Nicolette, Jolyn and Xavier stepped forward to create a 
 
 -----
 
-[Celebrating Our First Class – Volume 5](https://eunoiajc.moe.edu.sg/first-class-5/ "Celebrating Our First Class – Volume 5")
+[Celebrating Our First Class – Volume 5](/first-class-5/)
 
 
 05 May 2019
@@ -495,7 +495,7 @@ In Volume 5, we look to decipher the secret code of success from Anh, Chelsea, J
 
 -----
 
-[2019 Direct School Admission Exercise](https://eunoiajc.moe.edu.sg/2019-dsa/ "2019 Direct School Admission Exercise")
+[2019 Direct School Admission Exercise](/2019-dsa/)
 
 
 04 May 2019
@@ -504,7 +504,7 @@ The 2019 Direct School Admission exercise (DSA-JC) for admission to JC1 in 2020 
 
 -----
 
-[2018 A-Level Project Work Journey – Volume 2](https://eunoiajc.moe.edu.sg/2018-pw-2/ "2018 A-Level Project Work Journey – Volume 2")
+[2018 A-Level Project Work Journey – Volume 2](/2018-pw-2/)
 
 
 26 Apr 2019
@@ -513,7 +513,7 @@ Read about our Eunoians’ solutions to crises and advertising breakthroughs in 
 
 -----
 
-[2018 A-Level Project Work Journey – Volume 1](https://eunoiajc.moe.edu.sg/2018-pw/ "2018 A-Level Project Work Journey – Volume 1")
+[2018 A-Level Project Work Journey – Volume 1](/2018-pw/)
 
 
 26 Apr 2019
@@ -522,7 +522,7 @@ Our second cohort of Eunoians have charted the way forward with their excellent 
 
 -----
 
-[Celebrating Our First Class – Volume 4](https://eunoiajc.moe.edu.sg/first-class-4/ "Celebrating Our First Class – Volume 4")
+[Celebrating Our First Class – Volume 4](/first-class-4/)
 
 
 13 Mar 2019
@@ -531,7 +531,7 @@ We speak to Tan Zi Hao, Isabel Chan and Wong Zann Yee in our second feature on o
 
 -----
 
-[Celebrating Our First Class – Volume 3](https://eunoiajc.moe.edu.sg/first-class-3/ "Celebrating Our First Class – Volume 3")
+[Celebrating Our First Class – Volume 3](/first-class-3/)
 
 
 12 Mar 2019
@@ -540,8 +540,7 @@ In one of two features on our Humanities Scholars, Jelita Jaimon, Audrey Choong,
 
 -----
 
-[Celebrating Our First Class – Volume 2](https://eunoiajc.moe.edu.sg/first-class-2/ "Celebrating Our First Class – Volume 2")
-
+[Celebrating Our First Class – Volume 2](/first-class-2/)
 
 11 Mar 2019
 
@@ -549,7 +548,7 @@ Keen to learn more about their passion, we spoke to Caspian Ng, Seck Li-lyn, Sar
 
 -----
 
-[Celebrating Our First Class – Volume 1](https://eunoiajc.moe.edu.sg/first-class-1/ "Celebrating Our First Class – Volume 1")
+[Celebrating Our First Class – Volume 1](/first-class-1/)
 
 
 10 Mar 2019
@@ -558,7 +557,7 @@ Celebrating the holistic achievements of our First Class, we interviewed Marisa 
 
 -----
 
-[First Class Once More – Release of A-Level Results](https://eunoiajc.moe.edu.sg/2018-release/ "First Class Once More – Release of A-Level Results")
+[First Class Once More – Release of A-Level Results](/2018-release/)
 
 
 15 Feb 2019
@@ -567,7 +566,7 @@ The results of the 2018 GCE A-Level Examination will be released on 22 Feb 2019 
 
 -----
 
-[Your Next Move Begins Here – Orientation 2019](https://eunoiajc.moe.edu.sg/begins-here/ "Your Next Move Begins Here – Orientation 2019")
+[Your Next Move Begins Here – Orientation 2019](/begins-here/)
 
 
 28 Jan 2019
@@ -576,7 +575,7 @@ To our newest Eunoians, welcome to the Eunoia family! We look forward to meeting
 
 -----
 
-[Appeals for JC1 Admission – JAE 2019](https://eunoiajc.moe.edu.sg/2019-appeals/ "Appeals for JC1 Admission – JAE 2019")
+[Appeals for JC1 Admission – JAE 2019](/2019-appeals/)
 
 
 25 Jan 2019
@@ -585,7 +584,7 @@ The 2019 Joint Admissions Exercise (JAE) Appeal Exercise is for students who hav
 
 -----
 
-[Making the Next Move – OH EUNOIA! 2019](https://eunoiajc.moe.edu.sg/oh-eunoia-2019/ "Making the Next Move – OH EUNOIA! 2019")
+[Making the Next Move – OH EUNOIA! 2019](/oh-eunoia-2019/)
 
 
 18 Jan 2019
