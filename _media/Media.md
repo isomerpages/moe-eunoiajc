@@ -240,7 +240,7 @@ The 2021 Joint Admissions Exercise (JAE) Appeal Exercise is for students who hav
 
 -----
 
-[Graduation Day 2020 – Dreaming with Courage](https://eunoiajc.moe.edu.sg/2020-grad-day/ "Graduation Day 2020 – Dreaming with Courage")
+[Graduation Day 2020 – Dreaming with Courage](/2020-grad-day/)
 
 
 02 Nov 2020
@@ -249,7 +249,7 @@ The college’s Graduation Day for its third cohort, the first-ever at its Bisha
 
 -----
 
-[JC2 Scholarship and Award Recipients 2020](https://eunoiajc.moe.edu.sg/jc2-scholarship-and-award-recipients-2020/ "JC2 Scholarship and Award Recipients 2020")
+[JC2 Scholarship and Award Recipients 2020](/jc2-scholarship-and-award-recipients-2020/)
 
 
 12 Oct 2020
@@ -258,7 +258,7 @@ Our JC2 Eunoians received the SAF Young Leader Award and Computing@SMU Award in 
 
 -----
 
-[JC1 Scholarship and Award Recipients 2020](https://eunoiajc.moe.edu.sg/2020-jc1-scholars/ "JC1 Scholarship and Award Recipients 2020")
+[JC1 Scholarship and Award Recipients 2020](/2020-jc1-scholars/)
 
 
 30 Sep 2020
@@ -267,7 +267,7 @@ The college congratulates 60 of our JC1 Eunoians on being awarded scholarships f
 
 -----
 
-[Ministry of Education Special Awards 2020](https://eunoiajc.moe.edu.sg/2020-moe-sa/ "Ministry of Education Special Awards 2020")
+[Ministry of Education Special Awards 2020](/2020-moe-sa/)
 
 
 29 Sep 2020
@@ -276,7 +276,7 @@ The college congratulates our four JC1 Eunoians and alumni who received MOE Spec
 
 -----
 
-[Gradual Resumption of CCA Activities from 27 July 2020](https://eunoiajc.moe.edu.sg/resume-cca-2020/ "Gradual Resumption of CCA Activities from 27 July 2020")
+[Gradual Resumption of CCA Activities from 27 July 2020](/resume-cca-2020/)
 
 
 28 Jul 2020
@@ -285,7 +285,7 @@ From the week of 27 July 2020, the college is resuming lower-risk Co-Curricular 
 
 -----
 
-[COVID-19 Precautionary Measures for Terms 3-4](https://eunoiajc.moe.edu.sg/covid-19/ "COVID-19 Precautionary Measures for Terms 3-4")
+[COVID-19 Precautionary Measures for Terms 3-4](/covid-19/)
 
 
 24 Mar 2020
@@ -294,7 +294,7 @@ As the college welcomes our Eunoians back from the May holidays, we have put in 
 
 -----
 
-[The Class of 2019 Light The Way – Vol 5](https://eunoiajc.moe.edu.sg/class-2019-5/ "The Class of 2019 Light The Way – Vol 5")
+[The Class of 2019 Light The Way – Vol 5](/class-2019-5/)
 
 
 13 Mar 2020
@@ -303,7 +303,7 @@ We met Kenneth, Faith, Sarah-Ann and Isabel from the Class of 2019 to learn how 
 
 -----
 
-[The Class of 2019 Light the Way – Vol 4](https://eunoiajc.moe.edu.sg/class-2019-4/ "The Class of 2019 Light the Way – Vol 4")
+[The Class of 2019 Light the Way – Vol 4](/class-2019-4/)
 
 
 10 Mar 2020
@@ -312,7 +312,7 @@ Matthias, Megan, Alastair, and Isabelle from the class of 2019 share how success
 
 -----
 
-[The Class of 2019 Light the Way – Vol 3](https://eunoiajc.moe.edu.sg/class-2019-3/ "The Class of 2019 Light the Way – Vol 3")
+[The Class of 2019 Light the Way – Vol 3](/class-2019-3/)
 
 
 07 Mar 2020
@@ -321,7 +321,7 @@ From our Class of 2019, Bruce, Yan Peng, Deborah, David and Michael share their 
 
 -----
 
-[The Class of 2019 Light the Way – Vol 2](https://eunoiajc.moe.edu.sg/class-2019-2/ "The Class of 2019 Light the Way – Vol 2")
+[The Class of 2019 Light the Way – Vol 2](/class-2019-2/)
 
 
 03 Mar 2020
@@ -330,7 +330,7 @@ Gisele, Elizabeth, Sebastian, Daniel, Pei Swhen and Kimmie from the Class of 201
 
 -----
 
-[The Class of 2019 Light the Way – Vol 1](https://eunoiajc.moe.edu.sg/class-2019-1/ "The Class of 2019 Light the Way – Vol 1")
+[The Class of 2019 Light the Way – Vol 1](/class-2019-1/)
 
 
 01 Mar 2020
@@ -339,7 +339,7 @@ Rebekah, Chong Yu, Sanchana, Wen Xin and Shin Loong from the Class of 2019 shar
 
 -----
 
-[Coming Full Circle – Release of 2019 A-Level Results](https://eunoiajc.moe.edu.sg/2019-release/ "Coming Full Circle – Release of 2019 A-Level Results")
+[Coming Full Circle – Release of 2019 A-Level Results](/2019-release/)
 
 
 13 Feb 2020
@@ -349,7 +349,7 @@ Dear Class of 2019, the release of the 2019 GCE A-Level examination results will
 -----
 
 [Appeals for JC1 Admission  
-– JAE 2020](https://eunoiajc.moe.edu.sg/2020-appeals/ "Appeals for JC1 Admission – JAE 2020")
+– JAE 2020](/2020-appeals/)
 
 
 04 Feb 2020
@@ -358,7 +358,7 @@ The 2020 Joint Admissions Exercise (JAE) Appeal Exercise is for students who hav
 
 -----
 
-[A Hero Lies in Eunoian – Orientation 2020](https://eunoiajc.moe.edu.sg/ori-2020/ "A Hero Lies in Eunoian – Orientation 2020")
+[A Hero Lies in Eunoian – Orientation 2020](/ori-2020/)
 
 
 03 Feb 2020
@@ -368,7 +368,7 @@ Welcome to the family, our newest Eunoians! Read on for more information on your
 -----
 
 [Making Eunoia Home –  
-OH EUNOIA! 2020](https://eunoiajc.moe.edu.sg/oh-eunoia-2020/ "Making Eunoia Home – OH EUNOIA! 2020")
+OH EUNOIA! 2020](/oh-eunoia-2020/)
 
 
 20 Jan 2020
@@ -378,7 +378,7 @@ Having started 2020 with our Big Move from Mount Sinai, we held our first Open H
 -----
 
 [OH EUNOIA! #EunoiaHome  
-– 15 Jan 2020](https://eunoiajc.moe.edu.sg/oh2020/ "OH EUNOIA! #EunoiaHome– 15 Jan 2020")
+– 15 Jan 2020](/oh2020/)
 
 
 09 Jan 2020
