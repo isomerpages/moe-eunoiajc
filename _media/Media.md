@@ -727,7 +727,7 @@ Eunoia is complete. Over the course of Orientation 2018, our full cohort of JC1s
 
 -----
 
-[JC1 Parent Engagement Session 2018](https://eunoiajc.moe.edu.sg/jc1pes2018/ "JC1 Parent Engagement Session 2018")
+[JC1 Parent Engagement Session 2018](/jc1pes2018/)
 
 
 13 Feb 2018
@@ -736,7 +736,7 @@ We would like to invite parents of our new JC1s to our parent engagement session
 
 -----
 
-[Appeals for JC1 Admission – JAE 2018](https://eunoiajc.moe.edu.sg/2018-appeals/ "Appeals for JC1 Admission – JAE 2018")
+[Appeals for JC1 Admission – JAE 2018](/2018-appeals/)
 
 
 29 Jan 2018
@@ -745,7 +745,7 @@ The 2018 Joint Admissions Exercise (JAE) Appeal Exercise is for students who hav
 
 -----
 
-[Eunite 2018 – JIP Orientation](https://eunoiajc.moe.edu.sg/eunite-2018/ "Eunite 2018 – JIP Orientation")
+[Eunite 2018 – JIP Orientation](/eunite-2018/)
 
 
 12 Jan 2018
@@ -754,7 +754,7 @@ On 8 Jan 2018, the second cohort of JIP students was brought together for a five
 
 -----
 
-[The Eunoians of 2017 – Volume Two](https://eunoiajc.moe.edu.sg/eunoians-2017-v2/ "The Eunoians of 2017 – Volume Two")
+[The Eunoians of 2017 – Volume Two](/eunoians-2017-v2/)
 
 
 08 Jan 2018
@@ -763,7 +763,7 @@ Friendship, school spirit and a common purpose – four more of our first Eunoia
 
 -----
 
-[The Eunoians of 2017 – Volume One](https://eunoiajc.moe.edu.sg/eunoians-2017-v1/ "The Eunoians of 2017 – Volume One")
+[The Eunoians of 2017 – Volume One](/eunoians-2017-v1/)
 
 
 03 Jan 2018
@@ -772,7 +772,7 @@ We catch up with our first cohort of Eunoians to find out about their best memor
 
 -----
 
-[Euphoria 2017 – From Race to Rave](https://eunoiajc.moe.edu.sg/euphoria-2017/ "Euphoria 2017 – From Race to Rave")
+[Euphoria 2017 – From Race to Rave](/euphoria-2017/)
 
 
 21 Nov 2017
@@ -781,7 +781,7 @@ In a rousing finale to the year, the cohort of 2017 embarked on an Amazing Race 
 
 -----
 
-[Commendation Ceremony 2017](https://eunoiajc.moe.edu.sg/commendation-2017/ "Commendation Ceremony 2017")
+[Commendation Ceremony 2017](/commendation-2017/)
 
 
 20 Nov 2017
@@ -790,7 +790,7 @@ Celebrating Achievements, Re-igniting Aspirations with Anticipation. Eunoians to
 
 -----
 
-[JIP Schools Open House 2017](https://eunoiajc.moe.edu.sg/2017-jip-open-house/ "JIP Schools Open House 2017")
+[JIP Schools Open House 2017](/2017-jip-open-house/)
 
 
 03 Nov 2017
@@ -799,7 +799,7 @@ Our Joint Integrated Programme partner schools will be opening their doors to in
 
 -----
 
-[Ready to Overcome – Spartan Challenge 2017](https://eunoiajc.moe.edu.sg/spartan-2017/ "Ready to Overcome – Spartan Challenge 2017")
+[Ready to Overcome – Spartan Challenge 2017](/spartan-2017/)
 
 
 08 Oct 2017
@@ -808,7 +808,7 @@ On 6 Oct 2017, we saw the five houses pit their strength and stamina against the
 
 -----
 
-[A Beautiful Muse 2017 – Arts Showcase](https://eunoiajc.moe.edu.sg/muse-2017/ "A Beautiful Muse 2017 – Arts Showcase")
+[A Beautiful Muse 2017 – Arts Showcase](/muse-2017/)
 
 
 04 Sep 2017
@@ -817,7 +817,7 @@ Spirited, versatile and talented, students from Eunoia Junior College enchanted 
 
 -----
 
-[Of a Different League – Teachers’ Day 2017](https://eunoiajc.moe.edu.sg/teachers-day-2017/ "Of a Different League – Teachers’ Day 2017")
+[Of a Different League – Teachers’ Day 2017](/teachers-day-2017/)
 
 
 03 Sep 2017
