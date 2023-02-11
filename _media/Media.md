@@ -826,7 +826,7 @@ The teachers at Eunoia Junior College were treated like heroes for a day on 30 A
 
 -----
 
-[JIP Bicultural Studies Symposium 2017](https://eunoiajc.moe.edu.sg/bicultural-studies-symposium-2017/ "JIP Bicultural Studies Symposium 2017")
+[JIP Bicultural Studies Symposium 2017](/bicultural-studies-symposium-2017/)
 
 
 27 Aug 2017
@@ -836,7 +836,7 @@ On 18 Aug 2017, students from EJC, CHS, CHIJ SNGS and SCGS congregated for the a
 -----
 
 [City of Dreams –  
-EJC Symphonic Band](https://eunoiajc.moe.edu.sg/city-of-dreams/ "City of Dreams – EJC Symphonic Band")
+EJC Symphonic Band](/city-of-dreams/)
 
 
 18 Aug 2017
@@ -845,8 +845,7 @@ The EJC Symphonic Band held its first public performance at the Botanic Gardens 
 
 -----
 
-[National Day 2017 Celebrations](https://eunoiajc.moe.edu.sg/national-day-2017/ "National Day 2017 Celebrations")
-
+[National Day 2017 Celebrations](/national-day-2017/)
 
 11 Aug 2017
 
@@ -854,7 +853,7 @@ It was quite the birthday party for a nation 52 years young, commemorated and ce
 
 -----
 
-[Sports Day & Inter-House Games 2017](https://eunoiajc.moe.edu.sg/sports-day-ihg-2017/ "Sports Day & Inter-House Games 2017")
+[Sports Day & Inter-House Games 2017](/sports-day-ihg-2017/)
 
 
 30 Jul 2017
@@ -863,8 +862,7 @@ Decked in house colours for the first time, Eunoians and teachers kicked off the
 
 -----
 
-[Racial Harmony Day 2017 Celebrations](https://eunoiajc.moe.edu.sg/rhd-2017/ "Racial Harmony Day 2017 Celebrations")
-
+[Racial Harmony Day 2017 Celebrations](/rhd-2017/)
 
 24 Jul 2017
 
@@ -872,7 +870,7 @@ Capping an eventful MTL Fortnight II, the college commemorated Racial Harmony Da
 
 -----
 
-[Learn Explore Discover – Unconference Day 2017](https://eunoiajc.moe.edu.sg/unconference-day-2017/ "Learn Explore Discover – Unconference Day 2017")
+[Learn Explore Discover – Unconference Day 2017](/unconference-day-2017/)
 
 
 13 Jul 2017
@@ -881,7 +879,7 @@ The college’s first-ever Unconference Day on 5 July 2017 was a day of learning
 
 -----
 
-[Charting the Future – CSH Day 2017](https://eunoiajc.moe.edu.sg/csh-day-2017/ "Charting the Future – CSH Day 2017")
+[Charting the Future – CSH Day 2017](/csh-day-2017/)
 
 
 10 Jul 2017
@@ -890,7 +888,7 @@ Our JC1 Eunoians had an early chance to explore and introspect on the first Care
 
 -----
 
-[JC1 Parent-Teacher Meet on 21 July 2017](https://eunoiajc.moe.edu.sg/2017jc1ptm2/ "JC1 Parent-Teacher Meet on 21 July 2017")
+[JC1 Parent-Teacher Meet on 21 July 2017](/2017jc1ptm2/)
 
 
 02 Jul 2017
@@ -899,7 +897,7 @@ The college invites parents of our JC1 students to an in-depth conversation with
 
 -----
 
-[Local Soul – Humanities & Aesthetics Week 2017](https://eunoiajc.moe.edu.sg/haw2017/ "Local Soul – Humanities & Aesthetics Week 2017")
+[Local Soul – Humanities & Aesthetics Week 2017](/haw2017/)
 
 
 24 May 2017
@@ -908,7 +906,7 @@ Our first Humanities and Aesthetics Week sought to uncover the Local Soul throug
 
 -----
 
-[Running for a Cause – Road Run 2017](https://eunoiajc.moe.edu.sg/road-run-2017/ "Running for a Cause – Road Run 2017")
+[Running for a Cause – Road Run 2017](/road-run-2017/)
 
 
 20 May 2017
@@ -917,7 +915,7 @@ The first ever EJC Road Run was held at Bishan-Ang Mo Kio Park II on 19 May 2017
 
 -----
 
-[ST-MOE National Current Affairs Quiz 2017](https://eunoiajc.moe.edu.sg/st-moe-big-quiz-2017/ "ST-MOE National Current Affairs Quiz 2017")
+[ST-MOE National Current Affairs Quiz 2017](/st-moe-big-quiz-2017/)
 
 
 16 May 2017
@@ -926,7 +924,7 @@ On 12 May 2017, the college played host to the fourth round of The Straits Times
 
 -----
 
-[Beginning with a Dream – College Day 2017](https://eunoiajc.moe.edu.sg/college-day-2017/ "Beginning with a Dream – College Day 2017")
+[Beginning with a Dream – College Day 2017](/college-day-2017/)
 
 
 16 May 2017
@@ -935,7 +933,7 @@ Eunoia Junior College marked its inaugural College Day on 6 May 2017 by commemor
 
 -----
 
-[Distinction at SYF 2017 – Dance and Band](https://eunoiajc.moe.edu.sg/syf2017/ "Distinction at SYF 2017 – Dance and Band")
+[Distinction at SYF 2017 – Dance and Band](/syf2017/)
 
 
 04 May 2017
@@ -944,7 +942,7 @@ The college would like to congratulate students and teachers-in-charge from our 
 
 -----
 
-[STEM Week 2017](https://eunoiajc.moe.edu.sg/stem-week-2017/ "STEM Week 2017")
+[STEM Week 2017](/stem-week-2017/)
 
 
 24 Apr 2017
@@ -953,7 +951,7 @@ From 17 to 21 April, the college conducted an array of workshops and talks under
 
 -----
 
-[感受母语 – MTL Fortnight 2017](https://eunoiajc.moe.edu.sg/mtl-fortnight-2017/ "感受母语 – MTL Fortnight 2017")
+[感受母语 – MTL Fortnight 2017](/mtl-fortnight-2017/)
 
 
 18 Apr 2017
@@ -962,7 +960,7 @@ From 3 to 7 April, the college’s Mother Tongue Languages (MTL) Department held
 
 -----
 
-[Induction Day 2017 – Start Shining](https://eunoiajc.moe.edu.sg/induction-2017/ "Induction Day 2017 – Start Shining")
+[Induction Day 2017 – Start Shining](/induction-2017/)
 
 
 05 Mar 2017
@@ -971,7 +969,7 @@ The college commemorated its inaugural Induction Day on 20 Feb 2017, which marks
 
 -----
 
-[Odyssey – EJC Orientation 2017](https://eunoiajc.moe.edu.sg/odyssey-2017/ "Odyssey – EJC Orientation 2017")
+[Odyssey – EJC Orientation 2017](/odyssey-2017/)
 
 
 05 Mar 2017
@@ -980,7 +978,7 @@ To welcome its first-ever JAE cohort and strengthen the Eunoia family, the colle
 
 -----
 
-[Making a Record for the Community](https://eunoiajc.moe.edu.sg/making-a-record-for-the-community/ "Making a Record for the Community")
+[Making a Record for the Community](/making-a-record-for-the-community/)
 
 
 12 Feb 2017
@@ -989,7 +987,7 @@ On 10 Feb 2017, our first cohort of students and teachers made it into the Singa
 
 -----
 
-[Launch of the Eunoia Junior College Anthem](https://eunoiajc.moe.edu.sg/anthem-launch/ "Launch of the Eunoia Junior College Anthem")
+[Launch of the Eunoia Junior College Anthem](/anthem-launch/)
 
 
 06 Feb 2017
@@ -998,7 +996,7 @@ On 6 Feb 2017, we launched the College Anthem, written and composed by a group o
 
 -----
 
-[Invitation to JC1 Parent-Teacher Meet](https://eunoiajc.moe.edu.sg/jc1-ptm/ "Invitation to JC1 Parent-Teacher Meet")
+[Invitation to JC1 Parent-Teacher Meet](/jc1-ptm/)
 
 
 04 Feb 2017
@@ -1007,7 +1005,7 @@ The college would like to invite parents of our JC1s to the inaugural Parent-Tea
 
 -----
 
-[Bright Spots in Eunoia – Spring Cleaning Time](https://eunoiajc.moe.edu.sg/bright-spots-cny/ "Bright Spots in Eunoia – Spring Cleaning Time")
+[Bright Spots in Eunoia – Spring Cleaning Time](/bright-spots-cny/)
 
 
 28 Jan 2017
@@ -1016,7 +1014,7 @@ In preparation for the Chinese New Year festivities, our Eunoians picked up thei
 
 -----
 
-[Appeals for JC1 Admission – JAE 2017](https://eunoiajc.moe.edu.sg/2017-appeals/ "Appeals for JC1 Admission – JAE 2017")
+[Appeals for JC1 Admission – JAE 2017](/2017-appeals/)
 
 24 Jan 2017
 
@@ -1024,8 +1022,7 @@ The Joint Admissions Exercise (JAE) Appeal Exercise is for students who have not
 
 -----
 
-[Epic – A Eunoia Adventure](https://eunoiajc.moe.edu.sg/epic/ "Epic – A Eunoia Adventure")
-
+[Epic – A Eunoia Adventure](/epic/)
 
 14 Jan 2017
 
@@ -1033,7 +1030,7 @@ The Eunoia Odyssey is starting and you could be a part of it. Read our college v
 
 -----
 
-[Well Wishes for Eunoians](https://eunoiajc.moe.edu.sg/well-wishes-for-eunoians/ "Well Wishes for Eunoians")
+[Well Wishes for Eunoians](/well-wishes-for-eunoians/)
 
 
 11 Jan 2017
@@ -1042,7 +1039,7 @@ Parents of our JC1s, alumni and staff from our JIP partner schools send their we
 
 -----
 
-[Day One @ Eunoia](https://eunoiajc.moe.edu.sg/day-one/ "Day One @ Eunoia")
+[Day One @ Eunoia](/day-one/)
 
 
 10 Jan 2017
@@ -1051,7 +1048,7 @@ Momentous is probably the only word we could use to describe the 9th of January,
 
 -----
 
-[Calling ‘O’ Level Students](https://eunoiajc.moe.edu.sg/calling-o-level-students/ "Calling ‘O’ Level Students")
+[Calling ‘O’ Level Students](/calling-o-level-students/)
 
 
 03 Dec 2016
@@ -1060,7 +1057,7 @@ The college is ready to welcome its first ever cohort of students, formed by stu
 
 -----
 
-[Eunited We Stand](https://eunoiajc.moe.edu.sg/eunited-we-stand/ "Eunited We Stand")
+[Eunited We Stand](/eunited-we-stand/)
 
 
 27 Oct 2016
