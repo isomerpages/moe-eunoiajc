@@ -9,7 +9,7 @@ Assembled into five 'pirate crews', they made merry with icebreakers and herita
 
 Our destinations matter, and so do the people around us. After giving their juniors a rousing welcome on the first day, our JC2s stepped up on stage to add warmth and style to the orientation finale. Our teachers joined in the act as well, performing several songs that won the crowd over. No conclusion was however more fitting than the final performances by the crews themselves. Bonds strengthened and boundaries broken, our newest crew of Eunoians would be ready to set sail for the next three weeks, and welcome even more friends from other secondary schools to join them on a longer, meaningful voyage ahead.
 
+![](/images/eu2018.png)
 
 ###### PHOTOS BY AUSTIN WANG, BENJAMIN SOH, BRYAN SIM, CHNG MIN RU, CLYDE LHUI, GOH CHANG WEI, JAYDEN SIM, JUSTIN DE COTTA, NEO RUI EN, SANDRA TAN, SOH ENZE AND TERI TAY
 
-![](/images/eu2018.png)
