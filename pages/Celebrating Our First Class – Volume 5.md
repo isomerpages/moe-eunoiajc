@@ -3,7 +3,7 @@ title: Celebrating Our First Class – Volume 5
 permalink: /first-class-5/
 description: ""
 ---
-Our First Class of Eunoians have shone tremendously in the college's beginning years. To learn more about their outstanding holistic and academic achievements, we asked our pioneering students to share their thoughts on their experience and wise words of encouragement to their juniors. Eunoians are defined not just by their academic achievements, but who they are as people and the impact they leave on the world. Read more about our first class in Volumes [**1**](https://eunoiajc.moe.edu.sg/first-class-1/), [**2**](https://eunoiajc.moe.edu.sg/first-class-2/), [**3**](https://eunoiajc.moe.edu.sg/first-class-3/), [**4**](https://eunoiajc.moe.edu.sg/first-class-4/) and [**6**](https://eunoiajc.moe.edu.sg/first-class-6/).
+Our First Class of Eunoians have shone tremendously in the college's beginning years. To learn more about their outstanding holistic and academic achievements, we asked our pioneering students to share their thoughts on their experience and wise words of encouragement to their juniors. Eunoians are defined not just by their academic achievements, but who they are as people and the impact they leave on the world. Read more about our first class in Volumes [**1**](/first-class-1/), [**2**](first-class-2/), [**3**](/first-class-3/), [**4**](/first-class-4/) and [**6**](/first-class-6/).
 
 ###### PHOTOS BY MR YEO CHANG LONG
 
