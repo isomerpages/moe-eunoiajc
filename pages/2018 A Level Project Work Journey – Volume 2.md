@@ -9,7 +9,7 @@ Our second cohort of Eunoians received their A-Level Project Work results on 16 
 
 To map our Eunoians' growth, we interviewed three more groups of students from 18-I1, 18-O2 and 18-I3 to learn more about their experience, the purpose they found and the connections they made along the way.
 
-E![](/images/18-pw-ej060.png)
+![](/images/18-pw-ej060.png)
 
 ###### WHAT IS YOUR PROJECT ABOUT AND WHY DID THE GROUP PURSUE THIS?
 
@@ -41,7 +41,7 @@ E![](/images/18-pw-ej060.png)
 
 **Freya Keertikar**: To elaborate on Wen Xin’s point, we are truly grateful that we had a tutor who gave us so much support and yet showed tough love when we were straying and a lot of what we achieved was due to his belief in us. We are also truly thankful to our class, 18-I1, for looking out for each other and helping those in other groups thus helping to create a non-competitive environment where we all lifted each other up so that we could all succeed together as a class.
 
-E![](/images/18-pw-ej092.png)
+![](/images/18-pw-ej092.png)
 
 
 ###### WHAT IS YOUR PROJECT ABOUT AND WHY DID THE GROUP PURSUE THIS?
@@ -74,7 +74,7 @@ E![](/images/18-pw-ej092.png)
 
 **Vera Lee**: We would like to thank our PW tutor, Ms Sonia for her guidance and patience throughout this arduous process. She put in a lot of effort in reviewing our WR, OP and I&Rs many times and did it all very quickly in an attempt to give us as much time as possible to improve our work. Although it was frustrating, she always provided us with new questions and perspectives to help perfect our content. On top of the workload, Ms Sonia also consciously checked on our well-being, showering us with a lot of support and encouragement to push us along, and for that we are very grateful to her. We would also like to thank the other two groups in our OP slot, EJ062 and EJ101 for the many dry runs together, from which we gained a lot of insight and feedback on how we could improve our presentation skills, and for the comforting smiles and active participation when we finally presented our work to the assessors.
 
-E![](/images/18-pw-ej069.png)
+![](/images/18-pw-ej069.png)
 
 
 ###### WHAT IS YOUR PROJECT ABOUT AND WHY DID THE GROUP PURSUE THIS?
