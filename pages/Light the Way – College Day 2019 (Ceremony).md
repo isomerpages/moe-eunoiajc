@@ -166,3 +166,7 @@ Chinese – Orchestra  Certificate of Distinction (2019)
 Dance  – Certificate of Accomplishment (2019)  
 Drama  – Certificate of Distinction (2018)  
 Symphonic Band  – Certificate of Distinction (2019)
+
+![](/images/cd2019-2.png)
+
+###### PHOTOS BY ANG WEI NING, ANSELM PIUS LONG, ASHER TAN, CHLOE WONG, DING YONG KHAI, KHIN HNIN SU, LEE SHAO YEAP AND YAU YU HAO
