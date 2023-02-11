@@ -11,7 +11,7 @@ The official appeal period for JAE is from **1 Feb 2018 to 8 Feb 2018**. Appl
 
 Students who wish to appeal for transfer to Eunoia Junior College will need to meet the college’s course cut-off point (COP) in 2018, subject to the availability of vacancies and fulfilment of the college’s admission requirements.
 
-[Download Form](https://eunoiajc.moe.edu.sg/wp-content/uploads/2018/01/EJCAppealForm2018.pdf)
+[Download Form](/files/EJC-Appeal-Form-2019.pdf)
 
 Process
 =======
