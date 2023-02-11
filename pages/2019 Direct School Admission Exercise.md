@@ -7,9 +7,9 @@ The 2019 Direct School Admission (DSA-JC) exercise for admission into JC1 in 202
 
 The college is looking for outstanding talents in all areas of Sport and Performing Arts, particularly in Chinese Orchestra, Choir, Symphonic Band, Floorball (Boys), Tennis (Girls), Volleyball (Boys), Basketball (Boys), Hockey (Girls), Netball (Girls) and Softball (Boys). Please refer to our Admission Criteria for a full list of relevant Sports and Performing Arts CCAs.
 
-Interested students should download and submit the [**application form**](https://eunoiajc.moe.edu.sg/wp-content/uploads/2019/05/2019-EJC-DSA-Application-Form.docx) by **1 July 2019**.
+Interested students should download and submit the [**application form**](https://go.gov.sg/2021-ejc-dsa) by **1 July 2019**.
 
-[Download Form](https://eunoiajc.moe.edu.sg/wp-content/uploads/2019/05/2019-EJC-DSA-Application-Form.docx)
+[Download Form](https://go.gov.sg/2021-ejc-dsa)
 
 ### Eligibility
 
@@ -43,7 +43,7 @@ Applicants must be current Secondary 4 students in local schools and confident o
 
 ### Application Process
 
-Students who are keen to join EJC via the DSA-JC exercise must submit their **[application form](https://eunoiajc.moe.edu.sg/wp-content/uploads/2019/05/2019-EJC-DSA-Application-Form.docx)** by **1 July 2019**.
+Students who are keen to join EJC via the DSA-JC exercise must submit their **[application form](https://go.gov.sg/2021-ejc-dsa)** by **1 July 2019**.
 
 Shortlisted applicants will be notified by phone for a sports trial or audition at a given date and time. During the session, please bring along your hardcopy application form and all supporting documents, which may include the following:
 
