@@ -161,8 +161,8 @@ Athena Leong Yin Huey
 
 ##### SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION
 
-Choir  Certificate of Distinction (2019)  
-Chinese Orchestra  Certificate of Distinction (2019)  
-Dance  Certificate of Accomplishment (2019)  
-Drama  Certificate of Distinction (2018)  
-Symphonic Band  Certificate of Distinction (2019)
+Choir  – Certificate of Distinction (2019)  
+Chinese – Orchestra  Certificate of Distinction (2019)  
+Dance  – Certificate of Accomplishment (2019)  
+Drama  – Certificate of Distinction (2018)  
+Symphonic Band  – Certificate of Distinction (2019)
