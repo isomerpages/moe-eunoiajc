@@ -1066,7 +1066,7 @@ Eunoians Eunite! Our Year 4 students from the Joint Integrated Programme were in
 
 -----
 
-[Now This is What We Call Family](https://eunoiajc.moe.edu.sg/now-this-is-what-we-call-family/ "Now This is What We Call Family")
+[Now This is What We Call Family](/now-this-is-what-we-call-family/)
 
 
 27 Oct 2016
@@ -1075,7 +1075,7 @@ Our house became a home as we celebrated a Housewarming and Family Day on 14 Oct
 
 -----
 
-[Welcome Home, Eunoia](https://eunoiajc.moe.edu.sg/welcome-home-eunoia/ "Welcome Home, Eunoia")
+[Welcome Home, Eunoia](/welcome-home-eunoia/)
 
 
 26 Oct 2016
@@ -1084,7 +1084,7 @@ On the 5th of October, the Eunoia staff moved out from our temporary office at t
 
 -----
 
-[Information for Year 4 Students and Parents](https://eunoiajc.moe.edu.sg/information-for-year-4-students-and-parents/ "Information for Year 4 Students and Parents")
+[Information for Year 4 Students and Parents](/information-for-year-4-students-and-parents/)
 
 
 26 Oct 2016
@@ -1093,7 +1093,7 @@ On 3 Sep 2016, the college held a pre-opening engagement event for Joint Integr
 
 -----
 
-[Information on 2017 Shuttle Bus Service](https://eunoiajc.moe.edu.sg/information-on-2017-shuttle-bus-service/ "Information on 2017 Shuttle Bus Service")
+[Information on 2017 Shuttle Bus Service](/information-on-2017-shuttle-bus-service/)
 
 
 26 Oct 2016
@@ -1102,7 +1102,7 @@ One-way shuttle bus services are arranged for students on weekday mornings durin
 
 -----
 
-[F!RST Pre-Opening Engagement Session](https://eunoiajc.moe.edu.sg/frst-pre-opening-engagement-session/ "F!RST Pre-Opening Engagement Session")
+[F!RST Pre-Opening Engagement Session](/frst-pre-opening-engagement-session/)
 
 
 31 Aug 2016
@@ -1111,7 +1111,7 @@ The college is holding a pre-opening engagement session on 3 September for Joint
 
 -----
 
-[Let’s Go Community Mapping!](https://eunoiajc.moe.edu.sg/lets-go-community-mapping/ "Let’s Go Community Mapping!")
+[Let’s Go Community Mapping!](/lets-go-community-mapping/)
 
 
 31 Aug 2016
@@ -1120,7 +1120,7 @@ Two weeks into the new term, our first ‘cohort’ of teachers took the chance 
 
 -----
 
-[Introducing Our College Crest](https://eunoiajc.moe.edu.sg/introducing-our-college-crest/ "Introducing Our College Crest")
+[Introducing Our College Crest](/introducing-our-college-crest/)
 
 
 31 Aug 2016
@@ -1129,7 +1129,7 @@ A crest is more than a beautiful symbol. It tells the story of a school, about h
 
 -----
 
-[2016 DSA-JC Exercise](https://eunoiajc.moe.edu.sg/2016-dsa/ "2016 DSA-JC Exercise")
+[2016 DSA-JC Exercise](/2016-dsa/)
 
 
 31 Aug 2016
@@ -1138,7 +1138,7 @@ The 2016 Direct School Admission – Junior College (DSA-JC) exercise opens on 9
 
 -----
 
-[Prospectus 2017-18](https://eunoiajc.moe.edu.sg/prospectus-2017-18/ "Prospectus 2017-18")
+[Prospectus 2017-18](/prospectus-2017-18/)
 
 
 31 Aug 2016
@@ -1147,7 +1147,7 @@ View our prospectus to find out more about our beautiful thinking, a diverse men
 
 -----
 
-[Finding Eunity](https://eunoiajc.moe.edu.sg/finding-eunity/ "Finding Eunity")
+[Finding Eunity](/finding-eunity/)
 
 
 21 May 2016
@@ -1156,7 +1156,7 @@ Dear Parents and Alumni Members, All journeys have a beginning, a middle and an 
 
 -----
 
-[Student-Initiated CCA Proposal](https://eunoiajc.moe.edu.sg/student-initiated-cca-proposal/ "Student-Initiated CCA Proposal")
+[Student-Initiated CCA Proposal](/student-initiated-cca-proposal/)
 
 
 20 May 2016
@@ -1165,7 +1165,7 @@ The college strongly believes in student voice: we empower our students to shape
 
 -----
 
-[Creating the Eunoian Experience](https://eunoiajc.moe.edu.sg/creating-the-eunoian-experience/ "Creating the Eunoian Experience")
+[Creating the Eunoian Experience](/creating-the-eunoian-experience/)
 
 
 19 May 2016
