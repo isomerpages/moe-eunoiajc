@@ -593,7 +593,7 @@ We congratulate Literature tutor Ms Bernice Yeo on receiving the Inspiring Teach
 
 -----
 
-[JC1 Scholarship and Award Recipients 2018](https://eunoiajc.moe.edu.sg/2018-jc1-scholars/ "JC1 Scholarship and Award Recipients 2018")
+[JC1 Scholarship and Award Recipients 2018](/2018-jc1-scholars/)
 
 
 22 Sep 2018
@@ -602,7 +602,7 @@ The college congratulates 53 of our JC1 Eunoians on being awarded scholarships f
 
 -----
 
-[International Geography Olympiad 2018](https://eunoiajc.moe.edu.sg/igeo18/ "International Geography Olympiad 2018")
+[International Geography Olympiad 2018](/igeo18/)
 
 
 22 Aug 2018
@@ -611,7 +611,7 @@ Cheryl Yong (18-A4) represented Team Singapore at the International Geography Ol
 
 -----
 
-[Ministry of Education Special Awards 2018](https://eunoiajc.moe.edu.sg/2018-moe-sa/ "Ministry of Education Special Awards 2018")
+[Ministry of Education Special Awards 2018](/2018-moe-sa/)
 
 
 20 Aug 2018
@@ -620,7 +620,7 @@ The college congratulates Ong Chong Yu (18-A1) and Megan Choo (18-O4) on receivi
 
 -----
 
-[National Day Celebrations & Inter-House Games 2018](https://eunoiajc.moe.edu.sg/nd-ihg-2018/ "National Day Celebrations & Inter-House Games 2018")
+[National Day Celebrations & Inter-House Games 2018](/nd-ihg-2018/)
 
 
 17 Aug 2018
@@ -629,7 +629,7 @@ The college celebrated the nation’s 53rd birthday with a bang, adding plenty o
 
 -----
 
-[JC1 Parent-Teacher Meet 2018](https://eunoiajc.moe.edu.sg/jc1ptm-2018/ "JC1 Parent-Teacher Meet 2018")
+[JC1 Parent-Teacher Meet 2018](/jc1ptm-2018/)
 
 
 27 Jul 2018
@@ -638,7 +638,7 @@ Parents of our JC1 Eunoians are invited to the JC1 Parent-Teacher Meet on 3 Aug 
 
 -----
 
-[Two recipients of SAF Young Leader Award 2018](https://eunoiajc.moe.edu.sg/syla-2018/ "Two recipients of SAF Young Leader Award 2018")
+[Two recipients of SAF Young Leader Award 2018](/syla-2018/)
 
 
 20 Jul 2018
@@ -647,7 +647,7 @@ The college congratulates Audrey Choong Jia Yuan (17-O1) and Ryan Lee Ray Yen (1
 
 -----
 
-[II-Morrow – 2nd Student Leaders’ Investiture](https://eunoiajc.moe.edu.sg/2morrow/ "II-Morrow – 2nd Student Leaders’ Investiture")
+[II-Morrow – 2nd Student Leaders’ Investiture](/2morrow/)
 
 
 20 Jul 2018
@@ -657,7 +657,7 @@ The college’s 2nd Student Leaders’ Investiture was held on 13 Jul 2018, as t
 -----
 
 [As One We Write  
-– Our Foundation](https://eunoiajc.moe.edu.sg/one-foundation/ "As One We Write– Our Foundation")
+– Our Foundation](/one-foundation/)
 
 
 07 May 2018
@@ -667,7 +667,7 @@ Our pioneering students and staff shared their hopes and dreams for the college 
 -----
 
 [As One We Write  
-– Welcome Address](https://eunoiajc.moe.edu.sg/one-welcome/ "As One We Write– Welcome Address")
+– Welcome Address](/one-welcome/)
 
 
 07 May 2018
@@ -676,7 +676,7 @@ Our principal Mrs Wong-Cheang Mei Heng welcomed guest of honour Mr Ong Ye Kung a
 
 -----
 
-[Invest with Integrity – 2017 A-Level PW Journey](https://eunoiajc.moe.edu.sg/2017-pw/ "Invest with Integrity – 2017 A-Level PW Journey")
+[Invest with Integrity – 2017 A-Level PW Journey](/2017-pw/)
 
 
 28 Apr 2018
@@ -685,8 +685,7 @@ Our pioneer cohort of Eunoians received their A-Level Project Work results on 17
 
 -----
 
-[Eunoia Junior College – Official Opening](https://eunoiajc.moe.edu.sg/one/ "Eunoia Junior College – Official Opening")
-
+[Eunoia Junior College – Official Opening](/one/)
 
 24 Apr 2018
 
@@ -694,8 +693,7 @@ The college has lined up a series of exciting activities on 5 May 2018 (Saturday
 
 -----
 
-[JC2 Parent-Teacher Meet 2018](https://eunoiajc.moe.edu.sg/jc2ptm-2018/ "JC2 Parent-Teacher Meet 2018")
-
+[JC2 Parent-Teacher Meet 2018](/jc2ptm-2018/)
 
 05 Apr 2018
 
@@ -703,8 +701,7 @@ We would like to invite parents of our JC2 students to the JC2 Parent-Teacher Me
 
 -----
 
-[Road Run 2018 – Reaching for the Sun](https://eunoiajc.moe.edu.sg/road-run-2018/ "Road Run 2018 – Reaching for the Sun")
-
+[Road Run 2018 – Reaching for the Sun](/road-run-2018/)
 
 31 Mar 2018
 
@@ -712,7 +709,7 @@ The college held its second Road Run on 23 March 2018, bringing parents, JC1 and
 
 -----
 
-[Love’s Labour’s Won – 2017 A-Level MTL Results](https://eunoiajc.moe.edu.sg/2017-a-level/ "Love’s Labour’s Won – 2017 A-Level MTL Results")
+[Love’s Labour’s Won – 2017 A-Level MTL Results](/2017-a-level/)
 
 
 23 Feb 2018
@@ -721,7 +718,7 @@ The college held its second Road Run on 23 March 2018, bringing parents, JC1 and
 
 -----
 
-[Voyage 2018 – EJC Orientation](https://eunoiajc.moe.edu.sg/orientation-2018/ "Voyage 2018 – EJC Orientation")
+[Voyage 2018 – EJC Orientation](/orientation-2018/)
 
 
 20 Feb 2018
