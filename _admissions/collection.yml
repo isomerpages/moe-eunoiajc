@@ -2,7 +2,6 @@ collections:
   admissions:
     output: true
     order:
-      - STEM Week 2017.md
       - Admissions.md
       - Direct School Admission.md
       - Joint Admissions Exercise.md
