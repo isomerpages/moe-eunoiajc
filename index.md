@@ -10,14 +10,8 @@ sections:
       background: /images/Orientation-2023_banner.jpg
       key_highlights:
         - title: Highlights
-          description: OH EUNOIA! 2023 – 13 Jan
-          url: /highlights/2022/oh2023/
-        - title: Highlights
-          description: 2022 Direct School Admission
-          url: /2022-dsa
-        - title: Highlights
-          description: 2021 A-Level Results
-          url: /highlights/2022/2021-results/
+          description: Cosmos – Orientation 2023
+          url: /highlights/2023/ori-2023/
   - resources:
       title: Highlights
       subtitle: Eunoia
