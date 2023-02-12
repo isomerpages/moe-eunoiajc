@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/gif-maker.gif
+      background: /images/Orientation-2023_banner.jpg
       key_highlights:
         - title: Highlights
           description: OH EUNOIA! 2023 – 13 Jan
