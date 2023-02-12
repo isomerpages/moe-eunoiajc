@@ -44,18 +44,13 @@ This experience would not be complete without the partnership of parents. At the
 
 ### Getting to University Cultural Centre
 
-The University Cultural Centre is located at **50 Kent Ridge Crescent**, next to the Yong Siew Toh Conservatory of Music and the Lee Kong Chian Natural History Museum. Driving and public transport directions from your location can be accessed via the [**gothere.sg**](https://gothere.sg/maps#q:university%20cultural%20centre%22]gothere.sg) and **[streetdirectory](http://www.streetdirectory.com/sg/university-cultural-centre-national-university-of-singapore-nus/50-kent-ridge-crescent-119279/35850_7279.html)** links below. To learn more about the facilities available at the University Cultural Centre, visit the NUS [**UCC**](http://www.nus.edu.sg/cfa/about_us/getting_to_us.php) website.
-
-[Go There](https://gothere.sg/maps#q:university%20cultural%20centre)  
-[Street Directory](http://www.streetdirectory.com/sg/university-cultural-centre-national-university-of-singapore-nus/50-kent-ridge-crescent-119279/35850_7279.html)   
-[UCC Website](http://www.nus.edu.sg/cfa/about_us/getting_to_us.php)    
-[NUS Campus Map](http://map.nus.edu.sg/download/NUS_Campus_Map_full.pdf)
+The University Cultural Centre is located at **50 Kent Ridge Crescent**, next to the Yong Siew Toh Conservatory of Music and the Lee Kong Chian Natural History Museum. Driving and public transport directions from your location can be accessed via the **gothere.sg** and **streetdirectory** links below. To learn more about the facilities available at the University Cultural Centre, visit the NUS UCC website.
 
 If you are driving to the University Cultural Centre, you may park your vehicle at **Car Park 3**, in the basement of Yong Siew Toh Conservatory of Music and University Cultural Centre.
 
 Alternatively, you may park at Car Park 2 near the Faculty of Engineering, or Car Park 4 at Raffles Hall.
 
-A parking rate of $0.0214 per min applies. For further information on car parks and parking rates, please refer to **[Visitors Parking Information](https://weareeunoia.files.wordpress.com/2016/04/visitors-parking-information.pdf)**.
+A parking rate of $0.0214 per min applies. For further information on car parks and parking rates, please refer to **Visitors Parking Information**.
 
 The University Cultural Centre can be accessed via the following bus services:
 
