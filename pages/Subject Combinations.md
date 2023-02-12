@@ -85,17 +85,17 @@ Students must offer a contrasting subject as one of the four content-based subje
 
 ##### **MERIT-BASED ALLOCATION**
 
-Students intending to offer **[H2 Art](/academic-subjects/Humanties-and-the-Arts/art/)**, **[H2 Further Mathematics](/academic-subjects/Mathematics-and-Sciences/futher-mathematics/)**, **[H2 Knowledge & Inquiry](/academic-subjects/Knowledge-Skills/knowledge-and-inquiry/)**, **[H2 Music](/academic-subjects/Humanties-and-the-Arts/music/)** or **[H2 Translation (Chinese)](/academic-subjects/Humanties-and-the-Arts/translation-chinese/)** must pass a selection test/audition administered by the college.
+Students intending to offer [H2 Art](/academic-subjects/Humanties-and-the-Arts/art/), [H2 Further Mathematics](/academic-subjects/Mathematics-and-Sciences/futher-mathematics/), [H2 Knowledge & Inquiry](/academic-subjects/Knowledge-Skills/knowledge-and-inquiry/), [H2 Music](/academic-subjects/Humanties-and-the-Arts/music/) or [H2 Translation (Chinese)](/academic-subjects/Humanties-and-the-Arts/translation-chinese/) must pass a selection test/audition administered by the college.
 
-Students intending to offer **[H2 Translation (Chinese)](/academic-subjects/Humanties-and-the-Arts/translation-chinese/)** must have obtained a minimum of A2 for English Language and B3 for Higher Chinese or A2 for Chinese at the GCE O-Level Examination, based on centrally-stated prerequisites.
+Students intending to offer [H2 Translation (Chinese)](/academic-subjects/Humanties-and-the-Arts/translation-chinese/) must have obtained a minimum of A2 for English Language and B3 for Higher Chinese or A2 for Chinese at the GCE O-Level Examination, based on centrally-stated prerequisites.
 
-Students intending to offer **[French, German, Japanese or Spanish](/academic-subjects/Languages/foreign-languages/)** at H2 or H1 Level must have studied the respective language at MOELC in Secondary 4 or Year 4 prior to joining the college.
+Students intending to offer [French, German, Japanese or Spanish](/academic-subjects/Languages/foreign-languages/) at H2 or H1 Level must have studied the respective language at MOELC in Secondary 4 or Year 4 prior to joining the college.
 
 If a subject is oversubscribed, students will be selected based on academic merit, including (i) L1R5 aggregate score or equivalent, excluding bonus points, and (ii) performance in the relevant subject(s).
 
-The indicative cut-off point for **[H2 Biology](/academic-subjects/Mathematics-and-Sciences/biology/)**, **[H2 Chemistry](/academic-subjects/Mathematics-and-Sciences/chemistry/)** and **[H2 Physics](/academic-subjects/Mathematics-and-Sciences/physics/)** is B3 for the respective subject at the GCE O-Level Examination or equivalent, or A1 for Combined Science at the GCE O-Level Examination.
+The indicative cut-off point for [H2 Biology](/academic-subjects/Mathematics-and-Sciences/biology/), [H2 Chemistry](/academic-subjects/Mathematics-and-Sciences/chemistry/) and [H2 Physics](/academic-subjects/Mathematics-and-Sciences/physics/) is B3 for the respective subject at the GCE O-Level Examination or equivalent, or A1 for Combined Science at the GCE O-Level Examination.
 
-The indicative cut-off point for **[H2 Further Mathematics](/academic-subjects/Mathematics-and-Sciences/futher-mathematics/)** is A1 for Additional Mathematics at the GCE O-Level Examination or equivalent.
+The indicative cut-off point for [H2 Further Mathematics](/academic-subjects/Mathematics-and-Sciences/futher-mathematics/) is A1 for Additional Mathematics at the GCE O-Level Examination or equivalent.
 
 ##### **H3 SUBJECTS**
 
@@ -103,11 +103,11 @@ Designed for outstanding students, H3 subjects are offered in **JC2** together
 
 ##### **SPECIAL PROGRAMMES**
 
-**[Humanities Scholarship Programme](https://eunoiajc.moe.edu.sg/curriculum/special/hsp/)** (HSP) students must offer [**subject combinations prescribed by the Ministry of Education**](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u), which will include **[H2 Literature in English](https://eunoiajc.moe.edu.sg/curriculum/academic-subjects/literature-in-english/)**.
+[Humanities Scholarship Programme](/special-programmes/MOE-Special-Programmes/hsp/) (HSP) students must offer [subject combinations prescribed by the Ministry of Education](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u), which will include [H2 Literature in English](/academic-subjects/Humanties-and-the-Arts/literature-in-english/).
 
-**[Music Elective Programme](https://eunoiajc.moe.edu.sg/curriculum/special/mep/)** (MEP) students must offer **[H2 Music](https://eunoiajc.moe.edu.sg/curriculum/academic-subjects/music/)**.
+[Music Elective Programme](/special-programmes/MOE-Special-Programmes/mep/) (MEP) students must offer [H2 Music](/academic-subjects/Humanties-and-the-Arts/music/).
 
-**[Bicultural Studies Programme](https://eunoiajc.moe.edu.sg/curriculum/special/bsp/)** \[BSP(C)\] scholars must offer [**H2 China Studies in Chinese**](https://eunoiajc.moe.edu.sg/curriculum/academic-subjects/china-studies-in-chinese/).
+[Bicultural Studies Programme](/special-programmes/MOE-Special-Programmes/bsp/) \[BSP(C)\] scholars must offer [H2 China Studies in Chinese](academic-subjects/Humanties-and-the-Arts/china-studies-in-chinese/).
 
 ##### **OTHER CONSIDERATIONS**
 
