@@ -42,6 +42,7 @@ With purpose, heart and courage strong
 Eunoia  
 Our voices soar!
 
+(insert youtube/vimeo here)
 ###### [CLICK TO VIEW FULL MUSICAL SCORE](/files/Eunoia-Anthem-Score.pdf)
 
 ### Our Student-Composers
