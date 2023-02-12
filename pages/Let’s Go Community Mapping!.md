@@ -9,7 +9,9 @@ Led by Ms Liu Lijun, Head of Department for Character & Citizenship Education (C
 
 ### Kenny
 
-![](/images/Comm-Map-Kenny.jpeg)
+<img src="/images/Comm-Map-Kenny.jpeg" 
+     style="width:35%">
+
 
 “Meet Uncle Lee’s son-in-law, Kenny! He’s only 32 this yr and he has already earned working experience in hotel and restaurants. His dream is to bring good honest restaurant standard food to heartlanders by using fresh ingredients! Uncle Lee actually showed support for Kenny’s dream by buying the stall beside him to let him run his own business. In fact, before he become his own boss this year, he did his “internship” at Uncle Lee’s stall. Kenny’s speciality is in creating fusion between Italian and Japanese cuisine. By the way, his miso carbonara was a beautiful accident. He accidentally spilled miso soup into his carbonara when he was having lunch! He’s well protected by his helper Dickson who will help manage the food order and queue system so Kenny can focus on creating good food for all. Go say hello to Kenny and Dickson if u have the chance to!”  
 **Ms Liu Lijun**
@@ -19,7 +21,9 @@ Led by Ms Liu Lijun, Head of Department for Character & Citizenship Education (C
 
 ### Ginny
 
-![](/images/Comm-Map-Ginny.jpeg)
+<img src="/images/Comm-Map-Ginny.jpeg" 
+     style="width:35%">
+
 
 “Meet Ginny the biscuit lady. She’s been here 8 to 9 yrs. Haven’t asked her much but she wasn’t aware of our College until I introduced her to us. :)”  
 **Ms Lim Li Yan**
