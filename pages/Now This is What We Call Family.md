@@ -7,4 +7,4 @@ Our house became a home as we celebrated a Housewarming and Family Day on 14 
 
 Amidst the little carnival atmosphere, there was also time for history to be made. A Kids' Race for various age categories meant that the Eunoia track now comes with its own Eunoia Record, and patiently awaits our first cohort of Eunoians to set their own mark. Just as our family of students, staff and their families will soon expand when we formally start in 2017, the college looks forward to more gatherings and Family Days in the years, and decades to come.
 
-![](/images/ntiwwcf1.png)
+![](/images/family.png)
