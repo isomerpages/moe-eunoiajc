@@ -9,8 +9,8 @@ sections:
   - hero:
       background: /images/Orientation-2023_banner.jpg
       key_highlights:
-        - title: Highlights
-          description: Cosmos – Orientation 2023
+        - title: Cosmos
+          description: Orientation 2023
           url: /highlights/2023/ori-2023/
   - resources:
       title: Highlights
