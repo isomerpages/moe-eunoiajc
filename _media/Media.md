@@ -1147,7 +1147,7 @@ View our prospectus to find out more about our beautiful thinking, a diverse men
 
 -----
 
-[Finding Eunity](/finding-eunity/)
+[Finding Eunity](/highlights/2016/finding-eunity/)
 
 
 21 May 2016
@@ -1156,7 +1156,7 @@ Dear Parents and Alumni Members, All journeys have a beginning, a middle and an 
 
 -----
 
-[Student-Initiated CCA Proposal](/student-initiated-cca-proposal/)
+[Student-Initiated CCA Proposal](/highlights/2016/student-initiated-cca-proposal/)
 
 
 20 May 2016
@@ -1165,7 +1165,7 @@ The college strongly believes in student voice: we empower our students to shape
 
 -----
 
-[Creating the Eunoian Experience](/creating-the-eunoian-experience/)
+[Creating the Eunoian Experience](/highlights/2016/creating-the-eunoian-experience/)
 
 
 19 May 2016
