@@ -14,7 +14,7 @@ The college is holding a pre-opening engagement session on 3 September for **Jo
 [Programme](#2)   
 [Directions](#3)   
 [Q&A](https://www.tinyurl.com/ejcfirst)   
-[Info Booklet](https://eunoiajc.moe.edu.sg/wp-content/uploads/2016/10/FIRST-Information-Booklet.pdf)
+[Info Booklet](/files/FIRST-Information-Booklet%20(1).pdf)
 
 ![](/images/First-Amelia-Earhart-big.jpg)
 
