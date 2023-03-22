@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mr Daniel Kwan.md
       - Ms Ng Lee Siah.md
       - Ms Rachel Yau.md
       - Arts Department/.keep
