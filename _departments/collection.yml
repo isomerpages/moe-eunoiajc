@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mr Kelvin Teo.md
       - Ms Juliana Wong.md
       - Mr Gary Fong.md
       - Ms Elizabeth Chin.md
