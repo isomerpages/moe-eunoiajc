@@ -2,7 +2,6 @@ collections:
   english-department:
     output: true
     order:
-      - Mr Crispin Rodrigues.md
       - Mr Darren Chong.md
       - Ms Eleanor Grace Wong.md
       - Ms Elena Tan.md
