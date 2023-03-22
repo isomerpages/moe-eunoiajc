@@ -2,7 +2,6 @@ collections:
   arts-department:
     output: true
     order:
-      - Ms Leong Wymin.md
       - Ms Rachel Lim.md
       - Ms Quek Jia Qi.md
       - Mr Lee Ji Heng.md
