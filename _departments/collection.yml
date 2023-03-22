@@ -2,10 +2,8 @@ collections:
   departments:
     output: true
     order:
-      - Executive and Admin Staff/Executive & Admin Staff.md
-      - Executive and Admin Staff/.keep
-      - Arts Department/Arts Department.md
       - Arts Department/.keep
+      - Arts Department/Arts Department.md
       - Arts Department/Mr Justin Lee.md
       - Arts Department/Mr Jared Goh.md
       - Arts Department/Dr Gooi Tah Choe.md
@@ -18,6 +16,22 @@ collections:
       - Arts Department/Ms Rachel Lim.md
       - Arts Department/Mr Lee Ji Heng.md
       - Arts Department/Ms Quek Jia Qi.md
+      - Economics Department/.keep
+      - Economics Department/Economics Department.md
+      - Economics Department/Mr Benjamin Liang.md
+      - Economics Department/Mr Kevin Tan.md
+      - Economics Department/Ms Koh Han Yun.md
+      - Economics Department/Ms Tan Liu Yin.md
+      - Economics Department/Ms Loh Xin Min.md
+      - Economics Department/Ms Elizabeth Chin.md
+      - Economics Department/Mr Gary Fong.md
+      - Economics Department/Ms Juliana Wong.md
+      - Economics Department/Mr Kelvin Teo.md
+      - Economics Department/Ms Lim Lyn Na.md
+      - Economics Department/Mr Ma Mingwei.md
+      - Economics Department/Mr Peter Soh.md
+      - Economics Department/Ms Serene Tan.md
+      - Economics Department/Mrs Wee Chen Jinqi.md
       - College Management Committee/.keep
       - College Management Committee/College Management Committee.md
       - College Management Committee/Mr Andrew Tan.md
@@ -38,22 +52,8 @@ collections:
       - College Management Committee/Ms Tan Fangxi.md
       - College Management Committee/Mr Tay Theng Hwee.md
       - College Management Committee/Ms Yang Shu Hung.md
-      - Economics Department/.keep
-      - Economics Department/Economics Department.md
-      - Economics Department/Mr Benjamin Liang.md
-      - Economics Department/Mr Kevin Tan.md
-      - Economics Department/Ms Koh Han Yun.md
-      - Economics Department/Ms Tan Liu Yin.md
-      - Economics Department/Ms Loh Xin Min.md
-      - Economics Department/Ms Elizabeth Chin.md
-      - Economics Department/Mr Gary Fong.md
-      - Economics Department/Ms Juliana Wong.md
-      - Economics Department/Mr Kelvin Teo.md
-      - Economics Department/Ms Lim Lyn Na.md
-      - Economics Department/Mr Ma Mingwei.md
-      - Economics Department/Mr Peter Soh.md
-      - Economics Department/Ms Serene Tan.md
-      - Economics Department/Mrs Wee Chen Jinqi.md
+      - Executive and Admin Staff/.keep
+      - Executive and Admin Staff/Executive & Admin Staff.md
       - English Department.md
       - Project Work Department.md
       - MTL Department.md
