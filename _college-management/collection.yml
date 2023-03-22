@@ -2,7 +2,6 @@ collections:
   college-management:
     output: true
     order:
-      - Ms Adrienne de Souza.md
       - Mr Alvin Toh.md
       - Mr Benjamin Liang.md
       - Mr Charles Cheak.md
