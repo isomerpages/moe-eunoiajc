@@ -2,6 +2,7 @@ collections:
   student-features:
     output: true
     order:
+      - Class of 2021 Soaring Volume 4.md
       - Class of 2021 Soaring Volume 3.md
       - Class of 2021 Soaring Volume 2.md
       - Celebrating Our First Class – Volume 5.md
