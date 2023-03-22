@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Ms Chan Xin Yu.md
       - Ms Chia Xin Hui.md
       - Mr Justin Lim.md
       - Mdm Liu Shuyu.md
