@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Dr Gooi Tah Choe.md
       - English Department.md
       - Project Work Department.md
       - MTL Department.md
