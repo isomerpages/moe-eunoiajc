@@ -2,20 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - MTL Department/.keep
-      - MTL Department/MTL Department.md
-      - MTL Department/Mr Tay Theng Hwee.md
-      - MTL Department/Ms Yang Shu Hung.md
-      - MTL Department/Mdm Ng Lai Sze.md
-      - MTL Department/Mr Cao Jiandong.md
-      - MTL Department/Ms Cao Xinxin.md
-      - MTL Department/Mdm Chen Lili.md
-      - MTL Department/Mr Chng Tsu Pang.md
-      - MTL Department/Ms Lu Jing.md
-      - MTL Department/Mdm Pan Qun.md
-      - MTL Department/Mr Sun Xiaojun.md
-      - MTL Department/Ms Nadira Md Sedik.md
-      - MTL Department/Mrs Uma Thiruselvam.md
       - Arts Department/.keep
       - Arts Department/Arts.md
       - Arts Department/Mr Justin Lee.md
@@ -92,6 +78,20 @@ collections:
       - English Department/Mr Timothy Ng.md
       - Executive and Admin Staff/.keep
       - Executive and Admin Staff/Executive and Admin Staff.md
+      - MTL Department/.keep
+      - MTL Department/MTL Department.md
+      - MTL Department/Mr Tay Theng Hwee.md
+      - MTL Department/Ms Yang Shu Hung.md
+      - MTL Department/Mdm Ng Lai Sze.md
+      - MTL Department/Mr Cao Jiandong.md
+      - MTL Department/Ms Cao Xinxin.md
+      - MTL Department/Mdm Chen Lili.md
+      - MTL Department/Mr Chng Tsu Pang.md
+      - MTL Department/Ms Lu Jing.md
+      - MTL Department/Mdm Pan Qun.md
+      - MTL Department/Mr Sun Xiaojun.md
+      - MTL Department/Ms Nadira Md Sedik.md
+      - MTL Department/Mrs Uma Thiruselvam.md
       - PE Department/.keep
       - PE Department/PE Department.md
       - PE Department/Mr Charles Cheak.md
