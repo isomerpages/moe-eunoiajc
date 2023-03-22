@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - PE Department/Mr Ng Jun Kiat.md
       - PE Department/Mr Ng Boon Hong.md
       - PE Department/Mr Bryan Chan.md
       - PE Department/Ms Anna Loh Kai Suan.md
