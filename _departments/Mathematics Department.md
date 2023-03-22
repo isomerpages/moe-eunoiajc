@@ -36,16 +36,6 @@ Deputy Head (Mathematics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Math-SeowHong_s.jpg" 
-    style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Mrs Tcheau Seow Hong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mrs-tcheau-seow-hong/) <br>
-Senior Teacher (Mathematics)
-
-<div>  
-<div style="float: left">  
 <img src="/images/Maths-Alex-Teo_s.jpg" 
     style="width:50%">
 </div>  
