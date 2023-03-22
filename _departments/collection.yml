@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Economics Department/Ms Elizabeth Chin.md
       - Economics Department/Mr Gary Fong.md
       - Economics Department/Ms Juliana Wong.md
       - Economics Department/Mr Kelvin Teo.md
