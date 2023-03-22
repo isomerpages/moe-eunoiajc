@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Ms Diana Ma.md
       - Mr Enoch Tang.md
       - Ms Jacintha Huang.md
       - Ms Suellen Goh.md
