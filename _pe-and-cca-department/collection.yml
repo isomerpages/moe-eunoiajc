@@ -2,7 +2,6 @@ collections:
   pe-and-cca-department:
     output: true
     order:
-      - Ms Karine Teo.md
       - Mr Allen Lee.md
       - Ms Anna Loh Kai Suan.md
       - Mr Bryan Chan.md
