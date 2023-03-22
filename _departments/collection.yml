@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - MTL Department/Mdm Pan Qun.md
       - MTL Department/Ms Lu Jing.md
       - MTL Department/Mr Chng Tsu Pang.md
       - MTL Department/Mdm Chen Lili.md
