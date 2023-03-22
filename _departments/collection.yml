@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mr Trevor Tay.md
       - Mr Ng Jun Kiat.md
       - Mr Ng Boon Hong.md
       - Mr Bryan Chan.md
