@@ -1,5 +1,4 @@
 collections:
   special-programmes:
     output: true
-    order:
-      - Special Programmes/.keep
+    order: []
