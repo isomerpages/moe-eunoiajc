@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Ms Renuka Satianathan.md
       - Ms Priyah Haritheertham.md
       - Ms Ng Hui Qi.md
       - Ms Karol Ann Tan.md
