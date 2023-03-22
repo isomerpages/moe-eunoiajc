@@ -2,7 +2,6 @@ collections:
   arts-department:
     output: true
     order:
-      - Mr Mahmood Fahmi Ahamed.md
       - Ms Low Sok Hui.md
       - Ms Leong Wymin.md
       - Ms Rachel Lim.md
