@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mr Koh Siong Yang.md
       - Ms Tan Fangxi.md
       - Mr Benjamin Choo.md
       - Dr Chan Kim Seng.md
