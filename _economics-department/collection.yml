@@ -2,7 +2,6 @@ collections:
   economics-department:
     output: true
     order:
-      - Ms Lim Lyn Na.md
       - Mr Ma Mingwei.md
       - Mr Peter Soh.md
       - Ms Serene Tan.md
