@@ -2,7 +2,6 @@ collections:
   english-department:
     output: true
     order:
-      - Ms Kok Li en.md
       - Ms Nadiah Razali.md
       - Dr Edson Ng.md
       - Ms Heon Mak.md
