@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Economics Department/Mrs Wee Chen Jinqi.md
       - Economics Department/.keep
       - Ms Serene Tan.md
       - Mr Peter Soh.md
