@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CMC/Dr Chok Yew Keong.md
       - CMC/Mr Benjamin Liang.md
       - CMC/.keep
       - Ms Yang Shu Hung.md
