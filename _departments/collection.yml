@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Ms Suellen Goh.md
       - Ms Zulaiha Said.md
       - Mr Chan Ter Yue.md
       - Mr Christopher Tan.md
