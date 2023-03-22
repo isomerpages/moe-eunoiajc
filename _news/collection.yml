@@ -2,6 +2,7 @@ collections:
   news:
     output: true
     order:
+      - City of Dreams – EJC Symphonic Band.md
       - Class of 2021 Soaring Volume 1.md
       - Day One @ Eunoia.md
       - Eunoian of the Year – Nicolette Tan Wen Qi.md
