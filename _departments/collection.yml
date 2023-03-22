@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Ms Serene Tan.md
       - Mr Peter Soh.md
       - Mr Ma Mingwei.md
       - Ms Lim Lyn Na.md
