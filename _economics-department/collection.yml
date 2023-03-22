@@ -1,5 +1,4 @@
 collections:
   economics-department:
     output: true
-    order:
-      - Mrs Wee Chen Jinqi.md
+    order: []
