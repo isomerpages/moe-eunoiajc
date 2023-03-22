@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mr Chan Ter Yue.md
       - Mr Christopher Tan.md
       - Mr Felix Lim.md
       - Ms Emeline Choo.md
