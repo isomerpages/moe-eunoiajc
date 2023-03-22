@@ -2,7 +2,6 @@ collections:
   english-department:
     output: true
     order:
-      - Ms Heon Mak.md
       - Mrs Danielle Low.md
       - Mr Perrin Singarayar.md
       - Ms Cham Bei Qing.md
