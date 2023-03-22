@@ -2,7 +2,6 @@ collections:
   economics-department:
     output: true
     order:
-      - Mr Gary Fong.md
       - Ms Juliana Wong.md
       - Mr Kelvin Teo.md
       - Ms Lim Lyn Na.md
