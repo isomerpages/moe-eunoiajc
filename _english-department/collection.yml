@@ -2,7 +2,6 @@ collections:
   english-department:
     output: true
     order:
-      - Mr Perrin Singarayar.md
       - Ms Cham Bei Qing.md
       - Mrs Charlotte Lee.md
       - Mr Crispin Rodrigues.md
