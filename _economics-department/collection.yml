@@ -2,7 +2,6 @@ collections:
   economics-department:
     output: true
     order:
-      - Mr Ma Mingwei.md
       - Mr Peter Soh.md
       - Ms Serene Tan.md
       - Mrs Wee Chen Jinqi.md
