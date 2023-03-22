@@ -1,5 +1,4 @@
 collections:
   pe-and-cca-department:
     output: true
-    order:
-      - Mr Trevor Tay.md
+    order: []
