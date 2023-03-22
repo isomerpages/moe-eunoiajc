@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Arts/Ms Low Sok Hui.md
       - Arts/Mr Lee Ji Heng.md
       - Arts/Mr Justin Lee.md
       - Arts/Mr Azhar Amin.md
