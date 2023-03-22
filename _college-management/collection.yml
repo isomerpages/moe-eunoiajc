@@ -2,7 +2,6 @@ collections:
   college-management:
     output: true
     order:
-      - Mr Jared Goh.md
       - Mr Justin Lee.md
       - Mr Kevin Tan.md
       - Ms Koh Han Yun.md
