@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - MTL Department/Mr Tay Theng Hwee.md
       - MTL Department/MTL Department.md
       - MTL Department/.keep
       - Mrs Uma Thiruselvam.md
