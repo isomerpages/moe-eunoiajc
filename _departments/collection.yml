@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mr Alvin Toh.md
       - Ms Adrienne de Souza.md
       - Mr Mohamad Amran Shah.md
       - CMC/.keep
