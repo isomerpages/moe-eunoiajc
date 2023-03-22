@@ -2,7 +2,6 @@ collections:
   mtl-department:
     output: true
     order:
-      - Ms Yang Shu Hung.md
       - Mdm Ng Lai Sze.md
       - Mr Cao Jiandong.md
       - Ms Cao Xinxin.md
