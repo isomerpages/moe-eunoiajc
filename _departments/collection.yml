@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CMC/Mr Tay Theng Hwee.md
       - CMC/Ms Tan Fangxi.md
       - CMC/Ms Stephanie Hua.md
       - CMC/Mr Marc Kenji Lim.md
