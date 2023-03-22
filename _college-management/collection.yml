@@ -1,5 +1,4 @@
 collections:
   college-management:
     output: true
-    order:
-      - Ms Yang Shu Hung.md
+    order: []
