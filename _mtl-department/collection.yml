@@ -1,5 +1,4 @@
 collections:
   mtl-department:
     output: true
-    order:
-      - Mrs Uma Thiruselvam.md
+    order: []
