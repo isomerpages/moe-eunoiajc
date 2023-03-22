@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Special Programmes/.keep
-      - Special Programmes/Talent Development Programme.md
       - Special Programmes/Programme LATITUDE.md
       - Special Programmes/Programme ALTITUDE.md
       - Special Programmes/Programme MAGNITUDE.md
