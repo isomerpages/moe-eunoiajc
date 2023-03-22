@@ -2,17 +2,17 @@ collections:
   departments:
     output: true
     order:
-      - PE Department/Mr Trevor Tay.md
-      - PE Department/Mr Ng Jun Kiat.md
-      - PE Department/Mr Ng Boon Hong.md
-      - PE Department/Mr Bryan Chan.md
-      - PE Department/Ms Anna Loh Kai Suan.md
-      - PE Department/Mr Allen Lee.md
-      - PE Department/Ms Karine Teo.md
-      - PE Department/Mr George Danapal.md
-      - PE Department/Mr Charles Cheak.md
-      - PE Department/PE & CCA Department.md
       - PE Department/.keep
+      - PE Department/PE & CCA Department.md
+      - PE Department/Mr Charles Cheak.md
+      - PE Department/Mr George Danapal.md
+      - PE Department/Ms Karine Teo.md
+      - PE Department/Mr Allen Lee.md
+      - PE Department/Ms Anna Loh Kai Suan.md
+      - PE Department/Mr Bryan Chan.md
+      - PE Department/Mr Ng Boon Hong.md
+      - PE Department/Mr Ng Jun Kiat.md
+      - PE Department/Mr Trevor Tay.md
       - Arts Department/.keep
       - Arts Department/Arts Department.md
       - Arts Department/Mr Justin Lee.md
