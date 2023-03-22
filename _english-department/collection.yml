@@ -2,7 +2,6 @@ collections:
   english-department:
     output: true
     order:
-      - Ms Eleanor Grace Wong.md
       - Ms Elena Tan.md
       - Ms Geraldine Wong.md
       - Mr Joshua Ng.md
