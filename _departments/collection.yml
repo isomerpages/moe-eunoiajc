@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mr Gary Fong.md
       - Ms Elizabeth Chin.md
       - CMC/.keep
       - CMC/Ms Lynn Koh.md
