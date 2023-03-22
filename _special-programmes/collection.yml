@@ -2,7 +2,6 @@ collections:
   special-programmes:
     output: true
     order:
-      - Special Programmes.md
       - MOE Special Programmes/.keep
       - MOE Special Programmes/Bicultural Studies Programme.md
       - MOE Special Programmes/Humanities Scholarship and Programme.md
