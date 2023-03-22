@@ -2,19 +2,19 @@ collections:
   departments:
     output: true
     order:
+      - Arts/.keep
+      - Arts/Mr Justin Lee.md
+      - Arts/Mr Jared Goh.md
       - Arts/Dr Gooi Tah Choe.md
       - Arts/Mr Fred Ong.md
-      - Arts/Mr Jared Goh.md
+      - Arts/Mr Mahmood Fahmi Ahamed.md
+      - Arts/Mr Alson Yong.md
       - Arts/Ms Low Sok Hui.md
-      - Arts/Mr Lee Ji Heng.md
-      - Arts/Mr Justin Lee.md
       - Arts/Mr Azhar Amin.md
       - Arts/Ms Leong Wymin.md
-      - Arts/Mr Mahmood Fahmi Ahamed.md
-      - Arts/Ms Quek Jia Qi.md
       - Arts/Ms Rachel Lim.md
-      - Arts/Mr Alson Yong.md
-      - Arts/.keep
+      - Arts/Mr Lee Ji Heng.md
+      - Arts/Ms Quek Jia Qi.md
       - English Department.md
       - Project Work Department.md
       - MTL Department.md
