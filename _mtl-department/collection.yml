@@ -2,7 +2,6 @@ collections:
   mtl-department:
     output: true
     order:
-      - Mr Cao Jiandong.md
       - Ms Cao Xinxin.md
       - Mdm Chen Lili.md
       - Mr Chng Tsu Pang.md
