@@ -1,5 +1,5 @@
 collections:
-  project-work-department:
+  pw-department:
     output: true
     order:
       - Ms Adrienne de Souza.md
