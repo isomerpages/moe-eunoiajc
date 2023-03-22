@@ -2,7 +2,6 @@ collections:
   english-department:
     output: true
     order:
-      - Ms Geraldine Wong.md
       - Mr Joshua Ng.md
       - Ms Kajal Kaur Khaira.md
       - Ms Karol Ann Tan.md
