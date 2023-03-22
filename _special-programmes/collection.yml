@@ -2,7 +2,6 @@ collections:
   special-programmes:
     output: true
     order:
-      - MOE Special Programmes/.keep
       - Special Programmes/.keep
       - Special Programmes/Community Engagement Scholarship Programme.md
       - Special Programmes/Talent Development Programme.md
