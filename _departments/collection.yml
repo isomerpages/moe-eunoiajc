@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CMC/Ms Yang Shu Hung.md
       - CMC/Mr Tay Theng Hwee.md
       - CMC/Ms Tan Fangxi.md
       - CMC/Ms Stephanie Hua.md
