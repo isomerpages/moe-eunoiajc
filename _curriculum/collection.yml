@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Teaching and Learning Philosophy.md
       - Sexuality Education.md
       - Subject Combinations.md
       - Stem Research Programmes.md
