@@ -2,7 +2,6 @@ collections:
   college-management:
     output: true
     order:
-      - Ms Koh Han Yun.md
       - Mr Koh Siong Yang.md
       - Mr Marc Kenji Lim.md
       - Ms Stephanie Hua.md
