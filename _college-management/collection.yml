@@ -2,5 +2,4 @@ collections:
   college-management:
     output: true
     order:
-      - Mr Tay Theng Hwee.md
       - Ms Yang Shu Hung.md
