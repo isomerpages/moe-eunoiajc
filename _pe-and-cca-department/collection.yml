@@ -2,5 +2,4 @@ collections:
   pe-and-cca-department:
     output: true
     order:
-      - Mr Ng Jun Kiat.md
       - Mr Trevor Tay.md
