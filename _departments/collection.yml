@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English Department/Mr Perrin Singarayar.md
       - English Department/Mrs Danielle Low.md
       - English Department/Ms Heon Mak.md
       - English Department/Dr Edson Ng.md
