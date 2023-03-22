@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mr Bryan Chan.md
       - Ms Anna Loh Kai Suan.md
       - Mr Allen Lee.md
       - Ms Karine Teo.md
