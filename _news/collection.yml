@@ -2,6 +2,7 @@ collections:
   news:
     output: true
     order:
+      - Thank You, Mrs Wong – Our Tribute.md
       - STRONGER – Pre University Seminar 2021.md
       - "OH EUNOIA! #EunoiaHome – 15 Jan 2020.md"
       - Now This is What We Call Family.md
