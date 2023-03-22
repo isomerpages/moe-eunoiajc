@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Ms Yang Shu Hung.md
       - Mr Tay Theng Hwee.md
       - Arts Department/.keep
       - Arts Department/Arts.md
