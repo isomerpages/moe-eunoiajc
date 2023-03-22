@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Arts/Ms Rachel Lim.md
       - Arts/Mr Alson Yong.md
       - Arts/.keep
       - Ms Quek Jia Qi.md
