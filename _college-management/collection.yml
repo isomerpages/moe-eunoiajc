@@ -2,7 +2,6 @@ collections:
   college-management:
     output: true
     order:
-      - Mr Benjamin Liang.md
       - Mr Charles Cheak.md
       - Dr Chok Yew Keong.md
       - Mr Jared Goh.md
