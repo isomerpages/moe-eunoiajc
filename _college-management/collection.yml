@@ -2,7 +2,6 @@ collections:
   college-management:
     output: true
     order:
-      - Mr Justin Lee.md
       - Mr Kevin Tan.md
       - Ms Koh Han Yun.md
       - Mr Koh Siong Yang.md
