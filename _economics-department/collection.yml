@@ -2,7 +2,6 @@ collections:
   economics-department:
     output: true
     order:
-      - Ms Tan Liu Yin.md
       - Ms Loh Xin Min.md
       - Ms Elizabeth Chin.md
       - Mr Gary Fong.md
