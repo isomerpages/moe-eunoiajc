@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mr Perrin Singarayar.md
       - Mrs Danielle Low.md
       - Ms Heon Mak.md
       - Dr Edson Ng.md
