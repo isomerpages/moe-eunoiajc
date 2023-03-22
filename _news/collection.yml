@@ -2,6 +2,7 @@ collections:
   news:
     output: true
     order:
+      - Day One @ Eunoia.md
       - Eunoian of the Year – Nicolette Tan Wen Qi.md
       - Euphoria 2017 – From Race to Rave.md
       - Induction Day 2017 – Start Shining.md
