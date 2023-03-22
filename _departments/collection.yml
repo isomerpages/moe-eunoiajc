@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CMC/Mr Charles Cheak.md
       - CMC/Dr Chok Yew Keong.md
       - CMC/Mr Benjamin Liang.md
       - CMC/.keep
