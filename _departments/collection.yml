@@ -2,17 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Physical Education/.keep
-      - Physical Education/PE Department.md
-      - Physical Education/Mr Charles Cheak.md
-      - Physical Education/Mr George Danapal.md
-      - Physical Education/Ms Karine Teo.md
-      - Physical Education/Mr Allen Lee.md
-      - Physical Education/Ms Anna Loh Kai Suan.md
-      - Physical Education/Mr Bryan Chan.md
-      - Physical Education/Mr Ng Boon Hong.md
-      - Physical Education/Mr Ng Jun Kiat.md
-      - Physical Education/Mr Trevor Tay.md
       - Arts Department/.keep
       - Arts Department/Arts Department.md
       - Arts Department/Mr Justin Lee.md
@@ -65,6 +54,17 @@ collections:
       - College Management Committee/Ms Yang Shu Hung.md
       - Executive and Admin Staff/.keep
       - Executive and Admin Staff/Executive & Admin Staff.md
+      - Physical Education/.keep
+      - Physical Education/PE Department.md
+      - Physical Education/Mr Charles Cheak.md
+      - Physical Education/Mr George Danapal.md
+      - Physical Education/Ms Karine Teo.md
+      - Physical Education/Mr Allen Lee.md
+      - Physical Education/Ms Anna Loh Kai Suan.md
+      - Physical Education/Mr Bryan Chan.md
+      - Physical Education/Mr Ng Boon Hong.md
+      - Physical Education/Mr Ng Jun Kiat.md
+      - Physical Education/Mr Trevor Tay.md
       - English Department.md
       - Project Work Department.md
       - MTL Department.md
