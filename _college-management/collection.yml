@@ -2,7 +2,6 @@ collections:
   college-management:
     output: true
     order:
-      - Ms Stephanie Hua.md
       - Ms Tan Fangxi.md
       - Mr Tay Theng Hwee.md
       - Ms Yang Shu Hung.md
