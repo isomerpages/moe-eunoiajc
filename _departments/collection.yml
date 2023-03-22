@@ -2,14 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Project Work Department/Project Work Department.md
-      - Project Work Department/Ms Adrienne de Souza.md
-      - Project Work Department/Mr Omar Basri Sulaimir.md
-      - Project Work Department/Ms Iris Lee.md
-      - Project Work Department/Ms Rachel Yau.md
-      - Project Work Department/Mr Daniel Kwan.md
-      - Project Work Department/Ms Ng Lee Siah.md
-      - Project Work Department/.keep
       - Arts Department/.keep
       - Arts Department/Arts.md
       - Arts Department/Mr Justin Lee.md
@@ -111,6 +103,14 @@ collections:
       - PE Department/Mr Ng Boon Hong.md
       - PE Department/Mr Ng Jun Kiat.md
       - PE Department/Mr Trevor Tay.md
+      - Project Work Department/.keep
+      - Project Work Department/Project Work Department.md
+      - Project Work Department/Ms Adrienne de Souza.md
+      - Project Work Department/Mr Omar Basri Sulaimir.md
+      - Project Work Department/Ms Iris Lee.md
+      - Project Work Department/Ms Rachel Yau.md
+      - Project Work Department/Mr Daniel Kwan.md
+      - Project Work Department/Ms Ng Lee Siah.md
       - Mathematics Department.md
       - Science Department.md
       - Student Development Team.md
