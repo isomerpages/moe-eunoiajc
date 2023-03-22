@@ -22,9 +22,9 @@ sections:
           url: /culture/
       background: /images/Home_Banner2.png
   - resources:
-      title: Highlights
-      subtitle: Eunoia
-      button: View All
+      title: News
+      subtitle: Eunoia Junior College
+      button: Read More
   - infopic:
       title: JC1 Scholarship & Award Recipients 2022
       subtitle: NEWS
