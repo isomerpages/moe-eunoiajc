@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Project Work Department/Mr Daniel Kwan.md
       - Project Work Department/Ms Ng Lee Siah.md
       - Project Work Department/.keep
       - Ms Adrienne de Souza.md
