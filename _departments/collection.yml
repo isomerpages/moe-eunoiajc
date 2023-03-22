@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mrs Charlotte Lee.md
       - Ms Cham Bei Qing.md
       - Mr Perrin Singarayar.md
       - Mrs Danielle Low.md
