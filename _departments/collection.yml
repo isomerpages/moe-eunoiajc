@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English Department/Mr Crispin Rodrigues.md
       - English Department/Mrs Charlotte Lee.md
       - English Department/Ms Cham Bei Qing.md
       - English Department/Mr Perrin Singarayar.md
