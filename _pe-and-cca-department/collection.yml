@@ -2,7 +2,6 @@ collections:
   pe-and-cca-department:
     output: true
     order:
-      - Mr Allen Lee.md
       - Ms Anna Loh Kai Suan.md
       - Mr Bryan Chan.md
       - Mr Ng Boon Hong.md
