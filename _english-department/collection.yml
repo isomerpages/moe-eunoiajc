@@ -2,7 +2,6 @@ collections:
   english-department:
     output: true
     order:
-      - Ms Kajal Kaur Khaira.md
       - Ms Karol Ann Tan.md
       - Ms Ng Hui Qi.md
       - Ms Priyah Haritheertham.md
