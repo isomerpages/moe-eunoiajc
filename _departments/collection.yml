@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mrs Danielle Low.md
       - Ms Heon Mak.md
       - Dr Edson Ng.md
       - Ms Nadiah Razali.md
