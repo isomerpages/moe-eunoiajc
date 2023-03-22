@@ -2,6 +2,7 @@ collections:
   news:
     output: true
     order:
+      - A Beautiful Muse 2017 – Arts Showcase.md
       - City of Dreams – EJC Symphonic Band.md
       - Day One @ Eunoia.md
       - Eunoian of the Year – Nicolette Tan Wen Qi.md
