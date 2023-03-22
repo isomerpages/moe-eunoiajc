@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - PE Department/Ms Anna Loh Kai Suan.md
       - PE Department/Mr Allen Lee.md
       - PE Department/Ms Karine Teo.md
       - PE Department/Mr George Danapal.md
