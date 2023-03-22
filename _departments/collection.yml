@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mr Lee Ji Heng.md
       - Mr Justin Lee.md
       - Mr Azhar Amin.md
       - Mr Jared Goh.md
