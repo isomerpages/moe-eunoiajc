@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mr Benjamin Liang.md
       - Arts/.keep
       - Arts/Mr Justin Lee.md
       - Arts/Mr Jared Goh.md
