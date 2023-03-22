@@ -2,6 +2,7 @@ collections:
   news:
     output: true
     order:
+      - Let’s Go Community Mapping!.md
       - Learn Explore Discover – Unconference Day 2017.md
       - Launch of the Eunoia Junior College Anthem.md
       - Invest with Integrity – 2017 A Level PW Journey.md
