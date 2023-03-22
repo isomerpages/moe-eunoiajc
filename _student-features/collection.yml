@@ -2,6 +2,7 @@ collections:
   student-features:
     output: true
     order:
+      - JC2 Scholarship and Award Recipients 2019.md
       - JC2 Parent Teacher Meet 2018.md
       - JC1 Scholarship and Award Recipients 2019.md
       - JC1 Scholarship and Award Recipients 2021.md
