@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Programme MAGNITUDE.md
       - Programme LATITUDE.md
       - Talent Development Programme.md
       - Community Engagement Scholarship Programme.md
