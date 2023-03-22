@@ -1,5 +1,4 @@
 collections:
   science-department:
     output: true
-    order:
-      - Dr Chok Yew Keong.md
+    order: []
