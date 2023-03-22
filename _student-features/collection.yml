@@ -1,4 +1,5 @@
 collections:
   student-features:
     output: true
-    order: []
+    order:
+      - Celebrating Our First Class – Volume 2.md
