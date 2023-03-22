@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mr Rizal Abu Bakar.md
       - Mr Tan Zhen Yong Keith.md
       - Dr Wang Guangquan.md
       - Arts Department/.keep
