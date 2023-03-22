@@ -2,6 +2,20 @@ collections:
   departments:
     output: true
     order:
+      - Arts Department/.keep
+      - Arts Department/Mr Justin Lee.md
+      - Arts Department/Mr Jared Goh.md
+      - Arts Department/Dr Gooi Tah Choe.md
+      - Arts Department/Mr Fred Ong.md
+      - Arts Department/Mr Mahmood Fahmi Ahamed.md
+      - Arts Department/Mr Alson Yong.md
+      - Arts Department/Ms Low Sok Hui.md
+      - Arts Department/Mr Azhar Amin.md
+      - Arts Department/Ms Leong Wymin.md
+      - Arts Department/Ms Rachel Lim.md
+      - Arts Department/Mr Lee Ji Heng.md
+      - Arts Department/Ms Quek Jia Qi.md
+      - Economics Department/.keep
       - Economics Department/Mr Benjamin Liang.md
       - Economics Department/Ms Loh Xin Min.md
       - Economics Department/Mr Kevin Tan.md
@@ -16,7 +30,6 @@ collections:
       - Economics Department/Mr Peter Soh.md
       - Economics Department/Ms Serene Tan.md
       - Economics Department/Mrs Wee Chen Jinqi.md
-      - Economics Department/.keep
       - College Management Committee/.keep
       - College Management Committee/Ms Lynn Koh.md
       - College Management Committee/Ms Adrienne de Souza.md
@@ -36,19 +49,6 @@ collections:
       - College Management Committee/Ms Tan Fangxi.md
       - College Management Committee/Mr Tay Theng Hwee.md
       - College Management Committee/Ms Yang Shu Hung.md
-      - Arts Department/.keep
-      - Arts Department/Mr Justin Lee.md
-      - Arts Department/Mr Jared Goh.md
-      - Arts Department/Dr Gooi Tah Choe.md
-      - Arts Department/Mr Fred Ong.md
-      - Arts Department/Mr Mahmood Fahmi Ahamed.md
-      - Arts Department/Mr Alson Yong.md
-      - Arts Department/Ms Low Sok Hui.md
-      - Arts Department/Mr Azhar Amin.md
-      - Arts Department/Ms Leong Wymin.md
-      - Arts Department/Ms Rachel Lim.md
-      - Arts Department/Mr Lee Ji Heng.md
-      - Arts Department/Ms Quek Jia Qi.md
       - English Department.md
       - Project Work Department.md
       - MTL Department.md
