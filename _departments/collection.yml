@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Project Work Department/Mr Omar Basri Sulaimir.md
       - Project Work Department/Ms Iris Lee.md
       - Project Work Department/Ms Rachel Yau.md
       - Project Work Department/Mr Daniel Kwan.md
