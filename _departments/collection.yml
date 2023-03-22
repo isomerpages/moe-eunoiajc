@@ -2,12 +2,12 @@ collections:
   departments:
     output: true
     order:
+      - CMC/.keep
       - CMC/Ms Lynn Koh.md
       - CMC/Ms Adrienne de Souza.md
       - CMC/Mr Mohamad Amran Shah.md
       - CMC/Mr Alvin Toh.md
       - CMC/Mr Andrew Tan.md
-      - CMC/.keep
       - CMC/Mr Benjamin Liang.md
       - CMC/Mr Charles Cheak.md
       - CMC/Dr Chok Yew Keong.md
