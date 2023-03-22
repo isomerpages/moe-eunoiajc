@@ -2,6 +2,5 @@ collections:
   pe-and-cca-department:
     output: true
     order:
-      - Mr Ng Boon Hong.md
       - Mr Ng Jun Kiat.md
       - Mr Trevor Tay.md
