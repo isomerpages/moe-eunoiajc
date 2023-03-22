@@ -2,4 +2,5 @@ collections:
   news:
     output: true
     order:
+      - A Beautiful Muse 2017 – Arts Showcase.md
       - 2018 A Level Project Work Journey – Volume 1.md
