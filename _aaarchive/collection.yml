@@ -2,6 +2,7 @@ collections:
   aaarchive:
     output: true
     order:
+      - 2023 Appeals for JC1 Admission.md
       - 2022 Direct School Admission Exercise.md
       - Local Soul – Humanities & Aesthetics Week 2017.md
       - Induction Day 2017 – Start Shining.md
