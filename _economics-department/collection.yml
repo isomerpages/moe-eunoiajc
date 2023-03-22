@@ -2,5 +2,4 @@ collections:
   economics-department:
     output: true
     order:
-      - Ms Serene Tan.md
       - Mrs Wee Chen Jinqi.md
