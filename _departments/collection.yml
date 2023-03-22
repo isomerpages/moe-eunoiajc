@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Economics Department/Ms Lim Lyn Na.md
       - Economics Department/Mr Ma Mingwei.md
       - Economics Department/Mr Peter Soh.md
       - Economics Department/Ms Serene Tan.md
