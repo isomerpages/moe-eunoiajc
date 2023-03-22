@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Ms Stephanie Hua.md
       - Arts Department/.keep
       - Arts Department/Arts.md
       - Arts Department/Mr Justin Lee.md
