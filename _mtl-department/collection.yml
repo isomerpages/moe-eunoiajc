@@ -2,6 +2,5 @@ collections:
   mtl-department:
     output: true
     order:
-      - Mr Sun Xiaojun.md
       - Ms Nadira Md Sedik.md
       - Mrs Uma Thiruselvam.md
