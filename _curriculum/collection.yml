@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Sexuality Education.md
       - Subject Combinations.md
       - Stem Research Programmes.md
       - Programme ALTITUDE.md
