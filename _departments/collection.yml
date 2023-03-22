@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mr Ngiam Song Wee.md
       - Mr Robin Soh.md
       - Mr Gabriel Woon.md
       - Ms Diana Ma.md
