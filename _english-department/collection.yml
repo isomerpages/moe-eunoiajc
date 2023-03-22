@@ -2,5 +2,4 @@ collections:
   english-department:
     output: true
     order:
-      - Mr Samuel Wong.md
       - Mr Timothy Ng.md
