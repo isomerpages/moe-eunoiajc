@@ -1,5 +1,4 @@
 collections:
   pw-department:
     output: true
-    order:
-      - Ms Adrienne de Souza.md
+    order: []
