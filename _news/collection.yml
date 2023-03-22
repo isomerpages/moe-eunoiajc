@@ -2,6 +2,7 @@ collections:
   news:
     output: true
     order:
+      - Inspiring Teacher of English Award 2019.md
       - Graduation Day 2021 – Into a New World.md
       - Graduation Day 2020 – Dreaming with Courage.md
       - F!RST Pre–Opening Engagement Session.md
