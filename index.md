@@ -7,11 +7,19 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Orientation-2023_banner.jpg
       key_highlights:
-        - title: Cosmos
-          description: Orientation 2023
-          url: /highlights/2023/ori-2023/
+        - title: Instagram
+          description: Follow Us
+          url: https://www.instagram.com/eunoiajc
+        - title: Admissions
+          description: Prospective Students
+          url: /admissions/
+        - title: Curriculum
+          description: Subjects and Programmes
+          url: /curriculum
+        - title: Culture
+          description: Student Life
+          url: /culture/
   - resources:
       title: Highlights
       subtitle: Eunoia
