@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mr Allen Lee.md
       - Ms Karine Teo.md
       - Mr George Danapal.md
       - Mr Charles Cheak.md
