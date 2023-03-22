@@ -2,6 +2,7 @@ collections:
   media:
     output: true
     order:
+      - Library Services.md
       - Media.md
       - Press.md
       - Publications.md
