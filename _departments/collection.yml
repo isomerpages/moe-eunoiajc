@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Arts/Dr Gooi Tah Choe.md
       - Arts/Mr Fred Ong.md
       - Arts/Mr Jared Goh.md
       - Arts/Ms Low Sok Hui.md
