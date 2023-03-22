@@ -2,6 +2,7 @@ collections:
   news:
     output: true
     order:
+      - We Are Home – College Day 2021.md
       - Running for a Cause – Road Run 2017.md
       - Ready to Overcome – Spartan Challenge 2017.md
       - Thank You, Mrs Wong – Our Tribute.md
