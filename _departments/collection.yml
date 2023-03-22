@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mr Mohamad Amran Shah.md
       - CMC/.keep
       - CMC/Mr Benjamin Liang.md
       - CMC/Mr Charles Cheak.md
