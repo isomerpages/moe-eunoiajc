@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Ms Rachel Lim.md
       - Mr Alson Yong.md
       - Ms Quek Jia Qi.md
       - Ms Low Sok Hui.md
