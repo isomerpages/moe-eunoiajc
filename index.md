@@ -20,6 +20,7 @@ sections:
         - title: Culture
           description: Student Life
           url: /culture/
+      background: /images/Home_Banner2.png
   - resources:
       title: Highlights
       subtitle: Eunoia
