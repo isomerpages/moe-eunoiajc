@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mr Darren Chong.md
       - Mr Crispin Rodrigues.md
       - Mrs Charlotte Lee.md
       - Ms Cham Bei Qing.md
