@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Ms Quek Jia Qi.md
       - Ms Low Sok Hui.md
       - Ms Leong Wymin.md
       - Mr Mahmood Fahmi Ahamed.md
