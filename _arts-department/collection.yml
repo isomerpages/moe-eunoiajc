@@ -1,5 +1,4 @@
 collections:
   arts-department:
     output: true
-    order:
-      - Ms Quek Jia Qi.md
+    order: []
