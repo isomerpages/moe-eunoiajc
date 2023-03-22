@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Ms Karol Ann Tan.md
       - Ms Kajal Kaur Khaira.md
       - Mr Joshua Ng.md
       - Ms Elena Tan.md
