@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English Department/Mr Timothy Ng.md
       - English Department/Mr Samuel Wong.md
       - English Department/Ms Renuka Satianathan.md
       - English Department/Ms Priyah Haritheertham.md
