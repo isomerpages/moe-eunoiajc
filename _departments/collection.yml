@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mr Kevin Tan.md
       - Mr Justin Lee.md
       - Mr Jared Goh.md
       - Mr Charles Cheak.md
