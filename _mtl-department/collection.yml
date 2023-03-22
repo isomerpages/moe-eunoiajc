@@ -2,7 +2,6 @@ collections:
   mtl-department:
     output: true
     order:
-      - Mdm Chen Lili.md
       - Mr Chng Tsu Pang.md
       - Ms Lu Jing.md
       - Mdm Pan Qun.md
