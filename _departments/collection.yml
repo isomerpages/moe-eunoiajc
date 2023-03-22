@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Arts/Mr Fred Ong.md
       - Arts/Mr Jared Goh.md
       - Arts/Ms Low Sok Hui.md
       - Arts/Mr Lee Ji Heng.md
