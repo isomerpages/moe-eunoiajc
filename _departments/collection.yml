@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - PE Department/.keep
-      - PE Department/PE & CCA Department.md
+      - PE Department/PE Department.md
       - PE Department/Mr Charles Cheak.md
       - PE Department/Mr George Danapal.md
       - PE Department/Ms Karine Teo.md
