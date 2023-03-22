@@ -188,14 +188,3 @@ Teacher (Mathematics)
 </div>	
 [Mr Wong Jia Sheng](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mr-wong-jia-sheng/) <br>
 Teacher (Mathematics)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Maths-Berner-Poh_s.jpg" 
-    style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Mr Berner Poh</b>
-<br>
-Teacher (Mathematics)
