@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Special Programmes/.keep
-      - Special Programmes/Programme ALTITUDE.md
       - Special Programmes/Stem Research Programmes.md
