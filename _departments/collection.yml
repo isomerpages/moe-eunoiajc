@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Arts/Mr Justin Lee.md
       - Arts/Mr Azhar Amin.md
       - Arts/Ms Leong Wymin.md
       - Arts/Mr Mahmood Fahmi Ahamed.md
