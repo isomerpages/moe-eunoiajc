@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Ms Low Sok Hui.md
       - Ms Leong Wymin.md
       - Mr Mahmood Fahmi Ahamed.md
       - Mr Lee Ji Heng.md
