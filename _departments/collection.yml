@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English Department/Ms Priyah Haritheertham.md
       - English Department/Ms Ng Hui Qi.md
       - English Department/Ms Karol Ann Tan.md
       - English Department/Ms Kajal Kaur Khaira.md
