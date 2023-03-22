@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Project Work Department/.keep
       - Ms Adrienne de Souza.md
       - Mr Omar Basri Sulaimir.md
       - Ms Iris Lee.md
