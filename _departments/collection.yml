@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English Department/Ms Stephanie Hua.md
       - English Department/English Department.md
       - English Department/.keep
       - Mr Timothy Ng.md
