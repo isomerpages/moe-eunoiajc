@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Ms Stephanie Hua.md
       - Mr Marc Kenji Lim.md
       - Mr Koh Siong Yang.md
       - Ms Koh Han Yun.md
