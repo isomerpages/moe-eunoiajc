@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Economics Department/Mr Benjamin Liang.md
       - Economics Department/Ms Loh Xin Min.md
       - Economics Department/Mr Kevin Tan.md
       - Economics Department/Ms Koh Han Yun.md
