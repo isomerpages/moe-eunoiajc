@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Ms Tan Fangxi.md
       - Mr Benjamin Choo.md
       - Dr Chan Kim Seng.md
       - Mdm Tan Lingmin.md
