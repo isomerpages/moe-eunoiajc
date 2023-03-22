@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - PE Department/PE & CCA Department.md
       - PE Department/.keep
       - Mr Trevor Tay.md
       - Mr Ng Jun Kiat.md
