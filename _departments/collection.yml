@@ -2,6 +2,57 @@ collections:
   departments:
     output: true
     order:
+      - Arts Department/.keep
+      - Arts Department/Arts.md
+      - Arts Department/Mr Justin Lee.md
+      - Arts Department/Mr Jared Goh.md
+      - Arts Department/Dr Gooi Tah Choe.md
+      - Arts Department/Mr Fred Ong.md
+      - Arts Department/Mr Mahmood Fahmi Ahamed.md
+      - Arts Department/Mr Alson Yong.md
+      - Arts Department/Ms Low Sok Hui.md
+      - Arts Department/Mr Azhar Amin.md
+      - Arts Department/Ms Leong Wymin.md
+      - Arts Department/Ms Rachel Lim.md
+      - Arts Department/Mr Lee Ji Heng.md
+      - Arts Department/Ms Quek Jia Qi.md
+      - College Management Committee/.keep
+      - College Management Committee/College Management Committee.md
+      - College Management Committee/Mr Andrew Tan.md
+      - College Management Committee/Ms Lynn Koh.md
+      - College Management Committee/Mr Mohamad Amran Shah.md
+      - College Management Committee/Ms Adrienne de Souza.md
+      - College Management Committee/Mr Alvin Toh.md
+      - College Management Committee/Mr Benjamin Liang.md
+      - College Management Committee/Mr Charles Cheak.md
+      - College Management Committee/Dr Chok Yew Keong.md
+      - College Management Committee/Mr Kevin Tan.md
+      - College Management Committee/Ms Koh Han Yun.md
+      - College Management Committee/Mr Koh Siong Yang.md
+      - College Management Committee/Mr Jared Goh.md
+      - College Management Committee/Mr Justin Lee.md
+      - College Management Committee/Mr Marc Kenji Lim.md
+      - College Management Committee/Ms Stephanie Hua.md
+      - College Management Committee/Ms Tan Fangxi.md
+      - College Management Committee/Mr Tay Theng Hwee.md
+      - College Management Committee/Ms Yang Shu Hung.md
+      - Economics Department/.keep
+      - Economics Department/Economics.md
+      - Economics Department/Mr Benjamin Liang.md
+      - Economics Department/Mr Kevin Tan.md
+      - Economics Department/Ms Koh Han Yun.md
+      - Economics Department/Ms Tan Liu Yin.md
+      - Economics Department/Ms Loh Xin Min.md
+      - Economics Department/Ms Elizabeth Chin.md
+      - Economics Department/Mr Gary Fong.md
+      - Economics Department/Ms Juliana Wong.md
+      - Economics Department/Mr Kelvin Teo.md
+      - Economics Department/Ms Lim Lyn Na.md
+      - Economics Department/Mr Ma Mingwei.md
+      - Economics Department/Mr Peter Soh.md
+      - Economics Department/Ms Serene Tan.md
+      - Economics Department/Mrs Wee Chen Jinqi.md
+      - English Department/.keep
       - English Department/Mr Timothy Ng.md
       - English Department/Mr Samuel Wong.md
       - English Department/Ms Renuka Satianathan.md
@@ -25,57 +76,6 @@ collections:
       - English Department/Mr Marc Kenji Lim.md
       - English Department/Ms Stephanie Hua.md
       - English Department/English Department.md
-      - English Department/.keep
-      - Arts Department/.keep
-      - Arts Department/Arts.md
-      - Arts Department/Mr Justin Lee.md
-      - Arts Department/Mr Jared Goh.md
-      - Arts Department/Dr Gooi Tah Choe.md
-      - Arts Department/Mr Fred Ong.md
-      - Arts Department/Mr Mahmood Fahmi Ahamed.md
-      - Arts Department/Mr Alson Yong.md
-      - Arts Department/Ms Low Sok Hui.md
-      - Arts Department/Mr Azhar Amin.md
-      - Arts Department/Ms Leong Wymin.md
-      - Arts Department/Ms Rachel Lim.md
-      - Arts Department/Mr Lee Ji Heng.md
-      - Arts Department/Ms Quek Jia Qi.md
-      - Economics Department/.keep
-      - Economics Department/Economics.md
-      - Economics Department/Mr Benjamin Liang.md
-      - Economics Department/Mr Kevin Tan.md
-      - Economics Department/Ms Koh Han Yun.md
-      - Economics Department/Ms Tan Liu Yin.md
-      - Economics Department/Ms Loh Xin Min.md
-      - Economics Department/Ms Elizabeth Chin.md
-      - Economics Department/Mr Gary Fong.md
-      - Economics Department/Ms Juliana Wong.md
-      - Economics Department/Mr Kelvin Teo.md
-      - Economics Department/Ms Lim Lyn Na.md
-      - Economics Department/Mr Ma Mingwei.md
-      - Economics Department/Mr Peter Soh.md
-      - Economics Department/Ms Serene Tan.md
-      - Economics Department/Mrs Wee Chen Jinqi.md
-      - College Management Committee/.keep
-      - College Management Committee/College Management Committee.md
-      - College Management Committee/Mr Andrew Tan.md
-      - College Management Committee/Ms Lynn Koh.md
-      - College Management Committee/Mr Mohamad Amran Shah.md
-      - College Management Committee/Ms Adrienne de Souza.md
-      - College Management Committee/Mr Alvin Toh.md
-      - College Management Committee/Mr Benjamin Liang.md
-      - College Management Committee/Mr Charles Cheak.md
-      - College Management Committee/Dr Chok Yew Keong.md
-      - College Management Committee/Mr Kevin Tan.md
-      - College Management Committee/Ms Koh Han Yun.md
-      - College Management Committee/Mr Koh Siong Yang.md
-      - College Management Committee/Mr Jared Goh.md
-      - College Management Committee/Mr Justin Lee.md
-      - College Management Committee/Mr Marc Kenji Lim.md
-      - College Management Committee/Ms Stephanie Hua.md
-      - College Management Committee/Ms Tan Fangxi.md
-      - College Management Committee/Mr Tay Theng Hwee.md
-      - College Management Committee/Ms Yang Shu Hung.md
       - Executive and Admin Staff/.keep
       - Executive and Admin Staff/Executive and Admin Staff.md
       - PE Department/.keep
