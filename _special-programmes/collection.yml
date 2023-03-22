@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - MOE Special Programmes/.keep
-      - MOE Special Programmes/Music Elective Programme.md
       - Special Programmes/.keep
       - Special Programmes/Community Engagement Scholarship Programme.md
       - Special Programmes/Talent Development Programme.md
