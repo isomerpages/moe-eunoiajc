@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mr Jared Goh.md
       - Mr Charles Cheak.md
       - Dr Chok Yew Keong.md
       - Mr Benjamin Liang.md
