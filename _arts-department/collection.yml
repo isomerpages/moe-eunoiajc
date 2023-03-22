@@ -2,7 +2,6 @@ collections:
   arts-department:
     output: true
     order:
-      - Mr Jared Goh.md
       - Dr Gooi Tah Choe.md
       - Mr Alson Yong.md
       - Mr Mahmood Fahmi Ahamed.md
