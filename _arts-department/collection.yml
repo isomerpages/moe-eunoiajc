@@ -2,7 +2,6 @@ collections:
   arts-department:
     output: true
     order:
-      - Mr Alson Yong.md
       - Mr Mahmood Fahmi Ahamed.md
       - Mr Azhar Amin.md
       - Ms Low Sok Hui.md
