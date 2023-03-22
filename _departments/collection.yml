@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English Department/Ms Kajal Kaur Khaira.md
       - English Department/Mr Joshua Ng.md
       - English Department/Ms Elena Tan.md
       - English Department/Ms Eleanor Grace Wong.md
