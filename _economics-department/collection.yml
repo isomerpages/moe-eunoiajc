@@ -2,7 +2,6 @@ collections:
   economics-department:
     output: true
     order:
-      - Mr Kevin Tan.md
       - Ms Koh Han Yun.md
       - Ms Tan Liu Yin.md
       - Ms Loh Xin Min.md
