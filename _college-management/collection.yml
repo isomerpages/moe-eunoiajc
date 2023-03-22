@@ -2,7 +2,6 @@ collections:
   college-management:
     output: true
     order:
-      - Mr Mohamad Amran Shah.md
       - Ms Adrienne de Souza.md
       - Mr Alvin Toh.md
       - Mr Benjamin Liang.md
