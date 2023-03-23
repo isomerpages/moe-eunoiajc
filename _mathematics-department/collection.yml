@@ -1,5 +1,4 @@
 collections:
   mathematics-department:
     output: true
-    order:
-      - Mr Wong Jia Sheng.md
+    order: []
