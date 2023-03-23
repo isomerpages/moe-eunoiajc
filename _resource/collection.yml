@@ -1,5 +1,5 @@
 collections:
-  media:
+  resource:
     output: true
     order:
       - Library Services.md
