@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ### Eunoia Shining
 
 Eunoia Junior College congratulates our class of 2020 for their outstanding achievement at the 2020 GCE A-Level Examination. Coming from 63 secondary schools, their collective strength as one Eunoia allowed them to ignite new possibilities amidst the unprecedented challenges of 2020.
@@ -35,5 +34,3 @@ Dean of the 2020 JC2 cohort, Mrs Kellie Woo, shared, ‘The year 2020 had been a
 Principal, Mrs Wong-Cheang Mei Heng said, ‘As one Eunoia, we celebrate their holistic achievements, talent and contributions of the Class of 2020. They embraced our new campus with hope and a keen sense of determination to make the place a home for themselves and their juniors. We marvelled at the way they adjusted to the changes brought about by the pandemic with fortitude and good sense, emerging from it with greater sensitivity to what they value about learning and school life. Even as we celebrate their success at the A-Levels, and the opportunities their results afford them, they are ultimately not defined by their grades and certificates. We cherish the way the Class of 2020 supported one another, formed lifelong friendships, proved their resilience and left a legacy for their juniors to build on.’
 
 The growth of our Eunoians and the glories they have defined would not be possible without the dedication and support of teachers, non-teaching staff, parents, College Advisory Committee and Joint Integrated Programme partner schools. To the Class of 2020, as Eunoians evermore, may you grow in purpose, heart and courage. We look forward to hearing your voices soar, once more.
-
-###### PHOTOS BY EJC MEDIA
