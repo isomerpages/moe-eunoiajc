@@ -2,25 +2,6 @@ collections:
   people:
     output: true
     order:
-      - Mathematics Department/Mathematics Department.md
-      - Mathematics Department/Mr Alvin Toh.md
-      - Mathematics Department/Mr Barry Chia.md
-      - Mathematics Department/Mr Lim Yin.md
-      - Mathematics Department/Mr Alex Teo.md
-      - Mathematics Department/Mr Chen Jinquan.md
-      - Mathematics Department/Mr Chng Xian Yi.md
-      - Mathematics Department/Mr Chu Wee Yong.md
-      - Mathematics Department/Ms Clarice Chan.md
-      - Mathematics Department/Mr Chua Jian Rong.md
-      - Mathematics Department/Mr Kuang Kim Chun.md
-      - Mathematics Department/Mr Lee Boon Ann.md
-      - Mathematics Department/Ms Lee Ngern Sim.md
-      - Mathematics Department/Ms Lim Yen Chui.md
-      - Mathematics Department/Ms Ng Yixin.md
-      - Mathematics Department/Mrs Ng Phoon Lai Yong.md
-      - Mathematics Department/Mr Tan Khoon Han.md
-      - Mathematics Department/Mr Wong Jia Sheng.md
-      - Mathematics Department/.keep
       - Arts Department/.keep
       - Arts Department/Arts.md
       - Arts Department/Mr Justin Lee.md
@@ -97,6 +78,25 @@ collections:
       - English Department/Mr Timothy Ng.md
       - Executive and Admin Staff/.keep
       - Executive and Admin Staff/Executive and Admin Staff.md
+      - Mathematics Department/.keep
+      - Mathematics Department/Mathematics Department.md
+      - Mathematics Department/Mr Alvin Toh.md
+      - Mathematics Department/Mr Barry Chia.md
+      - Mathematics Department/Mr Lim Yin.md
+      - Mathematics Department/Mr Alex Teo.md
+      - Mathematics Department/Mr Chen Jinquan.md
+      - Mathematics Department/Mr Chng Xian Yi.md
+      - Mathematics Department/Mr Chu Wee Yong.md
+      - Mathematics Department/Ms Clarice Chan.md
+      - Mathematics Department/Mr Chua Jian Rong.md
+      - Mathematics Department/Mr Kuang Kim Chun.md
+      - Mathematics Department/Mr Lee Boon Ann.md
+      - Mathematics Department/Ms Lee Ngern Sim.md
+      - Mathematics Department/Ms Lim Yen Chui.md
+      - Mathematics Department/Ms Ng Yixin.md
+      - Mathematics Department/Mrs Ng Phoon Lai Yong.md
+      - Mathematics Department/Mr Tan Khoon Han.md
+      - Mathematics Department/Mr Wong Jia Sheng.md
       - Mother Tongue Department/.keep
       - Mother Tongue Department/MTL Department.md
       - Mother Tongue Department/Mr Tay Theng Hwee.md
