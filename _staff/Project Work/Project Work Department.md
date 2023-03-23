@@ -4,11 +4,9 @@ permalink: /about/staff/pw/
 description: ""
 third_nav_title: Project Work
 ---
-
-
 <div>  
 <div style="float: left">  
-<img src="/images/PW-Adrienne-de-Souza_s.jpg" 
+<img src="/images/Staff/PW-Adrienne-de-Souza_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -18,7 +16,7 @@ HOD (Project Work & Flagship Programmes)
 
 <div>  
 <div style="float: left">  
-<img src="/images/PW_OmarBasri_s.jpg" 
+<img src="/images/Staff/PW_OmarBasri_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -28,7 +26,7 @@ Deputy Head (Project Work)
 
 <div>  
 <div style="float: left">  
-<img src="/images/PW-Iris-Lee_s-2.jpg" 
+<img src="/images/Staff/PW-Iris-Lee_s-2.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -38,7 +36,7 @@ Deputy Head (Character & Citizenship Education)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Rachel-Yau_s.jpg" 
+<img src="/images/Staff/Sci-Rachel-Yau_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -48,7 +46,7 @@ Deputy Head (ICT)
 
 <div>  
 <div style="float: left">  
-<img src="/images/PW_DanielKwan_s.jpg" 
+<img src="/images/Staff/PW_DanielKwan_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -58,7 +56,7 @@ Teacher (Project Work)
 
 <div>  
 <div style="float: left">  
-<img src="/images/EL-Joanne-Lee_s.jpg" 
+<img src="/images/Staff/EL-Joanne-Lee_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -69,7 +67,7 @@ Teacher (Project Work)
 
 <div>  
 <div style="float: left">  
-<img src="/images/PW-Ng-Lee-Siah_s.jpg" 
+<img src="/images/Staff/PW-Ng-Lee-Siah_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -79,7 +77,7 @@ Teacher (Project Work)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Vivien-Ng_s.jpg" 
+<img src="/images/Staff/Sci-Vivien-Ng_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
