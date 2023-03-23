@@ -2,7 +2,6 @@ collections:
   mathematics-department:
     output: true
     order:
-      - Ms Clarice Chan.md
       - Mr Chua Jian Rong.md
       - Mr Kuang Kim Chun.md
       - Mr Lee Boon Ann.md
