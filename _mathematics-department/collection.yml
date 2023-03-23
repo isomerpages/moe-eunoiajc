@@ -2,7 +2,6 @@ collections:
   mathematics-department:
     output: true
     order:
-      - Mr Lim Yin.md
       - Ms Ng Yixin.md
       - Mrs Ng Phoon Lai Yong.md
       - Mr Tan Khoon Han.md
