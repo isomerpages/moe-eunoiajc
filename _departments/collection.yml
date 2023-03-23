@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science Department/Mdm Liu Shuyu.md
       - Science Department/Mr Ong Wee Yong.md
       - Science Department/Mr Rizal Abu Bakar.md
       - Science Department/Mr Tan Zhen Yong Keith.md
