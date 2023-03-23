@@ -1,5 +1,5 @@
 collections:
-  people:
+  staff:
     output: true
     order:
       - Arts Department/.keep
