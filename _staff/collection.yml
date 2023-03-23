@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Arts Department/.keep
-      - Arts Department/Arts.md
+      - Arts Department/Arts Department.md
       - Arts Department/Mr Justin Lee.md
       - Arts Department/Mr Jared Goh.md
       - Arts Department/Dr Gooi Tah Choe.md
