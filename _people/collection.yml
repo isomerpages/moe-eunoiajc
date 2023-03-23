@@ -2,6 +2,7 @@ collections:
   people:
     output: true
     order:
+      - Mrs Ng Phoon Lai Yong.md
       - Ms Ng Yixin.md
       - Mr Lim Yin.md
       - Ms Lim Yen Chui.md
