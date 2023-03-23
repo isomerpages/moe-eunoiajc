@@ -4,15 +4,9 @@ permalink: /about/staff/pe/
 description: ""
 third_nav_title: Physical Education
 ---
-
-
-
-
-
-
 <div>  
 <div style="float: left">  
-<img src="/images/PE-Charles-Cheak_s-1.jpg" 
+<img src="/images/Staff/PE-Charles-Cheak_s-1.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -23,7 +17,7 @@ HOD (PE & CCA)
 
 <div>  
 <div style="float: left">  
-<img src="/images/PE-George-Danapal_s.jpg" 
+<img src="/images/Staff/PE-George-Danapal_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -34,7 +28,7 @@ Deputy Head (CCA)
 
 <div>  
 <div style="float: left">  
-<img src="/images/PE-Karine-Teo_s.jpg" 
+<img src="/images/Staff/PE-Karine-Teo_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -45,7 +39,7 @@ Deputy Dean (JC2)
 
 <div>  
 <div style="float: left">  
-<img src="/images/PE-Allen-Lee_s.jpg" 
+<img src="/images/Staff/PE-Allen-Lee_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -56,7 +50,7 @@ Teacher (Physical Education)
 
 <div>  
 <div style="float: left">  
-<img src="/images/PE-Loh-Kai-Suan_s2.jpg" 
+<img src="/images/Staff/PE-Loh-Kai-Suan_s2.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -67,7 +61,7 @@ Teacher (Physical Education)
 
 <div>  
 <div style="float: left">  
-<img src="/images/PE-Bryan-Chan_s.jpg" 
+<img src="/images/Staff/PE-Bryan-Chan_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -78,7 +72,7 @@ Teacher (Physical Education)
 
 <div>  
 <div style="float: left">  
-<img src="/images/PE-Ng-Boon-Hong_s.jpg" 
+<img src="/images/Staff/PE-Ng-Boon-Hong_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -89,7 +83,7 @@ Teacher (Physical Education)
 
 <div>  
 <div style="float: left">  
-<img src="/images/PE-Ng-Jun-Kiat_s.jpg" 
+<img src="/images/Staff/PE-Ng-Jun-Kiat_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -100,7 +94,7 @@ Teacher (Physical Education)
 
 <div>  
 <div style="float: left">  
-<img src="/images/PE-Trevor-Tay_s-1.jpg" 
+<img src="/images/Staff/PE-Trevor-Tay_s-1.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
