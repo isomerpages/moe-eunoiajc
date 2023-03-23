@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 Eunoia Junior College congratulates our class of 2022 for their well-deserved achievement at the 2022 Singapore-Cambridge GCE A-Level Examination. Enduring and thriving in two years of constant change, the class of 2022 have shown character, heart and mind throughout their Eunoia journey.
 
 The college is proud of all 658 Eunoians who sat the 2022 GCE A-Level Examination. The cohort achieved a median University Admission Score (UAS) of 85 rank points and a mean UAS of 82.2 rank points. About 5 in 10 students garnered 85 rank points or more. 4 in 10 Eunoians scored at least 3 H2 distinctions, with 2 in 10 Eunoians attaining 6 distinctions or more.
