@@ -3,12 +3,9 @@ title: Executive and Admin Staff
 permalink: /about/staff/eas/
 description: ""
 ---
-
-
-
 <div>  
 <div style="float: left">  
-<img src="/images/cmc-erni-suriyani_s%20(1).jpg" 
+<img src="/images/Staff/cmc-erni-suriyani_s%20(1).jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -19,7 +16,7 @@ Administration Manager
 
 <div>  
 <div style="float: left">  
-<img src="/images/EAS-SherilynAng_s%20(1).jpg" 
+<img src="/images/Staff/EAS-SherilynAng_s%20(1).jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -30,7 +27,7 @@ Administration Manager
 
 <div>  
 <div style="float: left">  
-<img src="/images/EAS-Lina_s.jpg" 
+<img src="/images/Staff/EAS-Lina_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -41,7 +38,7 @@ Administrative Executive
 
 <div>  
 <div style="float: left">  
-<img src="/images/EAS-Mageswari_s.jpg" 
+<img src="/images/Staff/EAS-Mageswari_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -52,7 +49,7 @@ Management Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/EAS-Rahimah_s.jpg" 
+<img src="/images/Staff/EAS-Rahimah_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -63,7 +60,7 @@ Management Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/EAS-Hafilah_s.jpg" 
+<img src="/images/Staff/EAS-Hafilah_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -74,7 +71,7 @@ Management Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/EAS-Hani_s.jpg" 
+<img src="/images/Staff/EAS-Hani_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -85,7 +82,7 @@ Customer Service Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/Tan-Heng-Keng_s.jpg" 
+<img src="/images/Staff/Tan-Heng-Keng_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -96,7 +93,7 @@ Operations Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/aslinah_s.jpg" 
+<img src="/images/Staff/aslinah_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -107,7 +104,7 @@ Operations Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/awtecklee_s.jpg" 
+<img src="/images/Staff/awtecklee_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -118,7 +115,7 @@ Operations Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/jamal_s.jpg" 
+<img src="/images/Staff/jamal_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -129,7 +126,7 @@ Operations Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/EAS-Sim-Puay-Hee_s.jpg" 
+<img src="/images/Staff/EAS-Sim-Puay-Hee_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -140,7 +137,7 @@ Operations Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/siswandy_s.jpg" 
+<img src="/images/Staff/siswandy_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -151,7 +148,7 @@ Operations Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/Suriyati_s.jpg" 
+<img src="/images/Staff/Suriyati_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -162,18 +159,7 @@ Operations Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/Tan-Hong-Beng_s.jpg" 
-    style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Mdm Tan Hong Beng</b>
-<br>
-Operations Support Officer
-
-<div>  
-<div style="float: left">  
-<img src="/images/Jothi_s%20(1).jpg" 
+<img src="/images/Staff/Jothi_s%20(1).jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -184,7 +170,7 @@ ICT Manager
 
 <div>  
 <div style="float: left">  
-<img src="/images/kent_s%20(1).jpg" 
+<img src="/images/Staff/kent_s%20(1).jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -195,7 +181,7 @@ ICT Manager
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff-Profile.png" 
+<img src="/images/Staff/Staff-Profile.png" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -206,7 +192,7 @@ Desktop Engineer
 
 <div>  
 <div style="float: left">  
-<img src="/images/rohaya_s%20(1).jpg" 
+<img src="/images/Staff/rohaya_s%20(1).jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -217,7 +203,7 @@ Librarian
 
 <div>  
 <div style="float: left">  
-<img src="/images/zalina_s%20(1).jpg" 
+<img src="/images/Staff/zalina_s%20(1).jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -228,7 +214,7 @@ Librarian Assistant
 
 <div>  
 <div style="float: left">  
-<img src="/images/EAS-Francis-Tan_s.jpg" 
+<img src="/images/Staff/EAS-Francis-Tan_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -239,7 +225,7 @@ Technical Support Officer (SLT)
 
 <div>  
 <div style="float: left">  
-<img src="/images/EAS-Koh-Hui-Min_s.jpg" 
+<img src="/images/Staff/EAS-Koh-Hui-Min_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -250,7 +236,7 @@ Technical Support Officer (SLT)
 
 <div>  
 <div style="float: left">  
-<img src="/images/EAS-Iffah_s.jpg" 
+<img src="/images/Staff/EAS-Iffah_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -261,7 +247,7 @@ Technical Support Officer (SLT)
 
 <div>  
 <div style="float: left">  
-<img src="/images/EAS-Miza_s.jpg" 
+<img src="/images/Staff/EAS-Miza_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -272,7 +258,7 @@ Technical Support Officer (SLT)
 
 <div>  
 <div style="float: left">  
-<img src="/images/LayHwa_s.jpg" 
+<img src="/images/Staff/LayHwa_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
