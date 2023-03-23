@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science Department/Mr Benjamin Choo.md
       - Science Department/Dr Chan Kim Seng.md
       - Science Department/Mdm Tan Lingmin.md
       - Science Department/Mr Ngiam Song Wee.md
