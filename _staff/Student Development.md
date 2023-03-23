@@ -3,10 +3,9 @@ title: Student Development
 permalink: /about/staff/sd/
 description: ""
 ---
-
 <div>  
 <div style="float: left">  
-<img src="/images/SD-Joanna-Lee_s.jpg" 
+<img src="/images/Staff/SD-Joanna-Lee_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -17,7 +16,7 @@ ECG Counsellor
 
 <div>  
 <div style="float: left">  
-<img src="/images/SD-Jasmine-Ng_s.jpg" 
+<img src="/images/Staff/SD-Jasmine-Ng_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -28,7 +27,7 @@ School Counsellor
 
 <div>  
 <div style="float: left">  
-<img src="/images/MTL-Yang-Shu-Hung_s%20(1).jpg" 
+<img src="/images/Staff/MTL-Yang-Shu-Hung_s%20(1).jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -39,7 +38,7 @@ Dean (JC1)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Arts-Jared-Goh_s%20(1).jpg" 
+<img src="/images/Staff/Arts-Jared-Goh_s%20(1).jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -50,7 +49,7 @@ Dean (JC2)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Zulaiha-Said_s%20(1).jpg" 
+<img src="/images/Staff/Sci-Zulaiha-Said_s%20(1).jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -61,7 +60,7 @@ Deputy Dean (JC1)
 
 <div>  
 <div style="float: left">  
-<img src="/images/PE-Karine-Teo_s%20(1).jpg" 
+<img src="/images/Staff/PE-Karine-Teo_s%20(1).jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -72,7 +71,7 @@ Deputy Dean (JC2)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Gabriel-Woon_s%20(1).jpg" 
+<img src="/images/Staff/Sci-Gabriel-Woon_s%20(1).jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -83,7 +82,7 @@ Teacher (Biology)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Tan-Fangxi_s%20(1).jpg" 
+<img src="/images/Staff/Sci-Tan-Fangxi_s%20(1).jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -94,7 +93,7 @@ HOD (Character & Citizenship Education)
 
 <div>  
 <div style="float: left">  
-<img src="/images/PE-Charles-Cheak_s-1%20(1).jpg" 
+<img src="/images/Staff/PE-Charles-Cheak_s-1%20(1).jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -105,7 +104,7 @@ HOD (PE & CCA)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Econs_KohHanYun_s%20(1).jpg" 
+<img src="/images/Staff/Econs_KohHanYun_s%20(1).jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -116,7 +115,7 @@ HOD (Student Leadership & Talent Management)
 
 <div>  
 <div style="float: left">  
-<img src="/images/PE-George-Danapal_s%20(1).jpg" 
+<img src="/images/Staff/PE-George-Danapal_s%20(1).jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -127,7 +126,7 @@ Deputy Head (CCA)
 
 <div>  
 <div style="float: left">  
-<img src="/images/PW-Iris-Lee_s-2%20(1).jpg" 
+<img src="/images/Staff/PW-Iris-Lee_s-2%20(1).jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -138,7 +137,7 @@ Deputy Head (Character & Citizenship Education)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Suellen-Goh_s%20(1).jpg" 
+<img src="/images/Staff/Sci-Suellen-Goh_s%20(1).jpg" 
     style="width:50%">
 </div>  
 <div></div>  
