@@ -11,19 +11,18 @@ sections:
         - title: Instagram
           description: Follow Us
           url: https://www.instagram.com/eunoiajc
-        - title: Admissions
-          description: Prospective Students
-          url: /admissions/
-        - title: Curriculum
-          description: Subjects and Programmes
-          url: /curriculum
-        - title: Culture
-          description: Student Life
-          url: /culture/
+        - title: A-Level Results
+          description: Read More
+          url: /news/2023/results
+        - title: Class of 2022
+          description: Student Features
+          url: /news/
+        - title: Open House
+          description: Online Showcase
+          url: https://www.oheunoia.com
       background: /images/Home_Banner2.png
   - resources:
       title: News
-      subtitle: Eunoia Junior College
       button: Read More
   - infopic:
       title: JC1 Scholarship & Award Recipients 2022
