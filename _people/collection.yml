@@ -2,6 +2,7 @@ collections:
   people:
     output: true
     order:
+      - Mr Chu Wee Yong.md
       - Mr Chng Xian Yi.md
       - Mr Chen Jinquan.md
       - Mr Alex Teo.md
