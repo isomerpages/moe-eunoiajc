@@ -4,11 +4,9 @@ permalink: /about/staff/mtl/
 description: ""
 third_nav_title: Mother Tongue Department
 ---
-
-
 <div>  
 <div style="float: left">  
-<img src="/images/HOD-Tay-Theng-Hwee_s2.jpg" 
+<img src="/images/Staff/HOD-Tay-Theng-Hwee_s2.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -18,7 +16,7 @@ HOD (Mother Tongue Languages & BSP)
 
 <div>  
 <div style="float: left">  
-<img src="/images/MTL-Yang-Shu-Hung_s.jpg" 
+<img src="/images/Staff/MTL-Yang-Shu-Hung_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -28,7 +26,7 @@ Dean (JC2)
 
 <div>  
 <div style="float: left">  
-<img src="/images/MTL-Ng-Lai-Sze_s.jpg" 
+<img src="/images/Staff/MTL-Ng-Lai-Sze_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -38,18 +36,18 @@ Deputy Head (Mother Tongue Languages)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff-Profile%20(1).png" 
+<img src="/images/Staff/Staff-Profile%20(1).png" 
     style="width:50%">
 </div>  
 <div></div>  
 </div>	
-<b>Mdm Elavarasi Sundararaju</b>
+[Mdm Elavarasi Sundararaju] (https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/)</b>
 <br>
 Lead Teacher (Character & Citizenship Education)
 
 <div>  
 <div style="float: left">  
-<img src="/images/MTL-Cao-Jiandong_s2.jpg" 
+<img src="/images/Staff/MTL-Cao-Jiandong_s2.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -59,7 +57,7 @@ Senior Teacher (Chinese Language)
 
 <div>  
 <div style="float: left">  
-<img src="/images/MTL-Cao-Xinxin_s.jpg" 
+<img src="/images/Staff/MTL-Cao-Xinxin_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -69,7 +67,7 @@ Teacher (Chinese Language)
 
 <div>  
 <div style="float: left">  
-<img src="/images/MTL-Chen-Lili_s.jpg" 
+<img src="/images/Staff/MTL-Chen-Lili_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -79,7 +77,7 @@ Teacher (Chinese Language)
 
 <div>  
 <div style="float: left">  
-<img src="/images/MTL-Chng-Tsu-Pang_s.jpg" 
+<img src="/images/Staff/MTL-Chng-Tsu-Pang_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -89,18 +87,17 @@ Teacher (Chinese Language)
 
 <div>  
 <div style="float: left">  
-<img src="/images/MTL-Lim-Tian-Min_s.jpg" 
+<img src="/images/Staff/MTL-Lim-Tian-Min_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
 </div>	
-<b>Mdm Lim Tian Min</b>
-<br>
+[Mdm Lim Tian Min](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/)<br>
 Teacher (Chinese Language)
 
 <div>  
 <div style="float: left">  
-<img src="/images/MTL-Lu-Jing_s.jpg" 
+<img src="/images/Staff/MTL-Lu-Jing_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -110,7 +107,7 @@ Teacher (Chinese Language)
 
 <div>  
 <div style="float: left">  
-<img src="/images/MTL-Pan-Qun_s.jpg" 
+<img src="/images/Staff/MTL-Pan-Qun_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -120,7 +117,7 @@ Teacher (China Studies in Chinese)
 
 <div>  
 <div style="float: left">  
-<img src="/images/MTL-Sun-Xiaojun_s.jpg" 
+<img src="/images/Staff/MTL-Sun-Xiaojun_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -130,7 +127,7 @@ Teacher (China Studies in Chinese)
 
 <div>  
 <div style="float: left">  
-<img src="/images/MTL-Nadira_s-1.jpg" 
+<img src="/images/Staff/MTL-Nadira_s-1.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -140,7 +137,7 @@ Teacher (Malay Language)
 
 <div>  
 <div style="float: left">  
-<img src="/images/MTL-Uma-Thiru_s.jpg" 
+<img src="/images/Staff/MTL-Uma-Thiru_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
