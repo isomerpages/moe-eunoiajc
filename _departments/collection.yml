@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science Department/Ms Jacintha Huang.md
       - Science Department/Ms Suellen Goh.md
       - Science Department/Ms Zulaiha Said.md
       - Science Department/Mr Chan Ter Yue.md
