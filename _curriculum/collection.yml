@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Special Programmes/Programme MAGNITUDE.md
       - Special Programmes/Stem Research Programmes.md
       - Special Programmes/.keep
       - Flagship Programmes/Flagship Programmes.md
