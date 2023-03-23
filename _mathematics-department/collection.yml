@@ -2,7 +2,6 @@ collections:
   mathematics-department:
     output: true
     order:
-      - Mr Chua Jian Rong.md
       - Mr Kuang Kim Chun.md
       - Mr Lee Boon Ann.md
       - Ms Lee Ngern Sim.md
