@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science Department/Ms Diana Ma.md
       - Science Department/Mr Enoch Tang.md
       - Science Department/Ms Jacintha Huang.md
       - Science Department/Ms Suellen Goh.md
