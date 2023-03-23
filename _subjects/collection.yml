@@ -1,5 +1,5 @@
 collections:
-  academic-subjects:
+  subjects:
     output: true
     order:
       - Knowledge Skills/.keep
