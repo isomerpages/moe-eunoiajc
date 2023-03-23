@@ -2,6 +2,7 @@ collections:
   people:
     output: true
     order:
+      - Mr Lee Boon Ann.md
       - Mr Kuang Kim Chun.md
       - Mr Chua Jian Rong.md
       - Ms Clarice Chan.md
