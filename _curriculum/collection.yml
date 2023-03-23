@@ -2,6 +2,9 @@ collections:
   curriculum:
     output: true
     order:
+      - Curriculum.md
+      - Subject Combinations.md
+      - Special Programmes/.keep
       - Special Programmes/Special Programmes.md
       - Special Programmes/Bicultural Studies Programme.md
       - Special Programmes/Humanities Scholarship and Programme.md
@@ -11,14 +14,11 @@ collections:
       - Special Programmes/Programme LATITUDE.md
       - Special Programmes/Programme MAGNITUDE.md
       - Special Programmes/Stem Research Programmes.md
-      - Special Programmes/.keep
+      - Flagship Programmes/.keep
       - Flagship Programmes/Flagship Programmes.md
       - Flagship Programmes/Talent Development Programme.md
       - Flagship Programmes/Life Coaching Programme.md
       - Flagship Programmes/Passion Pursuit.md
       - Flagship Programmes/World Readiness Programme.md
-      - Flagship Programmes/.keep
       - Teaching and Learning Philosophy.md
       - Sexuality Education.md
-      - Subject Combinations.md
-      - Curriculum.md
