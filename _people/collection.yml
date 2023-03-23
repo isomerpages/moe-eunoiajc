@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Mathematics Department/.keep
-      - Mr Wong Jia Sheng.md
       - Mr Tan Khoon Han.md
       - Mrs Ng Phoon Lai Yong.md
       - Ms Ng Yixin.md
