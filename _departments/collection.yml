@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science Department/Ms Emeline Choo.md
       - Science Department/Ms Lu Huiping.md
       - Science Department/Ms Ng Siow Ying.md
       - Science Department/Ms Chan Xin Yu.md
