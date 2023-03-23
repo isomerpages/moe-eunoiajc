@@ -10,6 +10,8 @@ The Class of 2022 demonstrated how our dreams can take flight when we pursue our
 
 Read more stories about the Class of 2022 in [Vol 2](https://eunoiajc.moe.edu.sg/news/2023/class2/), [Vol 3](https://eunoiajc.moe.edu.sg/news/2023/class3/) and [Vol 4](https://eunoiajc.moe.edu.sg/news/2023/class4/).
 
+<br>
+
 ![Angelica Koh](/images/2022%20Angelica%20Koh.jpg)
 
 A recipient of the MOE Pre-University Scholarship, **Angelica Koh Jia Qi (21-A4)** has also been involved in many college-wide programmes and activities, serving as Vice President of Symphonic Band and contributing to greater awareness of mental well-being through the GLIDE Project, Beautiful Minds.
@@ -29,7 +31,7 @@ Personally, the most meaningful part of my EJ journey would be being able to lea
 
 Make the most out of your JC life; 2 years will fly by before you know it! There are many opportunities provided and I hope you hop at these opportunities to develop and grow yourself outside the classroom. Always remain curious and never stop learning! Live boldly!
 
-
+<br><br>
 
 ![](/images/2022%20Yap%20Jing%20Yee.jpg)
 
@@ -53,6 +55,7 @@ Live in the present and cherish the moments! Apart from the rigour of JC life, t
 
 So enjoy the process and curate your own unique experience here in Eunoia!
 
+<br><br>
 
 ![](/images/2022%20Long%20Wen%20Xi.jpg)
 
@@ -81,3 +84,27 @@ I had a lot of meaningful experiences in Eunoia, but one of the most significant
 It may seem quite cliche, but I think I would tell them to always stay true to themselves and their values. In difficult situations, it’s more important to make decisions that resonate with what we believe in. Even if things don’t always turn out the way that we want, and we face challenges, it helps if we are our most authentic and genuine selves.
 
 I guess another piece of advice I would give is to be more forgiving to yourself. There is always space to make mistakes and to grow from such experiences. It is these lived experiences that give us that much more depth and authenticity as humans.
+
+<br><br>
+
+![](/images/2022%20Taia%20Pang.jpg)
+
+For **Taia Pang (21-E3)**, her love and passion for Netball drove her to join EJC. An experienced senior to her juniors and and a key pillar of support to her peers, she guided and motivated her teammates throughout the competition season. Besides her commitment to sports, she also contributed as part of the 5th Student Council Executive Committee. Keen to take on academic challenges too, she took on H3 Chemistry to further her interest in the subject.
+
+###### HOW DO YOU FEEL ABOUT YOUR RESULTS AND WHY? WHAT ARE YOU GRATEFUL FOR?
+
+I am very happy and grateful for my results because it is a good result, and the subjects that I was worried about came out well in the end. I am also very grateful for my teachers because they went out of the way to help me during my EJ journey, especially when I had to take two months of MC from the Mid-Year Exams to almost before the Preliminary Exams. Besides ensuring that I was not falling behind in my studies, my teachers also checked in to make sure that I was recovering and coping well. Another thing I am grateful for is my friends. Their various small acts of kindness, such as preparing an exam care pack or saying kind words when they notice I am feeling down, really helped me through JC.
+
+###### WHAT WAS A SPECIFIC CHALLENGE OR 'LOW POINT'? HOW DID YOU OVERCOME IT?
+
+I think one 'low point' was definitely when I got injured one week before Netball NSG. One of the main reasons why I chose EJ was to play with the netball team here. Sustaining an injury that took me out of play after we could finally compete when the COVID restrictions were eased really made me feel very disappointed. I overcame this low point with the help of my friends. They really encouraged me during that period of intense disappointment, and I am thankful for their continued support, particularly since the recovery period for my injury took up to a year. I also came to terms with the fact that I could still contribute to my team on the sidelines by guiding them or pointing out certain mistakes so that they can improve their gameplay.
+
+###### WHAT WAS THE MOST MEANINGFUL PART OF YOUR JOURNEY IN EUNOIA?
+
+I think that the most meaningful part of my journey would be being a part of the Student Council (SC). SC has really taught me a lot and it enabled me to work with different people that I would otherwise have never interacted with. I also think that being part of SC helped me to shape other Eunoians’ #WhyEJ, and being able to have such a positive influence has been very fulfilling. Through SC, I have made a lot of memories and friends, while also being able to leave my mark on the culture of EJ.
+
+###### WHAT WORDS OF ADVICE OR ENCOURAGEMENT WOULD YOU LIKE TO SHARE WITH YOUR JUNIORS?
+
+For the J1s, it might be a daunting and new environment but I would encourage you to not be afraid and step out of your comfort zones. In JC, time may seem to be very short but the experiences are very intense and it is also here that the best friendships are forged, so do take a leap of faith and go forth!
+
+For the J2s, it might seem like the A-Levels are coming very soon even though you are not ready yet, but I think that one saying that got me through J2 is 'trust the process'. Your results during the MYEs or Prelims might be shocking (in a bad way), but never lose hope and keep putting in your best effort. Ultimately, your hard work will definitely pay off!
