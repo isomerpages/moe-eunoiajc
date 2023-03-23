@@ -2,6 +2,7 @@ collections:
   people:
     output: true
     order:
+      - Mathematics Department/Mathematics Department.md
       - Mathematics Department/Mr Alvin Toh.md
       - Mathematics Department/Mr Barry Chia.md
       - Mathematics Department/Mr Lim Yin.md
