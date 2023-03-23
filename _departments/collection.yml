@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science Department/Mr Ngiam Song Wee.md
       - Science Department/Mr Robin Soh.md
       - Science Department/Mr Gabriel Woon.md
       - Science Department/Ms Diana Ma.md
