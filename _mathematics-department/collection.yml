@@ -2,7 +2,6 @@ collections:
   mathematics-department:
     output: true
     order:
-      - Mr Lee Boon Ann.md
       - Ms Lee Ngern Sim.md
       - Ms Lim Yen Chui.md
       - Mr Lim Yin.md
