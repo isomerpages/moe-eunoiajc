@@ -1,11 +1,4 @@
 collections:
   home:
     output: true
-    order:
-      - Parents/.keep
-      - Parents/Parents.md
-      - Parents/Announcements.md
-      - Parents/Contact Information.md
-      - Parents/Parents@Eunoia.md
-      - Parents/Collaborate with Us.md
-      - Parents/Support Us.md
+    order: []
