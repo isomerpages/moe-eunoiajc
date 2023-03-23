@@ -4,10 +4,9 @@ permalink: /about/staff/english/
 description: ""
 third_nav_title: English Department
 ---
-
 <div>  
 <div style="float: left">  
-<img src="/images/EL-Stephanie-Hua_s.jpg" 
+<img src="/images/Staff/EL-Stephanie-Hua_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -17,7 +16,7 @@ HOD (English)
 
 <div>  
 <div style="float: left">  
-<img src="/images/HOD-Marc-Kenji-Lim_s.jpg" 
+<img src="/images/Staff/HOD-Marc-Kenji-Lim_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -27,7 +26,7 @@ HOD (Corporate Communications & Partnerships)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Eng-KokLiEn_s.jpg" 
+<img src="/images/Staff/Eng-KokLiEn_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -36,7 +35,7 @@ HOD (Corporate Communications & Partnerships)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Nadiah-Razali-s.jpg" 
+<img src="/images/Staff/Nadiah-Razali-s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -46,7 +45,7 @@ Deputy Head (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Eng-Edson-Ng_s.jpg" 
+<img src="/images/Staff/Eng-Edson-Ng_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -56,7 +55,7 @@ Deputy Head (Literature in English)
 
 <div>  
 <div style="float: left">  
-<img src="/images/EL-Heon-Mak_s.jpg" 
+<img src="/images/Staff/EL-Heon-Mak_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -66,7 +65,7 @@ Deputy Head (Partnerships)
 
 <div>  
 <div style="float: left">  
-<img src="/images/English-Danielle-M-Low_s.jpg" 
+<img src="/images/Staff/English-Danielle-M-Low_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -76,7 +75,7 @@ Senior Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Eng-Perrin_s.jpg" 
+<img src="/images/Staff/Eng-Perrin_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -86,7 +85,7 @@ Senior Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/EL-Benjamin-Chew_s.jpg" 
+<img src="/images/Staff/EL-Benjamin-Chew_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -96,7 +95,7 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/EL-Cham-Bei-Qing_s.jpg" 
+<img src="/images/Staff/EL-Cham-Bei-Qing_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -106,7 +105,7 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/EL-Charlotte-Tan_s.jpg" 
+<img src="/images/Staff/EL-Charlotte-Tan_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -116,7 +115,7 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/EL_CrispinRodrigues_s.jpg" 
+<img src="/images/Staff/EL_CrispinRodrigues_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -126,7 +125,7 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/EL-Darren-Chong_s.jpg" 
+<img src="/images/Staff/EL-Darren-Chong_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -136,7 +135,7 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/EL-Eleanor-Wong_s.jpg" 
+<img src="/images/Staff/EL-Eleanor-Wong_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -146,7 +145,7 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/EL_ElenaTan_s.jpg" 
+<img src="/images/Staff/EL_ElenaTan_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -156,17 +155,7 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/EL-Geraldine-Wong_s.jpg" 
-    style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Ms Geraldine Wong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-geraldine-wong/) <br>
-Teacher (General Paper)
-
-<div>  
-<div style="float: left">  
-<img src="/images/EL-Joshua-Ng_s.jpg" 
+<img src="/images/Staff/EL-Joshua-Ng_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -176,7 +165,7 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/EL-Kajal-Kaur_s.jpg" 
+<img src="/images/Staff/EL-Kajal-Kaur_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -186,7 +175,7 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Eng-KarolTan_s.jpg" 
+<img src="/images/Staff/Eng-KarolTan_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -196,7 +185,7 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/EL_NgHuiQi_s.jpg" 
+<img src="/images/Staff/EL_NgHuiQi_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -206,7 +195,7 @@ Teacher (Literature in English)
 
 <div>  
 <div style="float: left">  
-<img src="/images/EL-Renuka-Satianathan_s.jpg" 
+<img src="/images/Staff/EL-Renuka-Satianathan_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -216,7 +205,7 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/EL-Samuel-Wong_s.jpg" 
+<img src="/images/Staff/EL-Samuel-Wong_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -226,7 +215,7 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/EL_TimothyNg_s.jpg" 
+<img src="/images/Staff/EL_TimothyNg_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -236,7 +225,7 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/EL-Joey-Tan_s.jpg" 
+<img src="/images/Staff/EL-Joey-Tan_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -247,7 +236,7 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/EL-Vivien-Yeo_s.jpg" 
+<img src="/images/Staff/EL-Vivien-Yeo_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
