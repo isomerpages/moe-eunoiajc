@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Flagship Programmes/World Readiness Programme.md
       - Flagship Programmes/.keep
       - Life Coaching Programme.md
       - Passion Pursuit.md
