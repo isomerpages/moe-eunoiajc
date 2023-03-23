@@ -1,5 +1,5 @@
 collections:
-  student-features:
+  features:
     output: true
     order:
       - Two recipients of SAF Young Leader Award 2018.md
