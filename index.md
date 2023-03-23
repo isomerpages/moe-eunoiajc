@@ -12,10 +12,10 @@ sections:
           description: Follow Us
           url: https://www.instagram.com/eunoiajc
         - title: A-Level Results
-          description: Read More
+          description: Class of 2022
           url: /news/2023/results
-        - title: Class of 2022
-          description: Student Features
+        - title: ALUMNI FEATURES
+          description: Class of 2022
           url: /news/
         - title: Open House
           description: Online Showcase
