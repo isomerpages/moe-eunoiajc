@@ -32,7 +32,7 @@ sections:
         2022.
       button: READ MORE
       url: /jc1-scholars-2022/
-      image: /images/2022-MPU-Scholars_for-web.jpg
+      image: /images/Features/2022-ASTARDSTA-Scholars_for-web-1.jpg
       alt: Image alt text
   - infopic:
       title: Class of 2021 Soaring – Vol 4
