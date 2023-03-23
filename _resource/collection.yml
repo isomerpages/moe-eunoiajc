@@ -2,7 +2,7 @@ collections:
   resource:
     output: true
     order:
-      - Library Services.md
+      - Library.md
       - Press.md
       - Publications.md
       - Style Guide/Style Guide.md
