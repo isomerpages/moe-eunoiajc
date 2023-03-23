@@ -2,36 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Science Department/Science Department.md
-      - Science Department/Dr Chok Yew Keong.md
-      - Science Department/Mr Koh Siong Yang.md
-      - Science Department/Ms Tan Fangxi.md
-      - Science Department/Mr Benjamin Choo.md
-      - Science Department/Dr Chan Kim Seng.md
-      - Science Department/Mdm Tan Lingmin.md
-      - Science Department/Mr Ngiam Song Wee.md
-      - Science Department/Mr Robin Soh.md
-      - Science Department/Mr Gabriel Woon.md
-      - Science Department/Ms Diana Ma.md
-      - Science Department/Mr Enoch Tang.md
-      - Science Department/Ms Jacintha Huang.md
-      - Science Department/Ms Suellen Goh.md
-      - Science Department/Ms Zulaiha Said.md
-      - Science Department/Mr Chan Ter Yue.md
-      - Science Department/Mr Christopher Tan.md
-      - Science Department/Mr Felix Lim.md
-      - Science Department/Ms Emeline Choo.md
-      - Science Department/Ms Lu Huiping.md
-      - Science Department/Ms Ng Siow Ying.md
-      - Science Department/Ms Chan Xin Yu.md
-      - Science Department/Ms Chia Xin Hui.md
-      - Science Department/Mr Justin Lim.md
-      - Science Department/Mdm Liu Shuyu.md
-      - Science Department/Mr Ong Wee Yong.md
-      - Science Department/Mr Rizal Abu Bakar.md
-      - Science Department/Mr Tan Zhen Yong Keith.md
-      - Science Department/Dr Wang Guangquan.md
-      - Science Department/.keep
       - Arts Department/.keep
       - Arts Department/Arts.md
       - Arts Department/Mr Justin Lee.md
@@ -142,5 +112,35 @@ collections:
       - Project Work Department/Mr Daniel Kwan.md
       - Project Work Department/Ms Ng Lee Siah.md
       - Mathematics Department.md
+      - Science Department/.keep
+      - Science Department/Science Department.md
+      - Science Department/Dr Chok Yew Keong.md
+      - Science Department/Mr Koh Siong Yang.md
+      - Science Department/Ms Tan Fangxi.md
+      - Science Department/Mr Benjamin Choo.md
+      - Science Department/Dr Chan Kim Seng.md
+      - Science Department/Mdm Tan Lingmin.md
+      - Science Department/Mr Ngiam Song Wee.md
+      - Science Department/Mr Robin Soh.md
+      - Science Department/Mr Gabriel Woon.md
+      - Science Department/Ms Diana Ma.md
+      - Science Department/Mr Enoch Tang.md
+      - Science Department/Ms Jacintha Huang.md
+      - Science Department/Ms Suellen Goh.md
+      - Science Department/Ms Zulaiha Said.md
+      - Science Department/Mr Chan Ter Yue.md
+      - Science Department/Mr Christopher Tan.md
+      - Science Department/Mr Felix Lim.md
+      - Science Department/Ms Emeline Choo.md
+      - Science Department/Ms Lu Huiping.md
+      - Science Department/Ms Ng Siow Ying.md
+      - Science Department/Ms Chan Xin Yu.md
+      - Science Department/Ms Chia Xin Hui.md
+      - Science Department/Mr Justin Lim.md
+      - Science Department/Mdm Liu Shuyu.md
+      - Science Department/Mr Ong Wee Yong.md
+      - Science Department/Mr Rizal Abu Bakar.md
+      - Science Department/Mr Tan Zhen Yong Keith.md
+      - Science Department/Dr Wang Guangquan.md
       - Student Development Team.md
       - ICT & IME Department.md
