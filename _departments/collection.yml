@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science Department/Science Department.md
       - Science Department/Dr Chok Yew Keong.md
       - Science Department/Mr Koh Siong Yang.md
       - Science Department/Ms Tan Fangxi.md
