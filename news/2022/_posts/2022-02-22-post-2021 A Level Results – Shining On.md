@@ -6,12 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
-
 Eunoia Junior College congratulates our class of 2021 for their excellent achievement at the 2021 GCE A-Level Examination. The first cohort to start their journey in our Bishan campus, the class of 2021 came together from diverse backgrounds to thrive amidst the testing circumstances in 2020 and changing conditions in 2021.
 
 The college is proud of all 605 Eunoians who sat the 2021 GCE A-Level Examination. The cohort achieved a median University Admission Score (UAS) of 84 rank points and a mean UAS of 82.4 rank points. About 5 in 10 students garnered 85 rank points or more. 4 in 10 Eunoians scored at least 3 H2 distinctions, with 2 in 10 Eunoians attaining 6 distinctions or more. 4 in 10 Eunoians achieved a distinction in their H3 subjects.
 
-![](/images/2021-Results.png)
+![](/images/Events/2021-Results.png)
 
 Principal of Eunoia Junior College, Mr Andrew Tan said, 'While I have not had a privilege to know you as a cohort, I feel I know you through the imprints you have left behind in your juniors – and what an amazing imprint that is! I look forward to getting to know you through our alumni activities in the days, weeks and years ahead. Know that your true accomplishments are ahead of you, and may Beautiful Thinking, Goodwill to All last a lifetime within you and the meaningful paths you will take from this point forward.'
 
