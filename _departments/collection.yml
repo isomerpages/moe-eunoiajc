@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science Department/Ms Chan Xin Yu.md
       - Science Department/Ms Chia Xin Hui.md
       - Science Department/Mr Justin Lim.md
       - Science Department/Mdm Liu Shuyu.md
