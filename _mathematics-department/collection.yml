@@ -2,7 +2,6 @@ collections:
   mathematics-department:
     output: true
     order:
-      - Mr Alex Teo.md
       - Mr Chen Jinquan.md
       - Mr Chng Xian Yi.md
       - Mr Chu Wee Yong.md
