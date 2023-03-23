@@ -2,6 +2,7 @@ collections:
   people:
     output: true
     order:
+      - Executive and Admin Staff.md
       - College Management Committee/.keep
       - College Management Committee/College Management Committee.md
       - College Management Committee/Mr Andrew Tan.md
