@@ -2,27 +2,6 @@ collections:
   people:
     output: true
     order:
-      - Executive and Admin Staff.md
-      - College Management Committee/.keep
-      - College Management Committee/College Management Committee.md
-      - College Management Committee/Mr Andrew Tan.md
-      - College Management Committee/Ms Lynn Koh.md
-      - College Management Committee/Mr Mohamad Amran Shah.md
-      - College Management Committee/Ms Adrienne de Souza.md
-      - College Management Committee/Mr Alvin Toh.md
-      - College Management Committee/Mr Benjamin Liang.md
-      - College Management Committee/Mr Charles Cheak.md
-      - College Management Committee/Dr Chok Yew Keong.md
-      - College Management Committee/Mr Kevin Tan.md
-      - College Management Committee/Ms Koh Han Yun.md
-      - College Management Committee/Mr Koh Siong Yang.md
-      - College Management Committee/Mr Jared Goh.md
-      - College Management Committee/Mr Justin Lee.md
-      - College Management Committee/Mr Marc Kenji Lim.md
-      - College Management Committee/Ms Stephanie Hua.md
-      - College Management Committee/Ms Tan Fangxi.md
-      - College Management Committee/Mr Tay Theng Hwee.md
-      - College Management Committee/Ms Yang Shu Hung.md
       - Arts Department/.keep
       - Arts Department/Arts.md
       - Arts Department/Mr Justin Lee.md
@@ -160,5 +139,26 @@ collections:
       - Science Department/Mr Rizal Abu Bakar.md
       - Science Department/Mr Tan Zhen Yong Keith.md
       - Science Department/Dr Wang Guangquan.md
-      - Student Development Team.md
+      - College Management Committee/.keep
+      - College Management Committee/College Management Committee.md
+      - College Management Committee/Mr Andrew Tan.md
+      - College Management Committee/Ms Lynn Koh.md
+      - College Management Committee/Mr Mohamad Amran Shah.md
+      - College Management Committee/Ms Adrienne de Souza.md
+      - College Management Committee/Mr Alvin Toh.md
+      - College Management Committee/Mr Benjamin Liang.md
+      - College Management Committee/Mr Charles Cheak.md
+      - College Management Committee/Dr Chok Yew Keong.md
+      - College Management Committee/Mr Kevin Tan.md
+      - College Management Committee/Ms Koh Han Yun.md
+      - College Management Committee/Mr Koh Siong Yang.md
+      - College Management Committee/Mr Jared Goh.md
+      - College Management Committee/Mr Justin Lee.md
+      - College Management Committee/Mr Marc Kenji Lim.md
+      - College Management Committee/Ms Stephanie Hua.md
+      - College Management Committee/Ms Tan Fangxi.md
+      - College Management Committee/Mr Tay Theng Hwee.md
+      - College Management Committee/Ms Yang Shu Hung.md
+      - Executive and Admin Staff.md
       - ICT & IME Department.md
+      - Student Development Team.md
