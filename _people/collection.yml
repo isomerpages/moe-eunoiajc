@@ -2,6 +2,7 @@ collections:
   people:
     output: true
     order:
+      - Mathematics Department/Ms Clarice Chan.md
       - Mathematics Department/Mr Chua Jian Rong.md
       - Mathematics Department/Mr Kuang Kim Chun.md
       - Mathematics Department/Mr Lee Boon Ann.md
