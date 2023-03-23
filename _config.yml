@@ -3,18 +3,18 @@ url: https://eunoiajc.moe.edu.sg
 favicon: /images/EJC-Crest.png
 colors:
   primary-color: "#00205b"
-  secondary-color: "#00205b"
+  secondary-color: "#ffc72c"
   media-colors:
     - title: media-color-one
-      color: "#ffc72c"
+      color: "#ed1c24"
     - title: media-color-two
-      color: "#ff6600"
+      color: "#03522c"
     - title: media-color-three
-      color: "#ec008c"
+      color: "#ff6600"
     - title: media-color-four
-      color: "#080d9f"
+      color: "#00c9ff"
     - title: media-color-five
-      color: "#ffc72c"
+      color: "#4e008e"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
