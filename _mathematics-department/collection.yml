@@ -2,7 +2,6 @@ collections:
   mathematics-department:
     output: true
     order:
-      - Mr Chen Jinquan.md
       - Mr Chng Xian Yi.md
       - Mr Chu Wee Yong.md
       - Ms Clarice Chan.md
