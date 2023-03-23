@@ -43,7 +43,7 @@ sections:
         the Arts.
       button: READ MORE
       url: /class-2021-4/
-      image: /images/Tjan-Yi-Xuan.jpg
+      image: /images/Features/Tjan-Yi-Xuan.jpg
       alt: Image alt text
   - infopic:
       title: Class of 2021 Soaring – Vol 3
@@ -53,7 +53,7 @@ sections:
         thinking.
       button: READ MORE
       url: /class-2021-3/
-      image: /images/Nadia.jpg
+      image: /images/Features/Nadia.jpg
       alt: Image alt text
   - infopic:
       title: Class of 2021 Soaring – Vol 2
@@ -63,7 +63,7 @@ sections:
         the road ahead.
       button: READ MORE
       url: /class-2021-2/
-      image: /images/andrekoh.jpg
+      image: /images/Features/Andre Koh.jpg
       alt: Image alt text
   - infopic:
       title: Class of 2021 Soaring – Vol 1
@@ -73,16 +73,6 @@ sections:
         journey.
       button: READ MORE
       url: /class-2021-1/
-      image: /images/Gwen Lim.jpg
-      alt: Image alt text
-  - infopic:
-      title: Lighting the Way – EJC Yearbook 2020-21
-      subtitle: News
-      description: The 4th edition of our yearbook chronicles the inspiring stories of
-        our students and staff lighting their passion and shining their light on
-        others.
-      button: READ MORE
-      url: /2021-yearbook/
-      image: /images/yearbook.jpg
+      image: /images/Features/Gwen Lim.jpg
       alt: Image alt text
 ---
