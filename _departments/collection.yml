@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science Department/Mr Christopher Tan.md
       - Science Department/Mr Felix Lim.md
       - Science Department/Ms Emeline Choo.md
       - Science Department/Ms Lu Huiping.md
