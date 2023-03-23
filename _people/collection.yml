@@ -2,20 +2,6 @@ collections:
   people:
     output: true
     order:
-      - Arts Department/.keep
-      - Arts Department/Arts.md
-      - Arts Department/Mr Justin Lee.md
-      - Arts Department/Mr Jared Goh.md
-      - Arts Department/Dr Gooi Tah Choe.md
-      - Arts Department/Mr Fred Ong.md
-      - Arts Department/Mr Mahmood Fahmi Ahamed.md
-      - Arts Department/Mr Alson Yong.md
-      - Arts Department/Ms Low Sok Hui.md
-      - Arts Department/Mr Azhar Amin.md
-      - Arts Department/Ms Leong Wymin.md
-      - Arts Department/Ms Rachel Lim.md
-      - Arts Department/Mr Lee Ji Heng.md
-      - Arts Department/Ms Quek Jia Qi.md
       - College Management Committee/.keep
       - College Management Committee/College Management Committee.md
       - College Management Committee/Mr Andrew Tan.md
@@ -36,6 +22,20 @@ collections:
       - College Management Committee/Ms Tan Fangxi.md
       - College Management Committee/Mr Tay Theng Hwee.md
       - College Management Committee/Ms Yang Shu Hung.md
+      - Arts Department/.keep
+      - Arts Department/Arts.md
+      - Arts Department/Mr Justin Lee.md
+      - Arts Department/Mr Jared Goh.md
+      - Arts Department/Dr Gooi Tah Choe.md
+      - Arts Department/Mr Fred Ong.md
+      - Arts Department/Mr Mahmood Fahmi Ahamed.md
+      - Arts Department/Mr Alson Yong.md
+      - Arts Department/Ms Low Sok Hui.md
+      - Arts Department/Mr Azhar Amin.md
+      - Arts Department/Ms Leong Wymin.md
+      - Arts Department/Ms Rachel Lim.md
+      - Arts Department/Mr Lee Ji Heng.md
+      - Arts Department/Ms Quek Jia Qi.md
       - Economics Department/.keep
       - Economics Department/Economics.md
       - Economics Department/Mr Benjamin Liang.md
