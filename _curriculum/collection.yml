@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Special Programmes/.keep
       - Flagship Programmes/Flagship Programmes.md
       - Flagship Programmes/Talent Development Programme.md
       - Flagship Programmes/Life Coaching Programme.md
