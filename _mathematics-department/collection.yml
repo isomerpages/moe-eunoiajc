@@ -2,7 +2,6 @@ collections:
   mathematics-department:
     output: true
     order:
-      - Ms Ng Yixin.md
       - Mrs Ng Phoon Lai Yong.md
       - Mr Tan Khoon Han.md
       - Mr Wong Jia Sheng.md
