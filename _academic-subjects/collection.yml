@@ -2,7 +2,6 @@ collections:
   academic-subjects:
     output: true
     order:
-      - Academic Subjects.md
       - Knowledge Skills/.keep
       - Knowledge Skills/General Paper.md
       - Knowledge Skills/Knowledge & Inquiry.md
