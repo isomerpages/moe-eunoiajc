@@ -1,5 +1,5 @@
 collections:
-  people:
+  departments:
     output: true
     order:
       - Mr Barry Chia.md
