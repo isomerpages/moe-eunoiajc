@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science Department/Mr Koh Siong Yang.md
       - Science Department/Ms Tan Fangxi.md
       - Science Department/Mr Benjamin Choo.md
       - Science Department/Dr Chan Kim Seng.md
