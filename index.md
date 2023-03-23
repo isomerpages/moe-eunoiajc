@@ -21,6 +21,8 @@ sections:
           description: Online Showcase
           url: https://www.oheunoia.com
       background: /images/Home_Banner2.png
+      title: We Are Eunoia
+      subtitle: Beautiful Thinking, Goodwill to All
   - resources:
       title: News
       button: Read More
