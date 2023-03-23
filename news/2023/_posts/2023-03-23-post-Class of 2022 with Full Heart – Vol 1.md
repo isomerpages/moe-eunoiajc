@@ -6,9 +6,6 @@ layout: post
 description: ""
 image: /images/2022 Angelica Koh.jpg
 ---
-
-
-
 The Class of 2022 demonstrated how our dreams can take flight when we pursue our passions and spread our love for learning. In this 1st volume, Angelica, Jing Yee, Taia and Wen Xi reflect on their pursuit of all-round excellence and impart words of wisdom to their juniors!
 
 Read more stories about the Class of 2022 in [Vol 2](https://eunoiajc.moe.edu.sg/news/2023/class2/), [Vol 3](https://eunoiajc.moe.edu.sg/news/2023/class3/) and [Vol 4](https://eunoiajc.moe.edu.sg/news/2023/class4/).
@@ -16,6 +13,7 @@ Read more stories about the Class of 2022 in [Vol 2](https://eunoiajc.moe.edu.s
 <br>
 
 ![Angelica Koh](/images/2022%20Angelica%20Koh.jpg)
+### Angelica Koh
 
 A recipient of the MOE Pre-University Scholarship, **Angelica Koh Jia Qi (21-A4)** has also been involved in many college-wide programmes and activities, serving as Vice President of Symphonic Band and contributing to greater awareness of mental well-being through the GLIDE Project, Beautiful Minds.
 
@@ -38,6 +36,7 @@ Make the most out of your JC life; 2 years will fly by before you know it! There
 
 ![](/images/2022%20Yap%20Jing%20Yee.jpg)
 
+### Yap Jing Yee
 An active Track and Field athlete since secondary school, **Yap Jing Yee (21-U3)** was passionate in pursuing sporting excellence in EJC as well, competing in several events and leading her peers as the Vice-Captain of the Track and Field team.
 
 ###### HOW DO YOU FEEL ABOUT YOUR RESULTS AND WHY? WHAT HELPED YOU ACHIEVE THESE RESULTS?
@@ -61,6 +60,8 @@ So enjoy the process and curate your own unique experience here in Eunoia!
 <br><br>
 
 ![](/images/2022%20Long%20Wen%20Xi.jpg)
+
+### Long Wen Xi
 
 A highly responsible Chairperson of Media Club, **Long Wen Xi (21-U1)** led with a focus on maximising the strengths of her team members. Upon graduating, she was appointed Admin Head of AEGIS, an alumni-driven academic ‘pay-it-forward’ initiative, wherein she played a critical role in selecting Subject Specialists and inspiring fellow alumni to join and help their juniors.
 
@@ -91,6 +92,8 @@ I guess another piece of advice I would give is to be more forgiving to yourself
 <br><br>
 
 ![](/images/2022%20Taia%20Pang.jpg)
+
+### Taia Pang
 
 For **Taia Pang (21-E3)**, her love and passion for Netball drove her to join EJC. An experienced senior to her juniors and and a key pillar of support to her peers, she guided and motivated her teammates throughout the competition season. Besides her commitment to sports, she also contributed as part of the 5th Student Council Executive Committee. Keen to take on academic challenges too, she took on H3 Chemistry to further her interest in the subject.
 
