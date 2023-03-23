@@ -3,11 +3,9 @@ title: ICT and IME
 permalink: /about/staff/ict/
 description: ""
 ---
-
-
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Koh-Siong-Yang_s%20(2).jpg" 
+<img src="/images/Staff/Sci-Koh-Siong-Yang_s%20(2).jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -18,7 +16,7 @@ HOD (ICT&IME)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Rachel-Yau_s%20(1).jpg" 
+<img src="/images/Staff/Sci-Rachel-Yau_s%20(1).jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -29,7 +27,7 @@ Deputy Head (ICT)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Diana-Ma_s%20(1).jpg" 
+<img src="/images/Staff/Sci-Diana-Ma_s%20(1).jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -40,7 +38,7 @@ Deputy Head (IME)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Enoch-Tang_s%20(1).jpg" 
+<img src="/images/Staff/Sci-Enoch-Tang_s%20(1).jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -51,7 +49,7 @@ Deputy Head (IME)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Jothi_s.jpg" 
+<img src="/images/Staff/Jothi_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -62,7 +60,7 @@ ICT Manager
 
 <div>  
 <div style="float: left">  
-<img src="/images/kent_s.jpg" 
+<img src="/images/Staff/kent_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -73,18 +71,7 @@ ICT Manager
 
 <div>  
 <div style="float: left">  
-<img src="/images/EAS-Hugo_s.jpg" 
-    style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Mr Hugo Chong</b>
-<br>
-Desktop Engineer
-
-<div>  
-<div style="float: left">  
-<img src="/images/rohaya_s.jpg" 
+<img src="/images/Staff/rohaya_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -95,7 +82,7 @@ Librarian
 
 <div>  
 <div style="float: left">  
-<img src="/images/zalina_s.jpg" 
+<img src="/images/Staff/zalina_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
