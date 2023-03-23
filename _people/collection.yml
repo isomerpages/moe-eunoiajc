@@ -2,6 +2,7 @@ collections:
   people:
     output: true
     order:
+      - Mathematics Department/Mr Barry Chia.md
       - Mathematics Department/Mr Lim Yin.md
       - Mathematics Department/Mr Alex Teo.md
       - Mathematics Department/Mr Chen Jinquan.md
