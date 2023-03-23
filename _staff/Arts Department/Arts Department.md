@@ -4,12 +4,9 @@ permalink: /about/staff/arts/
 description: ""
 third_nav_title: Arts Department
 ---
-
-
-
 <div>  
 <div style="float: left">  
-<img src="/images/Arts_JustinLee_s.jpg" 
+<img src="/images/Staff/Arts_JustinLee_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -19,7 +16,7 @@ HOD (Arts)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Arts-Jared-Goh_s.jpg" 
+<img src="/images/Staff/Arts-Jared-Goh_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -29,7 +26,7 @@ Dean (JC2)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Fred-Ong-s.jpg" 
+<img src="/images/Staff/Fred-Ong-s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -40,7 +37,7 @@ Deputy Head (Geography)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Arts-Gooi-Tah-Choe_s.jpg" 
+<img src="/images/Staff/Arts-Gooi-Tah-Choe_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -50,7 +47,7 @@ Deputy Head (Aesthetics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Arts_AlsonYong_s.jpg" 
+<img src="/images/Staff/Arts_AlsonYong_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -60,7 +57,7 @@ Deputy Head (Student Leadership)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Arts-Mahmood-Fahmi_s.jpg" 
+<img src="/images/Staff/Arts-Mahmood-Fahmi_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -70,7 +67,7 @@ Deputy Head (HSP & Talent Management)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Arts-Azhar_s.jpg" 
+<img src="/images/Staff/Arts-Azhar_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -80,7 +77,7 @@ Senior Teacher (History)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Arts-Low-Sok-Hui_s.jpg" 
+<img src="/images/Staff/Arts-Low-Sok-Hui_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -90,7 +87,7 @@ Senior Teacher (Art)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Arts-Leong-Wymin_s.jpg" 
+<img src="/images/Staff/Arts-Leong-Wymin_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -100,7 +97,7 @@ Teacher (Geography)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Arts-Rachel-Lim_s.jpg" 
+<img src="/images/Staff/Arts-Rachel-Lim_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -111,7 +108,7 @@ Teacher (Geography)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Quek-Jia-Qi-s.jpg" 
+<img src="/images/Staff/Quek-Jia-Qi-s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -122,7 +119,7 @@ Teacher (Art)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Arts-Lee-Ji-Heng_s.jpg" 
+<img src="/images/Staff/Arts-Lee-Ji-Heng_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
