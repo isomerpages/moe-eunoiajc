@@ -40,18 +40,18 @@ links:
         url: /culture/pe/
       - title: Student Press
         url: https://eunoiapress.wordpress.com/
-  - title: Media
-    url: /media/media/
+  - title: Resource
+    url: /resource/
     sublinks:
       - title: Photos
         url: https://www.flickr.com/photos/eunoiajc
       - title: Videos
         url: https://vimeo.com/eunoiajc
-      - title: Press
-        url: /media/press/
       - title: Publications
-        url: /media/publications/
-      - title: Style Guide
-        url: /media/Style-Guide/style-guide/
+        url: https://www.issuu.com/eunoiajc
+      - title: Student Press
+        url: https://eunoiaorigin.wordpress.com
       - title: Library
         url: /library
+      - title: Style Guide
+        url: /media/Style-Guide/style-guide/
