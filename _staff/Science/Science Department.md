@@ -4,11 +4,9 @@ permalink: /about/staff/science/
 description: ""
 third_nav_title: Science
 ---
-
-
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Chok-Yew-Keong_s.jpg" 
+<img src="/images/Staff/Sci-Chok-Yew-Keong_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -19,7 +17,7 @@ HOD (Science)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Koh-Siong-Yang_s.jpg" 
+<img src="/images/Staff/Sci-Koh-Siong-Yang_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -30,7 +28,7 @@ HOD (ICT&IME)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Tan-Fangxi_s.jpg" 
+<img src="/images/Staff/Sci-Tan-Fangxi_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -41,7 +39,7 @@ HOD (Character & Citizenship Education)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Benjamin-Choo_s.jpg" 
+<img src="/images/Staff/Sci-Benjamin-Choo_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -52,7 +50,7 @@ Deputy Head (Biology)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Chan-Kim-Seng_s.jpg" 
+<img src="/images/Staff/Sci-Chan-Kim-Seng_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -63,7 +61,7 @@ Deputy Head (Chemistry)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Tan-Lingmin_s.jpg" 
+<img src="/images/Staff/Sci-Tan-Lingmin_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -74,7 +72,7 @@ Deputy Head (Chemistry)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Ngiam-Song-Wee_s.jpg" 
+<img src="/images/Staff/Sci-Ngiam-Song-Wee_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -85,7 +83,7 @@ Deputy Head (Physics & Curriculum Innovation)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Soh-Yong-Li_s-1.jpg" 
+<img src="/images/Staff/Sci-Soh-Yong-Li_s-1.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -96,7 +94,7 @@ Deputy Head (Physics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Diana-Ma_s.jpg" 
+<img src="/images/Staff/Sci-Diana-Ma_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -107,7 +105,7 @@ Deputy Head (IME)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Enoch-Tang_s.jpg" 
+<img src="/images/Staff/Sci-Enoch-Tang_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -118,7 +116,7 @@ Deputy Head (IME)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Gabriel-Woon_s.jpg" 
+<img src="/images/Staff/Sci-Gabriel-Woon_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -129,7 +127,7 @@ Deputy Head (Student Well-being)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Jacintha-Huang_s.jpg" 
+<img src="/images/Staff/Sci-Jacintha-Huang_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -140,7 +138,7 @@ Deputy Head (Careers, Scholarships & Higher Education)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Suellen-Goh_s.jpg" 
+<img src="/images/Staff/Sci-Suellen-Goh_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -151,7 +149,7 @@ Deputy Head (Character & Citizenship Education)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Zulaiha-Said_s.jpg" 
+<img src="/images/Staff/Sci-Zulaiha-Said_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -162,7 +160,7 @@ Deputy Head (Student Engagement)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Chan-Ter-Yue_s.jpg" 
+<img src="/images/Staff/Sci-Chan-Ter-Yue_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -173,7 +171,7 @@ Senior Teacher (Biology)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Christopher-Tan_s.jpg" 
+<img src="/images/Staff/Sci-Christopher-Tan_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -184,7 +182,7 @@ Senior Teacher (Chemistry)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Felix-Lim_s.jpg" 
+<img src="/images/Staff/Sci-Felix-Lim_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -195,7 +193,7 @@ Senior Teacher (Physics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Emeline-Choo_s.jpg" 
+<img src="/images/Staff/Sci-Emeline-Choo_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -206,7 +204,7 @@ Teacher (Biology)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Lu-Huiping-s.jpg" 
+<img src="/images/Staff/Lu-Huiping-s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -217,7 +215,7 @@ Teacher (Biology)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Ng-Siow-Ying_s.jpg" 
+<img src="/images/Staff/Sci-Ng-Siow-Ying_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -228,7 +226,7 @@ Teacher (Biology)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Chan-Xin-Yu-s.jpg" 
+<img src="/images/Staff/Chan-Xin-Yu-s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -239,7 +237,7 @@ Teacher (Chemistry)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Chia-Xin-Hui_s.jpg" 
+<img src="/images/Staff/Sci-Chia-Xin-Hui_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -250,7 +248,7 @@ Teacher (Chemistry)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Justin_s2.jpg" 
+<img src="/images/Staff/Sci-Justin_s2.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -261,7 +259,7 @@ Teacher (Chemistry)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Liu-Shuyu_s-1.jpg" 
+<img src="/images/Staff/Sci-Liu-Shuyu_s-1.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -272,7 +270,7 @@ Teacher (Chemistry)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff-Profile%20(1).png" 
+<img src="/images/Staff/Staff-Profile%20(1).png" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -283,7 +281,7 @@ Teacher (Chemistry)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Ong-Wee-Yong_s.jpg" 
+<img src="/images/Staff/Sci-Ong-Wee-Yong_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -294,7 +292,7 @@ Teacher (Chemistry)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Tay-Li-Kim_s.jpg" 
+<img src="/images/Staff/Sci-Tay-Li-Kim_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -305,7 +303,7 @@ Teacher (Chemistry)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Chin-Tan-Wei-Lin_s.jpg" 
+<img src="/images/Staff/Sci-Chin-Tan-Wei-Lin_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -316,7 +314,7 @@ Teacher (Physics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Claudia-Tan_s.jpg" 
+<img src="/images/Staff/Sci-Claudia-Tan_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -327,7 +325,7 @@ Teacher (Physics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Ho-Hon-Wing_s.jpg" 
+<img src="/images/Staff/Sci-Ho-Hon-Wing_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -338,7 +336,7 @@ Teacher (Physics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Lim-Teck-Seng-s.jpg" 
+<img src="/images/Staff/Lim-Teck-Seng-s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -349,7 +347,7 @@ Teacher (Physics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Ong-Eng-Yee-Wen_s.jpg" 
+<img src="/images/Staff/Sci-Ong-Eng-Yee-Wen_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -360,7 +358,7 @@ Teacher (Physics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Rizal_s.jpg" 
+<img src="/images/Staff/Sci-Rizal_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -371,7 +369,7 @@ Teacher (Physics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Sci-Tan-Zheng-Yong_s.jpg" 
+<img src="/images/Staff/Sci-Tan-Zheng-Yong_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -382,7 +380,7 @@ Teacher (Physics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Wang-Guangquan-s.jpg" 
+<img src="/images/Staff/Wang-Guangquan-s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
