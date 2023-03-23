@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Student Development/Character & Citizenship Education.md
       - Student Development/Global Orientation Programme.md
       - Student Development/Leadership Academy.md
       - Student Development/Environmental Literacy Programme.md
