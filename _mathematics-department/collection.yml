@@ -2,5 +2,4 @@ collections:
   mathematics-department:
     output: true
     order:
-      - Mr Tan Khoon Han.md
       - Mr Wong Jia Sheng.md
