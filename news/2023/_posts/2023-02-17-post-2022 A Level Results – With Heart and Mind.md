@@ -10,7 +10,7 @@ Eunoia Junior College congratulates our class of 2022 for their well-deserved ac
 
 The college is proud of all 658 Eunoians who sat the 2022 GCE A-Level Examination. The cohort achieved a median University Admission Score (UAS) of 85 rank points and a mean UAS of 82.2 rank points. About 5 in 10 students garnered 85 rank points or more. 4 in 10 Eunoians scored at least 3 H2 distinctions, with 2 in 10 Eunoians attaining 6 distinctions or more.
 
-![](/images/2022-Results_Infographic.png)
+![](/images/Events/2022-Results_Infographic.png)
 
 Ms Yang Shu Hung, Dean for the Class of 2022, said, 'The Class of 2022 has demonstrated great resilience and adaptability, adjusting to external circumstances quickly and remaining purposeful throughout their 2 years in EJC. I am privileged to be able to journey with this batch of remarkable Eunoians, and I am confident that they will continue to shine in their next stage of life.'  
 
