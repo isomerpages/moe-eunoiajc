@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Library.md
-      - Press.md
       - Publications.md
       - Style Guide/Style Guide.md
       - Style Guide/Visual Identity.md
