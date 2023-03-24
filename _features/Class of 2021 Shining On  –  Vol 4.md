@@ -6,6 +6,7 @@ description: ""
 The Class of 2021 demonstrated how our dreams can take flight when we pursue our passions and spread our love for learning. In this final volume, Deon, Lauren, Leia, Yi Xuan, Tiantian and Amanda reflect on their pursuit of excellence in the Humanities and the Arts and impart words of wisdom to their juniors!
 
 <br>
+
 ![](/images/Features/deon%20loke.jpg)
 
 **Deon Loke (20-O1)** was a scholar in the MOE Humanities Scholarship and Programme (HSP), embracing a wide range of learning opportunities in the humanities and the arts. Her curiosity led her to research the genre of apocalyptic films in her HSP capstone project, and she was consistently proficient in Literature, Geography and General Paper while consistently placing at the top of her class in Art. Her artistic talents were on frequent display, having created student merchandise for the college's National day Celebrations, booting a concept for the MOE Pre-University Seminar 2021 logo, exhibited work at the Singapore Youth Festival (SYF) in 2020 and placed as a finalist in the SYF Design Challenge in 2021. Deon was also an enthusiastic leader in the roles of House Vice-Captain for Ora and Orientation Group Leader for EJC Orientation, showing concern for her juniors and creating a vibrant and supportive school culture. 
@@ -27,6 +28,7 @@ The bonds I have formed in school. I have made such good friends (teachers inclu
 Art has always been such a big part of my life, and I guess I am just the kind of person to do whatever I want to do. I find that to be a good mantra to have. Sure not everyone is willing to sacrifice a supposedly ‘good future’ to pursue (maybe unprofitable) interests, and that is totally valid, but I strongly encourage everyone to make their interest a priority. It does not have to be the top priority, but make it a point to owe it to yourself to have fun. There are many ways to explore your interests, it does not have to be in school. Just have the courage to live life in the most enjoyable (and safe) way possible!
 
 <br>
+
 ![](/images/Features/lauren%20ong.jpg)
 
 **Lauren Ong (20-U1)** was a talented and preternaturally motivated student who concurrently pursued two independent studies for H2 Knowledge and Inquiry and H3 Music in 2021. A recipient of the MOE Music Elective Scholarship, she seized opportunities to attend master classes outside of the classroom to extend her understanding of music, picked up new instruments like the guitar, piano and _dizi_ and demonstrated her passion for music at a concert put up the college's Music Elective Programme (MEP) students. As the Student Conductor for EJC Choir, she upheld standards of musical excellence and prepared her peers for the digital recording for the Singapore Youth Festival Arts Presentation in 2021. 
@@ -50,6 +52,7 @@ A soundtrack to this would be any feel-good songs that lift your spirits! I alwa
 The ‘A’ levels, while important, are not the most important thing in your JC journey. The experience and the connections YoY make are what you’ll remember the most, and be sure to pace yourself. Tap on the resources that the school provides and remember that you are never alone, no matter how afraid you are. Study hard, play hard and all the best!
 
 <br>
+
 ![](/images/Features/Leia%20Ong.jpg)
 
 **Leia Ong (20-U1)** was an intellectually curious student in the MOE Music Elective Programme (MEP) who also participated fully in weekly Eunoia Humanities Programme sessions. Keenly interested in local culture, she produced a video documentary on Singaporean hawker culture for a capstone project featured at the Eunoia Humanities Symposium in 2021. She constantly pushed herself to learn more, attending the Public Policy and Civic Engagement module under Programme Latitude, heading the press corps of a college-based Model United Nations event and playing the role of student facilitator at the MOE Pre-University Seminar 2021. Her talents contributed to a livelier college culture too: she served as the Deputy Editor for EJC Press, vetting and conceptualizing new directions the CCA could take, frequently performed for EJC Rock Band, a student-initiated interest group, and also co-wrote an original song that the band performed for the closing ceremony of the Pre-University Seminar.
@@ -69,6 +72,7 @@ It is difficult to name one part of my EJ experience, but if I had to choose it 
 ###### AS A MEMBER OF PRESS AND ROCK BAND, WHAT DOES ‘VOICE’ MEAN TO YOU? WHAT ADVICE WOULD YOU LIKE TO SHARE WITH YOUR JUNIORS TO ENCOURAGE THEM TO SEEK / CREATE THEIR OWN VOICE?
 
 ‘Voice’ to me means making an impact in your community. Whether that community is an entire CCA or just your seatmate in your CG, if you see a gap that needs filling and you believe you can, do it! Everyone else is as new to JC and other experiences as you are, and I believe everyone has something valuable to contribute, no matter if it's as small as talking to that one quiet person in class or volunteering an idea for a CCA project. Cliche, but being the change you want to see is something I find very meaningful. Take the leap and go do it!
+
 <br>
 
 ![](/images/Features/tian%20yi%20xuan.jpg)
@@ -91,6 +95,7 @@ There is no one most meaningful part of my journey in Eunoia, but rather, many l
 ###### WHAT ADVICE / WORDS OF ENCOURAGEMENT WOULD YOU LIKE TO SHARE WITH YOUR JUNIORS? WHAT ARE SOME STUDY STRATEGIES THAT YOU HAVE FOUND HELPFUL IN YOUR ACADEMIC JOURNEY?
 
 Studies are important, but take the time to enjoy the little moments too! For me, they were having meals together, chatting, going for a quick shower after PE with my friends (in separate cubicles, of course), doing Mathematics and Chemistry on the whiteboard during free periods, staying in the MEP studios till 7pm, practising in the band room till 8pm. These all gave life to my academically rigorous time at EJC, and I consider them to be necessary to balance out the stress I get from studying alone intensely. As for useful study tips, don’t be afraid to ask questions and seek consults whenever in doubt, and of course, practise consistently, mindfully with a clear goal in mind, and don’t give up! You are in good hands; your peers and tutors are all there to support you.
+
 <br>
 
 ![](/images/Features/men%20tian%20tian.jpg)
@@ -112,6 +117,7 @@ Being a member of BSP and studying mother tongue subjects CLL and Translation ar
 ###### WHAT ADVICE / WORDS OF ENCOURAGEMENT WOULD YOU LIKE TO SHARE WITH YOUR JUNIORS IN JC2 AND JC1, TO ENCOURAGE THEM TO PURSUE THEIR INTERESTS?
 
 Hi juniors! Don’t ever be afraid to pursue your own interests just because someone else wants to pursue something else. It’s never about being good at what you do, but doing what you really want to do. All the very best for your life in Eunoia! 2 years is short so don't waste it on trying to be someone that you are not.
+
 <br>
 
 ![](/images/Features/Amanda%20Lim.jpg)
