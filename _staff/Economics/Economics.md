@@ -134,7 +134,7 @@ Teacher (Economics)
 </div>  
 <div></div>  
 </div>	
-<b>Ms Michelle Chiang</b>
+[Ms Michelle Chiang](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-michelle-chiang)
 <br>
 Teacher (Economics)
 
@@ -177,6 +177,6 @@ Teacher (Economics)
 </div>  
 <div></div>  
 </div>	
-<b>Ms Bernice Lee</b>
+Ms Bernice Lee
 <br>
 Teacher (Economics)
