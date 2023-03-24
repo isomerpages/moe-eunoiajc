@@ -23,18 +23,18 @@ Shi Pei is an alumna from Singapore Chinese Girls' School and currently serves a
 ![](/images/Features/2020-MOE-SA2.jpeg)
 
 **PRIME MINISTER'S BOOK PRIZE (SECONDARY)**
-##### Amanda Wong Jia Min (20-I4)
+<br>Amanda Wong Jia Min (20-I4)
+
 
 **PRIME MINISTER'S BOOK PRIZE (PRE-UNIVERSITY)**
-##### Grace Cheu Li Qing (18-U1)
+<br>Grace Cheu Li Qing (18-U1)
 
 The Prime Minister's Book Prize was established in 1974 as an award for bilingual excellence given to students at primary, secondary and pre-university levels.
 
 Amanda is an alumna of CHIJ St Nicholas Girls' School. Grace is our alumna from the Class of 2019.
 
 **THE LEE HSIEN LOONG AWARD FOR OUTSTANDING BICULTURAL STUDENTS**
-
-##### Rebekah Seow (18-A1)
+<br>Rebekah Seow (18-A1)
 
 The Lee Hsien Loong Award for Outstanding Bicultural students (LHL-OBS) was set up in 2009 to recognise outstanding students in the Bicultural Studies Programme (BSP) and the best student in the Regional Studies Programme (RSP).
 
