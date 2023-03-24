@@ -4,7 +4,6 @@ permalink: /about/staff/econs/
 description: ""
 third_nav_title: Economics
 ---
-
 <div>  
 <div style="float: left">  
 <img src="/images/Staff/Econs-Benjamin-Liang_s.jpg" 
@@ -141,7 +140,7 @@ Teacher (Economics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Staff-Profile%20(1).png" 
+<img src="/images/Staff/Econs-Peter-Soh_s.jpg" 
     style="width:50%">
 </div>  
 <div></div>  
@@ -169,4 +168,15 @@ Teacher (Economics)
 <div></div>  
 </div>	
 [Mrs Wee-Chen Jinqi](https://eunoiajc.moe.edu.sg/about/staff/econs/mrs-wee-chen-jinqi/) <br>
+Teacher (Economics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/Econs-Bernice-Lee_s.jpg" 
+    style="width:50%">
+</div>  
+<div></div>  
+</div>	
+<b>Ms Bernice Lee</b>
+<br>
 Teacher (Economics)
