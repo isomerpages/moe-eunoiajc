@@ -17,7 +17,7 @@ These awards include the MOE Pre-University Scholarships, MOE Special Awards, sp
 
 Presented by the Singapore Management University (SMU) School of Information Systems, the Computing@SMU Award aims to recognise and motivate graduating Junior College students to pursue further education and careers in computing.
 
-![](/images/2020-jc2-scholars-3.jpeg)
+![](/images/Features/2020-jc2-scholars-3.jpeg)
 
 **SINGAPORE ARMED FORCES YOUNG LEADER AWARD**
 ### Leslie Yip (19-I4)
