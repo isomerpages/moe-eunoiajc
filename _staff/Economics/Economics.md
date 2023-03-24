@@ -145,7 +145,7 @@ Teacher (Economics)
 </div>  
 <div></div>  
 </div>	
-<b>Mr Peter Soh</b>
+[Mr Peter Soh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/mr-peter-soh)
 <br>
 Teacher (Economics)
 
