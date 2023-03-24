@@ -275,7 +275,7 @@ Teacher (Chemistry)
 </div>  
 <div></div>  
 </div>
-<b>Mr Luke Lau</b>
+Mr Luke Lau
 <br>
 Teacher (Chemistry)
 
