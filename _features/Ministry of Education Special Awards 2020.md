@@ -3,12 +3,13 @@ title: Ministry of Education Special Awards 2020
 permalink: /2020-moe-sa/
 description: ""
 ---
-
 The Ministry of Education Special Awards recognise students' diverse achievements in both academic and non-academic spheres, including their contributions to the community. In line with precautionary measures due to the COVID-19 situation, no physical award ceremony was held this year.
 
 The college congratulates our Eunoians and alumni for their outstanding achievements and holistic excellence. Amanda Wong Jia Min (20-I4) and Grace Cheu Li Qing (18-U1) were awarded the Prime Minister's Book Prize. Lim Shi Pei (20-O4) was presented the Lee Kuan Yew Award for All-Round Excellence. Rebekah Seow (18-A1) was the recipient of the Lee Hsien Loong Award for Outstanding Bicultural Students.
 
-![](/images/2020-MOE-SA1.jpeg)
+<br>
+
+![](/images/Features/2020-MOE-SA1.jpeg)
 
 **THE LEE KUAN YEW AWARD FOR ALL-ROUND EXCELLENCE**
 ##### Lim Shi Pei (20-O4)
@@ -17,7 +18,9 @@ The Lee Kuan Yew Award for All-Round Excellence (LKY-ARE) is a national-level aw
 
 Shi Pei is an alumna from Singapore Chinese Girls' School and currently serves as the President of our 4th Student Council.
 
-![](/images/2020-MOE-SA2.jpeg)
+<br>
+
+![](/images/Features/2020-MOE-SA2.jpeg)
 
 **PRIME MINISTER'S BOOK PRIZE (SECONDARY)**
 ##### Amanda Wong Jia Min (20-I4)
