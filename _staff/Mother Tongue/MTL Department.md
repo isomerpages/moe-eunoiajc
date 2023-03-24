@@ -4,7 +4,6 @@ permalink: /about/staff/mtl/
 description: ""
 third_nav_title: Mother Tongue
 ---
-
 <div>  
 <div style="float: left">  
 <img src="/images/Staff/HOD-Tay-Theng-Hwee_s2.jpg" 
@@ -42,8 +41,7 @@ Deputy Head (Mother Tongue Languages)
 </div>  
 <div></div>  
 </div>	
-[Mdm Elavarasi Sundararaju] (https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/)</b>
-<br>
+[Mdm Elavarasi Sundararaju](https://staging.d2ftoa31ukircm.amplifyapp.com//staff/mother-tongue/mdm-elavarasi/)<br>
 Lead Teacher (Character & Citizenship Education)
 
 <div>  
