@@ -1,8 +1,11 @@
 ---
 layout: homepage
 title: Eunoia Junior College
-description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+description: Eunoia Junior College was formed by the collective ambition of
+  three distinguished institutions. Catholic High School, CHIJ St Nicholas
+  Girls' School and Singapore Chinese Girls' School are rooted in a century of
+  excellence in academic and character education.
+image: /images/49744085276_4d90711c91_k.jpg
 permalink: /
 notification: ""
 sections:
@@ -77,3 +80,4 @@ sections:
       image: /images/Features/Gwen Lim.jpg
       alt: Image alt text
 ---
+
