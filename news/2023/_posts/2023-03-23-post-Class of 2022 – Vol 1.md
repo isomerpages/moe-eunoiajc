@@ -6,8 +6,6 @@ layout: post
 description: ""
 image: /images/2022 Angelica Koh.jpg
 ---
-
-
 The Class of 2022 demonstrated how our dreams can take flight when we pursue our passions and spread our love for learning. In this 1st volume, Angelica, Jing Yee, Taia and Wen Xi reflect on their pursuit of all-round excellence and impart words of wisdom to their juniors!
 
 Read more stories about the Class of 2022 in [Vol 2](https://eunoiajc.moe.edu.sg/news/2023/class2/), [Vol 3](https://eunoiajc.moe.edu.sg/news/2023/class3/) and [Vol 4](https://eunoiajc.moe.edu.sg/news/2023/class4/).
