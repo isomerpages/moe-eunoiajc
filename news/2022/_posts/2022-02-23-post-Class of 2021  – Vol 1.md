@@ -6,16 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
-
-
-
-
 The Class of 2021 showed us how to make the worst of times into the best of times, overcoming personal and great challenges to attain their own definition of success. In Volume One, Gwen, Rui Ting, Clement and E-Xuan tell us about how they turned obstacles into opportunities and share what gave them strength and solace throughout their gruelling journeys to the A-Levels.
 
 
 ![](/images/Features/Gwen%20Lim.jpg)
-
-#### Gwen Lim Jing Xuan
 
 **Gwen Lim (20-I1)** exemplified what it means to make the best of any situation. Having faced academic challenges in her first year, she repeated her JC1 year in 2020 and grew into a highly-esteemed leader and seized opportunities to extend her learning beyond the syllabus. She participated in the MOE Economics Student Symposium, collaborating with the National Heritage Board and ETHOS, a student-initiated interest group, to create a website documenting little-known aspects of Singapore's history, achieved an honourable mention at the MOE Our School Our Stories photography competition, produced a short film for Literature Festival 2021 and demonstrated her passion for environmental causes with EJ Earthlings. Her boundless energy also saw her support underprivileged primary school students academically and holistically while balancing her studies in JC2. Gwen recently completed the MOE Teaching Internship Programme and is currently mentoring her juniors as Head of Arts subjects for Project AEGIS.
 
@@ -63,8 +57,6 @@ I’d encourage Eunoians to enjoy the process of learning and view the opportuni
 <br>
 ![](/images/FeaturesClement%20Chim.jpg)
 
-#### Clement Chim
-
 **Clement Chim (20-E4)** selflessly devoted time and effort to help Rui Ting, his classmate, on a day-to-day basis. He supported her when she missed lessons, explaining concepts to her and serving as a bridge between Rui Ting and her subject tutors. As the Chemistry subject representative for the class, he often helped his other classmates improve their grasp of difficult concepts. Clement excelled in Physics as well, pursuing the subject at the Higher 3 level. In his Co-Curricular Activity,  he worked tirelessly to grow as a basketball player and spread his interest in the sport, co-organising a friendly basketball competition for his juniors. Combined with his tenacity and love for learning, Clement's empathy for others sets him apart as a mature and laudable individual.
 
 ###### HOW DO YOU FEEL ABOUT YOUR RESULTS? WHAT ARE YOU GRATEFUL FOR?
@@ -84,8 +76,6 @@ The memories created and the friendships forged - these are friends I know I wil
 To my juniors, when you know what you want to achieve, work out the tangible steps you can take to get there. Focus on putting in the effort needed at each step of the way and you will get there!
 
 ![](/images/Features/Yeo%20E-Xuan.jpg)
-
-#### Yeo E-Xuan
 
 **Yeo E-Xuan (20-U3)** was Class Vice-Chairperson for her civics group and an exemplary role model for her peers. A sincere leader who cared for both their welfare and academic performance, she organised various activities to bring the class together and created an online repository of Economics notes. Despite a setback at home in her second year, she remained resilient throughout. Her commendable academic performance and her many acts of service, from serving as an Orientation Group Leader to leading a Values in Action project, attest to her strength and selflessness.
 
