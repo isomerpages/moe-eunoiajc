@@ -6,9 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-The Class of 2022 demonstrated how our dreams can take flight when we pursue our passions and spread our love for learning. In this 1st volume, Angelica, Jing Yee, Taia and Wen Xi reflect on their pursuit of all-round excellence and impart words of wisdom to their juniors!
+The Class of 2022 included recipients of various scholarships who participated in special programmes ranging from foreign language learning to deeper exploration of the humanities, and biculturalism. In Volume 4, Emylia, Danying, Javier, Rachel, Chan Ning, and Avril tell us about their journey in Eunoia and their experiences in their courses of study.
 
-Read more stories about the Class of 2022 in [Vol 2](https://eunoiajc.moe.edu.sg/news/2023/class2/), [Vol 3](https://eunoiajc.moe.edu.sg/news/2023/class3/) and [Vol 4](https://eunoiajc.moe.edu.sg/news/2023/class4/).
+Read more stories about the Class of 2022 in [Vol 1](https://eunoiajc.moe.edu.sg/news/2023/class1/), [Vol 2](https://eunoiajc.moe.edu.sg/news/2023/class2/) and [Vol 3](https://eunoiajc.moe.edu.sg/news/2023/class3/).
 
 <br>
 
