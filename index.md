@@ -28,7 +28,7 @@ sections:
       subtitle: Beautiful Thinking, Goodwill to All
   - resources:
       title: News
-      button: Read More
+      button: Find out More
   - infopic:
       title: Admissions
       subtitle: Youth with purpose
