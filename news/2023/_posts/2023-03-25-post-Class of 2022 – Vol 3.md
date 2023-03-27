@@ -6,111 +6,154 @@ layout: post
 description: ""
 image: ""
 ---
-The Class of 2022 demonstrated how our dreams can take flight when we pursue our passions and spread our love for learning. In this 1st volume, Angelica, Jing Yee, Taia and Wen Xi reflect on their pursuit of all-round excellence and impart words of wisdom to their juniors!
+The Class of 2022 flourished in their Co-Curricular Activities (CCAs). In this 3rd volume, Isabelle, Eu Jan, Ashley, Zonghan and Natalie tell us about their journey of making the most of their CCAs amidst their other commitments.
 
-Read more stories about the Class of 2022 in [Vol 2](https://eunoiajc.moe.edu.sg/news/2023/class2/), [Vol 3](https://eunoiajc.moe.edu.sg/news/2023/class3/) and [Vol 4](https://eunoiajc.moe.edu.sg/news/2023/class4/).
+Read more stories about the Class of 2022 in [Vol 1](https://eunoiajc.moe.edu.sg/news/2023/class1/), [Vol 2](https://eunoiajc.moe.edu.sg/news/2023/class2/) and [Vol 4](https://eunoiajc.moe.edu.sg/news/2023/class4/).
 
 <br>
 
 ![Angelica Koh](/images/2022%20Angelica%20Koh.jpg)
-### Angelica Koh
+### Isabelle Deborah Looi
 
-A recipient of the MOE Pre-University Scholarship, **Angelica Koh Jia Qi (21-A4)** has also been involved in many college-wide programmes and activities, serving as Vice President of Symphonic Band and contributing to greater awareness of mental well-being through the GLIDE Project, Beautiful Minds.
+**Isabelle Deborah Looi Yan Yi (21-E3)** was an alumna of SNGS who truly excelled holistically. Apart from being President of the Debate Society, she was also part of GLIDE, a regular volunteer at Meet the People sessions and a H3 History student. She has been offered the PSC (Legal Service) scholarship in recognition of her outstanding intellect and her commitment to using her talents to benefit others.
 
 ###### HOW DO YOU FEEL ABOUT YOUR RESULTS AND WHY? WHAT ARE YOU GRATEFUL FOR?
-I am very happy about my results because I felt that my efforts paid off! I am really grateful to my teachers because they have always been there for me, offering to consult me when I needed it, or to be a listening ear and an advisor to my daily struggles and life. Besides them, my friends are an equally great pillar of support. I am always grateful for the meals that we would have before CCA to catch up, or the early morning breakfasts we would have during late reporting days! These interactions keep me going when I have a long day in school, or when I am stressed out about meeting tight deadlines for my non-academic commitments. Last but not least, I am extremely grateful to the school for providing me with a very fulfilling 2 years of JC life that offered me many opportunities to learn beyond the classroom and from others.
+I’m largely satisfied with my results! Since I believe that results are simply a means to an end, rather than the end in itself, I’m glad that my results have enabled me to move forward with my goals.
+
+I’m grateful for my friends who journeyed with me through the past two years! It was undoubtedly challenging, but the support we gave each other was what kept me grounded (even if it’s just complaining to each other about a tough paper). I’m also thankful to multiple seniors who, at different points of my academic journey, offered valuable mentorship and advice. My teachers have also played a crucial role in my journey by sharing their expertise and guidance, as well as spending countless hours at the Level 9 consultation tables.
 
 ###### WHAT WAS A SPECIFIC CHALLENGE OR 'LOW POINT' YOU FACED? HOW DID YOU OVERCOME IT?
 
-One specific challenge I faced was when I had ro represent my house in a 5km competitive run in 2022. This was a pretty uphill task as I had never taken part in a competitive run before and I only ran for leisure with my dad. I put a lot of pressure on myself as on one hand, I wanted to make my house proud and help my house win the competitive run. On the other hand, I personally also wanted to challenge myself and push my limits and make myself proud. As I also had to deal with my CCA and GLIDE commitments, as well as the intense academic workload, it was undeniably difficult to train my endurance and speed. I overcame this challenge by becoming efficient in the tasks I had to handle, so that I could free up time to train. I also tried to be consistent and diligent in keeping up with my running routine. No matter how tired I was, I ensured that I remained strong mentally and persevered through. Emerging as one of the top 5 for the female category is thus an achievement I hold dear to my heart.
+Unsurprisingly, juggling various commitments, inside and out of school, alongside academics led to burnout by mid-J2. Most notably, having CCA Nationals during the first week of June, followed by MYEs at the end of June was Not Fun. I’m thankful that I could lean into my support system for both academic and emotional support during this turbulent period. I’m also grateful for teachers who were understanding of my predicament and cut me some slack (In particular, I recall Mr Azhar being very understanding and willing to shift my H3 deadlines when I expressed my concerns to him!).
+
+The unfortunate truth is that the only ‘cure’ to burnout is rest, so I made it a point to be kind to myself and try my best to rest between MYEs and Prelims! Did I feel that I had fallen behind in academics? Yes. But was it worth it in the longer run? Also yes.
 
 ###### WHAT WAS THE MOST MEANINGFUL PART OF YOUR JOURNEY IN EUNOIA?
 
-Personally, the most meaningful part of my EJ journey would be being able to lead a mental health initiative alongside my peers to support the mental well-being of the student body. It was the first time that I had the opportunity, with the resources and support given, to advocate for something that I am passionate about. Being part of such an initiative meant a lot to me. It was especially meaningful as I reminisced about the late-night meetings that we had to meet the tight deadlines amidst our academic workloads and other commitments. I felt that we worked well together as a team, and I also appreciate and will really miss the sight of everyone working hard to ensure the smooth running of our initiatives. Through this initiative, I also had the chance to constantly push my boundaries and this is definitely one of my biggest #WhyEJs.
+Personally, the memories formed and bonds forged in my CCA, Debate, was my biggest takeaway from the past two years. EDS pushed me to challenge my boundaries as a debater and as a leader, but it also provided me with a safe space to try, fail, and grow. EDS also gave me a space to give back to the wider community through EDS VIA and organising a non-profit tournament!
+
+Above all, the network of passionate members, who were all so willing to contribute in whatever ways they could, inspired me. From alumni who were eager to help train the up-and-coming debaters, to batchmates who gave it their all when interacting with our beneficiaries during EDS VIA, to seniors who readily offered their juniors academic and life advice – they showed me how Goodwill To All materialised in various spheres.
 
 ###### WHAT WORDS OF ADVICE OR ENCOURAGEMENT WOULD YOU LIKE TO SHARE WITH YOUR JUNIORS?
 
-Make the most out of your JC life; 2 years will fly by before you know it! There are many opportunities provided and I hope you hop at these opportunities to develop and grow yourself outside the classroom. Always remain curious and never stop learning! Live boldly!
+Two things! One, chart your own path. I believe that there is no singular route to “success” (however you define it), and what’s more important is that you truly care and are passionate about the things you do. It can be scary, but I believe that if your heart is in the right place, you’ll overcome the challenges you will inevitably face. Two, uplift those around you. I hope that, amidst the potential chaos, you remember to check in on and support those around you.
+
+As a wise mentor once told me, “You’ll Be Fine”. Which is to say, even if you encounter obstacles, even if things don’t initially go as planned, you’ll be okay. This is not to invalidate any sadness or disappointment, but rather that there is still hope that we can solve problems and move forward.
 
 <br><br>
 
 ![](/images/2022%20Yap%20Jing%20Yee.jpg)
 
-### Yap Jing Yee
-An active Track and Field athlete since secondary school, **Yap Jing Yee (21-U3)** was passionate in pursuing sporting excellence in EJC as well, competing in several events and leading her peers as the Vice-Captain of the Track and Field team.
+### Low Eu Jan
+
+On top of being Class Vice-Chairperson, **Low Eu Jan (21-U3)** participated in the college’s Global Citizenship and Advocacy Module (LATITUDE) and represented the school in various competitions as a member of Eunoia JC’s Debate Society. Eu Jan also had the opportunity to organise and adjudicate Eunoia’s Debating Championship 2022, and won several accolades in recognition of his oratorical skill.
 
 ###### HOW DO YOU FEEL ABOUT YOUR RESULTS AND WHY? WHAT HELPED YOU ACHIEVE THESE RESULTS?
 
-I am pleasantly surprised by my results as I was not expecting the grades I got. I am very grateful for the support the school has provided to help us grow in a holistic manner. In particular, my teachers offered patient guidance and supported us throughout both milestones and setbacks. I would also like to extend my gratitude to my friends, old and new, for the strong support system that I know I can rely on when the going gets tough.
+I had a bittersweet feeling when I saw my results. Honestly, they was lower than I’d expected and I was feeling a little sad about it. Nevertheless, looking back at who I was in J1 and comparing it to the present me, I am proud of how much I have grown, learnt and achieved.
+
+I am truly grateful for everyone who supported me through my A-Level journey; from my subject tutors who tirelessly explained concepts and suggested improvements, to my friends from CCA or from my class and beyond, with whom I shared amazing memories. Lastly, I am also grateful for my family, who ate supper with me during my A’s to destress; my parents, who ceaselessly prayed for me during my exams, as well as my brother, who helped me with GP and Economics, and shared his insights with me.
+
+Thank you! I am so incredibly grateful for every one of you!
 
 ###### WHAT WAS A SPECIFIC CHALLENGE OR 'LOW POINT' YOU FACED? HOW DID YOU OVERCOME IT?
 
-During the preparation process for the National School Games in 2022, I was physically and mentally drained from having to juggle the rigorous training and the heavy academic workload. These hectic months taught me the importance of prioritising my responsibilities and reaching out to ask for help when I need it. I am thankful for my friends who cheered me on and were a source of assurance during my competitions. Their selfless sharing of their notes also helped me to stay on track with schoolwork.
+The lowest point in my JC journey was during the June holidays of my J2 year. I had to juggle studying for the MYEs while helming my CG’s Deep Dive Day project.
+
+I relied heavily on the support systems around me to overcome my struggles. Be it studying with my friends, going out with my family, or ranting to whoever would listen, I found a lot of comfort and solace talking to those close to me. Additionally, I started to take things one at a time. Giving myself time and space to just breathe and chill brought me some relief.
 
 ###### WHAT WAS THE MOST MEANINGFUL PART OF YOUR JOURNEY IN EUNOIA?
 
-The most meaningful part of my journey in EJ would actually be the preparation process for the A-Level Examination. It was during this process that I was able to realise for myself how important it was to establish a support system. It was also heartening to work together with my friends and see each of us overcoming each of our individual struggles. The closer bonds we forged as we studied together in between lessons, and the camaraderie amongst my classmates who were eager to help one another with schoolwork, were testament to the strong sense of community here in Eunoia – this I find meaningful.
+As trite as it may sound, the most meaningful part was never the destination but the journey itself. It was not the content of tutorials or lectures as much as the unique, personal insights and epiphanies that each tutor shared. It was not just the large campus and the many college events, but the many amazing people who made Eunoia home. It was not the final result, but the growth I attained as a person from trudging through to reach my final goals.
+
+For me, the most meaningful part of my journey in EJ was the time spent meeting some of the most incredible people I have ever met. It was my privilege to learn from these “Beautiful Thinkers”. The growth that I attained by coming to Eunoia truly made my journey meaningful.
 
 ###### WHAT WORDS OF ADVICE OR ENCOURAGEMENT WOULD YOU LIKE TO SHARE WITH YOUR JUNIORS?
 
-Live in the present and cherish the moments! Apart from the rigour of JC life, there are many small yet beautiful moments that we tend to overlook but those fleeting experiences form the most precious memories that we will hold close to our hearts for a long time to come.
+Work hard and play even harder (after your A-levels)! Don’t forget to put in your best and study (and yes, there’s a lot of studying in JC)! Please do not neglect your studies, it is not worth it in the long run. That said, don’t study 24/7 and burn out; there is so much more to life than mugging. Do the things you enjoy, and never feel guilty while doing so!
 
-So enjoy the process and curate your own unique experience here in Eunoia!
+Good things take time, but don’t worry! All of you still have time! Believe in yourself and do your best - your best will always be enough!
+
+You are definitely worth more than the sum of your grades!
 
 <br><br>
 
 ![](/images/2022%20Long%20Wen%20Xi.jpg)
 
-### Long Wen Xi
+### Ashley Tay
 
-A highly responsible Chairperson of Media Club, **Long Wen Xi (21-U1)** led with a focus on maximising the strengths of her team members. Upon graduating, she was appointed Admin Head of AEGIS, an alumni-driven academic ‘pay-it-forward’ initiative, wherein she played a critical role in selecting Subject Specialists and inspiring fellow alumni to join and help their juniors.
+**Ashley Tay Jia En (21-U3)’s** participation in the Street Dance Student-Initiated Interest Group (SIIG) allowed her to pursue her passion for dance. Besides leading her peers in practising their choreography in Street Dance, she challenged herself by taking part in various competitions locally and overseas, developing her talent in dance and truly shining onstage as a Eunoian with the courage to pursue her passion. On top of this, Ashley was also enrolled in the Eunoia Bicultural Studies Programme, made the Dean’s List, and was awarded the MOE Pre-University Scholarship.
 
 ###### HOW DO YOU FEEL ABOUT YOUR RESULTS AND WHY? WHAT ARE YOU GRATEFUL FOR?
 
-More than anything, I am extremely relieved by my results and I am thankful that my efforts did not go to waste, after a lot of time spent worrying and stressing out. The A-Level period was a tough time for everyone, and I am honestly just glad that it is over.
+I think I’m still in a state of shock right now and I haven’t fully processed my results. Prior to today, I was trying to calm myself down and set realistic expectations. So, if anything, I feel happy that I’ve surpassed my expectations and I’m relieved that my efforts have paid off!
 
-I am grateful for my friends and family members who cheered me on and supported me throughout the two years - through all the difficult times where I felt discouraged or burnt out. A huge source of motivation for me was to make the people around me proud, and to translate the love and encouragement they constantly gave me into a sense of self-empowerment. I am truly lucky to have these people as my rocks throughout a difficult two years.
-
-I am also very thankful for my tutors who gave up their time to meet me for weekly consultations and put in their best for me, and for their valuable life-coaching advice.
+I am grateful for my teachers, who have guided us in the past two years; with them my academic journey was in safe hands. There were countless times when I felt discouraged but I am thankful that my teachers were willing to meet me for consultations and encouraged me to keep going. I am also very grateful for my friends, who have been my pillar of support and given me motivation and lots of positive influence, even if they might not realise it! I My parents have always supported me in everything I did and they’ve never pressured me to achieve anything or be someone – I am truly grateful to them. All in all, I’m very blessed to have people who love and support me!
 
 ###### WHAT WAS A SPECIFIC CHALLENGE OR 'LOW POINT'? HOW DID YOU OVERCOME IT?
 
-One ‘low point’ I faced in these two years was perhaps knowing that I was honestly living an unhealthy lifestyle, yet choosing not to do anything about it. While the people around me were worried, I was stubborn and continued to sleep only a few hours every night and did not take good care of myself. With little sleep also came the emotional strain of feeling endlessly exhausted, stressed and frustrated.
-
-I think I realised that it should not be this way, and tried to adjust my lifestyle habits slowly. By doing small things like taking breaks, going for walks, and having more regular as well as sufficient sleep.
+One low point I had was the period between April to September in 2022. As a J2, I definitely felt the pressure and expectations slowly build up as everyone shifted their gears and started to focus more on their studies. It was a trying time for me because I constantly felt burnt out and unmotivated academic-wise. In 2022, I took up many activities. From choreographing for Street Dance’s Humanities and Aesthetics Week performance, to pursuing my interest in dance externally and even participating in an international dance competition in May while preparing for the Mid-Year Examinations. As a result, I found myself struggling to balance my commitments and was falling behind on schoolwork. It was not easy but I had to come to terms with the fact that while my interests were what I wanted to invest time and effort in, I needed to prioritise my own mind and body too. I needed to accept that I could not over-exert myself in various aspects; I needed to give myself the time to recharge so I could go further.
 
 ###### WHAT WAS THE MOST MEANINGFUL PART OF YOUR JOURNEY IN EUNOIA?
 
-I had a lot of meaningful experiences in Eunoia, but one of the most significant times of my JC life was the time I spent with EJ Media. In such a dedicated and service-oriented club, I met so many people who touched my life one way or another. Serving as the Chairperson of EJ Media was a humbling, enriching and unforgettable experience. I learnt so much more about myself, and became more reflective and introspective. I believe this led me on a path of self-discovery and growth. I am also truly thankful for the many precious people I met here, who grew alongside me, and gave me space to make mistakes and learn. It was truly a wonderful part of my EJ journey and I will always look back upon it fondly.
+Being part of the Programme Committee for Orientation 2022 allowed me to be truly immersed in EJ’s culture and leave an impact on our juniors. Everyone’s contributions, big or small, all add up to the warm welcome we gave to our juniors. I still remember coming back to school during the December holidays to choreograph the batch dance with my friends. This year, I returned for Open House 2023 and when I saw the J2s jumping, dancing and cheering at the Symposia, I felt proud to see the continuation of our legacy.
 
 ###### WHAT WORDS OF ADVICE OR ENCOURAGEMENT WOULD YOU LIKE TO SHARE WITH YOUR JUNIORS?
 
-It may seem quite cliche, but I think I would tell them to always stay true to themselves and their values. In difficult situations, it’s more important to make decisions that resonate with what we believe in. Even if things don’t always turn out the way that we want, and we face challenges, it helps if we are our most authentic and genuine selves.
+Take breaks and do not shortchange or invalidate yourself. If you're tired, you’re tired and that’s okay. Sometimes, a good night’s rest will go a long way and tomorrow's you will thank yourself for it.
 
-I guess another piece of advice I would give is to be more forgiving to yourself. There is always space to make mistakes and to grow from such experiences. It is these lived experiences that give us that much more depth and authenticity as humans.
+Think carefully about how you would want to spend your time in JC. Five years down the road, how would you want to recall your two years here? For me, the realisation that hit me the most in J2 was that I definitely didn’t want my time here to just revolve around academics. So go for what you’re interested in and do what makes you happy!
 
 <br><br>
 
 ![](/images/2022%20Taia%20Pang.jpg)
 
-### Taia Pang
+### Liu Zonghan
 
-For **Taia Pang (21-E3)**, her love and passion for Netball drove her to join EJC. An experienced senior to her juniors and and a key pillar of support to her peers, she guided and motivated her teammates throughout the competition season. Besides her commitment to sports, she also contributed as part of the 5th Student Council Executive Committee. Keen to take on academic challenges too, she took on H3 Chemistry to further her interest in the subject.
+**Liu Zonghan (21-U3)** was an academically outstanding Eunoian who won multiple awards in Physics Olympiads, studied Physics at H3 level, and attained the Dean’s List. He applied his academic knowledge to real-world pursuits, such as his passion for aeromodelling, leading his team to second place in the Singapore Amazing Flying Machine Competition (SAFMC) 2022. Zonghan added to his skillset by acquiring knowledge of coding and AI as a member of the Computing and Robotics Club.
 
 ###### HOW DO YOU FEEL ABOUT YOUR RESULTS AND WHY? WHAT ARE YOU GRATEFUL FOR?
 
-I am very happy and grateful for my results because it is a good result, and the subjects that I was worried about came out well in the end. I am also very grateful for my teachers because they went out of the way to help me during my EJ journey, especially when I had to take two months of MC from the Mid-Year Exams to almost before the Preliminary Exams. Besides ensuring that I was not falling behind in my studies, my teachers also checked in to make sure that I was recovering and coping well. Another thing I am grateful for is my friends. Their various small acts of kindness, such as preparing an exam care pack or saying kind words when they notice I am feeling down, really helped me through JC.
+Throughout my JC life, I’ve always held on to the belief that one should always set realistic goals and then try one’s very best to achieve it (because if it is realistic, it should be achievable). Knowing very well where I stood, I felt calm as my results matched my expectations.
+
+However, these results would not have been achievable if not for the guidance of so many kind and helpful teachers in our school, especially those in charge of the subjects I was weak in (such as Chemistry). Their passionate and professional teaching enabled me to reach my full potential. 
+
+I would also like to express my sincere gratitude to my tutor-referee for my UK application, Mr Koh Siong Yang from the Physics unit. He has helped me greatly in my application journey, and enabled me to achieve a successful application.
 
 ###### WHAT WAS A SPECIFIC CHALLENGE OR 'LOW POINT'? HOW DID YOU OVERCOME IT?
 
-I think one 'low point' was definitely when I got injured one week before Netball NSG. One of the main reasons why I chose EJ was to play with the netball team here. Sustaining an injury that took me out of play after we could finally compete when the COVID restrictions were eased really made me feel very disappointed. I overcame this low point with the help of my friends. They really encouraged me during that period of intense disappointment, and I am thankful for their continued support, particularly since the recovery period for my injury took up to a year. I also came to terms with the fact that I could still contribute to my team on the sidelines by guiding them or pointing out certain mistakes so that they can improve their gameplay.
+Chemistry has always been a difficult subject for me, especially when I struggled with Organic Chemistry. To overcome such a challenge, I carved out more time for the subject. Until our graduation, I spent half my study time on Chemistry. I also sourced for online videos to complement the resources for revision we got in school!
 
 ###### WHAT WAS THE MOST MEANINGFUL PART OF YOUR JOURNEY IN EUNOIA?
 
-I think that the most meaningful part of my journey would be being a part of the Student Council (SC). SC has really taught me a lot and it enabled me to work with different people that I would otherwise have never interacted with. I also think that being part of SC helped me to shape other Eunoians’ #WhyEJ, and being able to have such a positive influence has been very fulfilling. Through SC, I have made a lot of memories and friends, while also being able to leave my mark on the culture of EJ.
+The most meaningful part of my EJC journey was definitely my participation in SAFMC 2022! In this competition, our team built a radio-controlled fixed-wing aircraft to navigate a pre-designed course. As the team leader, I utilised my knowledge of aeronautics, materials and design to make our aircraft more airworthy and agile. My kind and helpful teammates also contributed great ideas for the design and aesthetics of the aircraft. I’m proud to say that our collective effort enabled us to get this far. I would like to thank the school for supporting our team, as well as our teacher-in-charge, Mr Tan Zhen Yong for overseeing the event.
 
 ###### WHAT WORDS OF ADVICE OR ENCOURAGEMENT WOULD YOU LIKE TO SHARE WITH YOUR JUNIORS?
 
-For the J1s, it might be a daunting and new environment but I would encourage you to not be afraid and step out of your comfort zones. In JC, time may seem to be very short but the experiences are very intense and it is also here that the best friendships are forged, so do take a leap of faith and go forth!
+I think time management is of paramount importance in one’s JC life, and it does not necessarily mean that one must invest all time into studying. In reality, I think it means maximising the use of time by concentrating fully on the task at hand, so as to not waste any time. I believe this is the essence of ‘work hard, play hard’!
 
-For the J2s, it might seem like the A-Levels are coming very soon even though you are not ready yet, but I think that one saying that got me through J2 is 'trust the process'. Your results during the MYEs or Prelims might be shocking (in a bad way), but never lose hope and keep putting in your best effort. Ultimately, your hard work will definitely pay off!
+<br><br>
+
+![](/images/2022%20Taia%20Pang.jpg)
+
+### Natalie Lim
+
+EJC Hockey emerged as champions in the 2022 National School Games. As captain of EJC Hockey. **Lim Tze Min Natalie (21-A2)** played a key role in the victory, leading her team with empathy by force of example. Humble in victory, Natalie epitomised the attributes of character, integrity, and sportsmanship, and was awarded the Sportsmanship award in recognition of this. While she was at it, Natalie found the time to excel in her studies and attain the Dean’s List.
+
+###### HOW DO YOU FEEL ABOUT YOUR RESULTS AND WHY? WHAT ARE YOU GRATEFUL FOR?
+
+Coming to school today, I felt very nervous as there was a lot of uncertainty. My results exceeded my expectations and I am very happy and thankful that my hard work has paid off.
+
+It was definitely not an easy journey and any success I have achieved thus far is also because of the people around me. I am grateful for my parents and family who have been my strongest pillar of support throughout my JC journey, my teachers who believed in and guided me, and my friends who have encouraged me when I did not believe in myself.
+
+###### WHAT WAS A SPECIFIC CHALLENGE OR 'LOW POINT'? HOW DID YOU OVERCOME IT?
+
+I hit my lowest point in JC1 after receiving my Mid-Year Exam results. It was then that I realised how big the jump was from secondary school to JC. I started to give myself a lot of pressure and that led to many tearful breakdowns. I am thankful for my deskmate who was there with me throughout that period of time. She gave me a safe space to express everything that I was feeling and encouraged me along the way. Having such a strong support from various people was what helped me get through the stressful times in JC.
+
+###### WHAT WAS THE MOST MEANINGFUL PART OF YOUR JOURNEY IN EUNOIA?
+
+Being able to lead my team through the National School Games as Captain of Hockey is definitely my #WhyEJ. It’s been a very fulfilling journey, and it’s not just because we emerged as champions! Seeing the team grow together, encourage one another and working hard towards our common goal was deeply heartwarming. I am thankful for the opportunity to lead and grow as a leader, and for everything that I have learn through this journey.
+
+###### WHAT WORDS OF ADVICE OR ENCOURAGEMENT WOULD YOU LIKE TO SHARE WITH YOUR JUNIORS?
+
+Enjoy the two years you have in EJ! Time will fly by very quickly, and while you focus on your studies, do enjoy the time with your CG, CCA-mates and the people you meet through various school activities. Be kind to yourself and pace yourself for the marathon ahead. It might always feel like it is the end when we don’t meet our expectations, but it’s not, and it’s okay. Despite the limited time there is, there is still time for you to improve and grow, so don’t give up at any point! It might seem hard to believe, but things will get better.
