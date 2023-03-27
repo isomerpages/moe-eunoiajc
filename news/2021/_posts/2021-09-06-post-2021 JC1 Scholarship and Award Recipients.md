@@ -22,18 +22,18 @@ Tan Chern Hong (21-A4)
 Yan Yixiang, Eric (21-A3)   
 Esmond Ee Jun Wei (21-E6)
 
-![](/images/2021-jc1-scholars-3.jpeg)
+![](/images/2021-jc1-scholars-3.jpg)
 ### DSTA Junior College Scholarship
 Alexis Foo Li Lin (21-E4)    
 Ho Wenn Mae Caithlin (21-I4)
 
-![](/images/2021-jc1-scholars-2.jpeg)
+![](/images/2021-jc1-scholars-2.jpg)
 ### EJC Community Engagement Scholarship
 Loh Jen Nin (21-O5)   
 Yap Kah Him (21-I3)   
 Chantel Lee Su Xin (21-O2)
 
-![](/images/2021-jc1-scholars-5.jpeg)
+![](/images/2021-jc1-scholars-5.jpg)
 ### MOE Bicultural Studies Programme Scholarship
 Chen Ding (21-U2)   
 Davey Loka (21-A1)   
@@ -68,7 +68,7 @@ Sam Li Tong (21-U2)
 Tan Yong (21-U2)   
 Wong Mei Hui (21-U2)
 
-![](/images/2021-jc1-scholars-6.jpeg)
+![](/images/2021-jc1-scholars-6.jpg)
 ### MOE Humanities Scholarship
 Aidan Goh Quan Zhang (21-U1)   
 Alena Hua Xuan Ling (21-O1)   
@@ -98,7 +98,7 @@ Shannon Sim Le Xuan (21-O1)
 Tricia Loh Qiuxuan (21-U1)   
 Yap Zoe Ern (21-O1)
 
-![](/images/2021-jc1-scholars-4.jpeg)
+![](/images/2021-jc1-scholars-4.jpg)
 ### National Elective Tamil Language Programme Scholarship
 Murugan Rakshita (21-E1)
 
