@@ -57,6 +57,6 @@ sections:
         each other and the community.
       button: SEE MORE
       url: /class-2021-3/
-      image: /images/Features/Nadia.jpg
+      image: /images/52769353607_835fa5a4c0_k.jpg
       alt: Image alt text
 ---
