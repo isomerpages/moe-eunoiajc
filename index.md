@@ -35,7 +35,7 @@ sections:
       description: For information regarding DSA, JAE, JIP, and scholarships;
         additional information for returning students, international students
         and financial assistance.
-      button: "CLICK HERE "
+      button: FIND OUT MORE
       url: /jc1-scholars-2022/
       image: /images/Features/2022-ASTARDSTA-Scholars_for-web-1.jpg
       alt: Image alt text
@@ -45,17 +45,17 @@ sections:
       description: Our teaching and learning philosophy, academic subjects and
         combinations offered; flagship and student development programmes found
         at EJC.
-      button: Know MORE
+      button: READ MORE
       url: /class-2021-4/
       image: /images/Features/Tjan-Yi-Xuan.jpg
       alt: Image alt text
   - infopic:
-      title: Class of 2021 Soaring – Vol 3
-      subtitle: NEWS
-      description: In this third volume, Nadia, Jia Sen, Felynn, Eleanor and Yanisa
-        share their passion for the sciences, the importance of beautiful
-        thinking.
-      button: READ MORE
+      title: Culture
+      subtitle: Thinkers with a heart
+      description: Fully committed to their CCAs and Houses, Eunoians strive for
+        excellence as they participate in various college events, caring for
+        each other and the community.
+      button: SEE MORE
       url: /class-2021-3/
       image: /images/Features/Nadia.jpg
       alt: Image alt text
