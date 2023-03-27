@@ -105,5 +105,6 @@ Kendra Loh Yee Hooi (22-O5)<br>
 Koh Ci En (22-E1)<br>
 Tan Jiok Fong Jaden (22-O5)<br>
 
+![](/images/Peh-Xin-Rong-22-A1-scaled-e1666842431255.jpg)
 ### Ee Hoe Hean Book Prize
 Peh Xin Rong (22-A1)<br>
