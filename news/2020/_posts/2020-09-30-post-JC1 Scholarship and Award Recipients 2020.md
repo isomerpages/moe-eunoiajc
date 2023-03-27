@@ -84,7 +84,7 @@ Wong Yi Xuan (20-U1)<br>
 Zenov Liu Fan (20-U1)<br>
 
 
-![2020-jc1-scholars-4.jpg)
+![](\images\2020-jc1-scholars-4.jpg)
 
 ### MOE Music Elective Scholarship
 
