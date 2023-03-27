@@ -47,7 +47,7 @@ sections:
         at EJC.
       button: READ MORE
       url: /class-2021-4/
-      image: /images/Features/Tjan-Yi-Xuan.jpg
+      image: /images/34001265298_9349e7e915_k.jpg
       alt: Image alt text
   - infopic:
       title: Culture
