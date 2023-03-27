@@ -30,12 +30,12 @@ sections:
       title: News
       button: Read More
   - infopic:
-      title: JC1 Scholarship & Award Recipients 2022
-      subtitle: NEWS
-      description: The college congratulates 77 of our JC1 Eunoians on being awarded
-        scholarships from the Ministry of Education and external agencies in
-        2022.
-      button: READ MORE
+      title: Admissions
+      subtitle: Youth with purpose
+      description: For information regarding DSA, JAE, JIP, and scholarships;
+        additional information for returning students, international students
+        and financial assistance.
+      button: "CLICK HERE "
       url: /jc1-scholars-2022/
       image: /images/Features/2022-ASTARDSTA-Scholars_for-web-1.jpg
       alt: Image alt text
@@ -59,25 +59,4 @@ sections:
       url: /class-2021-3/
       image: /images/Features/Nadia.jpg
       alt: Image alt text
-  - infopic:
-      title: Class of 2021 Soaring – Vol 2
-      subtitle: News
-      description: In Vol 2, Andre, Bin Xin, Vanessa, Mayanee and Rowena reflect on
-        their journeys as student-leaders and give their juniors some wisdom for
-        the road ahead.
-      button: READ MORE
-      url: /class-2021-2/
-      image: /images/Features/Andre Koh.jpg
-      alt: Image alt text
-  - infopic:
-      title: Class of 2021 Soaring – Vol 1
-      subtitle: News
-      description: From the Class of 2021, Gwen, Rui Ting, Clement and E-Xuan tell us
-        about how they turned obstacles into opportunities on their A-Level
-        journey.
-      button: READ MORE
-      url: /class-2021-1/
-      image: /images/Features/Gwen Lim.jpg
-      alt: Image alt text
 ---
-
