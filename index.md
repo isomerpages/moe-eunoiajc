@@ -40,12 +40,12 @@ sections:
       image: /images/Features/2022-ASTARDSTA-Scholars_for-web-1.jpg
       alt: Image alt text
   - infopic:
-      title: Class of 2021 Soaring – Vol 4
-      subtitle: NEWS
-      description: In our final volume, Deon, Lauren, Leia, Yi Xuan, Tiantian and
-        Amanda share what inspires them in their pursuit of the Humanities and
-        the Arts.
-      button: READ MORE
+      title: Curriculum
+      subtitle: Leaders with courage
+      description: Our teaching and learning philosophy, academic subjects and
+        combinations offered; flagship and student development programmes found
+        at EJC.
+      button: Know MORE
       url: /class-2021-4/
       image: /images/Features/Tjan-Yi-Xuan.jpg
       alt: Image alt text
