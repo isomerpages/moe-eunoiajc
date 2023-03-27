@@ -81,7 +81,7 @@ Sarah-Ann Tan Shee Yee (18-U1)<br>
 
 ### MOE Music Elective Scholarship
 
-Ashley Chang De Jie (18-O5)<br>  
+Ashley Chang De Jie (18-O5)<br>
 Kenneth Hoh Jia Khai (18-O5)<br>
 Ong Ping Din (18-O5)<br>
 Wang Jingye (18-U2)<br>
