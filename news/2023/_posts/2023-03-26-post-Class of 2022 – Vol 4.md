@@ -13,24 +13,35 @@ Read more stories about the Class of 2022 in [Vol 1](https://eunoiajc.moe.edu.s
 <br>
 
 ![Angelica Koh](/images/2022%20Angelica%20Koh.jpg)
-### Angelica Koh
+### Emylia Audreyna
 
-A recipient of the MOE Pre-University Scholarship, **Angelica Koh Jia Qi (21-A4)** has also been involved in many college-wide programmes and activities, serving as Vice President of Symphonic Band and contributing to greater awareness of mental well-being through the GLIDE Project, Beautiful Minds.
+**Emylia Audreyna (21-O1)** was part of the MOE Humanities Scholarship Programme (HSP) and also Eunoia’s first Malay Language and Literature (MLL) student. She sought to apply the perspective taking and content she learned in a real-world setting, participating in events like the MOE Pre-University Seminar and Singapore Model United Nations. A member of the Student Council and GLIDE (Growing Leaders with Initiative, Dedication and Empathy), Emylia lived out Beautiful Thinking, Goodwill to All in the way she used her talents to help those around her.
 
 ###### HOW DO YOU FEEL ABOUT YOUR RESULTS AND WHY? WHAT ARE YOU GRATEFUL FOR?
-I am very happy about my results because I felt that my efforts paid off! I am really grateful to my teachers because they have always been there for me, offering to consult me when I needed it, or to be a listening ear and an advisor to my daily struggles and life. Besides them, my friends are an equally great pillar of support. I am always grateful for the meals that we would have before CCA to catch up, or the early morning breakfasts we would have during late reporting days! These interactions keep me going when I have a long day in school, or when I am stressed out about meeting tight deadlines for my non-academic commitments. Last but not least, I am extremely grateful to the school for providing me with a very fulfilling 2 years of JC life that offered me many opportunities to learn beyond the classroom and from others.
+
+Results do not define us. We are more than our results. As such, while I am happy with my performance, I am still of the opinion that life is worth more than just a grade on your result slip.
+
+I am really grateful to have gotten an A for MLL, not because it is an A but more so because of the obstacles and challenges that I had to overcome to get that grade. Thank you, Cikgu Nadira, for helping me to connect with the subject and for proving its necessity and beauty (especially in this day and age). 
+
+I am also grateful to have SURVIVED the A-Levels. It was a tough process but I did it!
 
 ###### WHAT WAS A SPECIFIC CHALLENGE OR 'LOW POINT' YOU FACED? HOW DID YOU OVERCOME IT?
 
-One specific challenge I faced was when I had ro represent my house in a 5km competitive run in 2022. This was a pretty uphill task as I had never taken part in a competitive run before and I only ran for leisure with my dad. I put a lot of pressure on myself as on one hand, I wanted to make my house proud and help my house win the competitive run. On the other hand, I personally also wanted to challenge myself and push my limits and make myself proud. As I also had to deal with my CCA and GLIDE commitments, as well as the intense academic workload, it was undeniably difficult to train my endurance and speed. I overcame this challenge by becoming efficient in the tasks I had to handle, so that I could free up time to train. I also tried to be consistent and diligent in keeping up with my running routine. No matter how tired I was, I ensured that I remained strong mentally and persevered through. Emerging as one of the top 5 for the female category is thus an achievement I hold dear to my heart.
+Truth be told, I had taken on many different commitments throughout my time in JC and having to juggle all of them alongside the rigorous A Level curriculum was without a doubt challenging. In term 2 of J2, I had taken on roles such as being the overall in charge of Council camp. Besides planning for the camp, I was also a part of the Humanities Aesthetic Week (HAW) Executive Committee. These were my 2 major commitments alongside my typical council duties as part of the Culture Committee as well as external commitments such as volunteering. 
+
+While my days were packed to the brim, I had also learnt to rely on those around me for support. I learnt that life is not just about chasing that 90RP. Instead, I learnt to prioritise self care so as to avoid burnout.
+
+Leaning on those around me and remembering that life is more than just grades really helped me.
 
 ###### WHAT WAS THE MOST MEANINGFUL PART OF YOUR JOURNEY IN EUNOIA?
 
-Personally, the most meaningful part of my EJ journey would be being able to lead a mental health initiative alongside my peers to support the mental well-being of the student body. It was the first time that I had the opportunity, with the resources and support given, to advocate for something that I am passionate about. Being part of such an initiative meant a lot to me. It was especially meaningful as I reminisced about the late-night meetings that we had to meet the tight deadlines amidst our academic workloads and other commitments. I felt that we worked well together as a team, and I also appreciate and will really miss the sight of everyone working hard to ensure the smooth running of our initiatives. Through this initiative, I also had the chance to constantly push my boundaries and this is definitely one of my biggest #WhyEJs.
+Surprisingly my most meaningful part of my journey in Eunoia was also the period of time when I was at my busiest. The dinners at the playground with my fellow council camp committee made my time in JC really memorable. Our heart to heart talks after tiring council general meetings really made my week. Furthermore, watching our efforts pay off during the actual camp is also a moment which I will never forget. While handing over to the next batch of councillors felt bittersweet, it is beautiful I found something so meaningful in my short 2 years in JC, which felt hard to let go. 
+
+I also think that the people are what made my EJ experience so meaningful. My CG mates were there for me from the very start till the end, and my council friends and I walked through hell and high waters together. They are my biggest #whyEJ
 
 ###### WHAT WORDS OF ADVICE OR ENCOURAGEMENT WOULD YOU LIKE TO SHARE WITH YOUR JUNIORS?
 
-Make the most out of your JC life; 2 years will fly by before you know it! There are many opportunities provided and I hope you hop at these opportunities to develop and grow yourself outside the classroom. Always remain curious and never stop learning! Live boldly!
+“It will be okay, if it is not okay then it is not the end” - I found lots of meaning in this quote and it honestly helped to tide me through the pains of JC. Life is bound to get overwhelming but at the end of it you will be okay. Grades do not define us! While the JC environment makes it feel like it does, do know that you are so so so much more than your grades. This advice can also be applied for when your commitments get tough and 24 hours does not seem like enough time. This too shall pass and you will be okay. Also, do not forget that you are loved and there are people here for you! Jiayou Juniors!
 
 <br><br>
 
