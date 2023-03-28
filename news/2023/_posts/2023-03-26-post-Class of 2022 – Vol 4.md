@@ -99,7 +99,7 @@ To the J1s, your JC life has just begun. Some of you, like I once did, may be fe
 
 <br><br>
 
-![](/images/2022/2022%20Avril%20Lim,%20Chan%20Ning,%20Rachel%20Edith%20Lie.jpg)
+![Rachel, Chan Ning, Avril](/images/2022/2022%20Avril%20Lim,%20Chan%20Ning,%20Rachel%20Edith%20Lie.jpg)
 ### Rachel Edith Lie, Chan Ning, Avril Lim
 
 Rachel Edith Lie Mei Rui (21-I3), Chan Ning (21-I3), and Avril Lim Si-Ying (21-A1) were recipients of MOE’s Foreign Language Elective Scholarship. Learning foreign language as part of this scholarship programme offered the opportunity for virtual immersions with schools and host families in various countries, forging a deeper appreciation of how language learning can broaden one’s horizons and help forge meaningful connections with others. 
