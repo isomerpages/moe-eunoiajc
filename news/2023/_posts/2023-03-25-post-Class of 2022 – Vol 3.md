@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-The Class of 2022 flourished in their Co-Curricular Activities (CCAs). In this 3rd volume, Isabelle, Eu Jan, Ashley, Zonghan and Natalie tell us about their journey of making the most of their CCAs amidst their other commitments.
+The Class of 2022 flourished in their Co-Curricular Activities (CCAs). In this third volume, Isabelle, Eu Jan, Ashley, Zonghan and Natalie tell us about their journey of making the most of their CCAs amidst their other commitments.
 
 Read more stories about the Class of 2022 in [Vol 1](https://eunoiajc.moe.edu.sg/news/2023/class1/), [Vol 2](https://eunoiajc.moe.edu.sg/news/2023/class2/) and [Vol 4](https://eunoiajc.moe.edu.sg/news/2023/class4/).
 
