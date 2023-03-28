@@ -39,7 +39,7 @@ So, juniors, go all out and enjoy the JC life you have ahead!
 
 <br><br>
 
-![Yap Jing Yee](/images/2022/2022%20Yap%20Jing%20Yee.jpg)
+![Xing Yu](/images/2022/2022%20Tan%20Xing%20Yu.jpg)
 ### Tan Xing Yu
 
 **Tan Xing Yu (21-I2)** was the Skills Head for ODAC during her time at EJC. While she had a quiet demeanour, she decided to step up and run for the executive committee because of her passion in guiding her CCA mates. She demonstrated great skills, but most importantly, the willingness to teach her peers and accommodating their requests and questions with patience. She was also dependable and a source of encouragement and support for her friends and teachers, embodying the spirit of Eunoia.
@@ -62,7 +62,7 @@ To the JC2s: never be afraid to reach out for help as there will always be peopl
 
 <br><br>
 
-![Yap Jing Yee](/images/2022/2022%20Yap%20Jing%20Yee.jpg)
+![Liu Yuan](/images/2022/2022%20Liu%20Yuan.jpg)
 ### Liu Yuan
 
 Altruistic by nature with a genuine concern for his friends, **Liu Yuan (21-I5)** initiated a peer-tutoring programme within his class, making arrangements for students who were stronger in each subject to teach certain topics to the rest. His efforts to foster a community of learners truly conveyed the spirit of Thinker with Heart.
@@ -85,7 +85,7 @@ A quote I refer back to frequently is 'the years of struggle will strike you as 
 
 <br><br>
 
-![Yap Jing Yee](/images/2022/2022%20Yap%20Jing%20Yee.jpg)
+![Imran](/images/2022/2022%20Imran%20Westerhout%20Hasani.jpg)
 ### Imran Westerhout Hasan
 
 A personable individual well-liked by his peers, **Imran Westerhout Hasan** (21-E1) also showed how he was a Leader with Courage as he took on the role of Student Council President while dealing with anxiety episodes throughout his time at EJC. Assuming the role with respect and dilligence, he shares his #whyej with us.
