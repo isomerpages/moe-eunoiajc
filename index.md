@@ -41,7 +41,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Curriculum
-      subtitle: Leaders with courage
+      subtitle: Leader with courage
       description: Our teaching and learning philosophy, academic subjects and
         combinations offered; flagship and student development programmes found
         at EJC.
@@ -51,7 +51,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Culture
-      subtitle: Thinkers with a heart
+      subtitle: Thinker with a heart
       description: Fully committed to their CCAs and Houses, Eunoians strive for
         excellence as they participate in various college events, caring for
         each other and the community.
