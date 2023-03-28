@@ -46,27 +46,27 @@ I also think that the people are what made my EJ experience so meaningful. My CG
 <br><br>
 
 ![](/images/2022%20Yap%20Jing%20Yee.jpg)
+### Wang Danying
 
-### Yap Jing Yee
-An active Track and Field athlete since secondary school, **Yap Jing Yee (21-U3)** was passionate in pursuing sporting excellence in EJC as well, competing in several events and leading her peers as the Vice-Captain of the Track and Field team.
+Wang Danying (21-A1) was part of the Bicultural Scholarship Programme (BSP) and offered a rare combination of Chinese Language-related H2 subjects: China Studies in Chinese, Chinese Language and Literature, and Translation (Chinese). Effectively bilingual and  deeply passionate about Chinese language and culture, she also participated in the NUS-MOE Humanities and Social Sciences Research (HSSR) programme when she took Chinese Language and Literature at the H3 level. Her talents extended to music, and Danying was a flautist in the Symphonic Band, earning a Certificate of Distinction at the SYF Arts Presentation in 2021. She was also Vice-Chairperson of the BSP Exco, and a class vice-chairperson.
 
 ###### HOW DO YOU FEEL ABOUT YOUR RESULTS AND WHY? WHAT HELPED YOU ACHIEVE THESE RESULTS?
 
-I am pleasantly surprised by my results as I was not expecting the grades I got. I am very grateful for the support the school has provided to help us grow in a holistic manner. In particular, my teachers offered patient guidance and supported us throughout both milestones and setbacks. I would also like to extend my gratitude to my friends, old and new, for the strong support system that I know I can rely on when the going gets tough.
+I think it is within expectations. I was both shocked and surprised when I received the results. While not perfect, I am certainly grateful to my past self for having attained the best possible results and conquering the A levels to the best of my ability. I am grateful too, for all the support and encouragement I have received from my teachers who have pushed me, stretched me in many ways, be it academically, intellectually or in character. I am thankful for my peers who affirmed and supported me throughout this incredible journey of growth. Lastly, I am grateful for EJC, for providing me with ample opportunities to challenge myself and fulfil my goals.
 
 ###### WHAT WAS A SPECIFIC CHALLENGE OR 'LOW POINT' YOU FACED? HOW DID YOU OVERCOME IT?
 
-During the preparation process for the National School Games in 2022, I was physically and mentally drained from having to juggle the rigorous training and the heavy academic workload. These hectic months taught me the importance of prioritising my responsibilities and reaching out to ask for help when I need it. I am thankful for my friends who cheered me on and were a source of assurance during my competitions. Their selfless sharing of their notes also helped me to stay on track with schoolwork.
+In semester 1 of JC2, I struggled to cope with juggling multiple commitments, as I had to devote time between Symphonic Band concerts while concurrently writing my thesis essay as part of a MOE-NUS research project I was involved in. There were times where my regular school assignments just piled up and I simply did not have enough time to catch up, which resulted in me lagging behind in certain subjects. However, I am extremely grateful to have understanding teachers who knew what I was going through and were kind enough to offer extensions that I badly needed for assignments. I pulled through by squeezing out time to socialise during regular breaks to prevent possible burnouts. After this, what was the most challenging period of my JC life became the most memorable and meaningful.
 
 ###### WHAT WAS THE MOST MEANINGFUL PART OF YOUR JOURNEY IN EUNOIA?
 
-The most meaningful part of my journey in EJ would actually be the preparation process for the A-Level Examination. It was during this process that I was able to realise for myself how important it was to establish a support system. It was also heartening to work together with my friends and see each of us overcoming each of our individual struggles. The closer bonds we forged as we studied together in between lessons, and the camaraderie amongst my classmates who were eager to help one another with schoolwork, were testament to the strong sense of community here in Eunoia – this I find meaningful.
+The most meaningful part of my journey in Eunoia, was being able to fulfil the goals I set out to achieve by seizing every opportunity presented to me. For instance, being part of the BSP Exco team has been one thing I anticipated and aimed for prior to coming to EJC. Looking back, I am glad I took the opportunity to be part of the Exco team and met people who share the same interests as me. It was a memorable and fulfilling experience working with similar-minded people who put together their creativity, ingenuity and enthusiasm to organise and plan activities for BSP and our school.
 
 ###### WHAT WORDS OF ADVICE OR ENCOURAGEMENT WOULD YOU LIKE TO SHARE WITH YOUR JUNIORS?
 
-Live in the present and cherish the moments! Apart from the rigour of JC life, there are many small yet beautiful moments that we tend to overlook but those fleeting experiences form the most precious memories that we will hold close to our hearts for a long time to come.
+Advice: I feel that there is never a “right” or “correct” version of what you want your JC life to be, and definitely no “better” ways to survive JC. Though some recommendations are sound advice, I do not think it is helpful to everyone, since all of us have our own set of beliefs and values. Some of us certainly would prioritise studies so as to prepare ourselves well for the A levels, while others would also want to focus on creating memories with their friends as time is precious here in EJC (2 years, too short!). Hence what is ultimately important is to know what you want to get out of your 2 years in EJC, what do you see as most important and proceed confidently to fulfil these goals. Perhaps, the “best” way to get through JC is one that suits you well, and leaves you with no regrets!
 
-So enjoy the process and curate your own unique experience here in Eunoia!
+Encouragement: Juniors, you are all doing well in your own ways, and I am confident that all of you will be able to leave JC as better version of yourselves!
 
 <br><br>
 
