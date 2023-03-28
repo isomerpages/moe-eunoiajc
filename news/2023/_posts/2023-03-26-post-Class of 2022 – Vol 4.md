@@ -71,9 +71,9 @@ Encouragement: Juniors, you are all doing well in your own ways, and I am confid
 <br><br>
 
 ![](/images/2022%20Long%20Wen%20Xi.jpg)
-### Javier Loo
+### Loo Jing Yi
 
-Javier Loo Jing Yi (21-I1) was the Valedictorian (Arts) of the Class of 2022. He was also an accomplished Taekwondo athlete, winning a bronze medal at the National School Games. As part of the organising committee of the 2022 Orientation programme, he played a key role in helping a new batch of Eunoians settle into college life.
+Loo Jing Yi (21-I1) was the Valedictorian (Arts) of the Class of 2022. He was also an accomplished Taekwondo athlete, winning a bronze medal at the National School Games. As part of the organising committee of the 2022 Orientation programme, he played a key role in helping a new batch of Eunoians settle into college life.
 
 ###### HOW DO YOU FEEL ABOUT YOUR RESULTS AND WHY? WHAT ARE YOU GRATEFUL FOR?
 
@@ -100,9 +100,9 @@ To the J1s, your JC life has just begun. Some of you, like I once did, may be fe
 <br><br>
 
 ![](/images/2022%20Taia%20Pang.jpg)
-### Rachel Lie, Chan Ning, Avril Lim
+### Rachel Edith Lie, Chan Ning, Avril Lim
 
-Rachel Lie (21-I3), Chan Ning (21-I3), and Avril Lim Si-Ying (21-A1) were recipients of MOE’s Foreign Language Elective Scholarship. Learning foreign language as part of this scholarship programme offered the opportunity for virtual immersions with schools and host families in various countries, forging a deeper appreciation of how language learning can broaden one’s horizons and help forge meaningful connections with others. 
+Rachel Edith Lie Mei Rui (21-I3), Chan Ning (21-I3), and Avril Lim Si-Ying (21-A1) were recipients of MOE’s Foreign Language Elective Scholarship. Learning foreign language as part of this scholarship programme offered the opportunity for virtual immersions with schools and host families in various countries, forging a deeper appreciation of how language learning can broaden one’s horizons and help forge meaningful connections with others. 
 
 Rachel was a Spanish Language Elective Scholar and was also a member of the Service Learning Club and part of Project Latitude’s Global Citizenship and Advocacy module.  
 
