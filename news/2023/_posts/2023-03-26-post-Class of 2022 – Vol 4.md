@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-The Class of 2022 included recipients of various scholarships who participated in special programmes ranging from foreign language learning to deeper exploration of the humanities, and biculturalism. In Volume 4, Emylia, Danying, Javier, Rachel, Chan Ning, and Avril tell us about their journey in Eunoia and their experiences in their courses of study.
+The Class of 2022 included recipients of various scholarships who participated in special programmes ranging from foreign language learning to deeper exploration of the humanities, and biculturalism. In Volume 4, Emylia, Danying, Jing Yi, Rachel, Chan Ning, and Avril tell us about their journey in Eunoia and their experiences in their courses of study.
 
 Read more stories about the Class of 2022 in [Vol 1](https://eunoiajc.moe.edu.sg/news/2023/class1/), [Vol 2](https://eunoiajc.moe.edu.sg/news/2023/class2/) and [Vol 3](https://eunoiajc.moe.edu.sg/news/2023/class3/).
 
