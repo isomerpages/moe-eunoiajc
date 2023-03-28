@@ -15,7 +15,7 @@ Read more stories about the Class of 2022 in [Vol 1](https://eunoiajc.moe.edu.s
 ![Angelica Koh](/images/2022%20Angelica%20Koh.jpg)
 ### Emylia Audreyna
 
-**Emylia Audreyna (21-O1)** was part of the MOE Humanities Scholarship Programme (HSP) and also Eunoia’s first Malay Language and Literature (MLL) student. She sought to apply the perspective taking and content she learned in a real-world setting, participating in events like the MOE Pre-University Seminar and Singapore Model United Nations. A member of the Student Council and GLIDE (Growing Leaders with Initiative, Dedication and Empathy), Emylia lived out Beautiful Thinking, Goodwill to All in the way she used her talents to help those around her.
+**Emylia Audreyna Binti Shaiful Anuar (21-O1)** was part of the MOE Humanities Scholarship Programme (HSP) and also Eunoia’s first Malay Language and Literature (MLL) student. She sought to apply the perspective taking and content she learned in a real-world setting, participating in events like the MOE Pre-University Seminar and Singapore Model United Nations. A member of the Student Council and GLIDE (Growing Leaders with Initiative, Dedication and Empathy), Emylia lived out Beautiful Thinking, Goodwill to All in the way she used her talents to help those around her.
 
 ###### HOW DO YOU FEEL ABOUT YOUR RESULTS AND WHY? WHAT ARE YOU GRATEFUL FOR?
 
@@ -73,7 +73,7 @@ Encouragement: Juniors, you are all doing well in your own ways, and I am confid
 ![](/images/2022%20Long%20Wen%20Xi.jpg)
 ### Javier Loo
 
-Javier Loo (21-I1) was the Valedictorian (Arts) of the Class of 2022. He was also an accomplished Taekwondo athlete, winning a bronze medal at the National School Games. As part of the organising committee of the 2022 Orientation programme, he played a key role in helping a new batch of Eunoians settle into college life.
+Javier Loo Jing Yi (21-I1) was the Valedictorian (Arts) of the Class of 2022. He was also an accomplished Taekwondo athlete, winning a bronze medal at the National School Games. As part of the organising committee of the 2022 Orientation programme, he played a key role in helping a new batch of Eunoians settle into college life.
 
 ###### HOW DO YOU FEEL ABOUT YOUR RESULTS AND WHY? WHAT ARE YOU GRATEFUL FOR?
 
