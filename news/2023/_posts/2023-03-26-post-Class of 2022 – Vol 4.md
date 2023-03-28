@@ -123,11 +123,33 @@ I feel okay and quite relieved. I am grateful for the encouragement and support 
 
 ###### WHAT WAS A SPECIFIC CHALLENGE OR 'LOW POINT'? HOW DID YOU OVERCOME IT?
 
+Rachel: 
+In terms of my JC life, I’d say the journey leading up to the A Levels was the toughest part especially towards the intense end! The seemingly endless days of studying and revision really took a toll on us mentally and physically. During this stressful period, I made sure to spend time with my classmates from 21-I3, as they were my greatest support system. The most challenging aspect of studying Spanish was the Coursework which required us to write two 1000-word reports on controversial issues involving Spain or Spanish-speaking countries. This challenged us to deepen our understanding of Spanish culture instead of merely learning the language.
 
+Chan Ning: 
+When I found that my language standards in Secondary School were insufficient to tackle the A Level syllabus, it added to the stress of managing my other subjects and I began to lose interest in French. This scared me as I had wanted to continue on the journey of honing this language throughout my life. Fortunately, the support I received from my classmates in French lessons enabled me to find enjoyment in learning such a rich language again. In the course of these two years, I found that I had to be motivated not just by grades but by truly enjoying what I did. 
+
+Avril: 
+I felt very overwhelmed at times by my many commitments in school, having to juggling my academic work and my other commitments, especially during the Orientation period. I was lucky to have the support of my friends and teachers to work through these periods.
 
 ###### WHAT WAS THE MOST MEANINGFUL PART OF YOUR JOURNEY IN EUNOIA?
 
+Rachel: 
+The most meaningful part of my journey was honestly the friends I made and the time I spent with them. Even the little things like our own “Mala Fridays”, when we would wolf down mala noodles from the Yong Tau Foo stall, brought comfort amidst the stressful times
 
+Chan Ning: 
+The time spent with the people whom never failed to stay by my side no matter what – I find this the most meaningful. Specifically, I would like to thank my fellow Third Language-takers, Rachel Lie and Fiona Ho, for always encouraging me to persevere and for taking the time to practise the language and explore European culture together. In addition, I am grateful for the opportunity to pursue my other passions alongside taking Third Language, by joining the Chinese Orchestra and Chamber Strings. Being able to play music and study alongside people who truly cared was inspiring and gave me the courage to continue despite the challenges.
+
+Avril: 
+Being the Vice-Captain of Akila House. I felt that my position helped me to make an impact on my house. It brought me joy to see my house happy and for people to feel included. I also forged strong relationships with people in my house.
 
 ###### WHAT WORDS OF ADVICE OR ENCOURAGEMENT WOULD YOU LIKE TO SHARE WITH YOUR JUNIORS?
 
+Rachel: 
+If anyone is taking Spanish Language, i puedes hacerlo (you can do it)! Do not give up and always revise by watching Spanish shows – it helps a lot to be exposed to the language as much as possible and constantly practise to make sure your foundations are good!
+
+Chan Ning: 
+To students of a Third Language: while your passion and initial sense of competence might serve as motivation for your to undertake this subject, you will find the road ahead very long and the challenges aplenty– do not let this get you down! Know that Third Language is a lifelong study, and that the effort you put in will eventually (though not immediately) pay off! All in all, what you choose to make of your JC journey or life purpose is your decision. Know that success might be largely dependent on luck, but know that effort needs to be made too. At the end of the day, if you know that you have tried your best and did not give up, you will find fulfilment and meaning in what you do.
+
+Avril: 
+Time passes so much faster than you would think - it felt like my JC journey was over with a blink of an eye. Cherish every moment and value your relationships with other people. Study hard!
