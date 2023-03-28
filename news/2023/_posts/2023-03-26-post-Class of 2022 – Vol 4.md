@@ -100,24 +100,34 @@ To the J1s, your JC life has just begun. Some of you, like I once did, may be fe
 <br><br>
 
 ![](/images/2022%20Taia%20Pang.jpg)
-### Taia Pang
+### Rachel Lie, Chan Ning, Avril Lim
 
-For **Taia Pang (21-E3)**, her love and passion for Netball drove her to join EJC. An experienced senior to her juniors and and a key pillar of support to her peers, she guided and motivated her teammates throughout the competition season. Besides her commitment to sports, she also contributed as part of the 5th Student Council Executive Committee. Keen to take on academic challenges too, she took on H3 Chemistry to further her interest in the subject.
+Rachel Lie (21-I3), Chan Ning (21-I3), and Avril Lim Si-Ying (21-A1) were recipients of MOE’s Foreign Language Elective Scholarship. Learning foreign language as part of this scholarship programme offered the opportunity for virtual immersions with schools and host families in various countries, forging a deeper appreciation of how language learning can broaden one’s horizons and help forge meaningful connections with others. 
+
+Rachel was a Spanish Language Elective Scholar and was also a member of the Service Learning Club and part of Project Latitude’s Global Citizenship and Advocacy module.  
+
+Avril was a German Language Elective Scholar, a member of the Ultimate Frisbee team that won the 2022 Inter-JC Ultimate Frisbee Tournament, and Vice-Cpaitain of Akila House. She was also part of Project Latitude and part of the Organising Team of GLIDE (Growing Leaders with Initiative, Dedication and Empathy. 
+
+Chan Ning was a recipient of the French Language Elective Scholarship and was also part of the Bicultural Studies Programme. A talented musician as well, she was a member of the Chinese Orchestra and Chamber Strings.
 
 ###### HOW DO YOU FEEL ABOUT YOUR RESULTS AND WHY? WHAT ARE YOU GRATEFUL FOR?
 
-I am very happy and grateful for my results because it is a good result, and the subjects that I was worried about came out well in the end. I am also very grateful for my teachers because they went out of the way to help me during my EJ journey, especially when I had to take two months of MC from the Mid-Year Exams to almost before the Preliminary Exams. Besides ensuring that I was not falling behind in my studies, my teachers also checked in to make sure that I was recovering and coping well. Another thing I am grateful for is my friends. Their various small acts of kindness, such as preparing an exam care pack or saying kind words when they notice I am feeling down, really helped me through JC.
+Rachel: 
+I feel mostly relieved but I am also quite happy! My six-year journey learning Spanish has been a tough one as it took a lot of effort to study and navigate the nuances of a foreign language with a completely different grammatical structure of its own. I am grateful for my supportive classmates and my encouraging teachers who have helped us so much.
+
+Chan Ning: 
+For the lack of better words, I am surprised as I thought that I had performed badly for several papers. I am immensely grateful to all the people who made this possible. In particular, I would like to thank my subject tutors, Dr Chan Kim Seng, Mr Chan Ter Yue, Mr Barry Chia, Ms Kok Li-en, Mr Ng Jun Kiat, Mr Tay Theng Hwee, Mr Low Chang Hong and Madam Singh, for always answering my questions and showing us that education goes beyond studying for grades but is truly a journey of self-discovery. I would also like to thank each and every one of my classmates, fellow members of CO and Chamber Strings, and friends who made life less mundane and tiresome. Lastly, I am grateful for my family, who accepted my less-than-ideal behaviours when I was stressed and who loved me for who I was even when I couldn’t spend as much time with them.
+  
+Avril: 
+I feel okay and quite relieved. I am grateful for the encouragement and support I got from my peers and teachers throughout my JC journey.
 
 ###### WHAT WAS A SPECIFIC CHALLENGE OR 'LOW POINT'? HOW DID YOU OVERCOME IT?
 
-I think one 'low point' was definitely when I got injured one week before Netball NSG. One of the main reasons why I chose EJ was to play with the netball team here. Sustaining an injury that took me out of play after we could finally compete when the COVID restrictions were eased really made me feel very disappointed. I overcame this low point with the help of my friends. They really encouraged me during that period of intense disappointment, and I am thankful for their continued support, particularly since the recovery period for my injury took up to a year. I also came to terms with the fact that I could still contribute to my team on the sidelines by guiding them or pointing out certain mistakes so that they can improve their gameplay.
+
 
 ###### WHAT WAS THE MOST MEANINGFUL PART OF YOUR JOURNEY IN EUNOIA?
 
-I think that the most meaningful part of my journey would be being a part of the Student Council (SC). SC has really taught me a lot and it enabled me to work with different people that I would otherwise have never interacted with. I also think that being part of SC helped me to shape other Eunoians’ #WhyEJ, and being able to have such a positive influence has been very fulfilling. Through SC, I have made a lot of memories and friends, while also being able to leave my mark on the culture of EJ.
+
 
 ###### WHAT WORDS OF ADVICE OR ENCOURAGEMENT WOULD YOU LIKE TO SHARE WITH YOUR JUNIORS?
 
-For the J1s, it might be a daunting and new environment but I would encourage you to not be afraid and step out of your comfort zones. In JC, time may seem to be very short but the experiences are very intense and it is also here that the best friendships are forged, so do take a leap of faith and go forth!
-
-For the J2s, it might seem like the A-Levels are coming very soon even though you are not ready yet, but I think that one saying that got me through J2 is 'trust the process'. Your results during the MYEs or Prelims might be shocking (in a bad way), but never lose hope and keep putting in your best effort. Ultimately, your hard work will definitely pay off!
