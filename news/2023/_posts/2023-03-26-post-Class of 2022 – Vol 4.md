@@ -71,39 +71,35 @@ Encouragement: Juniors, you are all doing well in your own ways, and I am confid
 <br><br>
 
 ![](/images/2022%20Long%20Wen%20Xi.jpg)
+### Javier Loo
 
-### Long Wen Xi
-
-A highly responsible Chairperson of Media Club, **Long Wen Xi (21-U1)** led with a focus on maximising the strengths of her team members. Upon graduating, she was appointed Admin Head of AEGIS, an alumni-driven academic ‘pay-it-forward’ initiative, wherein she played a critical role in selecting Subject Specialists and inspiring fellow alumni to join and help their juniors.
+Javier Loo (21-I1) was the Valedictorian (Arts) of the Class of 2022. He was also an accomplished Taekwondo athlete, winning a bronze medal at the National School Games. As part of the organising committee of the 2022 Orientation programme, he played a key role in helping a new batch of Eunoians settle into college life.
 
 ###### HOW DO YOU FEEL ABOUT YOUR RESULTS AND WHY? WHAT ARE YOU GRATEFUL FOR?
 
-More than anything, I am extremely relieved by my results and I am thankful that my efforts did not go to waste, after a lot of time spent worrying and stressing out. The A-Level period was a tough time for everyone, and I am honestly just glad that it is over.
+Extremely satisfied. I studied extremely hard the past 2 years and I tried my best to score for my classes and it mostly paid off in the form of my A-Level results. Although it is not the result that I had hoped for, it is enough for me to get into the course of my preference and I feel like a weight has lifted off my shoulders after this. 
 
-I am grateful for my friends and family members who cheered me on and supported me throughout the two years - through all the difficult times where I felt discouraged or burnt out. A huge source of motivation for me was to make the people around me proud, and to translate the love and encouragement they constantly gave me into a sense of self-empowerment. I am truly lucky to have these people as my rocks throughout a difficult two years.
+I am grateful to myself for having put in the work and hours to really study consistently rather than succumbing to the temptations of slacking off under the impression that examinations are far away and that I could relax. 
 
-I am also very thankful for my tutors who gave up their time to meet me for weekly consultations and put in their best for me, and for their valuable life-coaching advice.
+But mostly, I am extremely grateful towards my teachers who believed in me and motivated me to not only improve myself, but also to improve and teach my fellow classmates. Last but not least, I am also eternally grateful to my friends and family for being my source of support during the A-Level period.
 
 ###### WHAT WAS A SPECIFIC CHALLENGE OR 'LOW POINT'? HOW DID YOU OVERCOME IT?
 
-One ‘low point’ I faced in these two years was perhaps knowing that I was honestly living an unhealthy lifestyle, yet choosing not to do anything about it. While the people around me were worried, I was stubborn and continued to sleep only a few hours every night and did not take good care of myself. With little sleep also came the emotional strain of feeling endlessly exhausted, stressed and frustrated.
-
-I think I realised that it should not be this way, and tried to adjust my lifestyle habits slowly. By doing small things like taking breaks, going for walks, and having more regular as well as sufficient sleep.
+Not getting into the Student Council was tough for me as I am a person who strives to lead others — it is something I am extremely passionate about. Although it was difficult to stomach, I learnt that certain things are just out of my control. I calmed myself down, and realised that there were other avenues for me to enact change and lead. Thus, I turned to the Orientation Exco, eventually taking on the Programmes IC position, a decision that showed me I could serve in other ways and to look for a silver lining in life.
 
 ###### WHAT WAS THE MOST MEANINGFUL PART OF YOUR JOURNEY IN EUNOIA?
 
-I had a lot of meaningful experiences in Eunoia, but one of the most significant times of my JC life was the time I spent with EJ Media. In such a dedicated and service-oriented club, I met so many people who touched my life one way or another. Serving as the Chairperson of EJ Media was a humbling, enriching and unforgettable experience. I learnt so much more about myself, and became more reflective and introspective. I believe this led me on a path of self-discovery and growth. I am also truly thankful for the many precious people I met here, who grew alongside me, and gave me space to make mistakes and learn. It was truly a wonderful part of my EJ journey and I will always look back upon it fondly.
+Being able to shape Orientation ‘22 (aka Level Up ‘22) as Programmes IC helped me to bring students from both the JAE and JIP cohorts together from the very beginning of their journey. Through crafting the programmes for Level Up, my team, including Claire and Niles, decided to include more interactive events that bonded all students together, rather than just games. We came up with three that allowed the J1s to talk, discuss and exchange life experiences to connect people and make them at ease with each other. As someone who was in their shoes, I knew I wanted to minimise whatever ‘divide’ there was and made an effort to talk to as many JAE students and to give them comfort entering a new environment. Being able to do even just a little to improve the cause I wanted to serve — that was extremely meaningful to me.
 
 ###### WHAT WORDS OF ADVICE OR ENCOURAGEMENT WOULD YOU LIKE TO SHARE WITH YOUR JUNIORS?
 
-It may seem quite cliche, but I think I would tell them to always stay true to themselves and their values. In difficult situations, it’s more important to make decisions that resonate with what we believe in. Even if things don’t always turn out the way that we want, and we face challenges, it helps if we are our most authentic and genuine selves.
+To the J2s, the reality of the A Levels may have just started to sink in. Your worries are real. Your tears, anxieties, they are all real. So, with that in mind, what are you going to do? My advice to all of you is to pace yourselves. Start early, but do not push yourselves to a point of a burnout. I have been there. Find what study methods work for you. But most importantly, figure out what helps you to destress. I cannot emphasise this enough but you should maintain your hobbies, interests. Go for a run, go to the gym, play your video games or just read a book. Doing so will not cut your effort for studying, trust me. All in all, trust the process and you will get there. Jiayou!
 
-I guess another piece of advice I would give is to be more forgiving to yourself. There is always space to make mistakes and to grow from such experiences. It is these lived experiences that give us that much more depth and authenticity as humans.
+To the J1s, your JC life has just begun. Some of you, like I once did, may be feeling overwhelmed or intimidated. Do not be. JC is short, but it is also the most memorable, fun, exciting experience you will have in your life. While you are in JC1, remember to enjoy your JC experience. Campaign for council, join your favourite CCAs, go out and do whatever you want and do not hold back, these are all avenues for you to form lifelong bonds and friendships. Go ahead, because I assure you they will enrich both your social circle and you as an individual. Lastly, welcome to the Eunoia family! I am sure all of you, like me, will treasure and enjoy your two years here.
 
 <br><br>
 
 ![](/images/2022%20Taia%20Pang.jpg)
-
 ### Taia Pang
 
 For **Taia Pang (21-E3)**, her love and passion for Netball drove her to join EJC. An experienced senior to her juniors and and a key pillar of support to her peers, she guided and motivated her teammates throughout the competition season. Besides her commitment to sports, she also contributed as part of the 5th Student Council Executive Committee. Keen to take on academic challenges too, she took on H3 Chemistry to further her interest in the subject.
