@@ -45,7 +45,7 @@ I also think that the people are what made my EJ experience so meaningful. My CG
 
 <br><br>
 
-
+![Danying](/images/2022/2022%20Wang%20Danying.jpg)
 ### Wang Danying
 
 Wang Danying (21-A1) was part of the Bicultural Scholarship Programme (BSP) and offered a rare combination of Chinese Language-related H2 subjects: China Studies in Chinese, Chinese Language and Literature, and Translation (Chinese). Effectively bilingual and  deeply passionate about Chinese language and culture, she also participated in the NUS-MOE Humanities and Social Sciences Research (HSSR) programme when she took Chinese Language and Literature at the H3 level. Her talents extended to music, and Danying was a flautist in the Symphonic Band, earning a Certificate of Distinction at the SYF Arts Presentation in 2021. She was also Vice-Chairperson of the BSP Exco, and a class vice-chairperson.
@@ -70,7 +70,7 @@ Encouragement: Juniors, you are all doing well in your own ways, and I am confid
 
 <br><br>
 
-
+![Loo Jing Yi](/images/2022/2022%20Loo%20Jing%20Yi.jpg)
 ### Loo Jing Yi
 
 Loo Jing Yi (21-I1) was the Valedictorian (Arts) of the Class of 2022. He was also an accomplished Taekwondo athlete, winning a bronze medal at the National School Games. As part of the organising committee of the 2022 Orientation programme, he played a key role in helping a new batch of Eunoians settle into college life.
