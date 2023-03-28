@@ -12,7 +12,7 @@ Read more stories about the Class of 2022 in [Vol 1](https://eunoiajc.moe.edu.s
 
 <br>
 
-![Angelica Koh](/images/2022%20Angelica%20Koh.jpg)
+![Emylia Audreyna](/images/2022/2022%20Emylia%20Audreyna.jpg)
 ### Emylia Audreyna
 
 **Emylia Audreyna Binti Shaiful Anuar (21-O1)** was part of the MOE Humanities Scholarship Programme (HSP) and also Eunoia’s first Malay Language and Literature (MLL) student. She sought to apply the perspective taking and content she learned in a real-world setting, participating in events like the MOE Pre-University Seminar and Singapore Model United Nations. A member of the Student Council and GLIDE (Growing Leaders with Initiative, Dedication and Empathy), Emylia lived out Beautiful Thinking, Goodwill to All in the way she used her talents to help those around her.
@@ -45,7 +45,7 @@ I also think that the people are what made my EJ experience so meaningful. My CG
 
 <br><br>
 
-![](/images/2022%20Yap%20Jing%20Yee.jpg)
+
 ### Wang Danying
 
 Wang Danying (21-A1) was part of the Bicultural Scholarship Programme (BSP) and offered a rare combination of Chinese Language-related H2 subjects: China Studies in Chinese, Chinese Language and Literature, and Translation (Chinese). Effectively bilingual and  deeply passionate about Chinese language and culture, she also participated in the NUS-MOE Humanities and Social Sciences Research (HSSR) programme when she took Chinese Language and Literature at the H3 level. Her talents extended to music, and Danying was a flautist in the Symphonic Band, earning a Certificate of Distinction at the SYF Arts Presentation in 2021. She was also Vice-Chairperson of the BSP Exco, and a class vice-chairperson.
@@ -70,7 +70,7 @@ Encouragement: Juniors, you are all doing well in your own ways, and I am confid
 
 <br><br>
 
-![](/images/2022%20Long%20Wen%20Xi.jpg)
+
 ### Loo Jing Yi
 
 Loo Jing Yi (21-I1) was the Valedictorian (Arts) of the Class of 2022. He was also an accomplished Taekwondo athlete, winning a bronze medal at the National School Games. As part of the organising committee of the 2022 Orientation programme, he played a key role in helping a new batch of Eunoians settle into college life.
@@ -99,7 +99,7 @@ To the J1s, your JC life has just begun. Some of you, like I once did, may be fe
 
 <br><br>
 
-![](/images/2022%20Taia%20Pang.jpg)
+![](/images/2022/2022%20Avril%20Lim,%20Chan%20Ning,%20Rachel%20Edith%20Lie.jpg)
 ### Rachel Edith Lie, Chan Ning, Avril Lim
 
 Rachel Edith Lie Mei Rui (21-I3), Chan Ning (21-I3), and Avril Lim Si-Ying (21-A1) were recipients of MOE’s Foreign Language Elective Scholarship. Learning foreign language as part of this scholarship programme offered the opportunity for virtual immersions with schools and host families in various countries, forging a deeper appreciation of how language learning can broaden one’s horizons and help forge meaningful connections with others. 
