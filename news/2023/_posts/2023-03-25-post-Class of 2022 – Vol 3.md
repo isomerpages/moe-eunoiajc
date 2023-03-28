@@ -12,7 +12,7 @@ Read more stories about the Class of 2022 in [Vol 1](https://eunoiajc.moe.edu.s
 
 <br>
 
-![Angelica Koh](/images/2022%20Angelica%20Koh.jpg)
+![Isabelle Deborah Looi](/images/2022/2022%20Isabelle%20Deborah%20Looi.jpg)
 ### Isabelle Deborah Looi
 
 **Isabelle Deborah Looi Yan Yi (21-E3)** was an alumna of SNGS who truly excelled holistically. Apart from being President of the Debate Society, she was also part of GLIDE, a regular volunteer at Meet the People sessions and a H3 History student. She has been offered the PSC (Legal Service) scholarship in recognition of her outstanding intellect and her commitment to using her talents to benefit others.
@@ -42,7 +42,7 @@ As a wise mentor once told me, “You’ll Be Fine”. Which is to say, even if 
 
 <br><br>
 
-![](/images/2022%20Yap%20Jing%20Yee.jpg)
+![Low Eu Jan](/images/2022/2022%20Low%20Eu%20Jan.jpg)
 ### Low Eu Jan
 
 On top of being Class Vice-Chairperson, **Low Eu Jan (21-U3)** participated in the college’s Global Citizenship and Advocacy Module (LATITUDE) and represented the school in various competitions as a member of Eunoia JC’s Debate Society. Eu Jan also had the opportunity to organise and adjudicate Eunoia’s Debating Championship 2022, and won several accolades in recognition of his oratorical skill.
@@ -77,7 +77,7 @@ You are definitely worth more than the sum of your grades!
 
 <br><br>
 
-![](/images/2022%20Long%20Wen%20Xi.jpg)
+![Ashley Tay](/images/2022/2022%20Ashley%20Tay.jpg)
 ### Ashley Tay
 
 **Ashley Tay Jia En (21-U3)’s** participation in the Street Dance Student-Initiated Interest Group (SIIG) allowed her to pursue her passion for dance. Besides leading her peers in practising their choreography in Street Dance, she challenged herself by taking part in various competitions locally and overseas, developing her talent in dance and truly shining onstage as a Eunoian with the courage to pursue her passion. On top of this, Ashley was also enrolled in the Eunoia Bicultural Studies Programme, made the Dean’s List, and was awarded the MOE Pre-University Scholarship.
@@ -104,7 +104,7 @@ Think carefully about how you would want to spend your time in JC. Five years do
 
 <br><br>
 
-![](/images/2022%20Taia%20Pang.jpg)
+![Liu Zonghan](/images/2022/2022%20Liu%20Zonghan.jpg)
 ### Liu Zonghan
 
 **Liu Zonghan (21-U3)** was an academically outstanding Eunoian who won multiple awards in Physics Olympiads, studied Physics at H3 level, and attained the Dean’s List. He applied his academic knowledge to real-world pursuits, such as his passion for aeromodelling, leading his team to second place in the Singapore Amazing Flying Machine Competition (SAFMC) 2022. Zonghan added to his skillset by acquiring knowledge of coding and AI as a member of the Computing and Robotics Club.
@@ -131,7 +131,7 @@ I think time management is of paramount importance in one’s JC life, and it do
 
 <br><br>
 
-![](/images/2022%20Taia%20Pang.jpg)
+![](/images/2022/2022%20Natalie%20Lim.jpg)
 ### Natalie Lim
 
 EJC Hockey emerged as champions in the 2022 National School Games. As captain of EJC Hockey. **Lim Tze Min Natalie (21-A2)** played a key role in the victory, leading her team with empathy by force of example. Humble in victory, Natalie epitomised the attributes of character, integrity, and sportsmanship, and was awarded the Sportsmanship award in recognition of this. While she was at it, Natalie found the time to excel in her studies and attain the Dean’s List.
