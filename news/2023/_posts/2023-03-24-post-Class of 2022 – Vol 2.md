@@ -12,7 +12,7 @@ Read more stories about the Class of 2022 in [Vol 1](https://eunoiajc.moe.edu.s
 
 <br>
 
-
+![Katelyn Pang](/images/2022/2022%20Katelyn%20Pang.jpg)
 ### Katelyn Pang
 
 **Katelyn Pang (21-U6)** journeyed through the rigours of JC life while calmly juggling many roles and responsibilities. Besides her calm, analytical and caring personality, she is also involved in many CCAs as well, both within and outside of EJC. Outside of EJ, she is a venture scout that is on her way to winning the pinnacle award at the venture level (President's Scout Award), led and participated in various service learning opportunities with her scout troop, and her musicality also saw her being part of SIG Chamber Strings, while also being a keen participant in the Forensic Science module under Programme Altitude, and also participating in the World of Science - Electromagnetics module under the Young Defence Scientists Programme.
