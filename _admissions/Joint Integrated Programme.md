@@ -3,7 +3,7 @@ title: Joint Integrated Programme
 permalink: /admissions/jip/
 description: ""
 ---
-Good education informs, great education transforms. For about a century, Catholic High School, CHIJ St Nicholas Girls’ School and Singapore Chinese Girls’ School have transformed generations of successful men and women – many of whom have contributed significantly to the transformation of Singapore.
+Good education informs, great education transforms.&nbsp;For about a century, Catholic High School, CHIJ St Nicholas Girls’ School and Singapore Chinese Girls’ School have transformed generations of successful men and women – many of whom have contributed significantly to the transformation of Singapore.
 
 ![](/images/JIP.jpg)
 
@@ -17,16 +17,13 @@ As principled leaders of tomorrow, graduates of our Joint Integrated Programme w
 
 ### OUR PARTNER SCHOOLS
 
+<br>
+
+<img src="/images/CHS2S.jpg" style="width:50%">
+
 #### Catholic High School
 
-<div>  
-<div style="float: left">  
-<img src="/images/CHS2S.jpg" 
-    style="width:50%">
-</div>  
-<div></div>  
-</div>	
-Founded in 1935 by the Rev. Fr. Edward Becheras, **Catholic High School** (CHS) is a premier institution with a vision to groom every student into a leader, gentleman and bilingual scholar of high integrity and robust character, who is passionate about life, learning and service to others.
+Founded in 1935 by the Rev. Fr. Edward Becheras,&nbsp;**Catholic High School** (CHS) is a premier institution with a vision to groom every student into a leader, gentleman and bilingual scholar of high integrity and robust character, who is passionate about life, learning and service to others.
 
 As an autonomous Special Assistance Plan school, CHS is a school of distinction in innovative and challenging programmes, a forerunner in character building and a beacon for the mindset of excellence, firmly built upon the foundation of Christian values. As a Catholic mission school, love is our corner-stone and the motivation behind all our actions. We are committed to providing a supportive and loving environment in which every life is touched.
 
@@ -34,16 +31,13 @@ The distinctive features of the quality educational experience that CHS offers s
 
 [Visit Website](http://catholichigh.moe.edu.sg/)
 
+<br>
+
+<img src="/images/SNGS2R.jpg" style="width:50%">
+
 #### CHIJ St Nicholas Girls’ School
 
-<div>  
-<div style="float: left">  
-<img src="/images/SNGS2R.jpg" 
-    style="width:50%">
-</div>  
-<div></div>  
-</div>	
-Founded in 1933 by the Sisters of the Holy Infant Jesus Order as a Chinese medium grant-in-aid Catholic school, **CHIJ St Nicholas Girls’ School** (SNGS) is an autonomous, Special Assistance Plan school where all work together to promote the core values of truth, justice, freedom and love.
+Founded in 1933 by the Sisters of the Holy Infant Jesus Order as a Chinese medium grant-in-aid Catholic school,&nbsp;**CHIJ St Nicholas Girls’ School** (SNGS) is an autonomous, Special Assistance Plan school where all work together to promote the core values of truth, justice, freedom and love.
 
 In CHIJ SNGS, through a balanced, holistic and forward-looking curriculum, we inculcate in every student the belief that she has the capacity to make a positive difference and is encouraged always to use her talents and abilities for the betterment of all.
 
@@ -51,19 +45,15 @@ As Girls of Grace, our students possess purity of heart and mind, and are gracio
 
 [Visit Website](http://chijstnicholasgirls.moe.edu.sg/)
 
+<br>
+
+<img src="/images/SCGS2S.png" style="width:50%">
+
 #### Singapore Chinese Girls’ School
 
-<div>  
-<div style="float: left">  
-<img src="/images/SCGS2S.png" 
-    style="width:50%">
-</div>  
-<div></div>  
-</div>
+**Singapore Chinese Girls’ School**(SCGS) was founded in 1899 by Straits-born Chinese gentlemen who believed in offering girls an education that could match their male counterparts. The SCGS education philosophy stems from our strong belief in providing a holistic and balanced education founded on a bedrock of timeless values and rich heritage. We add colour, character and richness to the learning experience. Our environment offers the warmth, support and stability of a strong family. We nurture every pupil to grow her interests and aptitude, to achieve her personal best.
 
-**Singapore Chinese Girls’ School** (SCGS) was founded in 1899 by Straits-born Chinese gentlemen who believed in offering girls an education that could match their male counterparts. The SCGS education philosophy stems from our strong belief in providing a holistic and balanced education founded on a bedrock of timeless values and rich heritage. We add colour, character and richness to the learning experience. Our environment offers the warmth, support and stability of a strong family. We nurture every pupil to grow her interests and aptitude, to achieve her personal best.
-
-SCGS graduates are women of character who are confident, articulate, gracious and well- respected in their chosen careers. Our holistic education develops women leaders of tomorrow who are world-ready and well-prepared to contribute meaningfully to the community and beyond. The three pillars of our SCGS Experience comprise the Talent Development, Character and Leadership, and Living and Lifeskills Programmes. The SCGS experience gives our students insights into themselves whilst opening windows to the world. With more than a 100-year heritage, a track record of outstanding achievements and a wide network of supporters behind her, the SCGS student is poised for success.
+SCGS graduates are women of character who are confident, articulate, gracious and well- respected in their chosen careers. Our holistic education develops women leaders of tomorrow who are world-ready and well-prepared to contribute meaningfully to the community and beyond. The three pillars of our SCGS Experience comprise the Talent Development, Character and Leadership, and Living and Lifeskills&nbsp;Programmes. The SCGS experience gives our students insights into themselves whilst opening windows to the world. With more than a 100-year heritage, a track record of outstanding achievements and a wide network of supporters behind her, the SCGS student is poised for success.
 
 [Visit Website](https://scgs.moe.edu.sg/)
 
