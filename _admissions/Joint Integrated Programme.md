@@ -16,6 +16,7 @@ Together, the four schools offer a holistic and seamless six-year programme that
 As principled leaders of tomorrow, graduates of our Joint Integrated Programme would possess a strong passion for life, and be persons of integrity and discerning individuals who are challenged to think critically and make sound moral and ethical judgements. They would exhibit high levels of distinction in their acquisition and mastery of 21st century competencies and be dedicated and committed in using their talents to impact lives in positive and ethical ways.
 
 
+
 ### Our JIP Journey
 
 ![](/images/jip_journey_1.png)
@@ -24,21 +25,21 @@ As principled leaders of tomorrow, graduates of our Joint Integrated Programme w
 
 <br>
 
-<img src="/images/CHS2S.jpg" style="width:50%">
+<img src="/images/CHS2S.jpg" style="width:30%">
 
 ##### Catholic High School
 [Visit Website](http://catholichigh.moe.edu.sg/)
 
 <br>
 
-<img src="/images/SNGS2R.jpg" style="width:50%">
+<img src="/images/SNGS2R.jpg" style="width:30%">
 
 ##### CHIJ St Nicholas Girls’ School
 [Visit Website](http://chijstnicholasgirls.moe.edu.sg/)
 
 <br>
 
-<img src="/images/SCGS2S.png" style="width:50%">
+<img src="/images/SCGS2S.png" style="width:30%">
 
 ##### Singapore Chinese Girls’ School
 [Visit Website](https://scgs.moe.edu.sg/)
