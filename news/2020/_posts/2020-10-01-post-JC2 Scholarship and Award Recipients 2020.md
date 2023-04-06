@@ -12,7 +12,7 @@ In addition, 75 Eunoians in their second year were presented scholarships and bo
 
 These awards include the MOE Pre-University Scholarships, MOE Special Awards, special programme scholarships for the MOE Bicultural Studies Programme, Humanities Scholarship Programme, Music Elective Programme, the MOE Language Elective Scholarship and National Elective Tamil Language Programme Scholarship as well as awards from A\*STAR and DSTA.
 
-![](images/2020-jc2-scholars-1.jpg)
+![](images/2020/2020-jc2-scholars-1.jpg)
 
 ##### COMPUTING@SMU AWARD
 
@@ -20,7 +20,7 @@ These awards include the MOE Pre-University Scholarships, MOE Special Awards, sp
 
 Presented by the Singapore Management University (SMU) School of Information Systems, the Computing@SMU Award aims to recognise and motivate graduating Junior College students to pursue further education and careers in computing.
 
-![](images/2020-jc2-scholars-3.jpg)
+![](images/2020/2020-jc2-scholars-3.jpg)
 
 ##### SINGAPORE ARMED FORCES YOUNG LEADER AWARD
 
