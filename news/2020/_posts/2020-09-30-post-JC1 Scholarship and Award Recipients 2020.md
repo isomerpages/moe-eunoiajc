@@ -6,12 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/2020-jc1-scholars-5.jpg)
+![](/images/2020/2020-jc1-scholars-5.jpg)
 The college would like to congratulate 60 students from our 2020 JC1 cohort on receiving scholarships from the Ministry of Education (MOE) and other agencies.
 
 Among our fourth cohort of Eunoians, we are proud to have 1 MOE Pre-University Scholar, 24 Bicultural Studies Programme Scholars, 25 MOE Humanities Scholars, 4 MOE Music Elective Scholars, 2 A\*STAR Award holders, 2 DSTA Junior College scholars and 2 MOE Special Award winners. The JC1 Eunoians receiving scholarships in 2020 are:
 
-![](images/2020-jc1-scholars-1.jpg)
+![](images/2020/2020-jc1-scholars-1.jpg)
 
 ### MOE Pre-University Scholarship
 Kua Yi Xin (20-O4)
@@ -24,7 +24,7 @@ Jeremy Chan Xiang Jin (20-I4)<br>
 Goh Jue Yie (20-A5)<br>
 Low Yi Xuan (20-E2)<br>
 
-![](images/2020-jc1-scholars-2.jpg)
+![](images/2020/2020-jc1-scholars-2.jpg)
 
 ### MOE Bicultural Studies Programme Scholarship
 
@@ -53,7 +53,7 @@ Vanessa Law Lok Yan (20-U1)<br>
 Wang Mingrui (20-O5)<br>
 Wong Zhi Ying (20-O5)<br>
 
-![](images/2020-jc1-scholars-3.jpg)
+![](images/2020/2020-jc1-scholars-3.jpg)
 
 ### MOE Humanities Scholarship
 
@@ -84,7 +84,7 @@ Wong Yi Xuan (20-U1)<br>
 Zenov Liu Fan (20-U1)<br>
 
 
-![](images/2020-jc1-scholars-4.jpg)
+![](images/2020/2020-jc1-scholars-4.jpg)
 
 ### MOE Music Elective Scholarship
 
