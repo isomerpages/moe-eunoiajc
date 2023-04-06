@@ -6,12 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/2021-jc1-scholars_banner.jpg)
+![](/images/2021/2021-jc1-scholars_banner.jpg)
 The college would like to congratulate 79 students from our 2021 JC1 cohort on receiving scholarships from the Ministry of Education (MOE) and other agencies.
 
 Among our fifth cohort of Eunoians, we are proud to have 8 MOE Pre-University Scholars, 32 Bicultural Studies Programme Scholars, 27 MOE Humanities Scholars, 1 National Tamil Language Elective Programme Scholar, 4 MOE Foreign Language Elective Scholars, 2 DSTA Junior College scholars, 3 EJC Community Engagement Scholars, and 2 MOE Special Award winners. The JC1 Eunoians receiving scholarships in 2021 are:
 
-![](/images/2021-jc1-scholars-1.jpg)
+![](/images/2021/2021-jc1-scholars-1.jpg)
 ### MOE Pre-University Scholarship
 Aaron Wong Jielun (21-I4)   
 Alexis Foo Li Lin (21-E4)   
@@ -22,18 +22,18 @@ Tan Chern Hong (21-A4)
 Yan Yixiang, Eric (21-A3)   
 Esmond Ee Jun Wei (21-E6)
 
-![](/images/2021-jc1-scholars-3.jpg)
+![](/images/2021/2021-jc1-scholars-3.jpg)
 ### DSTA Junior College Scholarship
 Alexis Foo Li Lin (21-E4)    
 Ho Wenn Mae Caithlin (21-I4)
 
-![](/images/2021-jc1-scholars-2.jpg)
+![](/images/2021/2021-jc1-scholars-2.jpg)
 ### EJC Community Engagement Scholarship
 Loh Jen Nin (21-O5)   
 Yap Kah Him (21-I3)   
 Chantel Lee Su Xin (21-O2)
 
-![](/images/2021-jc1-scholars-5.jpg)
+![](/images/2021/2021-jc1-scholars-5.jpg)
 ### MOE Bicultural Studies Programme Scholarship
 Chen Ding (21-U2)   
 Davey Loka (21-A1)   
@@ -68,7 +68,7 @@ Sam Li Tong (21-U2)
 Tan Yong (21-U2)   
 Wong Mei Hui (21-U2)
 
-![](/images/2021-jc1-scholars-6.jpg)
+![](/images/2021/2021-jc1-scholars-6.jpg)
 ### MOE Humanities Scholarship
 Aidan Goh Quan Zhang (21-U1)   
 Alena Hua Xuan Ling (21-O1)   
@@ -98,7 +98,7 @@ Shannon Sim Le Xuan (21-O1)
 Tricia Loh Qiuxuan (21-U1)   
 Yap Zoe Ern (21-O1)
 
-![](/images/2021-jc1-scholars-4.jpg)
+![](/images/2021/2021-jc1-scholars-4.jpg)
 ### National Elective Tamil Language Programme Scholarship
 Murugan Rakshita (21-E1)
 
