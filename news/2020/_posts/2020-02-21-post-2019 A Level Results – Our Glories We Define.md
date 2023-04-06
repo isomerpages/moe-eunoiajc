@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-![](/images/2020results_banner-1.jpg)
+![](/images/2020/2020results_banner-1.jpg)
 
 ### This is Eunoia Shining
 
@@ -17,13 +16,13 @@ The college is proud of all 610 Eunoians who sat the 2019 GCE A-Level Examinatio
 
 Our combined total of 73 scholars from the Bicultural Studies Programme (Chinese), Humanities Scholarship Programme and Music Elective Programme, our MOE Pre-University Scholars, international scholars, book prize and scholarship recipients continued the college’s tradition of excellence with their stellar results. Our Eunoians have also received close to a hundred conditional offers from institutions including the University of Cambridge, University of Oxford and King's College London, and provisional offers of scholarships such as the Public Service Commission scholarship. The college anticipates more good news from our Eunoians in the coming months.
 
-![](/images/2020results_rejoice.jpg)
+![](/images/2020/2020results_rejoice.jpg)
 
 ### Lighting the Way
 
 Above and beyond their lustrous academic results, each Eunoian in the Class of 2019 has excelled holistically as a Youth with Purpose, Thinker with Heart, Leader with Courage. Within a few months of intensive practice, our performing arts CCAs clinched the Certificate of Distinction at the Singapore Youth Festival (SYF) Arts Presentation 2019 in the Chinese Orchestra, Choir and Symphonic Band categories and the Certificate of Accomplishment in the Dance category. This was followed by another outstanding showing in Drama at the SYF Arts Presentation in 2018. Our student-athletes made history, emerging champions in the ‘A’ Division Hockey (Girls) and Floorball (Boys) Championships in 2019. Eunoia athletes were also recognised for outstanding individual performances in Golf, Shooting and Wushu at the ‘A’ Division Championships. In various academic competitions and olympiads, our Eunoians built on the legacy of their seniors, achieving commendable results. Most importantly, our Class of 2019 contributed a glorious chapter of the Eunoia story; their historic achievements light the way for future generations of Eunoians to draw inspiration from and build on.
 
-![](/images/2020result_class2.jpg)
+![](/images/2020/2020result_class2.jpg)
 
 ### Coming Full Circle
 
