@@ -1,0 +1,166 @@
+collections:
+  staff:
+    output: true
+    order:
+      - Arts/.keep
+      - Arts/Arts Department.md
+      - Arts/Mr Justin Lee.md
+      - Arts/Mr Jared Goh.md
+      - Arts/Dr Gooi Tah Choe.md
+      - Arts/Mr Fred Ong.md
+      - Arts/Mr Mahmood Fahmi Ahamed.md
+      - Arts/Mr Alson Yong.md
+      - Arts/Ms Low Sok Hui.md
+      - Arts/Mr Azhar Amin.md
+      - Arts/Ms Leong Wymin.md
+      - Arts/Ms Rachel Lim.md
+      - Arts/Mr Lee Ji Heng.md
+      - Arts/Ms Quek Jia Qi.md
+      - Economics/.keep
+      - Economics/Economics.md
+      - Economics/Mr Benjamin Liang.md
+      - Economics/Mr Kevin Tan.md
+      - Economics/Ms Koh Han Yun.md
+      - Economics/Ms Tan Liu Yin.md
+      - Economics/Ms Loh Xin Min.md
+      - Economics/Ms Elizabeth Chin.md
+      - Economics/Mr Gary Fong.md
+      - Economics/Ms Juliana Wong.md
+      - Economics/Mr Kelvin Teo.md
+      - Economics/Ms Lim Lyn Na.md
+      - Economics/Mr Ma Mingwei.md
+      - Economics/Ms Michelle Chiang.md
+      - Economics/Mr Peter Soh.md
+      - Economics/Ms Serene Tan.md
+      - Economics/Mrs Wee Chen Jinqi.md
+      - English/.keep
+      - English/English Department.md
+      - English/Ms Stephanie Hua.md
+      - English/Mr Marc Kenji Lim.md
+      - English/Ms Kok Li en.md
+      - English/Ms Nadiah Razali.md
+      - English/Dr Edson Ng.md
+      - English/Ms Heon Mak.md
+      - English/Mrs Danielle Low.md
+      - English/Mr Perrin Singarayar.md
+      - English/Ms Cham Bei Qing.md
+      - English/Mrs Charlotte Lee.md
+      - English/Mr Crispin Rodrigues.md
+      - English/Mr Darren Chong.md
+      - English/Ms Eleanor Grace Wong.md
+      - English/Ms Elena Tan.md
+      - English/Mr Joshua Ng.md
+      - English/Ms Kajal Kaur Khaira.md
+      - English/Ms Karol Ann Tan.md
+      - English/Ms Ng Hui Qi.md
+      - English/Ms Renuka Satianathan.md
+      - English/Ms Priyah Haritheertham.md
+      - English/Mr Samuel Wong.md
+      - English/Mr Timothy Ng.md
+      - Mathematics/.keep
+      - Mathematics/Mathematics Department.md
+      - Mathematics/Mr Alvin Toh.md
+      - Mathematics/Mr Barry Chia.md
+      - Mathematics/Mr Lim Yin.md
+      - Mathematics/Mr Alex Teo.md
+      - Mathematics/Mr Chen Jinquan.md
+      - Mathematics/Mr Chng Xian Yi.md
+      - Mathematics/Mr Chu Wee Yong.md
+      - Mathematics/Ms Clarice Chan.md
+      - Mathematics/Mr Chua Jian Rong.md
+      - Mathematics/Mr Kuang Kim Chun.md
+      - Mathematics/Mr Lee Boon Ann.md
+      - Mathematics/Ms Lee Ngern Sim.md
+      - Mathematics/Ms Lim Yen Chui.md
+      - Mathematics/Ms Ng Yixin.md
+      - Mathematics/Mrs Ng Phoon Lai Yong.md
+      - Mathematics/Mr Tan Khoon Han.md
+      - Mathematics/Mr Wong Jia Sheng.md
+      - Mother Tongue/.keep
+      - Mother Tongue/MTL Department.md
+      - Mother Tongue/Mr Tay Theng Hwee.md
+      - Mother Tongue/Ms Yang Shu Hung.md
+      - Mother Tongue/Mdm Ng Lai Sze.md
+      - Mother Tongue/Mdm Elavarasi Sundararaju.md
+      - Mother Tongue/Mr Cao Jiandong.md
+      - Mother Tongue/Ms Cao Xinxin.md
+      - Mother Tongue/Mdm Chen Lili.md
+      - Mother Tongue/Mr Chng Tsu Pang.md
+      - Mother Tongue/Ms Lu Jing.md
+      - Mother Tongue/Mdm Pan Qun.md
+      - Mother Tongue/Mr Sun Xiaojun.md
+      - Mother Tongue/Ms Nadira Md Sedik.md
+      - Mother Tongue/Mrs Uma Thiruselvam.md
+      - Physical Education/.keep
+      - Physical Education/PE Department.md
+      - Physical Education/Mr Charles Cheak.md
+      - Physical Education/Mr George Danapal.md
+      - Physical Education/Ms Karine Teo.md
+      - Physical Education/Mr Allen Lee.md
+      - Physical Education/Ms Anna Loh Kai Suan.md
+      - Physical Education/Mr Bryan Chan.md
+      - Physical Education/Mr Ng Boon Hong.md
+      - Physical Education/Mr Ng Jun Kiat.md
+      - Physical Education/Mr Trevor Tay.md
+      - Project Work/.keep
+      - Project Work/Project Work Department.md
+      - Project Work/Ms Adrienne de Souza.md
+      - Project Work/Mr Omar Basri Sulaimir.md
+      - Project Work/Ms Iris Lee.md
+      - Project Work/Ms Rachel Yau.md
+      - Project Work/Mr Daniel Kwan.md
+      - Project Work/Ms Ng Lee Siah.md
+      - Science/.keep
+      - Science/Science Department.md
+      - Science/Dr Chok Yew Keong.md
+      - Science/Mr Koh Siong Yang.md
+      - Science/Ms Tan Fangxi.md
+      - Science/Mr Benjamin Choo.md
+      - Science/Dr Chan Kim Seng.md
+      - Science/Mdm Tan Lingmin.md
+      - Science/Mr Ngiam Song Wee.md
+      - Science/Mr Robin Soh.md
+      - Science/Mr Gabriel Woon.md
+      - Science/Ms Diana Ma.md
+      - Science/Mr Enoch Tang.md
+      - Science/Ms Jacintha Huang.md
+      - Science/Ms Suellen Goh.md
+      - Science/Ms Zulaiha Said.md
+      - Science/Mr Chan Ter Yue.md
+      - Science/Mr Christopher Tan.md
+      - Science/Mr Felix Lim.md
+      - Science/Ms Emeline Choo.md
+      - Science/Ms Lu Huiping.md
+      - Science/Ms Ng Siow Ying.md
+      - Science/Ms Chan Xin Yu.md
+      - Science/Ms Chia Xin Hui.md
+      - Science/Mr Justin Lim.md
+      - Science/Mdm Liu Shuyu.md
+      - Science/Mr Ong Wee Yong.md
+      - Science/Mrs Ong Eng Yee Wen.md
+      - Science/Mr Rizal Abu Bakar.md
+      - Science/Mr Tan Zhen Yong Keith.md
+      - Science/Dr Wang Guangquan.md
+      - College Management Committee/.keep
+      - College Management Committee/College Management Committee.md
+      - College Management Committee/Mr Andrew Tan.md
+      - College Management Committee/Ms Lynn Koh.md
+      - College Management Committee/Mr Mohamad Amran Shah.md
+      - College Management Committee/Ms Adrienne de Souza.md
+      - College Management Committee/Mr Alvin Toh.md
+      - College Management Committee/Mr Benjamin Liang.md
+      - College Management Committee/Mr Charles Cheak.md
+      - College Management Committee/Dr Chok Yew Keong.md
+      - College Management Committee/Mr Kevin Tan.md
+      - College Management Committee/Ms Koh Han Yun.md
+      - College Management Committee/Mr Koh Siong Yang.md
+      - College Management Committee/Mr Jared Goh.md
+      - College Management Committee/Mr Justin Lee.md
+      - College Management Committee/Mr Marc Kenji Lim.md
+      - College Management Committee/Ms Stephanie Hua.md
+      - College Management Committee/Ms Tan Fangxi.md
+      - College Management Committee/Mr Tay Theng Hwee.md
+      - College Management Committee/Ms Yang Shu Hung.md
+      - Executive and Admin Staff.md
+      - ICT and IME.md
+      - Student Development.md

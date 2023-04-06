@@ -1,15 +1,61 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/EJC_wordmark.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About
+    collection: about
+  - title: Admissions
+    collection: admissions
+  - title: Curriculum
+    url: /curriculum
+    sublinks:
+      - title: T&L Philosophy
+        url: /teaching-and-learning-philosophy
+      - title: Academic Subjects
+        url: /academic-subjects/academic-subjects/
+      - title: Subject Combinations
+        url: /subject-combinations/
+      - title: Flagship Programmes
+        url: /flagship-programmes/flagship-programmes/
+      - title: Special Programmes
+        url: /special-programmes/sp/
+      - title: Student Development
+        url: /student-development/sd/
+      - title: Student Showcase
+        url: https://ejceudaimonia.com/
+  - title: Culture
+    url: /culture/student-culture/
+    sublinks:
+      - title: Co-Curricular Activities
+        url: /culture/Co-Curricular-Activities/cca/
+      - title: Student Council
+        url: /culture/student-council/
+      - title: House System
+        url: /culture/House-System/houses/
+      - title: Aesthetics Programme
+        url: /culture/aesthetics/
+      - title: Community Outreach
+        url: /culture/community-outreach/
+      - title: Internships and Externships
+        url: /culture/internships/
+      - title: Physical Education
+        url: /culture/pe/
+  - title: Resource
+    url: /resource/
+    sublinks:
+      - title: Photos
+        url: https://www.flickr.com/photos/eunoiajc
+      - title: Videos
+        url: https://vimeo.com/eunoiajc
+      - title: Publications
+        url: https://www.issuu.com/eunoiajc
+      - title: Student Press
+        url: https://eunoiaorigin.wordpress.com
+      - title: Style Guide
+        url: /media/Style-Guide/style-guide/
+      - title: Handbook
+        url: https://sites.google.com/ejc.edu.sg/ejc-student-handbook/
+      - title: CSH
+        url: https://sites.google.com/ejc.edu.sg/cshineunoia/
+      - title: Portal
+        url: https://portal.ejc.edu.sg/
+      - title: Library
+        url: /library

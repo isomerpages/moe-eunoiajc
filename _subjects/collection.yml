@@ -1,0 +1,29 @@
+collections:
+  subjects:
+    output: true
+    order:
+      - Knowledge Skills/.keep
+      - Knowledge Skills/General Paper.md
+      - Knowledge Skills/Knowledge & Inquiry.md
+      - Knowledge Skills/Project Work.md
+      - Languages/.keep
+      - Languages/Mother Tongue Languages.md
+      - Languages/Foreign Languages.md
+      - Humanties & the Arts/.keep
+      - Humanties & the Arts/Economics.md
+      - Humanties & the Arts/Geography.md
+      - Humanties & the Arts/History.md
+      - Humanties & the Arts/Literature in English.md
+      - Humanties & the Arts/China Studies in Chinese.md
+      - Humanties & the Arts/Chinese Language & Literature.md
+      - Humanties & the Arts/Malay Language & Literature.md
+      - Humanties & the Arts/Tamil Language & Literature.md
+      - Humanties & the Arts/Translation (Chinese).md
+      - Humanties & the Arts/Art.md
+      - Humanties & the Arts/Music.md
+      - Mathematics & Sciences/.keep
+      - Mathematics & Sciences/Mathematics.md
+      - Mathematics & Sciences/Further Mathematics.md
+      - Mathematics & Sciences/Biology.md
+      - Mathematics & Sciences/Chemistry.md
+      - Mathematics & Sciences/Physics.md

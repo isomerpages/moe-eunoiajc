@@ -1,0 +1,12 @@
+collections:
+  admissions:
+    output: true
+    order:
+      - Admissions.md
+      - Direct School Admission.md
+      - Joint Admissions Exercise.md
+      - Joint Integrated Programme.md
+      - Returning Singaporeans.md
+      - International Students.md
+      - Scholarships.md
+      - Financial Assistance.md

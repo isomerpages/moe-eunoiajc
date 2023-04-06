@@ -1,0 +1,14 @@
+collections:
+  about:
+    output: true
+    order:
+      - About Us.md
+      - Principal's Message.md
+      - Vision.md
+      - Identity.md
+      - Campus.md
+      - Staff.md
+      - Directory.md
+      - Partners.md
+      - Advisory Committee.md
+      - Contact Us.md

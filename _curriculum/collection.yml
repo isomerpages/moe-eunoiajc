@@ -1,0 +1,34 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - Curriculum.md
+      - Academic Subjects.md
+      - Subject Combinations.md
+      - Teaching and Learning Philosophy.md
+      - Flagship Programmes/.keep
+      - Flagship Programmes/Flagship Programmes.md
+      - Flagship Programmes/Talent Development Programme.md
+      - Flagship Programmes/Life Coaching Programme.md
+      - Flagship Programmes/Passion Pursuit.md
+      - Flagship Programmes/World Readiness Programme.md
+      - Special Programmes/.keep
+      - Special Programmes/Special Programmes.md
+      - Special Programmes/Bicultural Studies Programme.md
+      - Special Programmes/Humanities Scholarship and Programme.md
+      - Special Programmes/Music Elective Programme.md
+      - Special Programmes/Community Engagement Scholarship Programme.md
+      - Special Programmes/Programme ALTITUDE.md
+      - Special Programmes/Programme LATITUDE.md
+      - Special Programmes/Programme MAGNITUDE.md
+      - Special Programmes/Stem Research Programmes.md
+      - Student Development/.keep
+      - Student Development/Student Development.md
+      - Student Development/Careers, Scholarships & Higher Education.md
+      - Student Development/Character & Citizenship Education.md
+      - Student Development/Global Orientation Programme.md
+      - Student Development/Leadership Academy.md
+      - Student Development/Environmental Literacy Programme.md
+      - Student Development/Cyber Wellness.md
+      - Student Development/Values–in–Action.md
+      - Student Development/Sexuality Education.md

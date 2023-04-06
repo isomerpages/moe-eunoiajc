@@ -1,0 +1,12 @@
+collections:
+  resource:
+    output: true
+    order:
+      - Library.md
+      - Style Guide/Style Guide.md
+      - Style Guide/Visual Identity.md
+      - Style Guide/Identity Guidelines.md
+      - Style Guide/Colour Guide.md
+      - Style Guide/Typography Guide.md
+      - Style Guide/Writing Guide.md
+      - Style Guide/.keep
