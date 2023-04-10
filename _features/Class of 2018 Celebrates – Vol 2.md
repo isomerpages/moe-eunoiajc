@@ -3,13 +3,11 @@ title: Class of 2018 Celebrates – Vol 2
 permalink: /first-class-2/
 description: ""
 ---
-
-
 Our First Class of Eunoians have shone brilliantly in the college's beginning years. In this second volume, we spoke to our pioneering students, Caspian, Li-lyn, Sarah, Megan, Yue Tian and Clyde to hear their stories of recovering from setbacks, managing their time to pursue passion projects and leave a lasting legacy on the college, all while juggling academic work in a rigorous two-year journey in Eunoia. Read more about our first class in Volumes [**1**](/first-class-1/), [**3**](/first-class-3/), [**4**](/first-class-4/), [**5**](/first-class-5/) and [**6**](/first-class-6/).
 
 ##### PHOTOS BY PONHVOAN SREY
 
-![](/images/cfc-caspian.png)
+![](/images/Features/cfc-caspian.png)
 
 **Caspian Ng (17-I1)** is a steadfast leader, thinker and Eunoian in every respect. As the pioneering captain of Track & Field, he shouldered the responsibility of forging a strong team identity and laid the foundation for training and management. Finishing with a Gold medal in the 400m hurdles at the 'A' Division Track & Field Championships in 2018, he represented the Singapore Schools Track & Field team at the 10th ASEAN School Games held in Kuala Lumpur. Caspian was also a Student Councillor, who oversaw the creation and distribution of the college's distinctive sports team jackets. As the House Vice-Captain for Isami, he led efforts to bring his house together and excel at college events. Perceptive, energetic and a natural leader, he never failed to encourage and inspire his peers in and outside the classroom.
 
@@ -29,7 +27,7 @@ Apart from my studies, I took on multiple leadership positions and a heavy invol
 
 I believe that at the end of it, I turned out to be a better person because of my choices. It was tough, but it shaped me to be who I am today and I don't think many experiences can compare to that.
 
-![](/images/cfc-lilyn.png)
+![](/images/Features/cfc-lilyn.png)
 
 
 **Seck Li-lyn (17-E1)** is an accomplished student, artist and leader who has left a legacy in Eunoia in several ways. Placed on the Dean's List (Service & Leadership), Li-lyn's humility, perseverance and passion earned her the respect of her peers. An outstanding Art student who attained distinctions in H2 and H3 Art, Li-lyn's entry for the UOB Painting of the Year (2018) was featured in the Singapore Youth Festival 2018 Art Exhibition. With a fellow Art student, she co-designed a LEGO mural to commemorate the college's inaugural graduation ceremony.
@@ -46,7 +44,7 @@ There are many others who have been very important as well - a shout-out to Mr T
 
 My first piece of advice would be to pace yourself. There will be many a time when you are highly motivated and want to give it your all, but you may burn out. Learning to know when and how to take things lightly is quite important. It is important to surround yourself with a group of like-minded friends who will strive with you. JC isn't just about academic success - it may seem like it at times, but you can really accomplish so much more if you look outside your bubble.
 
-![](/images/cfc-sarah.png)
+![](/images/Features/cfc-sarah.png)
 
 
 **Sarah Lai (17-E3)** is a versatile, determined and resilient young lady who has proven herself in various roles and responsibilities entrusted to her. As Class Chairperson, she led her class with equal parts heart and finesse. As a member of the college's Chinese Orchestra, she honed her skills quickly to play the cello with confidence, performing at the library@esplanade in 2017, the college's Official Opening ceremony in 2018 and community performances at St. Luke's Eldercare Centre. Her keen interest in the sciences as well as her passion for service, she served a short medical attachment with Parkway Hospitals to shadow and learn from different specialists. 
@@ -61,7 +59,7 @@ It was difficult certainly: there were many tutorials, lots of studying that wen
 
 Earlier in 2018, I had juggle two CCAs, Swimming and Chinese Orchestra, and my duties as a Class Chairperson. At that point in time, I was struggling to keep up with my work: while focusing on my CCAs, I tried to fit in time to do some work when I could. It was only closer to the A-Levels that I started to ramp up, and planning my time really helped. I like to see everything organised and structured and having a plan helped to keep my focus in the lead-up to the exams. Maybe I could have done better at the start of the year. While we will all experience difficulties - nothing is ever easy - but we definitely need a little push and self-belief to overcome our difficulties and achieve our goals.
 
-![](/images/cfc-megclydelaw.png)
+![](/images/Features/cfc-megclydelaw.png)
 
 
 **Megan Heng (17-A5)** is the recipient of the distinguished Harvard Prize Book (Singapore). Beyond placing twice on the Dean's List (Academic) in 2017 and 2018, Megan was an exemplary student who was a positive influence on her peers. Appointed as a mentor-buddy, she helped a new student adapt into her class and as the Class Vice-Chairperson, fostered encouraging friendships within her civics group. Under the college's GLIDE Talent Development Programme, she assisted residents at various Meet-the-People sessions with their issues and embarked on a separate mental health awareness project with her GLIDE team. Megan's heart for the community led her to participate in a range of service learning projects at the Singapore Association for the Visually Handicapped and TOUCH Community Services, distributing food to the home-bound in Ang Mo Kio and going the extra mile to know them on a personal level.
