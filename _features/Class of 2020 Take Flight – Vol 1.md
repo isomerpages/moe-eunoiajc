@@ -3,13 +3,11 @@ title: Class of 2020 Take Flight – Vol 1
 permalink: /class-2020-1/
 description: ""
 ---
-
-
 The Class of 2020 demonstrated how when hearts unite and minds ignite, our dreams can take flight. They made the most of college life amidst an unusual two years for people all over the world. In this first volume, Phaedra, Gaston, Sherman and Leslie share their tips for living a full life in JC, reflecting on how they pursued their passions even as they strove for academic excellence.
 
 ###### PHOTOS BY ANNABELLE TAY AND SEAN KOH
 
-![](/images/Class2020_Phaedra.jpg)
+![](/images//Features/Class2020_Phaedra.jpg)
 ### Phaedra Tan
 **ALUMNA OF CHIJ ST NICHOLAS GIRLS' SCHOOL**
 
@@ -27,7 +25,7 @@ My two years here were years of self-discovery as I learned more about myself as
 
 I would like to encourage my juniors to work with the end in mind. Always remember that the only way is up as long as you keep striving, asking for help, and acting on the advice you receive. The process is always tough but having a clear direction and goal and visualising yourself achieving those dreams is key to staying afloat. It doesn’t matter where you are now — only how much you’re willing to work to reach what you want. All the best!
 
-![](/images/Class2020_Gaston.jpg)
+![](/images/Features/Class2020_Gaston.jpg)
 ### Gaston Liew
 **ALUMNUS OF YISHUN TOWN SECONDARY SCHOOL**
 
@@ -45,7 +43,7 @@ It was a blessing. I never intended to go the JC route at the start of my Sec 4 
 
 I would like to encourage my juniors to never be afraid to step out of your comfort zone to give back to the school - EJC is the best place to really let your talents and gifts shine! Make the most out of your two-year journey and give yourself the most holistic education you can have!
 
-![](/images/Class2020_Sherman.jpg)
+![](/images/Features/Class2020_Sherman.jpg)
 ### Sherman Goh
 **ALUMNUS OF COMMONWEALTH SECONDARY SCHOOL**
 
@@ -63,7 +61,7 @@ I would say that my two years in EJC have been quite meaningful. Initially, I ha
 
 To my juniors, I encourage all of you to start your preparation early and plan ahead. Do also try to approach your teachers to clarify whenever in doubt and, last but not least, all the best in your preparation for the A-Levels!
 
-![](/images/Class2020_Leslie.jpg)
+![](/images/Features/Class2020_Leslie.jpg)
 ### Leslie Yip
 **ALUMNUS OF CATHOLIC HIGH SCHOOL**
 
