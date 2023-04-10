@@ -3,13 +3,11 @@ title: Class of 2019 Light the Way – Vol 1
 permalink: /class-2019-1/
 description: ""
 ---
-
-
 The Class of 2019 have come to define the college's glories and made history for themselves. For this first volume, we met Rebekah, Chong Yu, Sanchana, Wen Xin and Shin Loong to hear about their journeys as student-leaders, insights from their path to academic success and words of inspiration they wish to share with their juniors.
 
 ##### PHOTOS BY ASHER TAN, ANSELM LONG AND DING YONG KHAI
 
-![](/images/2019-rebekah.png)
+![](/images/Features/2019-rebekah.png)
 
 **Rebekah Seow (18-A1)** exemplified excellence in her academic, leadership and co-curricular pursuits and was an inspiration to her peers. Her many achievements and contributions included her role as the well-respected President of the 2nd Student Council, being a mainstay on the Dean’s List, and serving as a regular volunteer letter-writer at Meet-the-People Sessions at Kebun Baru. She led the organising committee for the EJC Orientation in 2019 and also was instrumental in crafting the Student Council Constitution, leaving a legacy for her juniors and subsequent batches of Eunoians.
 
@@ -25,7 +23,7 @@ There were certainly some challenging periods — I still remember the daily rou
 
 The lead up to the A-level exam can be incredibly draining and relying on your friends for support and supporting them can make a big difference. When I found it painful to get out of bed and study each morning, talking to friends and studying with them kept me going, as did the knowledge we were all going through the same struggle together.
 
-![](/images/2019-chongyu.png)
+![](/images/Features/2019-chongyu.png)
 
 **Ong Chong Yu (18-A1)** was a tenacious and compassionate Deputy President of the 2nd Student Council. He played an instrumental role in college life, emceeing the college’s Chinese New Year celebrations, publicising the Hair for Hope campaign and organising the Student Council Election. Effectively bilingual, he also won the Prime Ministers’ Book Prize in 2018 and was a Bicultural Studies Programme Scholar. Chong Yu contributed immensely not only to the college but to the wider community as well, serving as a long-term volunteer at Beyond Social Services, and was a deserving recipient of the MOE Edusave Character Award. In October 2019, Chong Yu received the distinguished Harvard Prize Book for his excellence in scholarship, character and holistic achievements.
 
@@ -41,7 +39,7 @@ It definitely wasn’t easy and there were many moments when I felt dejected, wh
 
 Work with your tutors to refine your study strategies — I did not know how to summarise my notes efficiently which meant studying took me a lot of time and effort, and this drained my motivation to study. Once I got better at consolidating my learning, I had the momentum to keep going. Taking short breaks and pacing yourself is also a useful strategy. I got tired and burned out at times because studying was definitely less exciting than Council activities. Taking regular short breaks to reward myself and helped me feel less overwhelmed. I also tried to challenge myself to extend my studying time between each break and build discipline by turning off my phone while studying. Talking to friends, teachers and studying with them also boosted my motivation and spurred me on when I wanted to give up.
 
-![](/images/2019-sanchana.png)
+![](/images/Features/2019-sanchana.png)
 
 **Sanchana Gnanasekaran (18-O4)** was an outstanding student and Deputy President of the 2nd Student Council. In the classroom and in the Student Council, she was able to elicit the view of a diverse range of individuals and reassure them that their views were valuable and had been heard, As the overall person-in-charge for high-profile college events such as the Orientation programme for the Joint Integrated Programme students (Eunite) in 2019 and the Student Council Investiture in 2018, Sanchana effectively communicated and managed the perspectives of the many different stakeholders with maturity, decisiveness and sensitivity. She also very quickly shaped up as a unifying and inspiring figurehead who could motivate everyone involved to do their very best for the events.
 
@@ -57,7 +55,7 @@ My journey to the A-levels was tough — there were highs and there were many lo
 
 I often felt that I was not performing up to expectations and having to keep going was difficult. However, I realised that keeping a positive outlook and focusing on your progress rather than how far away you were from your goals helped immensely. I always reminded myself that at the end of the day, the journey would be worth it.
 
-![](/images/2019-wenxin.png)
+![](/images/Features/2019-wenxin.png)
 
 **Tan Wen Xin (18-I1)** was the Deputy Head of the Communications committee in the Student Council and stood out as a nurturing and empowering mentor. The teams she led benefited from her meticulous planning, clear guidelines and meaningful feedback and her efforts contributed to the Student Council strengthening its social media presence in order to better reach out to Eunoians. Wen Xin’s alma mater also benefited from her leadership as she made time amidst to serve as a Cadet Inspector with the National Police Cadet Corps (NPCC), mentoring cadets at CHIJ St Nicholas Girls’ School.
 
@@ -73,7 +71,7 @@ During our Eunoia GO trip to Sri Lanka, Mr Barry Chia once said that the A-Level
 
 I think my toughest challenge was balancing my Council commitments with my academic work at the start of JC2.  With the support of my friends who helped to collect homework for me, as well as my subject teachers who were very patient when giving consultations, catching up with the class was a lot easier. I am grateful for the support I received from my EJC family.
 
-![](/images/2019-shinloong.png)
+![](/images/Features/2019-shinloong.png)
 
 **Yeo Shin Loong (18-A1)** was an instrumental leader in the Eunoia community, serving as an outstanding Captain of Akila House and a Student Councillor even as he pursued academic excellence as an MOE Bicultural Studies Programme Scholar. A constant on both the Dean’s List (Academic) and Dean's List (Character & Service) for his courage and integrity, Shin Loong was a noticeable presence during House events, rallying his peers with an infectious enthusiasm. He not only helped forge a strong house spirit within Akila, his efforts also helped strengthen the Eunoia identity amongst the Class of 2019.
 
