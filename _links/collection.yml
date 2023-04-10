@@ -1,5 +1,5 @@
 collections:
-  resource:
+  links:
     output: true
     order:
       - Library.md
