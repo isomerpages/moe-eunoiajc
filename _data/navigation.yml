@@ -38,8 +38,6 @@ links:
         url: /culture/internships/
       - title: Physical Education
         url: /culture/pe/
-  - title: Features
-    collection: features
   - title: Resource
     url: /resource/
     sublinks:
