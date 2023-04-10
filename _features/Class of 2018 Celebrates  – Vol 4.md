@@ -3,13 +3,11 @@ title: Class of 2018 Celebrates  – Vol 4
 permalink: /first-class-4/
 description: ""
 ---
-
-
 Our First Class of Eunoians have shone brilliantly in the college's beginning years. For this fourth volume, we heard from Isabel, Zi Hao and Zann Yee from the pioneer cohort of 29 Humanities Scholars on their thoughts, their gratitude for the people around them and the encouragement they hope to share with their juniors. Read more from our first class in Volumes **[1](/first-class-1/)**, [**2**](/first-class-2/), [**3**](/first-class-3/), [**5**](/first-class-5/) and [**6**](/first-class-6/).
 
 ##### PHOTOS BY YOONG JUN HAN
 
-![](/images/cfc-isabel.png)
+![](/images/Features/cfc-isabel.png)
 
 **Isabel Chan Jia Yi (17-O1)** is a Ministry of Education (MOE) Humanities Scholar. A dedicated learner and writer, she was placed on the Dean's List (Academic) and was the top student for H2 Geography in the cohort for both 2017 and 2018. Highly driven and all-rounded, Isabel exhibited strong leadership as a Student Councillor and the Vice-Captain of the Hockey (Girls) team. As the overall IC, she rallied her team of councillors to successfully organise the college's first Teachers' Day Celebrations. Her passion, tenacity and discipline brought the Hockey team together, who emerged as 1st runners-up in the 'A' Division Championships in 2018. Isabel also showed great initiative and care for the community, participating in a Values-in-Action project at Gracehaven, embarked on a campaign with World Vision's 'My Vision' programme to raise funds for worldwide access to education, and laid the ground for the college's Community Mapping programme in Ghim Moh. Isabel's legacy is evident for all to see - she is one of two student-designers behind the college's white and grey pin-striped uniform.
 
@@ -27,7 +25,7 @@ My teachers - not just the teachers in EJ but also the many who guided me in my 
 
 Work hard, but ultimately believe in yourself. Often times, you are more capable than you give yourself credit for. At the same time, take time for yourself and appreciate those around you because you are not alone. Even though the process may be rough now, you’ll get through!
 
-![](/images/cfc-zihao.png)
+![](/images/Features/cfc-zihao.png)
 
 
 **Tan Zi Hao (17-U1)** is an exemplary learner and a generous friend whose commitment, organisational skills and spirit of inquiry stand out amongst his many qualities. As part of the college's Humanities Scholarship Programme (HSP) class, he served as a HSP ambassador advising his juniors on the programme and their subject combination choices. His passion for History and International Relations inspired him to take on a H3 Geopolitics module on the Geographies of War and Peace at the National University of Singapore and take part in the 8th ASEAN Quiz with two classmates. Together they emerged champions at the national level and represented Singapore regionally in December 2018. As a founding member of EJC Drama, he was versatile as an actor and scriptwriter, contributing in both capacities for the group's original production at the Official College Opening. On top of his creative and intellectual aptitude, he was forthcoming in supporting his classmates who faced challenges in Mathematics. 
@@ -44,7 +42,7 @@ My classmates have always contributed to a helpful and conducive learning enviro
 
 Always prepare early. Never be complacent about the amount of time you have.
 
-![](/images/cfc-zann.png)
+![](/images/Features/cfc-zann.png)
 
 
 **Wong Zann Yee (17-U1)** is a recipient of the MOE Humanities Scholarship who performed admirably in her academic pursuits, working industriously to place on the Dean's List (Academic) in 2018 and taking on the added challenge of H3 Literature in English. She was also the college's nominee for the inaugural Edwin Thumboo Prize for Literature. Her strong leadership and management was demonstrated not only as Class Chairperson, but also as an Ora House representative, the Head of the Community Engagement Wing in the college's Service Learning CCA and as a student leader in the college's initial Orientation programmes for her own cohort in 2017. Amongst her many service efforts, she has worked with the National Silver Academy, Bethel Community Services, the Bishan North Meet-the-People sessions on self-initiated, CCA-based and talent development programmes.
