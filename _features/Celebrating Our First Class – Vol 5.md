@@ -3,13 +3,11 @@ title: Celebrating Our First Class – Vol 5
 permalink: /first-class-5/
 description: ""
 ---
-
-
 Our First Class of Eunoians have shone tremendously in the college's beginning years. To learn more about their outstanding holistic and academic achievements, we asked our pioneering students to share their thoughts on their experience and wise words of encouragement to their juniors. Eunoians are defined not just by their academic achievements, but who they are as people and the impact they leave on the world. Read more about our first class in Volumes [**1**](/first-class-1/), [**2**](first-class-2/), [**3**](/first-class-3/), [**4**](/first-class-4/) and [**6**](/first-class-6/).
 
 ###### PHOTOS BY MR YEO CHANG LONG
 
-![](/images/cfc-le.png)
+![](/images/Features/cfc-le.png)
 
 **Le Quang Anh (17-U3)** is a passionate learner, whose excellence in Mathematics and other subjects was an inspiration to his peers. His avid interest in Mathematics was evident in the long list of competitions he took part in and most notably in the Commendation Award at the Singapore International Mathematics Competition, Silver Award at the Singapore Mathematical Olympiad, attaining the Honour Roll certificate at the American Mathematics Competition and clinching 3rd place wit his team at the Shanghai TI Cup 2017. His curiosity in Economics and the sciences could be seen in his involvement in EColumnist, a student-driven writing programme, and his participation in the Young Defence Scientists Programme in 2017. The research he completed gave him the opportunity to present at two further conferences.
 
@@ -25,7 +23,7 @@ I could not imagine having been as happy being anywhere else but Eunoia for my J
 
 I really would want them to know that there is help all around them to assist them in this journey. "Do not be shy to find help or provide help" would be my first advice. In times of crisis (e.g. nearing the exams), talking to a teacher or a good friend really helped to keep on going. My second advice would be to be consistent in their academic work. "Pay attention in lectures, and if necessary, drink lots of water to stay awake" is my second advice. Although the second part of the advice may be different from person to person (some chemistry students may argue that drinking water reduces concentration!), trying to follow and understand the content in lectures would save us a lot of time at home completing the tutorial, and very often, the teachers share tips and experience that do not come from the notes. Lastly, for the JC1s especially, "Be not afraid to try out new things and pursue your passions!" because exploration and building new things is something we all can do.
 
-![](/images/cfc-chelsea.png)
+![](/images/Features/cfc-chelsea.png)
 
 
 **Chelsea Lin (17-U5)** was on the Dean's List (Academic) in 2017, Dean's List (Character & Service) in 2017 and 2018 and received the MOE Edusave Character Award in 2017. As Class Chairperson in 2018 and Economics representative, she fostered camaraderie in the class, encouraged them at critical points in the academic calendar and made it a point to connect with all her classmates. She served a Scores Manager and Section Leader in the Chinese Orchestra, playing an important role in their successful concerts at library@esplanade and the Esplanade Recital Studio. On top of managing her multiple commitments with discipline and dedication, Chelsea's passion for service led her to volunteer at the Sports Hub Community Play Day, Santa Run for Wishes, the Methodist Children and Youth Centre Community Services Society and St Luke's Eldercare Centre.
@@ -42,7 +40,7 @@ In particular, the two closest teachers to me, Mr Low and Mr Chew also constantl
 
 You are less alone than you think you are in this rough journey. If you have the desire to learn and do well, your teachers will never ever leave you and would want to see you succeed more than you yourself would. Trust yourself, and trust the teachers to bring you to where you would want to see yourself at.
 
-![](/images/cfc-julian.png)
+![](/images/Features/cfc-julian.png)
 
 
 **Julian Poon (17-U5)** is know amongst peers and teachers for his ferocious appetite for knowledge and his love for sharing what he has learned with all. His dedication naturally placed him on the Dean's List (Academic) in both years and the Commendation Award for Further Mathematics. His passion for learning saw him take on H3 Mathematics and participate in the Singapore Physics Olympiad and the Singapore Mathematics Olympiad; the effort he put in paid off in Silver medals for both olympiads in both years. Furthermore, he was instrumental in his team's Bronze medals at the Singapore Young Physicists Tournament in 2017 and 2018. An active member of the Computing & Robotics Club, he represented the college in the DSTA Cyber Defenders Discovery Camp in 2017 and clinched Bronze with his team. Julian is also passionate about serving the community, volunteering at Fostering Affection Towards Elderly (FATE) where he helped organise events for Lions Befrienders in 2017 and 2018.
@@ -57,7 +55,7 @@ An interest in learning and time management is what enabled me to achieve these 
 
 My two years in EJC were hectic yet enjoyable. The teachers are hardworking and caring. In EJ, I have met the most wonderful teachers in my life, and they played a big part in shaping who I am today. I won’t name all of them because there are too many! I am touched by their concern for the students. They answer questions posed by students late in the night, and work way over time! I am inspired by their approaches to life and teaching. Their guidance helped me gain a direction in life and to pursue academic excellence.
 
-![](/images/cfc-jacksonliu.png)
+![](/images/Features/cfc-jacksonliu.png)
 
 
 **Jackson Tiong (17-U4)** and **Liu Muchen (17-U3)** were integral pioneering members of the Computing & Robotics Club. Both designed and taught programming to fellow club members, and participated in various coding competitions together, including Cross Capture the Flag, Codeathon, WhiteHacks@SG. Their passion added much to college culture: Muchen wrote a voting application for his junior cohort's cardboard challenge and an application that allocated concurrent sessions to his peers based on their preference, while Jackson conducted engaging lessons on Python, Cryptography and Arduino for his peers at various college events. In addition, Jackson and Muchen represented the college in their areas of passion. Muchen clinched a Bronze award at the Singapore Chemistry Olympiad and was part of a team that took part in the Singapore Statistics Poster Competition. Jackson received the Bronze Award on two iterations of the Singapore Young Physicist Tournament in 2017 and 2018.
