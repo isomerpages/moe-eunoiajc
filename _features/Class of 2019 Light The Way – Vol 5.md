@@ -3,14 +3,11 @@ title: Class of 2019 Light The Way – Vol 5
 permalink: /class-2019-5/
 description: ""
 ---
-
-
-
 The Class of 2019 have come to define the college's glories and made history for themselves. For this fifth volume, we met Kenneth, Faith, Sarah-Ann and Isabel to learn how they overcame anxiety and adversity, how they grew as thinkers and leaders, and what words of advice they have to inspire their juniors to excel as well they did in their two years in Eunoia.
 
 ##### PHOTOS BY ASHER TAN, ANSELM LONG AND DING YONG KHAI
 
-![](/images/2019-kenneth.png)
+![](/images/Features/2019-kenneth.png)
 
 **Kenneth Hoh (18-O5)** is a student of outstanding academic ability with a natural charisma. Demonstrating excellence in a wide range of areas in college life, he remained steadfast and humble in demeanour. His impeccable character made him a natural leader in diverse contexts. Kenneth’s talent in music saw him being a recipient of the MOE Music Elective Scholarship, as well as attaining a Licentiate Diploma in Piano Performance with Distinction from Trinity College London in 2018. His composition, _An Odyssey into Self_, was selected for performance at an MOE Composition Workshop for junior college music students. He was also a part of the Bicultural Studies Programme, and showed profound understanding of both Western and Chinese cultures. His other accolades include: attending the Junior College Law Programme offered by the Singapore Academy of Law; being a Peer Tutor under the college’s Growing Leaders with Initiative, Dedication & Empathy (GLIDE) Programme; as well as leading Eunoia Debate Society to clinch various awards despite being a young club. Kenneth was a recipient of the SAF Young Leader Award, in recognition of Kenneth’s excellent academic and co-curricular achievements.
 
@@ -26,7 +23,7 @@ My journey to the A-level was filled with ups and downs --- occasions of celebra
 
 Managing and balancing my various commitments in college, like Debate, CG chair activities and the Music Elective Programme (MEP) taught me a lot about the importance of time management, discipline and resilience. The many late nights spent working with teammates for the next debate, practicing my piano pieces tirelessly to perfection, and revising for upcoming tests were difficult. However my passion for the various programmes and the clarity of purpose I possessed drove me to push through and try my best. Each challenge was not merely an obstacle - instead, I took each one as an opportunity to learn, improve, reflect and grow. 
 
-![](/images/2019-faith.png)
+![](/images/Features/2019-faith.png)
 
 **Faith Wong (18-U1)** demonstrates an impressive desire for knowledge acquisition, constantly exercising proactiveness in seeking out opportunities for intellectual growth. As testament to her academic achievements, borne of tenacity and intellectual independence, she was awarded the prestigious Humanities Scholarship in 2018 and was placed on the Dean’s list in 2018. Her penchant for exploring uncharted territories in search of opportunities for personal growth was also revealed when she took the leap of faith to enter as a participant for the UOB Painting of the Year competition. As President of EJ Drama Club, Faith worked tirelessly with a countenance of joy and spirit of servant leadership, helming the batch production titled _Surveillance_ in 2018.
 
@@ -42,7 +39,7 @@ In retrospect, I’m very grateful to Eunoia for giving me many opportunities to
 
 JC life is so intense that often you can get lost in your academics and extracurricular commitments, but from my experience, this isn’t exactly sustainable and can take quite a toll on your mental health. So, I think it is extremely important to almost uncompromisingly protect time outside of school doing things you love, to provide balance in life and keep yourself happy and healthy in the long run. Spend time with your family, read books outside of the curriculum, work on self-improvement, or go exploring! Even during the exam period. The only time I kind of broke this rule was in the week leading to the A-Level examinations.
 
-![](/images/2019-sarah.png)
+![](/images/Features/2019-sarah.png)
 
 **Sarah-Ann Tan (18-U1)'s** passion for the Humanities saw her being awarded the Humanities Scholarship in 2018. Her zest for the Humanities has undoubtedly contributed to the vibrancy of the wider College community. She played a pertinent and pioneering role in ensuring the success of the College’s inaugural Literature Festival where together with her class, and also shared her love for Economics to the rest of the College through presenting her research paper on Behavioural Economics to the College. With a heart to serve the student leadership community Sarah-Ann attended the SMU Leadership Symposium 2018 as EJC’s representative, and took part in the planning and executing of our college’s inaugural Leadership Academy Camp where was instrumental in planning for the dialogue with prominent leaders such as Member of Parliament Ms Denise Phua. 
 
@@ -58,7 +55,7 @@ My two years in Eunoia have been extremely fulfilling. Besides pursuing a subjec
 
 Never lose sight of the purpose you have determined for yourself. Your passions and aspirations in life and the meaning that matters to you. The academic rigour in JC can and will be very demanding and amidst all the hectic-ness, it is easy to lose sight of what matters to you. But I hope you will always be intentional in using and applying what you have learnt. Seek to draw connections between theory (what you learn in class) and reality, and use your knowledge in furthering your passions and purpose.
 
-![](/images/2019-isabel.png)
+![](/images/Features/2019-isabel.png)
 
 **Isabel Nadine Tan (18-U1)** was awarded the Humanities Scholarship in 2018 and was placed on the Dean’s list in 2018. Isabel sought continuously to expand her intellectual horizons in her study of the humanities by reading Economics at the H3 level, where she then co-organised EJC’s inaugural Introduction to Game Theory workshop for JC1 students. Her impressive breadth of knowledge on current affairs was displayed during the highly selective Pre-University Seminar, as well as the College’s Growing Leaders with Initiative, Dedication & Empathy (GLIDE) Programme. Naturally equipped with a strong set of leadership skills, Isabel was elected as the captain of EJC Tennis, leading the school team to clinch a Top 4 position in the National School Games 2019. She also took on other leadership roles, such as an Orientation Group Leader, and a House Committee member. Her involvement in planning for House Interaction Time, House Parties and Orientation was instrumental in shaping Uzuri House culture. 
 
