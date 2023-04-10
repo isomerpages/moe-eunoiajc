@@ -3,15 +3,13 @@ title: Class of 2018 Celebrates – Vol 6
 permalink: /first-class-6/
 description: ""
 ---
-
-
 Our First Class of Eunoians have shone brilliantly in the college's beginning years. In Volume 6, our pioneering student-leaders, Nicholas, Celine, Xavier, Nicolette, Dean and Jolyn to hear their stories of starting a new college culture and identity, and the wise words they would like to impart to their juniors. Read more about our first class in Volumes [**1**](/first-class-1/), [**2**](/first-class-2/), [**3**](/first-class-3/), [**4**](/first-class-4/), [**5**](/first-class-5/) and **7**.
 
 ###### PHOTOS BY KHIN HNIN SU AND PONHVOAN SREY
 
 ##### REPORTING BY EJC PRESS
 
-![](/images/cfc-nicholas.png)
+![](/images/Features/cfc-nicholas.png)
 
 **Nicholas Koh (17-E2)** was an inspiration to his peers as President of the first Student Council and a mainstay on the Dean's List (Academic) and Dean's List (Character & Service) for his courage and integrity. Pioneering many initiatives and projects, Nicholas always sought to celebrate and spread the word on the best of the school while working with fellow Eunoians to build the college culture. Beyond Student Council, Nicholas took up a new sport as a player on the Squash (Boys) team and found time to create a special interest group for Ultimate Frisbee that would become a CCA today. Given his vast contributions and fortitude as a leader, Nicholas is a true trailblazer in and for the college.
 
@@ -21,7 +19,7 @@ I would say: be strong, always be ready to pick yourself up and carry on, becaus
 
 Sometimes, some of you might feel disheartened or disappointed: maybe you’re not getting the results you want, or you’re not getting the positions you want, but just know that at the end of the day, there’s always another day to improve yourself; there’s always a better day to come, so, pick yourself up. You can take awhile to be sad, to be anxious, and worry about stuff, but, ultimately, just pick yourself up and continue going on. There’s a long way to go, and there’re many things to come, and I have faith that each and every one of you will grow and become better people, slowly but surely.
 
-![](/images/cfc-celine.png)
+![](/images/Features/cfc-celine.png)
 
 
 **Celine Lee (17-E2)** showed great tenacity as the Deputy President of the first Student Council, taking on leading roles in the school's orientation programmes, the first College Day in 2017 and the official opening ceremony in 2018. Celine was an ever-present leader who was also seen as an emcee at the college's Road Run and one of the lead actors in the Drama Club's first production. Demonstrating an admirable responsibility and perseverance, Celine has made significant contributions to student culture in Eunoia.
@@ -32,7 +30,7 @@ During my time in JC, especially in JC2, I also heard a lot of advice from my se
 
 So, for me, because my first few months of my JC2 year were very hectic, I had a lot to keep up with a lot during the last few months. So my advice is really to not give up, especially during the Mid-Year Exams and Prelims, because they are a very good indication of where you stand, so do your best. If things get hard, you can find a teacher to speak to, or you can just ask for help, because you’re not alone in this race, and many people are alongside you. They’re all taking the same test and they are probably feeling the same way as well. And also, if there’s a certain subject that you’re not so good in, or if you happen to not do so well in a certain paper, don’t let it bring you down. In fact, let it be the driving factor and the thing that motivates you to improve and work on it, to do better.
 
-![](/images/cfc-xavier.png)
+![](/images/Features/cfc-xavier.png)
 
 
 **Xavier Lee (17-A4)** was a student councillor and the first Akila House Captain, demonstrating leadership in trying to up the morale of his team of councillors and House Executive Committee. He helped to build a sense of identity within his house and the college, organising the student match support for the National School Games 'A' Division Hockey (Girls) Final. One who rises to the occasion, Xavier was also a key member of the EJC Floorball team.
@@ -53,7 +51,7 @@ For me, the journey wasn’t just meaningful because of the fact that we happene
 
 Don’t give up. Through my time in EJ, I have experienced many lows and tough times but at the end of it all, I persevered through it and the results you reap will be priceless. More importantly, work hard and enjoy yourselves. Two years are short and they will be over before you know it, so make the most out of it.
 
-![](/images/cfc-3.png)
+![](/images/Features/cfc-3.png)
 
 **Nicolette Tan (17-A3)** is an exceptional all-rounder who gave her best in everything. Serving as Captain of Badminton in EJC and Head of the Culture committee in the first Student Council, Nicolette was pivotal in shaping the college culture, from conceptualising school merchandise to writing school cheers. Most notably, Nicolette was involved in initiating Euphoria, an islandwide amazing race and beach finale on Sentosa island. In the college, Nicolette has received various accolades including the MOE EAGLES Award, the MOE Edusave Character Award, the MOE Pre-University Scholarship and has placed on both the Dean's List (Academic) and Dean's List (Character & Service) in 2017 and 2018. In the sporting arena, she achieved multiple peaks of excellence, representing the nation at the 9th ASEAN School Games and the Asian Badminton Schools Championships, taking on the role of oath-taker at the latter.
 
