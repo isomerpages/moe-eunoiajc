@@ -3,13 +3,11 @@ title: Class of 2019 Light the Way – Vol 3
 permalink: /class-2019-3/
 description: ""
 ---
-
-
 The Class of 2019 have come to define the college's glories and made history for themselves. In Volume 3, we sought inspiration from Eunoians who have shown purpose, heart and courage in their journey to the A-Levels. Bruce, Yan Peng, Deborah, David and Michael share with us their challenges and how they overcame them and words of encouragement for their juniors.
 
 ##### PHOTOS BY ASHER TAN, ANSELM LONG AND DING YONG KHAI
 
-![](/images/2019-shenbowen.png)
+![](/images/Features/2019-shenbowen.png)
 
 **Shen Bowen Bruce (18-A4)** was the Head of Training and the Head of the Video module for EJC Media. Dedicated and passionate about his craft, he was one of the main members behind college publicity videos and capturing the college's vibrant student life on video. Bruce was no less dedicated in his studies, steadfastly pushing himself in a difficult period leading up to the A-Level Examination.
 
@@ -25,7 +23,7 @@ I would describe it as messy, gruelling, painful, but worthwhile and absolutely 
 
 Have faith. Never give in to the voices in your head that keep telling you to quit. At times, life may throw things at you, but whatever it is, always remember that you are exactly where you need to be. Stay in the present. Do not dwell on the past or fixate your eyes on the future. Live in the present, do things a step at a time, and we will all get there somehow, to a much more beautiful place, as a better version of ourselves.
 
-![](/images/2019-yanpeng.png)
+![](/images/Features/2019-yanpeng.png)
 
 
 **Chua Yan Peng (18-I4)** was an innately curious and driven learner, going out of her comfort zone to participate in the Poet-in-Resident Programme and the Middle East Summit in 2018, take up a backstage role for the college's inaugural Literature Festival and served as the Physics subject representative for her class. As Head of Publicity for the Service Learning Club, she organised and proactively contributed to many of the club's activities for the elderly and the Ulu Pandan community. She was inspired enough by one of the reading programmes to continue volunteering at a reading programme to spread the joy of learning and reading to children. In her academic studies, Yan Peng demonstrated the resilience that saw her move from the Normal to Express stream at her secondary school to perform extraordinarily in all subjects she offered at the A-Level Examination.
@@ -42,7 +40,7 @@ My journey in Eunoia is one that was filled with ups and downs (in a good way). 
 
 Practise consistently! Miracles do not happen. Do not beat yourself up over your results and fail to do anything to change them. When we are willing to seek help from our teachers and friends, we will know how and where to improve so as to make a change. Do not give up on yourself because nothing is impossible. There is always room for improvement!
 
-![](/images/2019-deborah.png)
+![](/images/Features/2019-deborah.png)
 
 **Deborah Lee (18-A2)** was a nominee for The Straits Times Young Athlete of the Year Award for 2019. The goalkeeper of the college's championship-winning Hockey (Girls) team, she achieved a clean sheet throughout the National School Games 'A' Division season. In addition, she received the National Schools Colours Award for sports excellence and was selected for the 2019 U19 Hockey National Junior League Girls Division 1 team. Her many feats are all the more remarkable because of an injury she sustained before the National School Games. During this period of time, she contributed much as the quarter mistress of the Hockey team, an Orientation Group Leader (OGL) and assisted in the organisation of the college's Road Run. Despite her heavy co-curricular involvement, Deborah managed her academic work well and was placed on the Dean's List for academic excellence.
 
@@ -64,7 +62,7 @@ Press on. If you do not see the light at the end of the tunnel, it is not the en
 
 Enjoy every moment of your JC life!
 
-![](/images/2019-davidmichael.png)
+![](/images/Features/2019-davidmichael.png)
 
 **David Ng (18-I5)** and **Michael Ng (18-O3)** are brothers who displayed grit and dedication in all they sought to achieve during their two years in Eunoia. Both were placed on the Dean's List (Academic) in 2018 and 2019 and took up H3 Chemistry despite the heavy demands of their co-curricular participation. As captains of the student-initiated Golf CCA, they achieved a highly commendable 4th place in the 2019 competition. Both were key members of the boys' Floorball team, with David scoring the winning goal to clinch the 'A' Division championship. Through their successes, they were anchored by a belief in service and community: they initiated and coordinated a peer tutoring programme for their batchmates and served as Orientation Group Leaders; Michael was also a project leader for a community programme on reading and healthy living for children aged 5 to 7 years.
 
