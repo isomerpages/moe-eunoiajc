@@ -11,7 +11,7 @@ The college would like to congratulate our JC1 Eunoians whose academic talents h
 We also recognise Peh Xin Rong (22-A1), an alumna of CHIJ St Nicholas Girls' School, who received the Ee Hoe Hean Book Prize. The award recognises individuals who have performed exceedingly well in both the Chinese and English language and demonstrated exemplary character. The award is presented to one student from each of the 11 Special Assistance Plan (SAP) schools every year.
 
 
-![](/images/2022-MPU-Scholars_for-web.jpg)
+![](/images/2022/2022-MPU-Scholars_for-web.jpg)
 ### MOE Pre-University Scholarship
 Jacob Pang Eng Pooh (22-E3)<br>
 Juliette Hon (22-E6)<br>
@@ -20,7 +20,7 @@ Renee Phua Hui En (22-O6)<br>
 Sim Shijie Jessy (22-A2)<br>
 
 
-![](/images/2022-ASTARDSTA-Scholars_for-web-1.jpg)
+![](/images/2022/2022-ASTARDSTA-Scholars_for-web-1.jpg)
 ### A\*Star Science Award
 Andie Png Kai Yi (22-I3)<br>
 Dorcas Khoo Xin Jie (22-E2)<br>
@@ -29,7 +29,7 @@ Jarek Yew (22-O4)<br>
 ### DSTA Junior College Scholarship
 Eleanor Cheak Yu Xin (22-A5)<br>
 
-![](/images/2022-BSP-Scholars_for-web.jpg)
+![](/images/2022/2022-BSP-Scholars_for-web.jpg)
 ### MOE Bicultural Studies Programme Scholarship
 Ang Ee Jay (22-O2)<br>
 Cheong Kai Xin (22-O2)<br>
@@ -60,7 +60,7 @@ Yip Yern Teng (22-O2)<br>
 Yuan Xinyi (22-A1)<br>
 Yue Ling Xiao (22-O2)<br>
 
-![](/images/2022-HSP-Scholars_for-web.jpg)
+![](/images/2022/2022-HSP-Scholars_for-web.jpg)
 ### MOE Humanities Scholarship
 Alaniah Imaan Ong (22-U1)<br>
 Andrea Gracia Andradi (22-O1)<br>
@@ -97,7 +97,7 @@ Tricia Sim Wenshi (22-U1)<br>
 Valerie Sng Wan Lin (22-U1)<br>
 Yap Hao Jun Andrew (22-O1
 
-![](/images/2022-MEP-Scholars-scaled-e1667182650743.jpg)
+![](/images/2022/2022-MEP-Scholars-scaled-e1667182650743.jpg)
 ### MOE Music Elective Programme Scholarship
 Ang Jun En (22-O5)<br>
 Ernest Foo Jun Wei (22-U2)<br>

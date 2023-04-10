@@ -8,9 +8,9 @@ image: ""
 ---
 The college would like to congratulate 76 students from our 2019 JC1 cohort on receiving scholarships from the Ministry of Education (MOE) and other agencies.
 
-Among our third cohort of Eunoians, we are proud to have 8 MOE Pre-University Scholars, 23 Bicultural Studies Programme Scholars, 29 MOE Humanities Scholars, 3 MOE Music Elective Scholars, 3 MOE Language Elective Scholars, 1 National Elective Tamil Language Programme Scholar, 2 A\*STAR Award holders, 3 DSTA Junior College scholars and 4 MOE Special Award winners. The JC1 Eunoians receiving scholarships in 2019 are:
+Among our third cohort of Eunoians, we are proud to have&nbsp;8 MOE Pre-University Scholars, 23 Bicultural Studies Programme Scholars, 29 MOE Humanities Scholars, 3 MOE Music Elective Scholars, 3 MOE Language Elective Scholars, 1 National Elective Tamil Language Programme Scholar, 2 A\*STAR Award holders, 3 DSTA Junior College scholars and 4 MOE Special Award winners. The JC1 Eunoians receiving scholarships in 2019 are:
 
-![](images/2019-Scholars-MPU.jpg)
+![](images/2019/2019-Scholars-MPU.jpg)
 
 ### MOE Pre-University Scholarship
 Anastasia Lin Zihui (19-U4)<br>
@@ -22,7 +22,7 @@ Natasha Leong Xinyi (19-I3)<br>
 Ryen Chua (19-O4)<br>
 Verrell Tan Choon Han (19-U3)<br>
 
-![](images/2019-Scholars-Ext.jpg)
+![](images/2019/2019-Scholars-Ext.jpg)
 
 ### A\*STAR Science Award (JC)
 Emmanuella Li (19-O2)<br>
@@ -33,7 +33,7 @@ Nicholas Gan Kai Xin (19-I5)<br>
 Ng De Qi (19-U4)<br>
 Lim Ai Lin (19-E5)<br>
 
-![](images/2019-Scholars-BSP.jpg)
+![](images/2019/2019-Scholars-BSP.jpg)
 
 ### MOE Bicultural Studies Programme Scholarship
 Chen Xintong (19-A1)<br>
@@ -60,7 +60,7 @@ Chiam Yan Ting, Tessa (19-U2)<br>
 Goh Jun Xuan (19-U2)<br>
 Ong Yun Jie (19-U2)<br>
 
-![](images/2019-Scholars-HSP.jpg)
+![](images/2019/2019-Scholars-HSP.jpg)
 
 ### MOE Humanities Scholarship
 
@@ -94,14 +94,14 @@ Lim Jing Xuan (19-U1)<br>
 Alecea Sin Le Xuan (19-U1)<br>
 Stephanie Jaina Chia (19-U1)<br>
 
-![](images/2019-Scholars-MEP.jpg)
+![](images/2019/2019-Scholars-MEP.jpg)
 
 ### MOE Music Elective Scholarship
 Elizabeth Ho Li Hui (19-E1)<br>
 Fang Yuan (19-A1)<br>
 Thong Hui Min Anne (19-U2)<br>
 
-![](images/2019-Scholars-LEP.jpg)
+![](images/2019/2019-Scholars-LEP.jpg)
 
 ### MOE French Language Elective Scholarship
 Maya Raisha Zainudin (19-U1)

@@ -3,13 +3,11 @@ title: Class of 2019 Light the Way – Vol 4
 permalink: /class-2019-4/
 description: ""
 ---
-
-
 The Class of 2019 have come to define the college's glories and made history for themselves. In our fourth volume, Matthias, Megan, Alastair and Isabel share with us how success is beyond just academic excellence, their tips for living a full life in JC and words of encouragement for their juniors.
 
 ##### PHOTOS BY ASHER TAN, ANSELM LONG AND DING YONG KHAI
 
-![](/images/2019-matthias.png)
+![](/images/Features/2019-matthias.png)
 
 **Matthias Ho (18-I2)** is an all-rounded student who displayed a spirit of excellence in not only his studies, but also in college-wide programmes and the wider community. Matthias was placed on the JC1 Dean’s List (Academic) and an awardee of the MOE Pre-University Scholarship. He was also the overall student-in-charge for the 2018 Student Forum, where he and his team facilitated a series of student-led forums to allow the student body to raise ideas and suggestions to further student college culture and improve existing processes. Matthias served as an Executive Member of the Pasir Ris Youth Executive Committee since 2017, and was a recipient of the Singapore Police Force Book Prize in 2019.
 
@@ -29,7 +27,7 @@ I am also especially grateful for my teachers, because they are inspiring, carin
 
 Work hard and be positive! The journey is going to be long, but notice that everyone is going through the same thing. Although you and your friends might encounter different difficulties, you will always be able to support each other. No matter what happens along the way, look forward and keep going. If you are falling behind, don’t give up and stop, but keep on running because you can catch up. You cannot control the circumstances, but you can control your attitude and action. Also, it is important to be consistent. The two years here is a marathon, not a sprint, so remember to pace yourselves and not burn out! Don’t always rely on external motivations, but instead develop systems and routines to ensure you can keep on going and do consistent work. 
 
-![](/images/2019-megan.png)
+![](/images/Features/2019-megan.png)
 
 **Megan Choo (18-O4)** is an exceptional thinker and possesses outstanding intellectual habits. Her academic excellence was shown through attaining multiple academic accolades such as being on the Dean’s List (Academic) in both JC1 and JC2 and receiving the MOE Edusave Merit Award in 2018. In addition she also won the Lee Kuan Yew Award for Mathematics & Science which only served to affirm her exceptional aptitude in the STEM fields. Her passion and aptitude in Economics, in particular, also saw her taking up the subject at a Higher 3 level. As a humble and helpful individual, Megan she often tutored her schoolmates during Physics lectures and various other instances outside curriculum time. She also contributed her knowledge from H3 Economics by initiating and giving a talk to her juniors on what Game Theory is about. 
 
@@ -47,7 +45,7 @@ Have a good relationship with your classmates/teachers so it will be easier and 
 
 Don’t give up on your hobbies - find stuff to relieve stress. Find enjoyment in whatever you do - that will keep you going whenever things get tough (e.g. CCA, finding what you like about certain subjects or topics you’re good at). Lastly, celebrate successes, no matter how small. That will give you confidence and strength to carry on. 
 
-![](/images/2019-alastair.png)
+![](/images/Features/2019-alastair.png)
 
 **Alastair Ang (18-U5)** is a student with a strong drive in achieving his academic goals. Amidst his commitments in the Bicultural Studies Programme, Alastair took up the challenge of studying H3 Economics. He also participated as a student delegate of Spain in a Model United Nations where he sharpened his insights surrounding geopolitical and historical issues. Beyond academic rigour, Alastair also displayed vigour as an avid member of the Outdoor Adventure Club (ODAC), having participated actively in various expeditions and competitions such as the Spartan Race and the National Vertical Marathon. 
 
@@ -63,7 +61,7 @@ My journey in Eunoia is characterised by growth. My greatest inspiration since i
 
 It is important to not give up at any single stage in your life. Sometimes, effort will not equate to results, and many would be upset because of this imbalance. They would feel unfair, aggrieved, disappointed. But I think, honestly speaking, the fact that you have put in effort spells more about yourself than your grades. If your grades are the only thing that defines you, you are the failure in life, only because you have failed to see things past a piece of examination paper.
 
-![](/images/2019-isabelle.png)
+![](/images/Features/2019-isabelle.png)
 
 **Isabelle Bridget Tan (18-E2)** has a natural academic and analytical ability, which saw her represent the college at the Singapore Chemistry Olympiad where she won a merit award. For her outstanding academic performance, she was also placed on the Dean’s List (Academic) in 2018, and received the MOE Edusave Merit Award as well as the Good Progress Award in the same year. In spite of her excellent academic record, Isabelle was a modest and unassuming Student Councillor who was involved in the planning of numerous college events such as Euphoria and Orientation. She was also an active member in the planning committee for the Student Council VIA project, leading her peers in developing a project to engage young children.
 

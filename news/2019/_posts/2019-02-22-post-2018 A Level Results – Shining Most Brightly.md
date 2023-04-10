@@ -6,8 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
-
 ### A Truly First Class Performance
 
 Eunoia Junior College congratulates our First Class of students for their outstanding achievement at the 2018 GCE A-Level Examination. Coming together from the Joint Integrated Programme, Direct School Admission and Joint Admissions Exercise pathways, they have shone brightly as the change makers and pioneers of the college. They have truly made history and created a great legacy for their juniors to carry forward.
@@ -18,14 +16,14 @@ Our combined total of 80 scholars from the Bicultural Studies Programme (Chinese
 
 Amongst the many milestones for our first cohort, our Eunoians have to date received conditional offers from distinguished institutions including Oxford University and Peking University, and provisional offers of scholarships such as the Public Service Commission scholarship and Singapore Armed Forces (SAF) Defence Merit Scholarship. The college eagerly anticipates more good news from our Eunoians in the coming months.
 
-![](/images/2018-alevel-2.jpg)
+![](/images/Features/2018-alevel-2.jpg)
 
 ### Brightness and Splendour
 
 Above and beyond their lustrous academic results, every Eunoian from our First Class has excelled holistically as a Youth with Purpose, Thinker with Heart and Leader with Courage. Within a few months of intensive practice, our inaugural cohort of performing arts CCAs clinched the Certificate of Distinction at the Singapore Youth Festival (SYF) Arts Presentation 2017 in the Dance and Concert Band categories. This was followed by another outstanding showing in Drama at the SYF Arts Presentation in 2018. Our student-athletes represented Singapore at the Asian Youth Games and ASEAN School Games, while also attaining a very commendable 2nd and 3rd place in the ‘A’ Division Hockey (Girls) and Netball championships in 2018. In various academic competitions and olympiads, our Eunoians also paved the way in our first years to even greater successes and wins in the near future. Most importantly, our First Class served as writers of the Eunoia story, handing over a school culture future generations of Eunoians are proud to call their own.
 
 
-![](/images/2018-alevel-3.jpg)
+![](/images/Features/2018-alevel-3.jpg)
 
 ### A Beautiful Journey
 
@@ -37,4 +35,4 @@ As one Eunoia, we celebrate the holistic achievements and contributions of our F
 
 ###### PHOTOS BY PRANAV MANIKANTAN, YAU YU HAO, JOLIN ONG, CELESTE KOH AND ALVIS GWA
 
-![](/images/2018-alevels-4.jpeg)
+![](/images/Features/2018-alevels-4.jpeg)

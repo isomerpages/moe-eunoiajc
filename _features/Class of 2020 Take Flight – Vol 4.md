@@ -3,13 +3,11 @@ title: Class of 2020 Take Flight – Vol 4
 permalink: /class-2020-4/
 description: ""
 ---
-
-
 The Class of 2020 demonstrated how when hearts unite and minds ignite, our dreams can take flight. In this fourth volume, Wei Ting, Hon Jung, Ga-lan, and Jia Yi share the importance of having support structures and a never-say-die attitude, factors that contributed to their exceptional achievements and leadership roles.
 
 ###### PHOTOS BY ANNABELLE TAY, SEAN KOH AND YONG EE
 
-![](/images/Class2020_WeiTing.jpg)
+![](/images/Features/Class2020_WeiTing.jpg)
 
 ### Chua Wei Ting
 
@@ -29,7 +27,7 @@ If I could choose a single word to embody my Eunoia experience, it would be “u
 
 The phrase that grounded me through my challenges and difficulties was: “It gets better”. Lightning never strikes twice at the same place, and things are bound to get better. Many things in life are a state of mind, and the first step in many good stories is to fake it until you make it.
 
-![](/images/Class2020_HonJung.jpg)
+![](/images/Features/Class2020_HonJung.jpg)
 
 ### Tan Hon Jung
 
@@ -50,7 +48,7 @@ It's been an eventful and fulfilling two years in this school. During this time,
 I would advise my juniors to learn the importance of balancing work and rest. It might get tough and you might feel disheartened at times but don’t lose sight of the bigger picture. As long as you keep the end goal in mind, hustle on, and trust the process. All will turn out to be fine, and it will all be worth it in the end. Also, make sure you have a strong support system around you and reach out for help when you need it! Take care of one another and everything will be okay.
 
 
-![](/images/Class2020_Galan.jpg)
+![](/images/Features/Class2020_Galan.jpg)
 ### Gan Ga-Lan
 
 **ALUMNUS OF ST PATRICK'S SCHOOL**
@@ -69,7 +67,7 @@ My two years in Eunoia were a rather interesting journey. To this day, I still r
 
 I think one piece of advice I would like to share with my juniors is to not be afraid. Being the ‘odd one out’ at first made me afraid of trying and starting new things. I felt that because of this fear, I didn’t make full use of my time in EJ. If there is a particular cause or activity you want to start, I would fully encourage them to start it. As my teacher, Ms Iris Lee, once told me, “It is better to become than to stay in the becoming." What this means is that one should always strive for what you are really passionate about. Don’t let your fears hinder the pursuit of your passion.
 
-![](/images/Class2020_JiaYi.jpg)
+![](/images/Features/Class2020_JiaYi.jpg)
 
 ### Teo Jia Yi
 

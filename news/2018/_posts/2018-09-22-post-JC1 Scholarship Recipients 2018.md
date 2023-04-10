@@ -12,7 +12,7 @@ Among our first and second cohorts of Eunoians, we are proud to have 15 MOE Pre-
 
 The JC1 Eunoians receiving scholarships in 2018 are:
 
-![](/images/2018-Scholars_1a.jpg)
+![](/images/2018/2018-Scholars_1a.jpg)
 
 ### MOE Pre-University Scholarship
 Ho Kang Wei Matthias (18-I2)<br>
@@ -26,7 +26,7 @@ Shuy Yao Kang (18-E5)
 ### DSTA Junior College Scholarship
 Faith Evangeline Seah (18-E2)
 
-![](/images/2018-Scholars_3a.jpg)
+![](/images/2018/2018-Scholars_3a.jpg)
 
 ### MOE Bicultural Studies Programme Scholarship
 
@@ -58,7 +58,7 @@ Amanda Yap Shi Min (18-U1)<br>
 Ng Xuan En Constance (18-U2)<br>
 Yeo Yu Ting Tracy (18-U2)<br>
 
-![](/images/2018-Scholars_2.jpg)
+![](/images/2018/2018-Scholars_2.jpg)
 
 ### MOE Humanities Scholarship
 
@@ -77,7 +77,7 @@ Ling Li Yan Alethea (18-U1)<br>
 Luisa Lok Jia Qi (18-U1)<br>
 Sarah-Ann Tan Shee Yee (18-U1)<br>
 
-![](/images/2018-Scholars_4.jpg)
+![](/images/2018/2018-Scholars_4.jpg)
 
 ### MOE Music Elective Scholarship
 

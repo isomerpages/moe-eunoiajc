@@ -3,13 +3,11 @@ title: Class of 2018 Celebrates – Vol 3
 permalink: /first-class-3/
 description: ""
 ---
-
-
 Our First Class of Eunoians have shone brilliantly in the college's beginning years. For this third volume, we caught up with Jelita, Audrey, Jeff and Belle from the pioneer cohort of 29 Humanities Scholars to hear about their learning experience, the people who stood by them, and some wise words they wish to leave their juniors. Read more from our first class in Volumes **[1](/first-class-1/)**, [**2**](/first-class-2/), [**4**](/first-class-4/), [**5**](/first-class-5/) and [**6**](/first-class-6/).
 
 ##### PHOTOS BY YOONG JUN HAN
 
-![](/images/cfc-jelita.png)
+![](/images/Features/cfc-jelita.png)
 
 **Jelita Jaimon (17-U1)** is a MOE Humanities Scholar who lights up any conversation and any setting. Ever vibrant yet calmly measured, her brimming love for the humanities saw her participate in the National Geography Talent Development Programme in 2017. In her role as a pioneering student councillor in the Culture unit, she was pivotal in conceptualising Euphoria, an islandwide race that culminated in a beach party at Sentosa for the JC1 cohort in 2017. Her remarkable optimism and grit were also seen in her involvement in the 'A' Division Netball Championship and various netball tournaments, as well as her leadership in the Netball CCA's blood donation drive. Amidst her heavy commitments, Jelita pursued her passion in music with her performances at numerous college events. Most notably, Jelita is one of two student performers who gave voice to our college anthem at its inauguration, the Official Opening ceremony and the college's first Graduation Ceremony. In addition, she wrote and performed a song as an expression of her gratitude on Teachers' Day. A talented youth, confident thinker and passionate leader, Jelita is a natural candidate for the EAGLES award and an embodiment of #EunoiaShining.
 
@@ -25,7 +23,7 @@ The 2 years were definitely 2 of the most fruitful and exciting years of my educ
 
 Do your best in whatever you do. Know that you are gifted and talented in your own light. Have faith. You are capable of wonderful things.
 
-![](/images/cfc-audrey.png)
+![](/images/Features/cfc-audrey.png)
 
 
 **Audrey Choong (17-O1)** was the valedictorian of her Arts cohort, a recipient of the SAF Young Leader Award and a Ministry of Education (MOE) Humanities Scholar. An exceptional student and critical thinker who offered H3 History and H2 Knowledge & Inquiry, she frequently went beyond the confines of the classroom, counting a job shadowing internship with MOE, her presentation at the inaugural Humanities Scholarship Programme symposium and her role as an emcee for the OnePeople.sg Model United Nations in 2017. With diligence and humility, Audrey placed on the Dean's List (Academic) in 2017 and 2018, receiving top honours for Knowledge & Inquiry, Literature in English and History.
@@ -46,7 +44,7 @@ Deeply refreshing, intensely fulfilling. I was privileged to enjoy good memories
 
 Take heart in the wild ride you have embarked on. Don't be disheartened by any setbacks you face. Open your heart to be touched by the incredible student, staff and neighbourhood community. Work hard for the A-Levels. It’ll be worth it in the end.
 
-![](/images/cfc-jeff.png)
+![](/images/Features/cfc-jeff.png)
 
 
 **Jeff Chin (17-U1)** is an outstanding all-rounder with strength of character, firm principles and an extraordinary positivity. Awarded the MOE Humanities Scholarship, he pursued his love for learning in multiple seminars, symposia and ministerial dialogues and undertook a H3 History independent research essay on the shifting historiographies of the Sino-Soviet split. As a pioneering Student Councillor and an Executive Committee member of the Outdoor Adventure Club (ODAC), he made immense contributions in the Welfare and Communications units: initiating and managing a college-wide student forum, recruiting the first cohort of Student Ambassadors, overseeing the carnival segment for the college's Official Opening and organising training activities for his fellow members and juniors in ODAC. His love for the outdoors saw him participate and attain a bronze at the EW Barker Challenge in 2017. Effectively bilingual, he assisted at several Meet-the-People sessions at Toa Payoh East Community Centre, drafting letters of appeal and providing support for residents. Above all, Jeff's concern for his peers and community and his work ethic have left a deep, positive impression on his peers and teachers.
@@ -63,7 +61,7 @@ My two years in Eunoia were extremely enriching as I got to discover my passion.
 
 Enjoy the two years and keep an open mind on the opportunities that come along the way
 
-![](/images/cfc-belle.png)
+![](/images/Features/cfc-belle.png)
 
 
 **Belle Tan (17-U1)** is a MOE Humanities Scholar who has been offered the Singapore Armed Forces (SAF) Defence Merit Scholarship. Alongside her aptitude for computational thinking, her passion for the humanities fuelled her participation in the 2017 Raffles Asia Programme Symposium, the 2017 Agricultural Forum and the 2018 NUS Geographical Society Essay Competition. As EJC Hockey's quarter mistress and Class Chairperson in 2018, Belle was a meticulous coordinator and exemplary leader who encouraged and edified her classmates with an open mind and perceptive mind. Without any prior experience in Hockey, she stepped into the role of goalkeeper for the team, which emerged runners-up in the 2018 'A' Division Championships. Amidst these commitments, Belle actively sought to serve the community, connecting her batchmates with Ghim Moh residents in the college's first Orientation, serving at Meet-the-People sessions at Ulu Pandan GRC and volunteering as a steward at the True Colours Festival. Truly, Belle is a resilient, decisive and driven leader of people.

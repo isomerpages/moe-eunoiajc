@@ -6,6 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/2021/2020results_class2020.jpg)
 
 ### Eunoia Shining
 
@@ -21,12 +22,14 @@ The college is proud of all 591 Eunoians who sat the 2020 GCE A-Level Examinatio
 4 Eunoians achieved a total of 8 distinctions.   
 1 in 2 Eunoians achieved a distinction in their H3 subjects.
 
+![](/images/2021/2020results_classroom.jpg)
 ### Hearts United
 
 Above and beyond their academic achievements, every Eunoian in the Class of 2020 excelled holistically as a Youth with Purpose, Thinker with Heart, Leader with Courage. They strengthened Eunoia’s house culture and created more avenues for fellow Eunoians to pursue their passions, initiating the formation of a new CCA, EJC Press, and student-initiated interest groups, Chamber Strings and Street Dance.
 
 The Class of 2020 made the Big Move to our Bishan campus successful and memorable, leaving their mark on the Ghim Moh community and taking the important first steps to make us a part of the Bishan community. They turned a new campus into a welcoming home, filling our 12 storeys with pride and song. In a year when the National School Games and Singapore Youth Festival were suspended, they found new ways to use their talents to bring hope, inspiration and joy to others in the Eunoia community and beyond. The Rock Band collaborated with students from Crest Secondary School and Fengshan Primary School to record Everyday Heroes, a tribute to those on the frontline of the fight against the pandemic. Eunoians in GLIDE, a talent management programme focused on advocacy and service, reached out to migrant workers who built our campus, and also distributed masks to members of the community. Our student councillors led a drive to collect well wishes for Changi Airport Group staff. Commendably, the Class of 2020 channelled their talents into living out the Eunoia ethos of beautiful thinking, goodwill to all.
 
+![](/images/2021/2020results_gradday.jpg)
 
 ### Dreams in Flight
 
