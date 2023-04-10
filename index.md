@@ -31,32 +31,32 @@ sections:
       button: Find out More
   - infopic:
       title: Admissions
-      subtitle: Youth with purpose
+      subtitle: Youth with Purpose
       description: For information regarding DSA, JAE, JIP, and scholarships;
         additional information for returning students, international students
         and financial assistance.
       button: FIND OUT MORE
-      url: /jc1-scholars-2022/
+      url: /admissions/
       image: /images/Features/2022-ASTARDSTA-Scholars_for-web-1.jpg
-      alt: Image alt text
+      alt: Admissions
   - infopic:
       title: Curriculum
-      subtitle: Thinker with heart
+      subtitle: Thinker with Heart
       description: Our teaching and learning philosophy, academic subjects and
         combinations offered; flagship and student development programmes found
         at EJC.
       button: READ MORE
-      url: /class-2021-4/
+      url: /curriculum
       image: /images/34001265298_9349e7e915_k.jpg
       alt: Image alt text
   - infopic:
       title: Culture
-      subtitle: Leader with courage
+      subtitle: Leader with Courage
       description: Fully committed to their CCAs and Houses, Eunoians strive for
         excellence as they participate in various college events, caring for
         each other and the community.
       button: SEE MORE
-      url: /class-2021-3/
+      url: /culture/
       image: /images/52769353607_835fa5a4c0_k.jpg
       alt: Image alt text
 ---
