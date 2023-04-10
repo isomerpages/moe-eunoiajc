@@ -3,13 +3,11 @@ title: Class of 2020 Take Flight – Vol 3
 permalink: /class-2020-3/
 description: ""
 ---
-
-
 The Class of 2020 demonstrated how when hearts unite and minds ignite, our dreams can take flight. They made the most of college life amidst an unusual two years for people all over the world. In this third volume, our student-athletes Hannah, Verrell, and Jolene share words of inspiration with their juniors and insights about their paths to success, both in and out of the classroom. 
 
 ###### PHOTOS BY SEAN KOH AND YONG EE
 
-![](/images/Class2020_Hannah.jpg)
+![](/images/Features/Class2020_Hannah.jpg)
 
 ### Hannah Chiang
 **ALUMNA OF SINGAPORE CHINESE GIRLS' SCHOOL**
@@ -28,7 +26,7 @@ My two years can’t be described as extremely eventful, especially with the cha
 
 I came into EJC as a quiet, somewhat unsociable person with the mindset of doing well in synchronised swimming, getting good results, and quickly letting two “difficult years” fly by. A lack of time for my numerous commitments was always the cause of my academic struggles. Ironically, that was precisely what made me closer to schoolmates and teachers who made each step of my two-year journey meaningful and memorable, from simple conversations to deep life-advice sessions and sharings that made me enjoy the “struggles” of JC life. These created memorable moments that are hard for me to forget or regret.
 
-![](/images/Class2020_Verrell.jpg)
+![](/images/Features/Class2020_Verrell.jpg)
 
 ### Verrell Tan
 **ALUMNUS OF CATHOLIC HIGH SCHOOL**
@@ -47,7 +45,7 @@ My two years in Eunoia have been filled with memorable moments I shared with the
 
 In every JC student’s life, time management is key. Learn to effectively manage your time so that you can make the most out of your JC life as this is a great opportunity for you to broaden your horizon and pursue your passion. However, with all that said, try not to stress yourself out too much and enjoy these two years of JC life!
 
-![](/images/Class2020_Jolene.jpg)
+![](/images/Features/Class2020_Jolene.jpg)
 
 ### Jolene Hsu
 **ALUMNA OF CHIJ ST NICHOLAS GIRLS' SCHOOL**
