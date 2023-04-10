@@ -72,12 +72,6 @@ Our voices soar!
 
 [Click for musical score](/files/Eunoia-Anthem-Score.pdf)
 
----- 
+<br>
 
-###### References
-
-_Nicomachean Ethics_, translated by H. Rackham, Harvard University Press Stanford Encyclopedia of Philosophy, first published 2001, revised 2014.
-
-_The Cambridge Companion to Aristotle’s Nicomachean Ethics_&nbsp;(2014), Ed. Ronald Polansky.
-
-_The Blackwell Guide to Aristotle’s Nicomachean Ethics_&nbsp;(2005), Ed. Richard Kraut.
+<br>
