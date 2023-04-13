@@ -1,14 +1,13 @@
 ---
 title: Further Mathematics
-permalink: /academic-subjects/Mathematics-and-Sciences/futher-mathematics/
+permalink: /subjects/fmaths/
 description: ""
-third_nav_title: Mathematics & Sciences
 ---
 <center><h4><em>“The power of mathematics is often to change one thing<br>into another, to change geometry into language.”<br><b>Marcus du Sautoy</b></em></h4></center>
 
 ### Our Curriculum
 
-If you have an enduring passion for Mathematics, you can offer **H2 Further Mathematics**, where you will acquire a wider range of mathematical concepts and skills that will set a strong foundation for future pursuits in science, technology and engineering. You can look forward to a greater variety and depth of exploration in mathematical modelling, as part of the Further Mathematics programme.
+If you have an enduring passion for Mathematics, you can offer&nbsp;**H2 Further Mathematics**, where you will acquire a wider range of mathematical concepts and skills that will set a strong foundation for future pursuits in science, technology and engineering. You can look forward to a greater variety and depth of exploration in mathematical modelling, as part of the Further Mathematics programme.
 
 ### Our Enrichment
 

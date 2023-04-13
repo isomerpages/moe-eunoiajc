@@ -1,8 +1,7 @@
 ---
 title: Biology
-permalink: /academic-subjects/Mathematics-and-Sciences/biology/
+permalink: /subjects/bio/
 description: ""
-third_nav_title: Mathematics & Sciences
 ---
 <center><h4><em>“With his five senses, man explores the universe<br>around him and calls the adventure Science."<br><b>Edwin Hubble</b></em></h4></center>
 

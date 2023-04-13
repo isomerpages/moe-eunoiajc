@@ -1,14 +1,13 @@
 ---
-title: Knowledge & Inquiry
-permalink: /academic-subjects/Knowledge-Skills/knowledge-and-inquiry/
+title: Knowledge and Inquiry
+permalink: /subjects/ki/
 description: ""
-third_nav_title: Knowledge Skills
 ---
 <center><h4><em>“The apple cannot be stuck back on the Tree of<br>Knowledge; once we begin to see, we are…<br>challenged to seek the strength to see more, not less.”<br><b>Arthur Miller</b></em></h4></center>
 
 Is common-sense knowledge as valuable as academic knowledge? Can men ever know what women know? Is morality just a matter of convention? Was Mathematics discovered or invented?
 
-In Knowledge & Inquiry (KI), you will investigate and evaluate the nature and construction of knowledge. Exploring areas such as the sciences, the social sciences, history, mathematics, ethics and the aesthetics, you will critically evaluate what is regarded as knowledge in these contexts. If you have been told off once too often for incessantly asking ‘why’, the KI classroom offers you inroads into the possible answers to questions you have always wondered about.
+In Knowledge &amp; Inquiry (KI), you will investigate and evaluate the nature and construction of knowledge. Exploring areas such as the sciences, the social sciences, history, mathematics, ethics and the aesthetics, you will critically evaluate what is regarded as knowledge in these contexts. If you have been told off once too often for incessantly asking ‘why’, the KI classroom offers you inroads into the possible answers to questions you have always wondered about.
 
 ### Our Curriculum
 

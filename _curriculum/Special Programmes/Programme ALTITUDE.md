@@ -1,13 +1,9 @@
 ---
 title: Programme ALTITUDE
-permalink: /special-programmes/Special-Programmes/altitude/
+permalink: /special-programmes/altitude/
 description: ""
 third_nav_title: Special Programmes
 ---
-
-
-
-
 <center><h4><em>“Breakthrough innovation occurs when we bring<br>down boundaries and encourage disciplines to learn<br>from each other.”  <br><b>Gyan Nagpal</b></em></h4></center>
 
 

@@ -1,12 +1,12 @@
 ---
 title: Co–Curricular Activities
-permalink: /culture/Co-Curricular-Activities/cca/
+permalink: /culture/cca/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
 Co-Curricular Activities are an integral part of education in EJC. How else will you discover your interests and talents?
 
-Taking up a CCA helps you understand yourself as you lead yourself and your peers towards excellence. You will also meet your best friends as you learn, play and grow together with them. Those who reach the stars must first reach inward.
+Taking up a CCA helps you understand yourself as you lead yourself and your peers towards excellence. You will also meet&nbsp;your best friends as you learn, play and grow together with them. Those who reach the stars must first reach inward.
 
 
 <style type="text/css">

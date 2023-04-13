@@ -1,15 +1,14 @@
 ---
 title: Foreign Languages
-permalink: /academic-subjects/Languages/foreign-languages/
+permalink: /subjects/fl/
 description: ""
-third_nav_title: Languages
 ---
 <center><h4><em>“Those who know nothing of foreign languages<br>know nothing of their own.”<br><b>Goethe</b></em></h4></center>
 
 
-Why stop at two (languages)? Eunoians who have completed the GCE ‘O’ Level French, German, Japanese and Spanish language programmes at the [**MOE Language Centre**](https://www.moelc.moe.edu.sg/) (MOELC) will be able to continue their language learning, leading towards the GCE ‘A’ Level Examination at the end of JC2. Registration for the programme is administered by MOELC.
+Why stop at two (languages)? Eunoians who have completed the GCE ‘O’ Level French, German, Japanese and Spanish language programmes at the&nbsp;[**MOE Language Centre**](https://www.moelc.moe.edu.sg/)&nbsp;(MOELC) will be able to continue their language learning, leading towards the GCE ‘A’ Level Examination at the end of JC2. Registration for the programme is administered by MOELC.
 
-H2 French, H2 German, H2 Japanese or H2 Spanish can be offered as the contrasting subject for students in the Science stream, and as one of three Humanities & the Arts subjects in the Arts stream.
+H2 French, H2 German, H2 Japanese or H2 Spanish can be offered&nbsp;as the contrasting subject for students in the Science stream, and as one of three Humanities &amp; the Arts subjects in the Arts stream.
 
 ### Syllabus Documents
 

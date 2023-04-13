@@ -1,13 +1,9 @@
 ---
 title: Talent Development Programme
-permalink: /special-programmes/Special-Programmes/tdp/
+permalink: /flagship-programmes/tdp/
 description: ""
 third_nav_title: Flagship Programmes
 ---
-
-
-
-
 <center><h4><em>“Talent can’t be taught, but it can be awakened.”  <br><b>Wallace Stegner</b></em></h4></center>
 
 ### Growing Leaders with Initiative, Dedication and Empathy (GLIDE)

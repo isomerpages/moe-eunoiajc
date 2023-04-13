@@ -1,8 +1,7 @@
 ---
 title: Mathematics
-permalink: /academic-subjects/Mathematics-and-Sciences/mathematics/
+permalink: /subjects/maths/
 description: ""
-third_nav_title: Mathematics & Sciences
 ---
 <center><h4><em>“The essence of Mathematics lies in its freedom.”<br><b>Georg Cantor</b></em></h4></center>
 
@@ -10,7 +9,7 @@ What does the area under a curve have to do with the cardiac output of the human
 
 ### Our Curriculum
 
-Construct + Apply + Extend = Excellence. This could very well be the law that governs the Mathematics programme at EJC. It begins with the process of construction, in which your personal learning experience counts for more. You will then apply this co-constructed knowledge to both regular and non-routine problems, and further extend your learning through opportunities to evaluate and reflect on your work. Perhaps there is a winning formula after all! EJC students in the Arts stream may offer Mathematics as a contrasting subject at H1 or H2 level. If you have an enduring passion for Mathematics and wish to acquire a wider range of mathematical concepts and skills, you can offer **[H2 Further Mathematics](https://eunoiajc.moe.edu.sg/curriculum/academic-subjects/further-mathematics/)** as a student in the Science stream.
+Construct + Apply + Extend = Excellence. This could very well be the law that governs the Mathematics programme at EJC. It begins with the process of construction, in which your personal learning experience counts for more. You will then apply this co-constructed knowledge to both regular and non-routine problems, and further extend your learning through opportunities to evaluate and reflect on your work. Perhaps there is a winning formula after all! EJC students in the Arts stream may offer Mathematics as a contrasting subject at H1 or H2 level.&nbsp;If you have an enduring passion for Mathematics and wish to acquire a wider range of mathematical concepts and skills, you can offer&nbsp;**[H2 Further Mathematics](https://eunoiajc.moe.edu.sg/curriculum/academic-subjects/further-mathematics/)**&nbsp;as a student in the Science stream.
 
 ### Our Enrichment
 

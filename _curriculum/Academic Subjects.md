@@ -3,36 +3,35 @@ title: Academic Subjects
 permalink: /academic-subjects/academic-subjects/
 description: ""
 ---
+#### Knowledge Skills
 
-### KNOWLEDGE SKILLS
+[General Paper](/subjects/gp/)  
+[Knowledge & Inquiry](/subjects/ki/)  
+[Project Work](/subjects/pw/)
 
-[General Paper](/academic-subjects/Knowledge-Skills/general-paper/)  
-[Knowledge & Inquiry](/academic-subjects/Knowledge-Skills/knowledge-and-inquiry/)  
-[Project Work](/academic-subjects/Knowledge-Skills/project-work/)
+#### Languages
 
-### LANGUAGES
+[Foreign Languages](/subjects/fl/)  
+[Mother Tongue Languages](/subjects/mtl/)
 
-[Foreign Languages](/academic-subjects/Languages/foreign-languages/)  
-[Mother Tongue Languages](/academic-subjects/Languages/mother-tongue-languages/)
+#### Humanities and the Arts
 
-### HUMANITIES & THE ARTS
+[Economics](/subjects/econs/)   
+[Geography](/subjects/geog/)   
+[History](/subjects/his/)   
+[Literature in English](/subjects/lit/)   
+[China Studies in Chinese](/subjects/csc/)   
+[Chinese Language & Literature](/subjects/cll/)   
+[Malay Language & Literature](/subjects/mll/)   
+[Tamil Language & Literature](/subjects/tll/)   
+[Translation (Chinese)](/subjects/translation/)   
+[Art](/subjects/art/)  
+[Music](/subjects/music/)
 
-[Economics](/academic-subjects/Humanties-and-the-Arts/economics/)   
-[Geography](/academic-subjects/Humanties-and-the-Arts/geography/)   
-[History](/academic-subjects/Humanties-and-the-Arts/history/)   
-[Literature in English](/academic-subjects/Humanties-and-the-Arts/literature-in-english/)   
-[China Studies in Chinese](/academic-subjects/Humanties-and-the-Arts/china-studies-in-chinese/)   
-[Chinese Language & Literature](/academic-subjects/Humanties-and-the-Arts/chinese-language-literature/)   
-[Malay Language & Literature](/academic-subjects/Humanties-and-the-Arts/malay-language-and-literature/)   
-[Tamil Language & Literature](/academic-subjects/Humanties-and-the-Arts/tamil-language-and-literature/)   
-[Translation (Chinese)](/academic-subjects/Humanties-and-the-Arts/translation-chinese/)   
-[Art](/academic-subjects/Humanties-and-the-Arts/art/)  
-[Music](/academic-subjects/Humanties-and-the-Arts/music/)
+#### Mathematics and Sciences
 
-### MATHEMATICS & SCIENCES
-
-[Mathematics](/academic-subjects/Mathematics-and-Sciences/mathematics/)   
-[Further Mathematics](/academic-subjects/Mathematics-and-Sciences/further-mathematics/)   
-[Biology](/academic-subjects/Mathematics-and-Sciences/biology/)   
-[Chemistry](/academic-subjects/Mathematics-and-Sciences/chemistry/)   
-[Physics](/academic-subjects/Mathematics-and-Sciences/physics/)
+[Mathematics](/subjects/maths/)   
+[Further Mathematics](/subjects/fmaths/)   
+[Biology](/subjects/bio/)   
+[Chemistry](/subjects/chem/)   
+[Physics](/subjects/phy/)

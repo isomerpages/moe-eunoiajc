@@ -1,18 +1,14 @@
 ---
 title: Programme MAGNITUDE
-permalink: /special-programmes/Special-Programmes/magnitude/
+permalink: /special-programmes/magnitude/
 description: ""
 third_nav_title: Special Programmes
 ---
-
-
-
-
 <center><h4><em>“Breakthrough innovation occurs when we bring<br>down boundaries and encourage disciplines to learn<br> from each other.”<br><b>Gyan Nagpal</b></em></h4></center>
 
 Programme MAGNITUDE is aimed at developing global awareness in the high-ability students at Eunoia Junior College. From the programme, students will understand the issues and opportunities of the evolving local, regional and global contexts. They will appreciate that being a global citizen is more a mindset and skillset, and that a global citizen is one who is capable of managing resources, problem-solving and creating new or improved ideas/solutions/products/services to value-add to society.
 
-In 2022, we have 3 exciting modules: Entrepreneurial Skills and Perspectives, Futures & Foresight Methodologies, and International and Regional Affairs. Each module explores a different aspect of global awareness. Similar to Programmes LATITUDE and ALTITUDE, MAGNITUDE aims to develop in our gifted and talented students, the values of moral citizenship and giving back to society. We want these students to draw upon their talents and strengths, identify real needs in society, and have the heart and courage to inspire change.
+In 2022, we have 3 exciting modules: Entrepreneurial Skills and Perspectives, Futures &amp; Foresight Methodologies, and International and Regional Affairs. Each module explores a different aspect of global awareness. Similar to Programmes LATITUDE and ALTITUDE, MAGNITUDE aims to develop in our gifted and talented students, the values of moral citizenship and giving back to society. We want these students to draw upon their talents and strengths, identify real needs in society, and have the heart and courage to inspire change.
 
 By the end of the programme, students should be ‘inspiring change, maximising opportunities’.
 

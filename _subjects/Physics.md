@@ -1,8 +1,7 @@
 ---
 title: Physics
-permalink: /academic-subjects/Mathematics-and-Sciences/physics/
+permalink: /subjects/phy/
 description: ""
-third_nav_title: Mathematics & Sciences
 ---
 <center><h4><em>“With his five senses, man explores the universe<br>around him and calls the adventure Science.”<br><b>Edwin Hubble</b></em></h4></center>
 
@@ -10,7 +9,7 @@ Scientific thinking is beautiful thinking. To us, science is more than a body of
 
 ### Our Curriculum
 
-Does light always travel in straight lines? Does time move slower at thirty thousand feet? Do rainbows really have seven colours? Physics presents to us the exciting and ongoing challenge of attempting to understand the interactions of the physical world and systems ranging from galaxies to sub-atomic particles. With an inquiring mind, you will uncover how Physics has advanced our world in real ways. Our lessons are powered by real-world contexts, moving between live demonstrations, hands-on scientific investigation and thought-provoking experiments. Looking beyond theory, you will be able to apply your knowledge to enable future technological advancements.
+Does light always travel in straight lines?&nbsp;Does time move slower at thirty thousand feet? Do rainbows really have seven colours? Physics presents to us the exciting and ongoing challenge of attempting to understand the interactions of the physical world and systems ranging from galaxies to sub-atomic particles. With an inquiring mind, you will uncover how Physics has advanced our world in real ways. Our lessons are powered by real-world contexts, moving between live demonstrations, hands-on scientific investigation and thought-provoking experiments. Looking beyond theory, you will be able to apply your knowledge to enable future technological advancements.
 
 ### Our Enrichment
 

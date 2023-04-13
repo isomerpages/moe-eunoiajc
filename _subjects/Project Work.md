@@ -1,8 +1,7 @@
 ---
 title: Project Work
-permalink: /academic-subjects/Knowledge-Skills/project-work/
+permalink: /subjects/pw/
 description: ""
-third_nav_title: Knowledge Skills
 ---
 <center><h4><em>“Part of education is learning. And what drives<br>learning is curiosity and collaboration.”<br><b>Ken Robinson</b></em></h4></center>
 
