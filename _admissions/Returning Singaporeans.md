@@ -9,4 +9,4 @@ Returning Singaporean students who wish to study in Singapore must go through th
 
 Returning Singaporean students applying to the college will undergo an interview process and may be required to take school-based placement tests.
 
-More information can be found on the [MOE Admissions](https://www.moe.gov.sg/admissions/returning-singaporeans) website.
+More information can be found on the [MOE Admissions](https://www.moe.gov.sg/returning-singaporeans) website.
