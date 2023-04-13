@@ -2,6 +2,7 @@ collections:
   subjects:
     output: true
     order:
+      - Project Work.md
       - General Paper.md
       - Knowledge Skills/.keep
       - Knowledge Skills/Knowledge and Inquiry.md
