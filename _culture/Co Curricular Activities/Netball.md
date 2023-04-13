@@ -11,7 +11,11 @@ third_nav_title: Co Curricular Activities
 Indoor Sports Hall / Atria
 
 **Wednesday**  
-4.00 - 7.00pm  
+3.30 - 7.30pm  
+Indoor Sports Hall / Atria
+
+**Saturday (School Teams)**  
+8.00 - 10.00am  
 Indoor Sports Hall / Atria
 
 ### Teachers-in-charge
