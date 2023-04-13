@@ -7,11 +7,11 @@ third_nav_title: Co Curricular Activities
 ### CCA Schedule
 
 **Tuesday**  
-5.00 - 8.00pm  
+5.00 - 7.30pm  
 Track D
 
 **Thursday**  
-5.00 - 8.00pm  
+5.00 - 7.30pm  
 Track D
 
 \*Occasional training at CCAB/Delta/Sengkang depending on availabilty.
