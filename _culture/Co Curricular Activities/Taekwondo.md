@@ -21,3 +21,6 @@ Symposia
 
 **Ms Suellen Goh**  
 [suellen.goh@ejc.edu.sg](mailto:suellen.goh@ejc.edu.sg)
+
+**Ms Lu Huiping**  
+[lu.huiping@ejc.edu.sg](mailto:lu.huiping@ejc.edu.sg)
