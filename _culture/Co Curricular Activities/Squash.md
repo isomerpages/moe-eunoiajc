@@ -7,11 +7,11 @@ third_nav_title: Co Curricular Activities
 ### CCA Schedule
 
 **Monday**  
-6.30 - 8.30pm  
+5.30 - 7.30pm  
 Squash Courts
 
 **Thursday**  
-6.00 - 8.00pm  
+5.30 - 7.30pm  
 Squash Courts
 
 ### Teachers-in-charge
