@@ -7,15 +7,15 @@ third_nav_title: Co Curricular Activities
 ### CCA Schedule
 
 **Tuesday**  
-5.00 - 7.30pm  
+4.30 - 7.30pm  
 Indoor Sports Hall
 
 **Thursday**  
-5.00 - 7.30pm  
+4.30 - 7.30pm  
 Indoor Sports Hall
 
 **Saturday (School Teams)**  
-8.30 - 11.00am  
+10.30 - 1.00pm  
 Indoor Sports Hall
 
 ### Teachers-in-charge
