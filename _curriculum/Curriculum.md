@@ -3,14 +3,14 @@ title: Curriculum
 permalink: /curriculum/
 description: ""
 ---
-##### **INTRIGUE**
+##### **Intrigue**
 
 [Knowledge Skills Programme  
 Languages Programme  
 Humanities & the Arts Programme  
 Mathematics & Sciences Programme](/academic-subjects/academic-subjects/)
 
-##### **INSPIRE**
+##### **Inspire**
 
 [Talent Development Programme (GLIDE)](/flagship-programmes/tdp/)  
 [Bicultural Studies Programme (Chinese)](/special-programmes/bsp/)
@@ -21,7 +21,7 @@ Mathematics & Sciences Programme](/academic-subjects/academic-subjects/)
 [Programme MAGNITUDE](/special-programmes/magnitude/)  
 [STEM Research Programme](/special-programmes/stem/)
 
-##### **INTROSPECT**
+##### **Introspect**
 
 [Life Coaching Programme](/flagship-programmes/lcp/)
 [Leadership Academy](/student-development/leadership/)    
@@ -29,14 +29,14 @@ Mathematics & Sciences Programme](/academic-subjects/academic-subjects/)
 ](/student-development/cce/)    
 [Co-Curricular Activities](/culture/cca/)
 
-##### **INVIGORATE**
+##### **Invigorate**
 
 [Passion Pursuit](/flagship-programmes/pp/)    
 [Physical Education Programme](/about/staff/pe/)  
 [Internship & Externship](/culture/internships/)  
 [Aesthetics Programme](/culture/aesthetics/)
 
-##### **IMPACT**
+##### **Impact**
 
 [World Readiness Programme](/flagship-programmes/wrp/)  
 [Community Engagement Scholarship Programme](/special-programmes/csp/)   
