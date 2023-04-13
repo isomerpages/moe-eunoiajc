@@ -1,6 +1,6 @@
 ---
 title: Ora
-permalink: /culture/House-System/ora/
+permalink: /culture/house/ora/
 description: ""
 third_nav_title: House System
 ---
@@ -34,8 +34,7 @@ Mr Alson Yong and Mrs Charlotte Lee
 <tbody>
   <tr>
     <td class="tg-x5q1"><span style="font-weight:bold;font-style:normal">HOUSE EMBLEM</span><br><span style="font-weight:400;font-style:normal">The bison is a symbol of agility, determination and family.</span><br><br><span style="font-weight:bold;font-style:normal">HOUSE CHEER</span><br><span style="font-weight:400;font-style:normal">KNOCK KNOCK!</span><br><span style="font-weight:400;font-style:normal">WHO’S THERE?</span><br><span style="font-weight:400;font-style:normal">5-6-7-8!</span><br><span style="font-weight:400;font-style:normal">EHHHHHH EHH EH</span><br><span style="font-weight:400;font-style:normal">Ora Ora is the best</span><br><span style="font-weight:400;font-style:normal">Ora Ora beat the rest</span><br><span style="font-weight:400;font-style:normal">EHHHHHH EHH EH</span><br><span style="font-weight:400;font-style:normal">Watch us bring you down in flames,</span><br><span style="font-weight:400;font-style:normal">This is what the winners say!</span><br><span style="font-weight:400;font-style:normal">Ora Ora Ora Ora Ora (x2)</span><br><span style="font-weight:400;font-style:normal">OHHHHHH</span><br><span style="font-weight:400;font-style:normal">Go Ora, go go Ora (x2)</span><br><span style="font-weight:400;font-style:normal">Ora ohana Ora ohana Ora ohana Ora ohana</span><br><span style="font-weight:400;font-style:normal">KAMATE KAMATE HOO</span><br><span style="font-weight:400;font-style:normal">KAMATE KAMATE HAA</span></td>
-    <td class="tg-gqad"><img src="/images/Houses-Ora-Crest.png" 
-     style="width:100%"></td>
+    <td class="tg-gqad"><img src="/images/Houses-Ora-Crest.png" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
@@ -110,21 +109,16 @@ Mr Alson Yong and Mrs Charlotte Lee
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href = "/culture/House-System/akila/" target = "_self"> 
-          <img src="/images/Houses-Akila-Crest.png" 
-     style="width:100%"></a></td>
-    <td class="tg-0lax"><a href = "/culture/House-System/eder/" target = "_self"> 
-          <img src="/images/Houses-Eder-Crest.png" 
-     style="width:100%"></a></td>
-    <td class="tg-0lax"><a href = "/culture/House-System/isami/" target = "_self"> 
-          <img src="/images/Houses-Isami-Crest.png" 
-     style="width:100%"></a></td>
-    <td class="tg-0lax"><a href = "/culture/House-System/ora/" target = "_self"> 
-          <img src="/images/Houses-Ora-Crest.png" 
-     style="width:100%"></a></td>
-    <td class="tg-0lax"><a href = "/culture/House-System/uzuri/" target = "_self"> 
-          <img src="/images/Houses-Uzuri-Crest.png" 
-     style="width:100%"></a></td>
+    <td class="tg-0lax"><a href="/culture/House-System/akila/" target="_self"> 
+          <img src="/images/Houses-Akila-Crest.png" style="width:100%"></a></td>
+    <td class="tg-0lax"><a href="/culture/House-System/eder/" target="_self"> 
+          <img src="/images/Houses-Eder-Crest.png" style="width:100%"></a></td>
+    <td class="tg-0lax"><a href="/culture/House-System/isami/" target="_self"> 
+          <img src="/images/Houses-Isami-Crest.png" style="width:100%"></a></td>
+    <td class="tg-0lax"><a href="/culture/House-System/ora/" target="_self"> 
+          <img src="/images/Houses-Ora-Crest.png" style="width:100%"></a></td>
+    <td class="tg-0lax"><a href="/culture/House-System/uzuri/" target="_self"> 
+          <img src="/images/Houses-Uzuri-Crest.png" style="width:100%"></a></td>
   </tr>
 </tbody>
 </table>

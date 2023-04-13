@@ -1,6 +1,6 @@
 ---
 title: Akila
-permalink: /culture/House-System/akila/
+permalink: /culture/house/akila/
 description: ""
 third_nav_title: House System
 ---
@@ -31,8 +31,7 @@ Mr Daniel Kwan and Mr Justin Lim
 <tbody>
   <tr>
     <td class="tg-x5q1"><span style="font-weight:bold;font-style:normal">HOUSE EMBLEM</span><br><span style="font-weight:400;font-style:normal">The eagle is a symbol of power, freedom and transcendence. </span><br><br><span style="font-weight:bold;font-style:normal">HOUSE CHEER</span><br><span style="font-weight:400;font-style:normal">Akila, who are we?</span><br><span style="font-weight:400;font-style:normal">Who who who are we?</span><br><span style="font-weight:400;font-style:normal">Ah Ah Akila!</span><br><span style="font-weight:400;font-style:normal">Who who who are we</span><br><span style="font-weight:400;font-style:normal">Ah Ah Akila!</span><br><span style="font-weight:400;font-style:normal">Akilaaaaaa</span><br><span style="font-weight:400;font-style:normal">I said brr it’s cold in here</span><br><span style="font-weight:400;font-style:normal">There must be Akila in the atmosphere</span><br><span style="font-weight:400;font-style:normal">I said brr it’s cold in here</span><br><span style="font-weight:400;font-style:normal">There must be some eagles in the atmosphere</span><br><span style="font-weight:400;font-style:normal">I said sst it’s hot in here</span><br><span style="font-weight:400;font-style:normal">There must be Akila in the atmosphere</span><br><span style="font-weight:400;font-style:normal">I said sst it’s hot in here</span><br><span style="font-weight:400;font-style:normal">There must be some champions in the atmosphere</span><br><span style="font-weight:400;font-style:normal">Ah-akila ah-ah-akila</span><br><span style="font-weight:400;font-style:normal">Ah-akila ah-ah-akila</span></td>
-    <td class="tg-gqad"><img src="/images/Houses-Akila-Crest.png" 
-     style="width:100%"></td>
+    <td class="tg-gqad"><img src="/images/Houses-Akila-Crest.png" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
@@ -109,21 +108,16 @@ Mr Daniel Kwan and Mr Justin Lim
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href = "/culture/House-System/akila/" target = "_self"> 
-          <img src="/images/Houses-Akila-Crest.png" 
-     style="width:100%"></a></td>
-    <td class="tg-0lax"><a href = "/culture/House-System/eder/" target = "_self"> 
-          <img src="/images/Houses-Eder-Crest.png" 
-     style="width:100%"></a></td>
-    <td class="tg-0lax"><a href = "/culture/House-System/isami/" target = "_self"> 
-          <img src="/images/Houses-Isami-Crest.png" 
-     style="width:100%"></a></td>
-    <td class="tg-0lax"><a href = "/culture/House-System/ora/" target = "_self"> 
-          <img src="/images/Houses-Ora-Crest.png" 
-     style="width:100%"></a></td>
-    <td class="tg-0lax"><a href = "/culture/House-System/uzuri/" target = "_self"> 
-          <img src="/images/Houses-Uzuri-Crest.png" 
-     style="width:100%"></a></td>
+    <td class="tg-0lax"><a href="/culture/House-System/akila/" target="_self"> 
+          <img src="/images/Houses-Akila-Crest.png" style="width:100%"></a></td>
+    <td class="tg-0lax"><a href="/culture/House-System/eder/" target="_self"> 
+          <img src="/images/Houses-Eder-Crest.png" style="width:100%"></a></td>
+    <td class="tg-0lax"><a href="/culture/House-System/isami/" target="_self"> 
+          <img src="/images/Houses-Isami-Crest.png" style="width:100%"></a></td>
+    <td class="tg-0lax"><a href="/culture/House-System/ora/" target="_self"> 
+          <img src="/images/Houses-Ora-Crest.png" style="width:100%"></a></td>
+    <td class="tg-0lax"><a href="/culture/House-System/uzuri/" target="_self"> 
+          <img src="/images/Houses-Uzuri-Crest.png" style="width:100%"></a></td>
   </tr>
 </tbody>
 </table>

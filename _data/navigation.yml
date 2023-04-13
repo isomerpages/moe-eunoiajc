@@ -22,14 +22,14 @@ links:
       - title: Student Showcase
         url: https://ejceudaimonia.wordpress.com/
   - title: Culture
-    url: /culture/student-culture/
+    url: /culture/
     sublinks:
       - title: Co-Curricular Activities
-        url: /culture/Co-Curricular-Activities/cca/
+        url: /culture/cca/
       - title: Student Council
         url: /culture/student-council/
       - title: House System
-        url: /culture/House-System/houses/
+        url: /culture/house/
       - title: Aesthetics Programme
         url: /culture/aesthetics/
       - title: Community Outreach

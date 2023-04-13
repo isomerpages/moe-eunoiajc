@@ -1,6 +1,6 @@
 ---
 title: Eder
-permalink: /culture/House-System/eder/
+permalink: /culture/house/eder/
 description: ""
 third_nav_title: House System
 ---
@@ -34,8 +34,7 @@ Mr Kelvin Teo and Ms Clarice Chan
 <tbody>
   <tr>
     <td class="tg-x5q1"><span style="font-weight:bold;font-style:normal">HOUSE EMBLEM</span><br><span style="font-weight:400;font-style:normal">The stallion is a symbol of freedom, power and endurance.</span><br><span style="font-weight:400;font-style:normal"> </span><br><span style="font-weight:bold;font-style:normal">HOUSE CHEER</span><br><span style="font-weight:400;font-style:normal">Who are who are who are we</span><br><span style="font-weight:400;font-style:normal">We are we are we are who</span><br><span style="font-weight:400;font-style:normal">We are the Eder</span><br><span style="font-weight:400;font-style:normal">Mighty mighty Eder</span><br><span style="font-weight:400;font-style:normal">Strong and so awesome</span><br><span style="font-weight:400;font-style:normal">We are so hip</span><br><span style="font-weight:400;font-style:normal">We think your house is full of</span><br><span style="font-weight:400;font-style:normal">Shift to the left and shift to the right</span><br><span style="font-weight:400;font-style:normal">Eder, Eder, fight fight fight!</span><br><span style="font-weight:400;font-style:normal">Step to the left and step to the right</span><br><span style="font-weight:400;font-style:normal">Eder’s coming through so move aside</span><br><span style="font-weight:400;font-style:normal">BOOMSHAKALAKA!</span><br><span style="font-weight:400;font-style:normal">Eder out!</span></td>
-    <td class="tg-gqad"><img src="/images/Houses-Eder-Crest.png" 
-     style="width:100%"></td>
+    <td class="tg-gqad"><img src="/images/Houses-Eder-Crest.png" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
@@ -110,21 +109,16 @@ Mr Kelvin Teo and Ms Clarice Chan
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href = "/culture/House-System/akila/" target = "_self"> 
-          <img src="/images/Houses-Akila-Crest.png" 
-     style="width:100%"></a></td>
-    <td class="tg-0lax"><a href = "/culture/House-System/eder/" target = "_self"> 
-          <img src="/images/Houses-Eder-Crest.png" 
-     style="width:100%"></a></td>
-    <td class="tg-0lax"><a href = "/culture/House-System/isami/" target = "_self"> 
-          <img src="/images/Houses-Isami-Crest.png" 
-     style="width:100%"></a></td>
-    <td class="tg-0lax"><a href = "/culture/House-System/ora/" target = "_self"> 
-          <img src="/images/Houses-Ora-Crest.png" 
-     style="width:100%"></a></td>
-    <td class="tg-0lax"><a href = "/culture/House-System/uzuri/" target = "_self"> 
-          <img src="/images/Houses-Uzuri-Crest.png" 
-     style="width:100%"></a></td>
+    <td class="tg-0lax"><a href="/culture/House-System/akila/" target="_self"> 
+          <img src="/images/Houses-Akila-Crest.png" style="width:100%"></a></td>
+    <td class="tg-0lax"><a href="/culture/House-System/eder/" target="_self"> 
+          <img src="/images/Houses-Eder-Crest.png" style="width:100%"></a></td>
+    <td class="tg-0lax"><a href="/culture/House-System/isami/" target="_self"> 
+          <img src="/images/Houses-Isami-Crest.png" style="width:100%"></a></td>
+    <td class="tg-0lax"><a href="/culture/House-System/ora/" target="_self"> 
+          <img src="/images/Houses-Ora-Crest.png" style="width:100%"></a></td>
+    <td class="tg-0lax"><a href="/culture/House-System/uzuri/" target="_self"> 
+          <img src="/images/Houses-Uzuri-Crest.png" style="width:100%"></a></td>
   </tr>
 </tbody>
 </table>

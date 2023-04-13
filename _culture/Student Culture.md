@@ -1,6 +1,6 @@
 ---
 title: Student Culture
-permalink: /culture/student-culture/
+permalink: /culture/
 description: ""
 ---
 ### We are Eunoians

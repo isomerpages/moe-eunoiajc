@@ -1,6 +1,6 @@
 ---
 title: Uzuri
-permalink: /culture/House-System/uzuri/
+permalink: /culture/house/uzuri/
 description: ""
 third_nav_title: House System
 ---
@@ -37,8 +37,7 @@ Mr Azhar Amin and Mr Alex Teo
 <tbody>
   <tr>
     <td class="tg-cbs6"><span style="font-weight:bold;font-style:normal">HOUSE EMBLEM</span><br><span style="font-weight:400;font-style:normal">The bear is a symbol of wisdom, strength and courage. </span><br><br><span style="font-weight:bold">HOUSE CHEER</span><br><span style="font-weight:400;font-style:normal">U-ZU-RI SA SA SA (X2)</span><br><span style="font-weight:400;font-style:normal">You ready?</span><br><span style="font-weight:400;font-style:normal">For what? (x2)</span><br><span style="font-weight:400;font-style:normal">To show them how we roll (x2)</span><br><span style="font-weight:400;font-style:normal">To show them how we rock and roll</span><br><span style="font-weight:400;font-style:normal">U-ZU-RI U-U-ZU-RI AH WOO (x2)</span><br><span style="font-weight:400;font-style:normal">We are ziesty! Like what?</span><br><span style="font-weight:400;font-style:normal">We are fiesty! Like what?</span><br><span style="font-weight:400;font-style:normal">Ziesty UZUs Ay Ay</span><br><span style="font-weight:400;font-style:normal">Fiesty UZUs Ay Ay</span><br><span style="font-weight:400;font-style:normal">U-ZU-RI U-U-ZURI AH WOO (x2)</span><br><span style="font-weight:400;font-style:normal">GOOO UZURI!</span></td>
-    <td class="tg-gqad"><img src="/images/Houses-Uzuri-Crest.png" 
-     style="width:100%"></td>
+    <td class="tg-gqad"><img src="/images/Houses-Uzuri-Crest.png" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
@@ -117,21 +116,16 @@ Mr Azhar Amin and Mr Alex Teo
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href = "/culture/House-System/akila/" target = "_self"> 
-          <img src="/images/Houses-Akila-Crest.png" 
-     style="width:100%"></a></td>
-    <td class="tg-0lax"><a href = "/culture/House-System/eder/" target = "_self"> 
-          <img src="/images/Houses-Eder-Crest.png" 
-     style="width:100%"></a></td>
-    <td class="tg-0lax"><a href = "/culture/House-System/isami/" target = "_self"> 
-          <img src="/images/Houses-Isami-Crest.png" 
-     style="width:100%"></a></td>
-    <td class="tg-0lax"><a href = "/culture/House-System/ora/" target = "_self"> 
-          <img src="/images/Houses-Ora-Crest.png" 
-     style="width:100%"></a></td>
-    <td class="tg-0lax"><a href = "/culture/House-System/uzuri/" target = "_self"> 
-          <img src="/images/Houses-Uzuri-Crest.png" 
-     style="width:100%"></a></td>
+    <td class="tg-0lax"><a href="/culture/House-System/akila/" target="_self"> 
+          <img src="/images/Houses-Akila-Crest.png" style="width:100%"></a></td>
+    <td class="tg-0lax"><a href="/culture/House-System/eder/" target="_self"> 
+          <img src="/images/Houses-Eder-Crest.png" style="width:100%"></a></td>
+    <td class="tg-0lax"><a href="/culture/House-System/isami/" target="_self"> 
+          <img src="/images/Houses-Isami-Crest.png" style="width:100%"></a></td>
+    <td class="tg-0lax"><a href="/culture/House-System/ora/" target="_self"> 
+          <img src="/images/Houses-Ora-Crest.png" style="width:100%"></a></td>
+    <td class="tg-0lax"><a href="/culture/House-System/uzuri/" target="_self"> 
+          <img src="/images/Houses-Uzuri-Crest.png" style="width:100%"></a></td>
   </tr>
 </tbody>
 </table>
