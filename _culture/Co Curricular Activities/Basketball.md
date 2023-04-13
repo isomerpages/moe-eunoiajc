@@ -7,15 +7,15 @@ third_nav_title: Co Curricular Activities
 ### CCA Schedule
 
 **Monday**  
-5.00 - 7.30pm
+5.00 - 7.30pm  
 Basketball Courts / Indoor Sports Hall
 
 **Wednesday**  
-5.00 - 7.30pm
+5.00 - 7.30pm  
 Basketball Courts / Indoor Sports Hall
 
 **Friday**  
-5.00 - 7.30pm
+5.00 - 7.30pm  
 Basketball Courts / Indoor Sports Hall
 
 
