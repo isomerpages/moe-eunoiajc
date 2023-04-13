@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Knowledge Skills/.keep
-      - Knowledge Skills/General Paper.md
       - Knowledge Skills/Knowledge and Inquiry.md
       - Knowledge Skills/Project Work.md
       - Languages/.keep
