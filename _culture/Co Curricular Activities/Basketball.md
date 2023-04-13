@@ -7,25 +7,17 @@ third_nav_title: Co Curricular Activities
 ### CCA Schedule
 
 **Monday**  
-6.00 - 8.00pm (Boys)  
-Basketball Courts / Indoor Sports Hall
-
-6.00 - 8.00pm (Girls)  
+5.00 - 7.30pm
 Basketball Courts / Indoor Sports Hall
 
 **Wednesday**  
-6.00 - 8.00pm (Boys)  
-Basketball Courts / Indoor Sports Hall
-
-6.00 - 8.00pm (Girls)  
+5.00 - 7.30pm
 Basketball Courts / Indoor Sports Hall
 
 **Friday**  
-6.00 - 8.00pm (Boys)  
+5.00 - 7.30pm
 Basketball Courts / Indoor Sports Hall
 
-6.00 - 8.00pm (Girls)  
-Basketball Courts / Indoor Sports Hall
 
 ### Teachers-in-charge
 
@@ -37,3 +29,6 @@ Basketball Courts / Indoor Sports Hall
 
 **Mr Sun Xiao Jun**  
 [sun.xiaojun@ejc.edu.sg](mailto:sun.xiaojun@ejc.edu.sg)
+
+**Mr Peter Soh**  
+[peter.soh@ejc.edu.sg](mailto:peter.soh@ejc.edu.sg)
