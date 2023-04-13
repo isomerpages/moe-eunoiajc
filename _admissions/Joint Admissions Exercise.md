@@ -11,7 +11,7 @@ Students with Singapore-Cambridge GCE O-Level Examination Results may apply for 
 
 More information on the JAE process can be found on the **[MOE Admissions](https://www.moe.gov.sg/post-secondary/admissions)** website.
 
-Information on appeals into the college will be published on the college website near the release of JAE posting results.
+Information on appeals into the college will be published in our [News](https://www.eunoiajc.moe.edu.sg/news/) section near the release of JAE posting results.
 
 Applicants seeking to gain admission into the college must meet the entry criteria based on the L1R5 aggregate. This aggregate is calculated from the results obtained in the previous year’s Singapore-Cambridge GCE O-Level Examination.
 
