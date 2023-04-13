@@ -8,13 +8,15 @@ third_nav_title: Co Curricular Activities
 
 **Tuesday**  
 5.00 - 7.30pm  
-Track D
+Hockey D
 
 **Thursday**  
 5.00 - 7.30pm  
-Track D
+Hockey D
 
-\*Occasional training at CCAB/Delta/Sengkang depending on availabilty.
+**Saturday (School Teams)**  
+8.00 - 11.00am  
+Hockey D / Field
 
 ### Teachers-in-charge
 
