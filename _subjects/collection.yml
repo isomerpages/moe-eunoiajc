@@ -2,6 +2,7 @@ collections:
   subjects:
     output: true
     order:
+      - Mother Tongue Languages.md
       - Foreign Languages.md
       - Knowledge and Inquiry.md
       - Project Work.md
