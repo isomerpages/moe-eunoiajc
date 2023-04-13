@@ -13,7 +13,7 @@ Mathematics & Sciences Programme](/academic-subjects/academic-subjects/)
 ##### **Inspire**
 
 [Talent Development Programme (GLIDE)](/flagship-programmes/tdp/)  
-[Bicultural Studies Programme (Chinese)](/special-programmes/bsp/)
+[Bicultural Studies Programme (Chinese)](/special-programmes/bsp/)\
 [Humanities Scholarship and Programme](/special-programmes/hsp/)  
 [Music Elective Programme](/special-programmes/mep/)  
 [Programme ALTITUDE](/special-programmes/Special-Programmes/altitude/)  
