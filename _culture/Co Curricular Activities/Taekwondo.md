@@ -7,7 +7,11 @@ third_nav_title: Co Curricular Activities
 ### CCA Schedule
 
 **Tuesday**  
-5.30 - 7.30pm  
+5.00 - 7.30pm  
+Symposia
+
+**Thursday**  
+5.00 - 7.30pm  
 Symposia
 
 ### Teachers-in-charge
