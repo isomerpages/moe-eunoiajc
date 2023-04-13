@@ -39,7 +39,7 @@ As principled leaders of tomorrow, graduates of our Joint Integrated Programme w
 
 <br>
 
-<img src="/images/SCGS2S.png" style="width:30%">
+<img src="/images/SCGS_s.png" style="width:30%">
 
 ##### Singapore Chinese Girls’ School
 [Visit Website](https://scgs.moe.edu.sg/)
