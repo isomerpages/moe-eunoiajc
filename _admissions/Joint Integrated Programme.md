@@ -21,28 +21,25 @@ As principled leaders of tomorrow, graduates of our Joint Integrated Programme w
 
 ![](/images/jip_journey_1.png)
 
-### Our Partner Schools
+### Our JIP Schools
 
 <br>
 
-<img src="/images/CHS2S.jpg" style="width:30%">
+<img src="/images/CHS2S.jpg" style="width:40%">
 
-##### Catholic High School
-[Visit Website](http://catholichigh.moe.edu.sg/)
-
-<br>
-
-<img src="/images/SNGS2R.jpg" style="width:30%">
-
-##### CHIJ St Nicholas Girls’ School
-[Visit Website](http://chijstnicholasgirls.moe.edu.sg/)
+##### [Catholic High School](http://catholichigh.moe.edu.sg/)
 
 <br>
 
-<img src="/images/SCGS_s.png" style="width:30%">
+<img src="/images/SNGS2R.jpg" style="width:40%">
 
-##### Singapore Chinese Girls’ School
-[Visit Website](https://scgs.moe.edu.sg/)
+##### [CHIJ St Nicholas Girls’ School](http://chijstnicholasgirls.moe.edu.sg/)
+
+<br>
+
+<img src="/images/scgs_s.png" style="width:40%">
+
+##### [Singapore Chinese Girls’ School](https://scgs.moe.edu.sg/)
 
 
-[JIP Prospectus](https://issuu.com/eunoiajc/docs/jip_prospectus_2020)
+##### [JIP Prospectus](https://issuu.com/eunoiajc/docs/jip_prospectus_2020)
