@@ -9,7 +9,7 @@ Students with Singapore-Cambridge GCE O-Level Examination Results may apply for 
 *   Posting Phase
 *   Posting Results Release Phase
 
-More information on the JAE process can be found on the **[MOE Admissions](https://www.moe.gov.sg/admissions/jae)** website.
+More information on the JAE process can be found on the **[MOE Admissions](https://www.moe.gov.sg/post-secondary/admissions)** website.
 
 Information on appeals into the college will be published on the college website near the release of JAE posting results.
 
