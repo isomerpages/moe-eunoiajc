@@ -3,36 +3,30 @@ title: Teaching and Learning Philosophy
 permalink: /teaching-and-learning-philosophy/
 description: ""
 ---
+#### **Four Stages of Learning**
 
-<center><h3>THE FOUR STAGES OF LEARNING</h3></center>
+#### **Engage the Senses**
+
+Learners recognise that paying close attention and being actively engaged in learning plays a big part in their initial stages of learning.&nbsp;#Attention #Encoding
 
 
-##### STAGE 1
-
-### Engage the Senses
-
-Learners recognise that paying close attention and being actively engaged in learning plays a big part in their initial stages of learning. #Attention #Encoding
-
-##### STAGE 2
-
-### Connect Information
+#### **Connect Information**
 
 Learners connect newly-acquired information to existing knowledge in their brains. #WorkingMemory
 
-##### STAGE 3
 
-### Create Meaning
+#### **Create Meaning**
 
 Learners cement their new learning by making this new information meaningful to themselves. #Elaboration #Organisation
 
-##### STAGE 4
-
-### Retrieve Knowledge
-
+#### **Retrieve Knowledge**
 
 Learners retrieve and apply their knowledge quickly and accurately using retrieval techniques and cues. #Retrieve
 
-<center><h5>TEACHING & LEARNING PRINCIPLES</h5></center>
+
+#### **Teaching and Learning Principles**
+
+<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -49,22 +43,16 @@ Learners retrieve and apply their knowledge quickly and accurately using retriev
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nrix"><img src="/images/TL0-Title.jpeg" 
-     style="width:100%"></td>
-    <td class="tg-nrix"><img src="/images/TL1-Potential.jpeg" 
-     style="width:100%"></td>
+    <td class="tg-nrix"><img src="/images/TL0-Title.jpeg" style="width:100%"></td>
+    <td class="tg-nrix"><img src="/images/TL1-Potential.jpeg" style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-nrix"><img src="/images/TL2-Active.jpeg" 
-     style="width:100%"></td>
-    <td class="tg-nrix"><img src="/images/TL3-Motivation.jpeg" 
-     style="width:100%"></td>
+    <td class="tg-nrix"><img src="/images/TL2-Active.jpeg" style="width:100%"></td>
+    <td class="tg-nrix"><img src="/images/TL3-Motivation.jpeg" style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-nrix"><img src="/images/TL4-Social-Personal.jpeg" 
-     style="width:100%"></td>
-    <td class="tg-nrix"><img src="/images/TL5-Interconnected.jpeg" 
-     style="width:100%"></td>
+    <td class="tg-nrix"><img src="/images/TL4-Social-Personal.jpeg" style="width:100%"></td>
+    <td class="tg-nrix"><img src="/images/TL5-Interconnected.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
