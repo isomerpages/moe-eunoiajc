@@ -8,14 +8,14 @@ description: ""
 
 ##### **Intrigue**
 
-Millions saw the apple fall but Newton asked why. We believe that curiosity is more important than knowledge. Hence, our academic programme in [Knowledge Skills, Languages, Humanities and the Arts, and Mathematics and Sciences](/academic-subjects/academic-subjects/) is designed not simply to inform but to intrigue. Teaching and learning at the college is supported by three pillars: educational neuroscience, educational psychology and professional collaboration among teachers. Interesting lessons are designed to develop our students’ cognitive and metacognitive abilities. We believe that the greatest gift an education can provide is not great knowledge but an undying thirst for knowledge. After all, the future belongs to the curious.
+Millions saw the apple fall but Newton asked why. We believe that curiosity is more important than knowledge. Hence, our academic programme in [Knowledge Skills, Languages, Humanities and the Arts, and Mathematics and Sciences](/subjects/) is designed not simply to inform but to intrigue. Teaching and learning at the college is supported by three pillars: educational neuroscience, educational psychology and professional collaboration among teachers. Interesting lessons are designed to develop our students’ cognitive and metacognitive abilities. We believe that the greatest gift an education can provide is not great knowledge but an undying thirst for knowledge. After all, the future belongs to the curious.
 
 
 ##### **Inspire**
 
 We want our students to inspire and be inspired. An inspired person finds it easy to accomplish the difficult; an uninspired person finds it difficult to even accomplish easy tasks. Our flagship [Talent Development Programme (GLIDE)](/flagship-programmes/tdp/), supported by our [Bicultural Studies Programme (Chinese)](/special-programmes/bsp/), [Humanities Scholarship and Programme](/special-programmes/hsp/), 
-[Music Elective Programme](/special-programmes/mep/), [Programme ALTITUDE](/special-programmes/Special-Programmes/altitude/)  
-[LATITUDE](/special-programmes/Special-Programmes/latitude/) and
+[Music Elective Programme](/special-programmes/mep/), [Programme ALTITUDE](/special-programmes/altitude/)  
+[LATITUDE](/special-programmes/latitude/) and
 [MAGNITUDE](/special-programmes/magnitude/), and the [STEM Research Programme](/special-programmes/stem/), are platforms to inspire students to pursue their dreams, and opportunities for them to be an inspiration to others in their pursuit of excellence. 
 
 
