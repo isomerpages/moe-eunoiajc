@@ -3,6 +3,8 @@ title: Subject Combinations
 permalink: /subject-combinations/
 description: ""
 ---
+### **Subject Combinations**
+
 Our students undertake the Singapore-Cambridge GCE A-Level Curriculum, offering **10 to 12 units of study** including two Knowledge Skills subjects, Mother Tongue and four content-based subjects. Each H2 subject carries 2 academic units. H1 and H3 subjects carry 1 unit each.
 
 For the academic course of 2023-24, the college is offering **39 Arts combinations and 41 Science combinations**, including 'hybrid' options.
@@ -11,36 +13,36 @@ The [EJC Subject Combination Proposal Exercise (SCOPE)](/files/EJC-SCOPE-2023.p
 
 
 
-###### **JOINT ADMISSIONS EXERCISE**
+###### **Joint Admissions Exercise**
 
 Students admitted via the **Joint Admissions Exercise (JAE)** must propose subject combinations in the stream (Arts or Science) to which they are posted. 
 
-###### **PREFERRED COMBINATIONS**
+###### **Preferred Combinations**
 All students may propose their **preferred subject combination** if it is not featured in the list of subject combinations, subject to approval.
 
-###### **'HYBRID' COMBINATIONS**
+###### **'Hybrid' Combinations**
 
 Students intending to offer 2 Mathematics and Sciences subjects and 2 Humanities and the Arts subjects may refer to page 7 of the **[information booklet.](/files/EJC-SCOPE-2023.pdf)** The college offers 12 ‘hybrid’ subject combinations in the **Science** stream: S4-1 to S4-6, and S5-1 to S5-6.
 
-###### **COMBINATIONS WITH KNOWLEDGE AND INQUIRY**
+###### **Combinations with Knowledge and Inquiry**
 
 **[H2 Knowledge and Inquiry](/academic-subjects/Knowledge-Skills/knowledge-and-inquiry/)** is included in the following subject combinations: A1-K, A2-K, A1-N, A2-N, S1-N, and S2-N. Refer to page 8 of the **[information booklet](/files/EJC-SCOPE-2023.pdf)**. The A1-K and A2-K subject combinations each consist of 11 units of study.
 
-#### Requirements
+#### **Requirements**
 
-###### **KNOWLEDGE SKILLS**
+###### **Knowledge Skills**
 
 All students offer **[H1 General Paper](/academic-subjects/Knowledge-Skills/general-paper/)** or **[H2 Knowledge and Inquiry](/academic-subjects/Knowledge-Skills/knowledge-and-inquiry/)**.
 
 In their first year, students must offer **[H1 Project Work](/academic-subjects/Knowledge-Skills/project-work/)**.
 
-###### **LANGUAGES**
+###### **Languages**
 
 Students must offer **[H1 Mother Tongue](/academic-subjects/Languages/mother-tongue-languages/)** unless they have obtained a minimum of D7 for Higher Mother Tongue at O-Level.
 
 **[French](/academic-subjects/Languages/foreign-languages/)**, **[German](/academic-subjects/Languages/foreign-languages/)**, **[Japanese](/academic-subjects/Languages/foreign-languages/)** or **[Spanish](/academic-subjects/Languages/foreign-languages/)** can be offered as an H2 subject for Arts students and a contrasting H2 subject for Science students. These subjects are offered at the Ministry of Education Language Centre (MOELC).
 
-###### **CONTRASTING SUBJECT**
+###### **Contrasting Subject**
 
 Students must offer a contrasting subject as one of the four content-based subjects.
 
@@ -50,9 +52,9 @@ Students must offer a contrasting subject as one of the four content-based subje
 
 **[H2 Knowledge and Inquiry](/academic-subjects/Knowledge-Skills/knowledge-and-inquiry/)** is considered a contrasting subject for Science and Arts students, and offered as the fourth H2 subject.
 
-#### Considerations
+#### **Considerations**
 
-###### **MERIT-BASED ALLOCATION**
+###### **Merit-based Allocation**
 
 Students intending to offer [H2 Art](/academic-subjects/Humanties-and-the-Arts/art/), [H2 Further Mathematics](/academic-subjects/Mathematics-and-Sciences/futher-mathematics/), [H2 Knowledge & Inquiry](/academic-subjects/Knowledge-Skills/knowledge-and-inquiry/), [H2 Music](/academic-subjects/Humanties-and-the-Arts/music/) or [H2 Translation (Chinese)](/academic-subjects/Humanties-and-the-Arts/translation-chinese/) must pass a selection test/audition administered by the college.
 
@@ -62,28 +64,28 @@ Students intending to offer [French, German, Japanese or Spanish](/academic-sub
 
 If a subject is oversubscribed, students will be selected based on academic merit, including (i) L1R5 aggregate score or equivalent, excluding bonus points, and (ii) performance in the relevant subject(s).
 
-The indicative cut-off point for [H2 Biology](/academic-subjects/Mathematics-and-Sciences/biology/), [H2 Chemistry](/academic-subjects/Mathematics-and-Sciences/chemistry/) and [H2 Physics](/academic-subjects/Mathematics-and-Sciences/physics/) is B3 for the respective subject at the GCE O-Level Examination or equivalent, or A1 for Combined Science at the GCE O-Level Examination.
+The indicative cut-off point for [H2 Biology](/subjects/bio/), [H2 Chemistry](/subjects/chem/) and [H2 Physics](/subjects/phy/) is B3 for the respective subject at the GCE O-Level Examination or equivalent, or A1 for Combined Science at the GCE O-Level Examination.
 
-The indicative cut-off point for [H2 Further Mathematics](/academic-subjects/Mathematics-and-Sciences/futher-mathematics/) is A1 for Additional Mathematics at the GCE O-Level Examination or equivalent.
+The indicative cut-off point for [H2 Further Mathematics](/subjects/fmaths/) is A1 for Additional Mathematics at the GCE O-Level Examination or equivalent.
 
-###### **H3 SUBJECTS**
+###### **H3 Subjects**
 
 Designed for outstanding students, H3 subjects are offered in **JC2** together with the stipulated subject at H2 level. Students will be informed of the application process and eligibility criteria in JC1.
 
-###### **SPECIAL PROGRAMMES**
+###### **Special Programmes**
 
-[Humanities Scholarship Programme](/special-programmes/MOE-Special-Programmes/hsp/) (HSP) students must offer [subject combinations prescribed by the Ministry of Education](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u), which will include [H2 Literature in English](/academic-subjects/Humanties-and-the-Arts/literature-in-english/).
+[Humanities Scholarship Programme](/special-programmes/hsp/) (HSP) students must offer [subject combinations prescribed by the Ministry of Education](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u), which will include [H2 Literature in English](/subjects/lit/).
 
-[Music Elective Programme](/special-programmes/MOE-Special-Programmes/mep/) (MEP) students must offer [H2 Music](/academic-subjects/Humanties-and-the-Arts/music/).
+[Music Elective Programme](/special-programmes/mep/) (MEP) students must offer [H2 Music](/subjects/music/).
 
-[Bicultural Studies Programme](/special-programmes/MOE-Special-Programmes/bsp/) \[BSP(C)\] scholars must offer [H2 China Studies in Chinese](academic-subjects/Humanties-and-the-Arts/china-studies-in-chinese/).
+[Bicultural Studies Programme](/special-programmes/bsp/) \[BSP(C)\] scholars must offer [H2 China Studies in Chinese](subjects/csc/).
 
-###### **OTHER CONSIDERATIONS**
+###### **Other Considerations**
 
 In the event that there is insufficient student subscription in a particular subject or subject combination, the college reserves the right not to offer that subject or subject combination.
 
 If a subject is oversubscribed, students will be selected based on academic merit.
 
-###### **UNIVERSITY COURSE PRE-REQUISITES**
+###### **University Course Pre-requisites**
 
 Your future career may require you to undertake certain degrees and/or courses at the undergraduate level. In turn, these undergraduate courses in the universities may or may not have course-specific subject pre-requisites. As such, you are advised to check the minimum requirements on the university websites directly before making a decision on the subject combination to offer.
