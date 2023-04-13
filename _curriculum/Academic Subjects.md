@@ -3,19 +3,18 @@ title: Academic Subjects
 permalink: /academic-subjects/academic-subjects/
 description: ""
 ---
-
-### KNOWLEDGE SKILLS
+#### Knowledge Skills
 
 [General Paper](/academic-subjects/Knowledge-Skills/general-paper/)  
 [Knowledge & Inquiry](/academic-subjects/Knowledge-Skills/knowledge-and-inquiry/)  
 [Project Work](/academic-subjects/Knowledge-Skills/project-work/)
 
-### LANGUAGES
+#### Languages
 
 [Foreign Languages](/academic-subjects/Languages/foreign-languages/)  
 [Mother Tongue Languages](/academic-subjects/Languages/mother-tongue-languages/)
 
-### HUMANITIES & THE ARTS
+#### Humanities and the Arts
 
 [Economics](/academic-subjects/Humanties-and-the-Arts/economics/)   
 [Geography](/academic-subjects/Humanties-and-the-Arts/geography/)   
@@ -29,7 +28,7 @@ description: ""
 [Art](/academic-subjects/Humanties-and-the-Arts/art/)  
 [Music](/academic-subjects/Humanties-and-the-Arts/music/)
 
-### MATHEMATICS & SCIENCES
+#### Mathematics and Sciences
 
 [Mathematics](/academic-subjects/Mathematics-and-Sciences/mathematics/)   
 [Further Mathematics](/academic-subjects/Mathematics-and-Sciences/further-mathematics/)   
