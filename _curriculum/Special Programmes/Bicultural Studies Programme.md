@@ -9,4 +9,6 @@ The Bicultural Studies Programme (BSP) nurtures principled, bi-literate and worl
 Students enrolled in the BSP will interact with students from other schools through the BSP Camp and BSP Symposium, as well as participate in overseas immersion programmes. You will have access to a resource room equipped with comprehensive research material and tools. With a pulse on the culture, history and economies in the East and West, you will be prepared for a cross-cultural future far beyond the classroom.
 
 <img src="/images/BSPC_Logo.jpeg" style="width:65%">
+
+
 **EJC BSP LOGO DESIGNED BY WU WEIYING AND GRACE CHONG (17-A1)**
