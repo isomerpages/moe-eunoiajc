@@ -4,7 +4,7 @@ permalink: /culture/cca/visualarts/
 description: ""
 third_nav_title: CCA
 ---
-### CCA Schedule
+#### **CCA Schedule**
 
 **Wednesday**  
 3.30 - 6.00pm  
@@ -14,7 +14,7 @@ Art Room / TR11-06
 If necessary  
 Art Room / TR11-06
 
-### Teachers-in-charge
+#### **Teachers-in-charge**
 
 **Ms Cham Bei Qing**  
 [cham.bei.qing@ejc.edu.sg](mailto:cham.bei.qing@ejc.edu.sg)
