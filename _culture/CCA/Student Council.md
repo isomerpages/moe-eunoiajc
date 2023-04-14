@@ -4,13 +4,13 @@ permalink: /culture/cca/studentcouncil/
 description: ""
 third_nav_title: CCA
 ---
-### CCA Schedule
+#### **CCA Schedule**
 
 **Wednesday**  
 4.00 - 6.00 pm  
 Student Council Room / LT1
 
-### Teachers-in-charge
+#### **Teachers-in-charge**
 
 **Mr Justin Lim**  
 [justin.lim@ejc.edu.sg](mailto:justin.lim@ejc.edu.sg)
