@@ -15,7 +15,7 @@ Information on appeals into the college will be published in our [News](https://
 
 Applicants seeking to gain admission into the college must meet the entry criteria based on the L1R5 aggregate. This aggregate is calculated from the results obtained in the previous year’s Singapore-Cambridge GCE O-Level Examination.
 
-### Frequently Asked Questions
+#### **Frequently Asked Questions**
 
 **Q: Will students admitted via JAE be disadvantaged when it comes to the choice of subject combinations?**
 
