@@ -28,6 +28,3 @@ CCA Room 3
 
 **Ms Ng Lee Siah**  
 [ng.lee.siah@ejc.edu.sg](mailto:ng.lee.siah@ejc.edu.sg)
-
-**Mrs Tcheau Seow Hong**  
-[tcheau.seow.hong@ejc.edu.sg](mailto:tcheau.seow.hong@ejc.edu.sg)
