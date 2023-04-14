@@ -4,17 +4,17 @@ permalink: /culture/cca/computing/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-### CCA Schedule
+#### **CCA Schedule**
 
 **Wednesday**  
-3.45 - 6.45pm  
+3.30 - 6.00pm  
 Com Labs 1-2
 
 **Friday**  
-3.15 - 6.15pm  
+3.30 - 6.00pm  
 Com Labs 1-2
 
-### Teachers-in-charge
+#### **Teachers-in-charge**
 
 **Mr Ma Mingwei**  
 [ma.mingwei@ejc.edu.sg](mailto:ma.mingwei@ejc.edu.sg)
