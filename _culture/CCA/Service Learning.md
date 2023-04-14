@@ -4,7 +4,7 @@ permalink: /culture/cca/servicelearning/
 description: ""
 third_nav_title: CCA
 ---
-### CCA Schedule
+#### **CCA Schedule**
 
 **Wednesday**  
 3.00 - 5.30pm  
@@ -14,7 +14,7 @@ Seminar Room 3A and 3B
 3.00 - 5.30pm  
 Seminar Room 3A and 3B
 
-### Teachers-in-charge
+#### **Teachers-in-charge**
 
 **Ms Ng Siow Ying**  
 [ng.siow.ying@ejc.edu.sg](mailto:ng.siow.ying@ejc.edu.sg)
