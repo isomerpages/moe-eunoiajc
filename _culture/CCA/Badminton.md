@@ -4,7 +4,7 @@ permalink: /culture/cca/badminton/
 description: ""
 third_nav_title: CCA
 ---
-##### **CCA Schedule**
+#### **CCA Schedule**
 
 **Monday**  
 5.00 - 7.30pm  
@@ -14,7 +14,7 @@ Multi-Purpose Hall
 5.00 - 7.30pm  
 Multi-Purpose Hall
 
-##### **Teachers-in-charge**
+#### **Teachers-in-charge**
 
 **Mr Lee Wei Ming Allen**  
 [allen.lee@ejc.edu.sg](mailto:allen.lee@ejc.edu.sg)
