@@ -1,12 +1,12 @@
 ---
 title: Music
-permalink: /academic-subjects/Humanties-and-the-Arts/music/
+permalink: /subjects/music/
 description: ""
-third_nav_title: Humanties & the Arts
+third_nav_title: Humanties &amp; the Arts
 ---
 <center><h4><em>“Music expresses that which cannot be said and on<br>which it is impossible to be silent.”<br><b>Victor Hugo</b></em></h4></center>
 
-Whether in the melodies of Bach or the poignant strains of the _erhu_, the EJC Music student hears beauty. You will learn to interpret music at a higher level and develop a keen pulse for diverse musical styles and traditions. Through critical commentary, performance and composition, you are guaranteed a polyphony of musical experiences, tailored to your musical interests and strengths. Your musical voice will be honed and heard.
+Whether in the melodies of Bach or the poignant strains of the&nbsp;_erhu_, the EJC Music student hears beauty. You will learn to interpret music at a higher level and develop a keen pulse for diverse musical styles and traditions. Through critical commentary, performance and composition, you are guaranteed a polyphony of musical experiences, tailored to your musical interests and strengths. Your musical voice will be honed and heard.
 
 ### Our Curriculum
 

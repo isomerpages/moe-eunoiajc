@@ -3,37 +3,40 @@ collections:
     output: true
     order:
       - Student Culture.md
-      - Co Curricular Activities/.keep
-      - Co Curricular Activities/Co–Curricular Activities.md
-      - Co Curricular Activities/Badminton.md
-      - Co Curricular Activities/Basketball.md
-      - Co Curricular Activities/Floorball.md
-      - Co Curricular Activities/Ultimate Frisbee.md
-      - Co Curricular Activities/Hockey.md
-      - Co Curricular Activities/Netball.md
-      - Co Curricular Activities/Softball.md
-      - Co Curricular Activities/Squash.md
-      - Co Curricular Activities/Table Tennis.md
-      - Co Curricular Activities/Taekwondo.md
-      - Co Curricular Activities/Tennis.md
-      - Co Curricular Activities/Track and Field.md
-      - Co Curricular Activities/Volleyball.md
-      - Co Curricular Activities/Chinese Orchestra.md
-      - Co Curricular Activities/Choir.md
-      - Co Curricular Activities/Dance.md
-      - Co Curricular Activities/Drama.md
-      - Co Curricular Activities/Symphonic Band.md
-      - Co Curricular Activities/Computing & Robotics.md
-      - Co Curricular Activities/Debate.md
-      - Co Curricular Activities/Environment Club.md
-      - Co Curricular Activities/Library Club.md
-      - Co Curricular Activities/Media.md
-      - Co Curricular Activities/Mind Sports.md
-      - Co Curricular Activities/Outdoor Adventure club (ODAC).md
-      - Co Curricular Activities/Press.md
-      - Co Curricular Activities/Service Learning.md
-      - Co Curricular Activities/Visual Arts.md
-      - Co Curricular Activities/Student Council.md
+      - CCA/.keep
+      - CCA/CCAs.md
+      - CCA/Badminton.md
+      - CCA/Basketball.md
+      - CCA/Floorball.md
+      - CCA/Ultimate Frisbee.md
+      - CCA/Hockey.md
+      - CCA/Netball.md
+      - CCA/Softball.md
+      - CCA/Squash.md
+      - CCA/Table Tennis.md
+      - CCA/Taekwondo.md
+      - CCA/Tennis.md
+      - CCA/Track and Field.md
+      - CCA/Volleyball.md
+      - CCA/Chamber Strings.md
+      - CCA/Chinese Orchestra.md
+      - CCA/Choir.md
+      - CCA/Dance.md
+      - CCA/Drama.md
+      - CCA/Rock Band.md
+      - CCA/Street Dance.md
+      - CCA/Symphonic Band.md
+      - CCA/Computing & Robotics.md
+      - CCA/Debate.md
+      - CCA/Environment Club.md
+      - CCA/Library Club.md
+      - CCA/Media.md
+      - CCA/Mind Sports.md
+      - CCA/Outdoor Adventure Club (ODAC).md
+      - CCA/Press.md
+      - CCA/Service Learning.md
+      - CCA/Visual Arts.md
+      - CCA/Student Council.md
       - Student Council.md
       - House System/.keep
       - House System/House System.md

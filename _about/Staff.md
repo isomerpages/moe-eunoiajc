@@ -3,7 +3,7 @@ title: Staff
 permalink: /about/staff/
 description: ""
 ---
-### DEPARTMENTS
+#### **Departments**
 
 |  |  |  |
 | -------- | -------- | -------- |
@@ -13,10 +13,6 @@ description: ""
 | <a href="https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/cmc/"> <img style="width:100%" src="/images/CMC.jpg"> </a> | <a href="https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/ict-mrl/"> <img style="width:100%" src="/images/ICT%20MRL.jpg"> </a> | <a href="https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/eas/"> <img style="width:100%" src="/images/Staff/EAS.jpg"> </a> |
 | | |
 
-##### CIVICS TUTORS
+#### **Civics and Subject Tutors**
 
-Please visit our [Staff Directory](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff-directory/) page for a full list of teaching staff and their email addresses.
-
-##### SUBJECT TUTORS
-
-Please visit our [Staff Directory](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff-directory/) page for a full list of teaching staff and their email addresses.
+Visit our [Staff Directory](https://staging.d2ftoa31ukircm.amplifyapp.com/about/directory/) for a full list of teaching staff and their email addresses.

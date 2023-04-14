@@ -1,8 +1,8 @@
 ---
 title: Geography
-permalink: /academic-subjects/Humanties-and-the-Arts/geography/
+permalink: /subjects/geog/
 description: ""
-third_nav_title: Humanties & the Arts
+third_nav_title: Humanties &amp; the Arts
 ---
 <center><h4><em>“So many of the world’s current issues boil down to<br>geography, and need the geographers of the future<br>to help us understand them.”<br><b>Michael Palin</b></em></h4></center>
 
@@ -21,7 +21,7 @@ Seeing, hearing, questioning and expressing are essential to the study of Geogra
 [H1 Geography](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8834_y24_sy.pdf)
 
 
-[H2 Geography](https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/humanities/2023-h2-geography.ashx?la=en&hash=07B60FD69B25989817E29079E9173EC68AE764B9)
+[H2 Geography](https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/humanities/2023-h2-geography.ashx?la=en&amp;hash=07B60FD69B25989817E29079E9173EC68AE764B9)
 
 
 [H3 Geography] (link here)

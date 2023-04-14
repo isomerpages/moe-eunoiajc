@@ -1,8 +1,8 @@
 ---
 title: Economics
-permalink: /academic-subjects/Humanties-and-the-Arts/economics/
+permalink: /subjects/econs/
 description: ""
-third_nav_title: Humanties & the Arts
+third_nav_title: Humanties &amp; the Arts
 ---
 <center><h4><em>“Economics is everywhere, and understanding<br>economics can help you make better decisions."<br><b>Tyler Cowen</b></em></h4></center>
 

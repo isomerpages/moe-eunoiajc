@@ -1,8 +1,8 @@
 ---
 title: Art
-permalink: /academic-subjects/Humanties-and-the-Arts/art/
+permalink: /subjects/art/
 description: ""
-third_nav_title: Humanties & the Arts
+third_nav_title: Humanties &amp; the Arts
 ---
 <center><h4><em>“Art doesn’t change society. Art changes people.<br>People change the world.”<br><b>August Wilson</b></em></h4></center>
 
