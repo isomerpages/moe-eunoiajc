@@ -3,9 +3,9 @@ title: Direct School Admission
 permalink: /admissions/dsa/
 description: ""
 ---
-The Direct School Admission (DSA-JC) provides students with the opportunity to seek admission to a junior college (JC), based on a diverse range of academic and non-academic achievements and talents that they can demonstrate beyond the GCE O-Level examination. It is an annual exercise that takes place from May to August.
+The Direct School Admission (DSA-JC) provides students with the opportunity to seek admission to a junior college (JC), based on a diverse range of academic and non-academic achievements and talents that they can demonstrate beyond the GCE O-Level examination. It is an annual exercise that takes place from May to July.
 
-Details of the latest exercise will be published in our [News](https://www.eunoiajc.moe.edu.sg/news/) section from May to August.
+Details of the latest exercise will be published in our [News](https://www.eunoiajc.moe.edu.sg/news/) section from May to July.
 
 
 
