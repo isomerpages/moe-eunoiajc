@@ -11,7 +11,7 @@ third_nav_title: Co Curricular Activities
 C. O. Room
 
 **Friday**  
-4.00 - 7.00pm  
+4.30 - 7.30pm  
 C. O. Room
 
 ### Teachers-in-charge
