@@ -3,7 +3,7 @@ title: Identity
 permalink: /about/identity/
 description: ""
 ---
-### Our Name
+#### **Our Name**
 
 ![](/images/BeautifullThinking.png)
 
@@ -15,14 +15,18 @@ In&nbsp;_Nicomachean Ethics_, Aristotle refers to eunoia as the pursuit of the g
 
 In the words of Aristotle, we believe that ‘Educating the mind without educating the heart is no education at all.’
 
-### 诺雅的意思
+#### **诺雅的意思**
 
 **诺雅**指的是“君子大雅，有诺必行”。&nbsp;“诺”“雅”这两个字在中文里也个别有它们的意思。“**诺**” 表示 “承诺”，“雅” 指的是高尚，美好的意思。“**雅**” 也代表气质，如优雅的气质，跟 Eunoia 指 Beautiful thinking 的意思相似。&nbsp;因此，我们希望**诺雅初级学院**的学生能成为才学优异、品德高尚、正直守信的人。
 
-### Our Crest
+#### **Our Crest**
 
-<img src="/images/EJC-Crest%20(1).png" style="width:30%">
-		
+<br>
+
+<img src="/images/EJC-Crest%20(1).png" style="width:50%">
+
+<br>
+
 The college crest can be understood by three qualities, or simply A-B-C : All-round Development, Beautiful Thinking and Cultural Conversance.
 
 ###### All-Round Development
@@ -37,7 +41,7 @@ The design of the crest is inspired by the neural networks of the human brain, a
 
 The design represents the college’s name Eunoia, an English word, with an Asian theme. Eunoians are able to thrive in diverse cultural settings, while remaining rooted to their own culture.
 
-### Our Anthem
+#### **Our Anthem**
 
 ###### Verse
 
