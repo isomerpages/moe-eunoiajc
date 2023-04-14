@@ -5,21 +5,21 @@ description: ""
 ---
 #### **Four Stages of Learning**
 
-#### **Engage the Senses**
+##### **Engage the Senses**
 
 Learners recognise that paying close attention and being actively engaged in learning plays a big part in their initial stages of learning.&nbsp;#Attention #Encoding
 
 
-#### **Connect Information**
+##### **Connect Information**
 
 Learners connect newly-acquired information to existing knowledge in their brains. #WorkingMemory
 
 
-#### **Create Meaning**
+##### **Create Meaning**
 
 Learners cement their new learning by making this new information meaningful to themselves. #Elaboration #Organisation
 
-#### **Retrieve Knowledge**
+##### **Retrieve Knowledge**
 
 Learners retrieve and apply their knowledge quickly and accurately using retrieval techniques and cues. #Retrieve
 
