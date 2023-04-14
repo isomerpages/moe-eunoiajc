@@ -4,7 +4,7 @@ permalink: /culture/cca/debate/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-### CCA Schedule
+#### **CCA Schedule**
 
 **Wednesday**  
 4.00 - 7.00pm  
@@ -14,7 +14,7 @@ Seminar Room 4A and 4B
 3.30 - 6.30pm  
 Seminar Room 4A and 3B
 
-### Teachers-in-charge
+#### **Teachers-in-charge**
 
 **Ms Nadiah Razali**  
 [nadiah.razali@ejc.edu.sg](mailto:nadiah.razali@ejc.edu.sg)
