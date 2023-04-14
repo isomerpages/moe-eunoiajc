@@ -4,13 +4,13 @@ permalink: /culture/environment/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-### CCA Schedule
+#### **CCA Schedule**
 
 **Wednesday**  
 3.30 - 5.30 pm  
 TR6-08
 
-### Teachers-in-charge
+#### **Teachers-in-charge**
 
 **Mr Chan Ter Yue**  
 [chan.ter.yue@ejc.edu.sg](mailto:chan.ter.yue@ejc.edu.sg)
