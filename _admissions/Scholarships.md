@@ -43,7 +43,7 @@ To qualify for the Music Elective Scholarship, students must have been successfu
 Shortlisted candidates are required to submit a personal portfolio comprising either a videotaped performance or a composition portfolio, and attend a selection interview overseen by MOE.
 
 
-#### **MOE Engineering and Tech Scholarship**
+#### **MOE Engineering and Tech Programme Scholarship**
 
 This scholarship is awarded to Pre-University students who have strong foundations in mathematics and science, with an inclination towards applied, interdisciplinary and hands-on learning.
 
