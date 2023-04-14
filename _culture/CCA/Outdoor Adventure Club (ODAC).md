@@ -4,7 +4,7 @@ permalink: /culture/odac/
 description: ""
 third_nav_title: CCA
 ---
-### CCA Schedule
+#### **CCA Schedule**
 
 **Wednesday**  
 4.00 - 7.00pm  
@@ -14,7 +14,7 @@ ODAC Store / ODAC Field
 4.00 - 7.00pm  
 ODAC Store / ODAC Field
 
-### Teachers-in-charge
+#### **Teachers-in-charge**
 
 **Mr Ng Boon Hong**  
 [ng.boon.hong@ejc.edu.sg](mailto:ng.boon.hong@ejc.edu.sg)
