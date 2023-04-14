@@ -9,7 +9,7 @@ Details of the latest exercise will be published in our [News](https://www.eunoi
 
 
 
-### Eligibility
+#### Eligibility
 
 The DSA-JC exercise allows all Secondary 4 students with special talents and achievements to apply to Eunoia Junior College directly.
 
