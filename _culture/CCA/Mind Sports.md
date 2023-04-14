@@ -8,7 +8,7 @@ third_nav_title: CCA
 
 **Wednesday**  
 4.00 - 6.00pm  
-Seminar Room 5
+Seminar Room 5 / TR6-09
 
 #### **Teachers-in-charge**
 
