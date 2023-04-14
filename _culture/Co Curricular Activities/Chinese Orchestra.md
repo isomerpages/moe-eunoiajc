@@ -4,7 +4,7 @@ permalink: /culture/Co-Curricular-Activities/chinese-orchestra/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-### CCA Schedule
+#### **CCA Schedule**
 
 **Wednesday**  
 3.30 - 6.30pm  
@@ -14,7 +14,7 @@ C. O. Room
 4.30 - 7.30pm  
 C. O. Room
 
-### Teachers-in-charge
+#### **Teachers-in-charge**
 
 **Mr Enoch Tang**  
 [enoch.tang@ejc.edu.sg](mailto:enoch.tang@ejc.edu.sg)
