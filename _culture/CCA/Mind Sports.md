@@ -4,13 +4,13 @@ permalink: /culture/mindsports/
 description: ""
 third_nav_title: CCA
 ---
-### CCA Schedule
+#### **CCA Schedule**
 
 **Wednesday**  
 4.00 - 6.00pm  
 Seminar Room 5
 
-### Teachers-in-charge
+#### **Teachers-in-charge**
 
 **Ms Karol Ann Tan**  
 [karol.ann.tan@ejc.edu.sg](mailto:karol.ann.tan@ejc.edu.sg)
