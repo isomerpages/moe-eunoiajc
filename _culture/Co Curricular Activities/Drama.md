@@ -4,7 +4,7 @@ permalink: /culture/Co-Curricular-Activities/drama/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-### CCA Schedule
+#### **CCA Schedule**
 
 **Wednesday**  
 4.00 - 7.00pm  
@@ -14,7 +14,7 @@ Performing Arts Studio 1 / Auditorium
 4.00 - 7.00pm  
 Performing Arts Studio 1 / Auditorium
 
-### Teachers-in-charge
+#### **Teachers-in-charge**
 
 **Mr Crispin Rodrigues**  
 [crispin.rodrigues@ejc.edu.sg](mailto:crispin.rodrigues@ejc.edu.sg)
