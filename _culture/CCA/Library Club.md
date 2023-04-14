@@ -4,7 +4,7 @@ permalink: /culture/cca/library/
 description: ""
 third_nav_title: CCA
 ---
-### CCA Schedule
+#### **CCA Schedule**
 
 **Wednesday**  
 4.00 - 6.00pm  
@@ -14,7 +14,7 @@ Library
 3.00 - 5.30pm  
 Library
 
-### Teachers-in-charge
+#### **Teachers-in-charge**
 
 **Mr Singarayar Perrin**  
 [singarayar.perrin@ejc.edu.sg](mailto:singarayar.perrin@ejc.edu.sg)
