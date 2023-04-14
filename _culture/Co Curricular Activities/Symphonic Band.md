@@ -4,17 +4,17 @@ permalink: /culture/Co-Curricular-Activities/symphonic-band/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-### CCA Schedule
+#### **CCA Schedule**
 
 **Wednesday**  
-4.00 - 7.00pm  
+4.00 - 7.30pm  
 Band Room / LT1 / Auditorium
 
 **Thursday**  
-5.00 - 8.00pm  
+4.00 - 7.30pm  
 Band Room / LT1 / Auditorium
 
-### Teachers-in-charge
+#### **Teachers-in-charge**
 
 **Mrs Wee-Chen Jinqi**  
 [wee.chen.jinqi@ejc.edu.sg](mailto:wee.chen.jinqi@ejc.edu.sg)
