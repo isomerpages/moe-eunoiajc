@@ -3,9 +3,6 @@ collections:
     output: true
     order:
       - Student Culture.md
-      - Co Curricular Activities/Rock Band.md
-      - Co Curricular Activities/Chamber Strings.md
-      - Co Curricular Activities/Street Dance.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Co–Curricular Activities.md
       - Co Curricular Activities/Badminton.md
@@ -21,10 +18,13 @@ collections:
       - Co Curricular Activities/Tennis.md
       - Co Curricular Activities/Track and Field.md
       - Co Curricular Activities/Volleyball.md
+      - Co Curricular Activities/Chamber Strings.md
       - Co Curricular Activities/Chinese Orchestra.md
       - Co Curricular Activities/Choir.md
       - Co Curricular Activities/Dance.md
       - Co Curricular Activities/Drama.md
+      - Co Curricular Activities/Rock Band.md
+      - Co Curricular Activities/Street Dance.md
       - Co Curricular Activities/Symphonic Band.md
       - Co Curricular Activities/Computing & Robotics.md
       - Co Curricular Activities/Debate.md
