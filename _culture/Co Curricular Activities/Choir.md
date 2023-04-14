@@ -4,7 +4,7 @@ permalink: /culture/Co-Curricular-Activities/choir/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-### CCA Schedule
+#### **CCA Schedule**
 
 **Tuesday**  
 5.00 - 7.30pm  
@@ -14,7 +14,7 @@ MEP Studios / LT2 / LT3
 5.00 - 7.30pm  
 MEP Studios / LT2 / LT3
 
-### Teachers-in-charge
+#### **Teachers-in-charge**
 
 **Mr Gabriel Woon**  
 [gabriel.woon@ejc.edu.sg](mailto:gabriel.woon@ejc.edu.sg)
