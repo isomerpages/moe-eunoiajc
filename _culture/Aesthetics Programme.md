@@ -3,7 +3,8 @@ title: Aesthetics Programme
 permalink: /culture/aesthetics/
 description: ""
 ---
-<center><h4><em>“Creativity is a wild mind and a disciplined eye.”<br><b>Dorothy Parker</b></em></h4></center>
+<center><h4>“Creativity is a wild mind and a disciplined eye.”</h4>
+<b>Dorothy Parker</b></center>
 
 
 Beauty is everywhere. Those who see and create beauty can change the world. The college’s Aesthetics Programme fosters creative and critical thinking, and a learned appreciation of the visual and performing arts. Through performances, hands-on workshops and Makerspace activities, you will take a step towards being a connoisseur and creator.
