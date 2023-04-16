@@ -49,15 +49,15 @@ links:
         url: https://www.issuu.com/eunoiajc
       - title: Student Press
         url: https://eunoiapress.wordpress.com/
-      - title: Style Guide
-        url: /media/Style-Guide/style-guide/
-      - title: CC&P
-        url: https://drive.google.com/drive/folders/1XILVD3-6gGEHE5d9SWF-4VLMSV08L2Xy
-      - title: CSH
-        url: https://sites.google.com/ejc.edu.sg/cshineunoia/
-      - title: Library
-        url: /library
-      - title: Portal
-        url: https://portal.ejc.edu.sg/
       - title: Student Handbook
         url: https://sites.google.com/ejc.edu.sg/ejc-student-handbook/
+      - title: Style Guide
+        url: /media/Style-Guide/style-guide/
+      - title: EJC Portal
+        url: https://portal.ejc.edu.sg/
+      - title: EJC Library
+        url: /library
+      - title: EJC CC&P
+        url: https://drive.google.com/drive/folders/1XILVD3-6gGEHE5d9SWF-4VLMSV08L2Xy
+      - title: EJC CSH
+        url: https://sites.google.com/ejc.edu.sg/cshineunoia/
