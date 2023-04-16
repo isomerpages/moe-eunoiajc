@@ -2,6 +2,7 @@ collections:
   subjects:
     output: true
     order:
+      - Literature in English.md
       - History.md
       - Geography.md
       - Economics.md
