@@ -2,6 +2,7 @@ collections:
   subjects:
     output: true
     order:
+      - Chinese Language and Literature.md
       - China Studies in Chinese.md
       - Literature in English.md
       - History.md
