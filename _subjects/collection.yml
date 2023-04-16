@@ -2,6 +2,7 @@ collections:
   subjects:
     output: true
     order:
+      - Translation (Chinese).md
       - Malay Language and Literature.md
       - Tamil Language and Literature.md
       - Chinese Language and Literature.md
