@@ -2,24 +2,24 @@ collections:
   subjects:
     output: true
     order:
-      - Music.md
-      - Art.md
-      - Translation (Chinese).md
-      - Malay Language and Literature.md
-      - Tamil Language and Literature.md
-      - Chinese Language and Literature.md
-      - China Studies in Chinese.md
-      - Literature in English.md
-      - History.md
-      - Geography.md
-      - Economics.md
-      - Physics.md
-      - Further Mathematics.md
-      - Chemistry.md
-      - Biology.md
-      - Mathematics.md
-      - Mother Tongue Languages.md
-      - Foreign Languages.md
+      - General Paper.md
       - Knowledge and Inquiry.md
       - Project Work.md
-      - General Paper.md
+      - Mother Tongue Languages.md
+      - Biology.md
+      - Chemistry.md
+      - Physics.md
+      - Mathematics.md
+      - Further Mathematics.md
+      - Economics.md
+      - History.md
+      - Geography.md
+      - Literature in English.md
+      - China Studies in Chinese.md
+      - Chinese Language and Literature.md
+      - Malay Language and Literature.md
+      - Tamil Language and Literature.md
+      - Translation (Chinese).md
+      - Foreign Languages.md
+      - Art.md
+      - Music.md
