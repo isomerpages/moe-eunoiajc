@@ -25,5 +25,5 @@ Multi-Purpose Hall
 **Mr Tan Zhen Yong Keith**  
 [tan.zhen.yong@ejc.edu.sg](mailto:tan.zhen.yong@ejc.edu.sg)
 
-**Mr Chan Xin Yu**   
+**Ms Chan Xin Yu**   
 [chan.xin.yu@ejc.edu.sg](mailto:chan.xin.yu@ejc.edu.sg)

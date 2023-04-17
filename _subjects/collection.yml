@@ -2,25 +2,24 @@ collections:
   subjects:
     output: true
     order:
-      - Physics.md
-      - Further Mathematics.md
-      - Chemistry.md
-      - Biology.md
-      - Mathematics.md
-      - Mother Tongue Languages.md
-      - Foreign Languages.md
+      - General Paper.md
       - Knowledge and Inquiry.md
       - Project Work.md
-      - General Paper.md
-      - Humanties & the Arts/.keep
-      - Humanties & the Arts/Economics.md
-      - Humanties & the Arts/Geography.md
-      - Humanties & the Arts/History.md
-      - Humanties & the Arts/Literature in English.md
-      - Humanties & the Arts/China Studies in Chinese.md
-      - Humanties & the Arts/Chinese Language and Literature.md
-      - Humanties & the Arts/Malay Language and Literature.md
-      - Humanties & the Arts/Tamil Language and Literature.md
-      - Humanties & the Arts/Translation (Chinese).md
-      - Humanties & the Arts/Art.md
-      - Humanties & the Arts/Music.md
+      - Mother Tongue Languages.md
+      - Biology.md
+      - Chemistry.md
+      - Physics.md
+      - Mathematics.md
+      - Further Mathematics.md
+      - Economics.md
+      - History.md
+      - Geography.md
+      - Literature in English.md
+      - China Studies in Chinese.md
+      - Chinese Language and Literature.md
+      - Malay Language and Literature.md
+      - Tamil Language and Literature.md
+      - Translation (Chinese).md
+      - Foreign Languages.md
+      - Art.md
+      - Music.md

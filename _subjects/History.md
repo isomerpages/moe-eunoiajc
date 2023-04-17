@@ -2,7 +2,6 @@
 title: History
 permalink: /subjects/his/
 description: ""
-third_nav_title: Humanties &amp; the Arts
 ---
 <center><h4><em>“To communicate the truths of history is an act of<br>hope for the future.”<br><b>Daisaku Ikeda</b></em></h4></center>
 

@@ -2,7 +2,6 @@
 title: Music
 permalink: /subjects/music/
 description: ""
-third_nav_title: Humanties &amp; the Arts
 ---
 <center><h4><em>“Music expresses that which cannot be said and on<br>which it is impossible to be silent.”<br><b>Victor Hugo</b></em></h4></center>
 

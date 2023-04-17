@@ -2,7 +2,6 @@
 title: Translation (Chinese)
 permalink: /subjects/translation/
 description: ""
-third_nav_title: Humanties &amp; the Arts
 ---
 <center><h4><em>“Translation is not a matter of words only: it is a<br>matter of making intelligible a whole culture.”<br><b>Anthony Burgess</b></em></h4></center>
 

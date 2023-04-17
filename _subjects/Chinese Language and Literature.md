@@ -2,7 +2,6 @@
 title: Chinese Language and Literature
 permalink: /subjects/cll/
 description: ""
-third_nav_title: Humanties &amp; the Arts
 ---
 <center><h4><em>“My works are Chinese Literature, which is part of<br>world literature. They show the life of Chinese<br>people as well as the country’s unique<br>culture and folk customs."<br><b>Mo Yan</b></em></h4></center>
 
