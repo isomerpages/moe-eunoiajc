@@ -74,7 +74,7 @@ Our voices soar!
 
  
 
-[Click for musical score](/files/Eunoia-Anthem-Score.pdf)
+[**Musical score**](/files/Eunoia-Anthem-Score.pdf)
 
 <br>
 
