@@ -16,4 +16,4 @@ description: ""
 
 #### **Civics and Subject Tutors**
 
-Visit our [Staff Directory](https://staging.d2ftoa31ukircm.amplifyapp.com/about/directory/) for a full list of teaching staff and their email addresses.
+Visit our [**Staff Directory**](https://staging.d2ftoa31ukircm.amplifyapp.com/about/directory/) for a full list of teaching staff and  email addresses.
