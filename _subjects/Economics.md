@@ -19,5 +19,4 @@ We believe that students thrive when there is authenticity and relevance in lear
 
 [H1 Economics](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8843_y24_sy.pdf)
 
-
 [H2 Economics](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9570_y24_sy.pdf)
