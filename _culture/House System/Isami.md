@@ -10,22 +10,13 @@ Welcome to the pack! In Isami, we value unity and camaraderie. Our greatest asse
 
 Isami in Japanese is written as “勇” which means courage. Beyond bravery and valour, it is our hope that Isamigos will be individuals with moral courage to stand up for what is good, right and true, and to pursue the good of those around us. We are not just casual&nbsp;_amigos_, we are brothers and sisters who resolve to bring out the best in each other, even when it can be costly or unpopular.
 
-We are confident that your time with us in Isami will be a meaningful one of personal growth, and that you will find great&nbsp;_amigos_&nbsp;here who will journey with you through the triumphs and challenges of JC.&nbsp;Let’s forge loyal friendships, end the year courageously and remember - the pack's always got your back!&nbsp;
+We are confident that your time with us in Isami will be a meaningful one of personal growth, and that you will find great&nbsp;_amigos_&nbsp;here who will journey with you through the triumphs and challenges of JC.&nbsp;Let’s forge loyal friendships, end the year courageously and remember - the pack's always got your back!
 
-Your House Master and Mistress  
+**Your House Masters**<br>
 Mr Darren Chong and Ms Elizabeth Chin
 
-### Identity
+#### **Identity**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-gqad{font-size:16px;text-align:center;vertical-align:middle}
-</style>
 <table class="tg" style="undefined;table-layout: fixed; width: 824px">
 <colgroup>
 <col style="width: 395px">
@@ -42,10 +33,8 @@ Mr Darren Chong and Ms Elizabeth Chin
 <br>
 
 
-![](/images/Isami-2019-Commitee.jpeg)
 
-
-### Committee
+#### **Committee**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -69,7 +58,7 @@ Mr Darren Chong and Ms Elizabeth Chin
 </table>
 
 
-### History
+#### **History**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
