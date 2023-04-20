@@ -12,7 +12,7 @@ Within your wings there is limitless potential to soar to untold heights. After 
 Mr Daniel Kwan and Mr Justin Lim
 
 
-### Identity
+#### **Identity**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -38,10 +38,9 @@ Mr Daniel Kwan and Mr Justin Lim
 
 <br>
 
-![](/images/Akila-2019-Commitee.jpeg)
 
 
-### Committee
+#### **Committee**
 
 <table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
@@ -56,7 +55,7 @@ Mr Daniel Kwan and Mr Justin Lim
 </tbody>
 </table>
 
-### History
+#### **History**
 
 <table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
