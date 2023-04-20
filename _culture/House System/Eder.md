@@ -15,7 +15,7 @@ The time is now. Eder, charge!
 **Your House Masters**  
 Mr Kelvin Teo and Ms Clarice Chan
 
-### Identity
+#### **Identity**
 
 <table class="tg" style="undefined;table-layout: fixed; width: 824px">
 <colgroup>
@@ -31,7 +31,7 @@ Mr Kelvin Teo and Ms Clarice Chan
 </table>
 
 
-### Committee
+#### **Committee**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -54,7 +54,7 @@ Mr Kelvin Teo and Ms Clarice Chan
 </tbody>
 </table>
 
-### History
+#### **History**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
