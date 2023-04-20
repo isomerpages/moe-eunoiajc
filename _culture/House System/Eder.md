@@ -31,8 +31,6 @@ Mr Kelvin Teo and Ms Clarice Chan
 </table>
 
 
-![](/images/Eder-2019-Commitee.jpeg)
-
 ### Committee
 
 <style type="text/css">
@@ -80,7 +78,6 @@ Mr Kelvin Teo and Ms Clarice Chan
 </table>
 
 <br>
-
 
 <table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
