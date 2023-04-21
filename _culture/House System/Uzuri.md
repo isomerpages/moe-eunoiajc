@@ -14,11 +14,11 @@ Finally, always remember that at the end of the day, no matter how harrowing the
 
 We don’t just play like winners, but we are a family. Uzuri, A Home of Winners where everyone matters.
 
-Your House Masters  
+**Your House Masters**  
 Mr Azhar Amin and Mr Alex Teo
 
 
-### Identity
+#### **Identity**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -45,9 +45,8 @@ Mr Azhar Amin and Mr Alex Teo
 
 
 
-![](/images/Uzuri-2019-Commitee.jpeg)
 
-### Committee
+#### **Committee**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -71,7 +70,7 @@ Mr Azhar Amin and Mr Alex Teo
 </table>
 
 
-### History
+#### **History**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -116,15 +115,15 @@ Mr Azhar Amin and Mr Alex Teo
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href="/culture/House-System/akila/" target="_self"> 
+    <td class="tg-0lax"><a href="/culture/house/akila/" target="_self"> 
           <img src="/images/Houses-Akila-Crest.png" style="width:100%"></a></td>
-    <td class="tg-0lax"><a href="/culture/House-System/eder/" target="_self"> 
+    <td class="tg-0lax"><a href="/culture/house/eder/" target="_self"> 
           <img src="/images/Houses-Eder-Crest.png" style="width:100%"></a></td>
-    <td class="tg-0lax"><a href="/culture/House-System/isami/" target="_self"> 
+    <td class="tg-0lax"><a href="/culture/house/isami/" target="_self"> 
           <img src="/images/Houses-Isami-Crest.png" style="width:100%"></a></td>
-    <td class="tg-0lax"><a href="/culture/House-System/ora/" target="_self"> 
+    <td class="tg-0lax"><a href="/culture/house/ora/" target="_self"> 
           <img src="/images/Houses-Ora-Crest.png" style="width:100%"></a></td>
-    <td class="tg-0lax"><a href="/culture/House-System/uzuri/" target="_self"> 
+    <td class="tg-0lax"><a href="/culture/house/uzuri/" target="_self"> 
           <img src="/images/Houses-Uzuri-Crest.png" style="width:100%"></a></td>
   </tr>
 </tbody>
