@@ -12,7 +12,7 @@ The five houses of Eunoia take after the college's name. Akila, Eder, Isami, Ora
 
 #### **House Identities**
 
-The houses uphold&nbsp;their own distinct&nbsp;identity, including house colours, emblems, flags, mascots and cheers. The pioneer cohort of Orientation Group Leaders conceptualised the identities of the five houses. The house crests were designed by Kay Yeung (17-I2).
+The houses uphold their own distinct identity, including house colours, emblems, flags, mascots and cheers. The pioneer cohort of Orientation Group Leaders conceptualised the identities of the five houses. The house crests were designed by Kay Yeung (17-I2).
 
 <table class="tg" style="undefined;table-layout: fixed; width: 520px">
 <colgroup>
@@ -67,5 +67,7 @@ The network of relationships within each house is developed through long acquain
 Not only are there house events such as House Parties, House Assemblies and House Camps, which nurture friendships and a sense of belonging, there are also inter-house events such as the Road Run, the Inter-House Games and the Spartan Race, which inspire loyalty and a sense of being part of something greater than oneself.
 
 The college's Civics Groups are also named after their respective Houses, with each house comprising students from an even spread of subject combinations.
+
+<br>
 
 ![](/images/House-Mural-Colour.jpeg)
