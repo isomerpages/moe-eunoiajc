@@ -4,6 +4,8 @@ permalink: /culture/house/uzuri/
 description: ""
 third_nav_title: House System
 ---
+![](/images/Houses-Uzuri-Crest.png)
+
 **Dearest Cubs**
 
 Welcome to our family! You may hail from different places and names, but you are now part of the winning Uzuri family. In this house, we believe that everyone matters and that every Cub is a winner. Regardless of your background, there is a place for all Cubs. In our eyes, you are a winner in your own right as long as you win graciously and respectfully.
@@ -37,14 +39,13 @@ Mr Azhar Amin and Mr Alex Teo
 <tbody>
   <tr>
     <td class="tg-cbs6"><span style="font-weight:bold;font-style:normal">HOUSE EMBLEM</span><br><span style="font-weight:400;font-style:normal">The bear is a symbol of wisdom, strength and courage. </span><br><br><span style="font-weight:bold">HOUSE CHEER</span><br><span style="font-weight:400;font-style:normal">U-ZU-RI SA SA SA (X2)</span><br><span style="font-weight:400;font-style:normal">You ready?</span><br><span style="font-weight:400;font-style:normal">For what? (x2)</span><br><span style="font-weight:400;font-style:normal">To show them how we roll (x2)</span><br><span style="font-weight:400;font-style:normal">To show them how we rock and roll</span><br><span style="font-weight:400;font-style:normal">U-ZU-RI U-U-ZU-RI AH WOO (x2)</span><br><span style="font-weight:400;font-style:normal">We are ziesty! Like what?</span><br><span style="font-weight:400;font-style:normal">We are fiesty! Like what?</span><br><span style="font-weight:400;font-style:normal">Ziesty UZUs Ay Ay</span><br><span style="font-weight:400;font-style:normal">Fiesty UZUs Ay Ay</span><br><span style="font-weight:400;font-style:normal">U-ZU-RI U-U-ZURI AH WOO (x2)</span><br><span style="font-weight:400;font-style:normal">GOOO UZURI!</span></td>
-    <td class="tg-gqad"><img src="/images/Houses-Uzuri-Crest.png" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
 
+<br>
 
-
-
+![](/images/uzuri2022.jpg)
 
 #### **Committee**
 
