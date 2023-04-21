@@ -4,6 +4,8 @@ permalink: /culture/house/eder/
 description: ""
 third_nav_title: House System
 ---
+![](/images/Houses-Eder-Crest.png)
+
 **Greetings and salutations, Knights of Eder!**
 
 You are a special breed, called to the ranks of the mighty stallions. As you begin this conquest, know that you will undergo great difficulties. Your endurance through these fiery trials will forge our values of chivalry, nobility, tenacity and courage.
@@ -25,7 +27,6 @@ Mr Kelvin Teo and Ms Clarice Chan
 <tbody>
   <tr>
     <td class="tg-x5q1"><span style="font-weight:bold;font-style:normal">HOUSE EMBLEM</span><br><span style="font-weight:400;font-style:normal">The stallion is a symbol of freedom, power and endurance.</span><br><span style="font-weight:400;font-style:normal"> </span><br><span style="font-weight:bold;font-style:normal">HOUSE CHEER</span><br><span style="font-weight:400;font-style:normal">Who are who are who are we</span><br><span style="font-weight:400;font-style:normal">We are we are we are who</span><br><span style="font-weight:400;font-style:normal">We are the Eder</span><br><span style="font-weight:400;font-style:normal">Mighty mighty Eder</span><br><span style="font-weight:400;font-style:normal">Strong and so awesome</span><br><span style="font-weight:400;font-style:normal">We are so hip</span><br><span style="font-weight:400;font-style:normal">We think your house is full of</span><br><span style="font-weight:400;font-style:normal">Shift to the left and shift to the right</span><br><span style="font-weight:400;font-style:normal">Eder, Eder, fight fight fight!</span><br><span style="font-weight:400;font-style:normal">Step to the left and step to the right</span><br><span style="font-weight:400;font-style:normal">Eder’s coming through so move aside</span><br><span style="font-weight:400;font-style:normal">BOOMSHAKALAKA!</span><br><span style="font-weight:400;font-style:normal">Eder out!</span></td>
-    <td class="tg-gqad"><img src="/images/Houses-Eder-Crest.png" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
