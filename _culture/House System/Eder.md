@@ -31,6 +31,9 @@ Mr Kelvin Teo and Ms Clarice Chan
 </tbody>
 </table>
 
+<br>
+
+![](/images/eder2022.jpg)
 
 #### **Committee**
 
