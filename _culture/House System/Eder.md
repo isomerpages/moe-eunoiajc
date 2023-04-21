@@ -12,20 +12,11 @@ Now, young Eder knights, the destiny of our House lies in your hands. Will you s
 
 The time is now. Eder, charge!  
 
-Your House Master and Mistress  
+**Your House Masters**  
 Mr Kelvin Teo and Ms Clarice Chan
 
-### Identity
+#### **Identity**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-gqad{font-size:16px;text-align:center;vertical-align:middle}
-</style>
 <table class="tg" style="undefined;table-layout: fixed; width: 824px">
 <colgroup>
 <col style="width: 395px">
@@ -40,9 +31,7 @@ Mr Kelvin Teo and Ms Clarice Chan
 </table>
 
 
-![](/images/Eder-2019-Commitee.jpeg)
-
-### Committee
+#### **Committee**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -65,7 +54,7 @@ Mr Kelvin Teo and Ms Clarice Chan
 </tbody>
 </table>
 
-### History
+#### **History**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -90,15 +79,6 @@ Mr Kelvin Teo and Ms Clarice Chan
 
 <br>
 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
 <col style="width: 160px">
@@ -109,15 +89,15 @@ Mr Kelvin Teo and Ms Clarice Chan
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href="/culture/House-System/akila/" target="_self"> 
+    <td class="tg-0lax"><a href="/culture/house/akila/" target="_self"> 
           <img src="/images/Houses-Akila-Crest.png" style="width:100%"></a></td>
-    <td class="tg-0lax"><a href="/culture/House-System/eder/" target="_self"> 
+    <td class="tg-0lax"><a href="/culture/house/eder/" target="_self"> 
           <img src="/images/Houses-Eder-Crest.png" style="width:100%"></a></td>
-    <td class="tg-0lax"><a href="/culture/House-System/isami/" target="_self"> 
+    <td class="tg-0lax"><a href="/culture/house/isami/" target="_self"> 
           <img src="/images/Houses-Isami-Crest.png" style="width:100%"></a></td>
-    <td class="tg-0lax"><a href="/culture/House-System/ora/" target="_self"> 
+    <td class="tg-0lax"><a href="/culture/house/ora/" target="_self"> 
           <img src="/images/Houses-Ora-Crest.png" style="width:100%"></a></td>
-    <td class="tg-0lax"><a href="/culture/House-System/uzuri/" target="_self"> 
+    <td class="tg-0lax"><a href="/culture/house/uzuri/" target="_self"> 
           <img src="/images/Houses-Uzuri-Crest.png" style="width:100%"></a></td>
   </tr>
 </tbody>

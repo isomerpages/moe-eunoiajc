@@ -8,11 +8,11 @@ third_nav_title: House System
 
 Within your wings there is limitless potential to soar to untold heights. After all, we are the only creatures here blessed with the gift of flight. We can surmount any obstacle, we can transcend any frontier, we can rise above any mountain. This power we have always used for good: our sharp sight to watch for trouble in the lands below us, our lofty position to guide and rule with wisdom and kindness. It is our wish that you carry on this legacy as the most gifted and able from your land. Despite our diversity, we hope that you will unite, using our strengths to protect our aerie and making sure that no eagle is left behind. Together we conquer the skies!
 
-Your House Masters  
+**Your House Masters**  
 Mr Daniel Kwan and Mr Justin Lim
 
 
-### Identity
+#### **Identity**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -38,19 +38,10 @@ Mr Daniel Kwan and Mr Justin Lim
 
 <br>
 
-![](/images/Akila-2019-Commitee.jpeg)
 
 
-### Committee
+#### **Committee**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
-</style>
 <table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
 <col style="width: 400px">
@@ -64,16 +55,8 @@ Mr Daniel Kwan and Mr Justin Lim
 </tbody>
 </table>
 
-### History
+#### **History**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
-</style>
 <table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
 <col style="width: 400px">
@@ -82,7 +65,7 @@ Mr Daniel Kwan and Mr Justin Lim
 <tbody>
   <tr>
     <td class="tg-x5q1"><span style="font-weight:bold;font-style:normal">PAST HOUSE CAPTAINS</span><br><span style="font-weight:400;font-style:normal">Lee Ying Long Xavier (17-A4)</span><br><span style="font-weight:400;font-style:normal">Yeo Shin Loong (18-A1)</span><br><span style="font-weight:400;font-style:normal">Yeo Yu Chen (19-A3)</span><br><span style="font-weight:400;font-style:normal">Lim Tian Le (20-A2)</span><br><span style="font-weight:400;font-style:normal">Chia Shao Jun (21-A5)</span><br><span style="font-weight:400;font-style:normal"> </span><br><span style="font-weight:bold;font-style:normal">PAST HOUSE VICE-CAPTAINS</span><br><span style="font-weight:400;font-style:normal">Dean Tay (17-A3)</span><br><span style="font-weight:400;font-style:normal">Ko Hui Ning (17-A4)</span><br><span style="font-weight:400;font-style:normal">Cara Sun (18-A3)</span><br><span style="font-weight:400;font-style:normal">Eugene Lian (18-A4)</span><br><span style="font-weight:400;font-style:normal">Nicole Liew (19-A3)</span><br><span style="font-weight:400;font-style:normal">Janelle Tang (19-A6)</span><br><span style="font-weight:400;font-style:normal">Li Siqi (20-A6)</span><br><span style="font-weight:400;font-style:normal">Ng Yu Min (20-A4)</span><br><span style="font-weight:400;font-style:normal">Shanice Yeo Kai Ting (21-A1)</span><br><span style="font-weight:400;font-style:normal">Avril Lim Si-Ying (21-A1)</span><br><br></td>
-    <td class="tg-x5q1"><span style="font-weight:bold">PAST HOUSE MASTERS AND MISTRESSES</span><br>Ms Bernice Yeo<br>Ms Wendy Lau<br></td>
+    <td class="tg-x5q1"><span style="font-weight:bold">PAST HOUSE MASTERS AND MISTRESSES</span><br><span style="font-weight:400;font-style:normal">Ms Bernice Yeo<br>Ms Wendy Lau</span></td>
   </tr>
 </tbody>
 </table>
@@ -90,14 +73,6 @@ Mr Daniel Kwan and Mr Justin Lim
 
 <br>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
 <col style="width: 160px">
@@ -108,15 +83,15 @@ Mr Daniel Kwan and Mr Justin Lim
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href="/culture/House-System/akila/" target="_self"> 
+    <td class="tg-0lax"><a href="/culture/house/akila/" target="_self"> 
           <img src="/images/Houses-Akila-Crest.png" style="width:100%"></a></td>
-    <td class="tg-0lax"><a href="/culture/House-System/eder/" target="_self"> 
+    <td class="tg-0lax"><a href="/culture/house/eder/" target="_self"> 
           <img src="/images/Houses-Eder-Crest.png" style="width:100%"></a></td>
-    <td class="tg-0lax"><a href="/culture/House-System/isami/" target="_self"> 
+    <td class="tg-0lax"><a href="/culture/house/isami/" target="_self"> 
           <img src="/images/Houses-Isami-Crest.png" style="width:100%"></a></td>
-    <td class="tg-0lax"><a href="/culture/House-System/ora/" target="_self"> 
+    <td class="tg-0lax"><a href="/culture/house/ora/" target="_self"> 
           <img src="/images/Houses-Ora-Crest.png" style="width:100%"></a></td>
-    <td class="tg-0lax"><a href="/culture/House-System/uzuri/" target="_self"> 
+    <td class="tg-0lax"><a href="/culture/house/uzuri/" target="_self"> 
           <img src="/images/Houses-Uzuri-Crest.png" style="width:100%"></a></td>
   </tr>
 </tbody>

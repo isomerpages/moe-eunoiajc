@@ -32,9 +32,9 @@ sections:
   - infopic:
       title: Admissions
       subtitle: Youth with Purpose
-      description: For information regarding DSA, JAE, JIP, and scholarships;
-        additional information for returning students, international students
-        and financial assistance.
+      description: For information regarding DSA, JAE, JIP, scholarships, admissions
+        for returning Singaporeans and international students, and financial
+        assistance.
       button: FIND OUT MORE
       url: /admissions/
       image: /images/Features/2022-ASTARDSTA-Scholars_for-web-1.jpg
@@ -43,8 +43,8 @@ sections:
       title: Curriculum
       subtitle: Thinker with Heart
       description: Our teaching and learning philosophy, academic subjects and
-        combinations offered; flagship and student development programmes found
-        at EJC.
+        combinations, flagship and student development programmes offered here
+        in EJC.
       button: READ MORE
       url: /curriculum
       image: /images/34001265298_9349e7e915_k.jpg

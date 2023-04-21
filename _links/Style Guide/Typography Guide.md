@@ -1,6 +1,6 @@
 ---
 title: Typography Guide
-permalink: /media/Style-Guide/typgraphy-guide/
+permalink: /typography/
 description: ""
 third_nav_title: Style Guide
 ---
@@ -36,4 +36,3 @@ Typography is a vital form of expression within the college. FF Mark and Avenir 
 To showcase the diversity and personality of the community, an eclectic range of font families is used. These complement the college typefaces, while also visually distinguishing the college's programmes, student groups and staff departments.
 
 ![](/images/Subjects.png)
-

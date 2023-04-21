@@ -3,23 +3,21 @@ title: Vision
 permalink: /about/vmv/
 description: ""
 ---
+#### **Vision**
 
-
-### Vision
-
-**Every Eunoian a** <br>
+**Every Eunoian a**<br>
 Youth with Purpose <br>
 Thinker with Heart <br>
 Leader with Courage
 
-### Mission
+#### **Mission**
 
 We <br>
-**Enable** students to learn continuously, <Br>
-**Empower** students to seek all-round excellence, and <br>
-**Embolden** students to pursue their purpose.
+**Enable**&nbsp;students to learn continuously, <br>
+**Empower**&nbsp;students to seek all-round excellence, and <br>
+**Embolden**&nbsp;students to pursue their purpose.
 
-### Values
+#### **Values**
 
 We live with integrity; <br>
 truthful to self and to others.
@@ -33,7 +31,7 @@ courage brings us forward.
 We serve selflessly; <br>
 our joy is in giving.
 
-### Student Outcomes
+#### **Student Outcomes**
 
 Eunoians are critical and inventive thinkers <br>
 who have strong moral and intellectual integrity. <br>

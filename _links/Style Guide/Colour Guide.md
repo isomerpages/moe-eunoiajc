@@ -1,12 +1,12 @@
 ---
 title: Colour Guide
-permalink: /media/Style-Guide/colour-guide/
+permalink: /colour/
 description: ""
 third_nav_title: Style Guide
 ---
 ### College Colours
 
-Eunoia Blue, Eunoia Gold and white are our college colours, for use on official printed collaterals and digital communications. They identify the college, presenting the Eunoia identity as bold and inspiring.
+Eunoia&nbsp;Blue, Eunoia Gold&nbsp;and white are our&nbsp;college colours, for use on official&nbsp;printed collaterals and digital communications. They identify the college, presenting the Eunoia identity as bold and inspiring.
 
 
 <style type="text/css">
@@ -25,8 +25,7 @@ Eunoia Blue, Eunoia Gold and white are our college colours, for use on offici
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-cly1"><img src="/images/Colours-Eunoia.png" 
-     style="width:80%"></td>
+    <td class="tg-cly1"><img src="/images/Colours-Eunoia.png" style="width:80%"></td>
     <td class="tg-cqfb"><span style="font-weight:bold;color:#00205B">EUNOIA BLUE</span><br><span style="font-weight:400;font-style:normal;color:#343434">Pantone 281C</span><br><span style="font-weight:400;font-style:normal;color:#343434">R 0 G 32 B 91</span><br><span style="font-weight:400;font-style:normal;color:#343434">C 100 M 85 Y 5 K 36</span><br><span style="font-weight:400;font-style:normal;color:#343434">Hex #00205b</span><span style="font-weight:400;font-style:normal"> </span><br><br><span style="font-weight:bold;color:#FFC72C">EUNOIA GOLD</span><br><span style="font-weight:400;font-style:normal">Pantone 123C</span><br><span style="font-weight:400;font-style:normal">R 255 G 199 B 44</span><br><span style="font-weight:400;font-style:normal">C 1 M 0 Y 89 K 18</span><br><span style="font-weight:400;font-style:normal">Hex #ffc72c</span></td>
   </tr>
 </tbody>
@@ -36,10 +35,9 @@ Black and grey are also used in the primary palette. Pantone Coated Black 6C and
 
 ### Colour Palette
 
-Our expanded colour palette includes lighter and darker shades of the college colours, the colours of our five Houses, and the colours of our Joint Integrated Programme partner schools. This diverse palette gives us a personality that is bright, invigorating and impactful. It is used in publicity collaterals, digital communications, student collaterals and spatial graphics.
+Our expanded colour palette includes lighter and darker shades&nbsp;of the college colours, the colours of our&nbsp;five Houses, and the colours of our&nbsp;Joint Integrated Programme partner schools.&nbsp;This diverse palette gives us a personality that is bright, invigorating&nbsp;and impactful. It is used in publicity collaterals, digital communications, student collaterals and spatial graphics.
 
-<img src="/images/ColourPalette-1.png" 
-     style="width:85%">
+<img src="/images/ColourPalette-1.png" style="width:85%">
 
 
 <style type="text/css">
@@ -73,8 +71,7 @@ Our expanded colour palette includes lighter and darker shades of the college c
 
 <br>
 
-<img src="/images/ColourPalette-2.png" 
-     style="width:100%">
+<img src="/images/ColourPalette-2.png" style="width:100%">
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}

@@ -13,15 +13,14 @@ Millions saw the apple fall but Newton asked why. We believe that curiosity is m
 
 ##### **Inspire**
 
-We want our students to inspire and be inspired. An inspired person finds it easy to accomplish the difficult; an uninspired person finds it difficult to even accomplish easy tasks. Our flagship [Talent Development Programme (GLIDE)](/flagship-programmes/tdp/), supported by our [Bicultural Studies Programme (Chinese)](/special-programmes/bsp/), [Humanities Scholarship and Programme](/special-programmes/hsp/), 
-[Music Elective Programme](/special-programmes/mep/), [Programme ALTITUDE](/special-programmes/altitude/)  
-[LATITUDE](/special-programmes/latitude/) and
-[MAGNITUDE](/special-programmes/magnitude/), and the [STEM Research Programme](/special-programmes/stem/), are platforms to inspire students to pursue their dreams, and opportunities for them to be an inspiration to others in their pursuit of excellence. 
+We want our students to inspire and be inspired. An inspired person finds it easy to accomplish the difficult; an uninspired person finds it difficult to even accomplish easy tasks. 
+
+Our flagship [Talent Development Programme (GLIDE)](/flagship-programmes/tdp/), supported by our [Bicultural Studies Programme (Chinese)](/special-programmes/bsp/), [Humanities Scholarship and Programme](/special-programmes/hsp/), [Music Elective Programme](/special-programmes/mep/), [Programme ALTITUDE](/special-programmes/altitude/), [LATITUDE](/special-programmes/latitude/) and [MAGNITUDE](/special-programmes/magnitude/), and the [STEM Research Programme](/special-programmes/stem/), are platforms to inspire students to pursue their dreams, and opportunities for them to be an inspiration to others in their pursuit of excellence. 
 
 
 ##### **Introspect**
 
-Our experiences are only as good as the lessons we draw from them through quality introspection. Studies have shown that successful people have high intrapersonal intelligence. High intrapersonal intelligence enables one to discover one’s values, beliefs and passion. It also allows one to draw the most valuable lessons from one’s experiences. We cultivate intrapersonal intelligence in our students through meaningful introspection and by cultivating their personal voice. Our  [Life Coaching Programme](/flagship-programmes/lcp/), [Leadership Academy](/student-development/leadership/), [Character & Citizenship Education](/student-development/cce/) and [Co-Curricular Activities](/culture/cca/) are designed to encourage and impart the important skill of introspection.
+Our experiences are only as good as the lessons we draw from them through quality introspection. Studies have shown that successful people have high intrapersonal intelligence. High intrapersonal intelligence enables one to discover one’s values, beliefs and passion. It also allows one to draw the most valuable lessons from one’s experiences. We cultivate intrapersonal intelligence in our students through meaningful introspection and by cultivating their personal voice. Our [Life Coaching Programme](/flagship-programmes/lcp/), [Leadership Academy](/student-development/leadership/), [Character & Citizenship Education](/student-development/cce/) and [Co-Curricular Activities](/culture/cca/) are designed to encourage and impart the important skill of introspection.
 
 
 ##### **Invigorate**
