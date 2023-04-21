@@ -10,7 +10,7 @@ Typography establishes the Eunoia identity with immediacy and consistency, expre
 
 College-appointed vendors and students should approach their Eunoia Junior College staff liaison for the fonts, where required.
 
-### Headline
+#### **Headline**
 
 FF Mark is present throughout the college's design system, including the college wordmark, printed collaterals and spatial graphics. Strong yet simple, modern yet true to geometric tradition, this FontFont typeface is a distinct element of our visual identity.
 
@@ -18,7 +18,7 @@ The college uses FF Mark for headlines, headers and captions in title case and u
 
 ![](/images/FFMark-Demo.png)
 
-### Body
+#### **Body**
 
 Avenir is commonly used in all college communications, printed or digital. This Adrian Frutiger-designed typeface is harmonious, sensible and forward-looking. Avenir means 'future' in French.
 
@@ -29,7 +29,7 @@ Avenir is available on all macOS devices and Google applications including Slide
 ![](/images/Avenir-Demo.png)
 
 
-### Typographic Style
+#### **Typographic Style**
 
 Typography is a vital form of expression within the college. FF Mark and Avenir establish familiarity with the visual identity of the college as a whole. These typefaces are used consistently and extensively in official college communications.
 
