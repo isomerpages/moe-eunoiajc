@@ -12,10 +12,10 @@ third_nav_title: House System
 
 **A**re you ready to join the ranks of Ora? Together, we will build a house culture and spirit that will become your home and family in Eunoia. Unity! One with the Herd!
 
-Your House Master and Mistress  
+**Your House Master and Mistress**  
 Mr Alson Yong and Mrs Charlotte Lee
 
-### Identity
+#### **Identity**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -39,10 +39,8 @@ Mr Alson Yong and Mrs Charlotte Lee
 </tbody>
 </table>
 
-![](/images/Ora-2019-Commitee.jpeg)
 
-
-### Committee
+#### **Committee**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -109,15 +107,15 @@ Mr Alson Yong and Mrs Charlotte Lee
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href="/culture/House-System/akila/" target="_self"> 
+    <td class="tg-0lax"><a href="/culture/house/akila/" target="_self"> 
           <img src="/images/Houses-Akila-Crest.png" style="width:100%"></a></td>
-    <td class="tg-0lax"><a href="/culture/House-System/eder/" target="_self"> 
+    <td class="tg-0lax"><a href="/culture/house/eder/" target="_self"> 
           <img src="/images/Houses-Eder-Crest.png" style="width:100%"></a></td>
-    <td class="tg-0lax"><a href="/culture/House-System/isami/" target="_self"> 
+    <td class="tg-0lax"><a href="/culture/house/isami/" target="_self"> 
           <img src="/images/Houses-Isami-Crest.png" style="width:100%"></a></td>
-    <td class="tg-0lax"><a href="/culture/House-System/ora/" target="_self"> 
+    <td class="tg-0lax"><a href="/culture/house/ora/" target="_self"> 
           <img src="/images/Houses-Ora-Crest.png" style="width:100%"></a></td>
-    <td class="tg-0lax"><a href="/culture/House-System/uzuri/" target="_self"> 
+    <td class="tg-0lax"><a href="/culture/house/uzuri/" target="_self"> 
           <img src="/images/Houses-Uzuri-Crest.png" style="width:100%"></a></td>
   </tr>
 </tbody>
