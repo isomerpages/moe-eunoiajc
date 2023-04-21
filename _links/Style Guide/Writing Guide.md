@@ -10,8 +10,7 @@ This writing style guide is a manual of style and format used when working on ar
 
 The consistency of nomenclature and editing promoted in this guide is intended to assist those involved in the publication of corporate communications material, as well as documents, material, and programmes for internal circulation.
 
-Capitalisation
-==============
+#### **Capitalisation**
 
 The name of the college, Eunoia, should be written in title case. Lower case is used only in selected references to the English word eunoia.
 
@@ -23,8 +22,7 @@ References to 'programme', 'club', 'council', 'department' and 'committee' are w
 
 _E.g. Humanities Programme, Media Club, Innovation Committee_
 
-Spelling
-========
+#### **Spelling**
 
 Spelling should be consistent within the article. When two or more spellings of a word are given, the UK spelling is preferred. Refer to the following examples:
 
@@ -46,8 +44,7 @@ _E.g. The two-year journey to the A-Level Examination demands..._
 
 Internal references to 'A-Level' and 'A Division' follow the nomenclature set by the Singapore Examinations and Assessment Board (SEAB) and the Singapore Schools Sports Council (SSSC) respectively.
 
-Eunoia Junior College
-=====================
+#### **Eunoia Junior College**
 
 References to Eunoia Junior College may take the following variations: 'Eunoia Junior College', 'Eunoia' and 'EJC'.
 
@@ -65,8 +62,7 @@ References to 'junior college' should be in lower case, unless used to refer to
 
 _E.g. As the latest addition to the junior college landscape in Singapore..._
 
-Eunoian
-=======
+#### **Eunoian**
 
 'Eunoian' is strictly used to refer to students of Eunoia Junior College. It is regarded and applied only as a **noun**.
 
