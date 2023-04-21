@@ -6,13 +6,19 @@ layout: post
 description: ""
 image: ""
 ---
+
+
 ###### What is Spartan Race about? How is it significant?
 
 **Juliette**: The first time I heard about Spartan was through my OGLs, and from the start, my impression of Spartan was a good one!  My OGLs shared how much they genuinely enjoyed the event and I saw all the photos of J2 Eunoians huddled in their teams, cheering each other on and smiling radiantly. As I was aware that Spartan focused on challenging one’s physical capabilities, I was surprised that it was able to garner such positive responses since students are generally inclined towards feeling more hesitant when such events involve physical activities. I really appreciated the beauty of Spartan when I saw how it successfully encouraged everyone to participate enthusiastically because of the action-packed programme and opportunities to bond with their friends via mutual encouragement. At the same time, Spartan was a channel through which students were able to form core memories. With that, I can confidently say that Spartan is one of Eunoia’s most meaningful events.
 
-###### What was your most memorable moment of Spartan Race 2023?
+###### What is  one word you would use to describe Spartan Race 2023?
 
-**Juliette**: Although I forged many memories throughout the course of planning and executing Spartan, I must say that my favourite part of Spartan Race 2023 would have to be seeing everyone have fun during the event: racing their friends during the Obstacle Race, pushing themselves to outperform the rest at various King Of the Hill stations, or even just cheering their friends from the sidelines on while taking photos to capture such moments.
+**Juliette**: Effervescent. On that day, what I saw truly displayed the vivacious nature of Eunoians as they all enthusiastically cheered for their friends who were participating in the obstacle race or King of the Hill (KOH) station.
+
+As I walked past the various KOH stations, I saw sights of participants eagerly waiting for their turn to try the stations, participants enduring the physical fatigue as they pushed themselves to complete a few more reps and Eunoians from different houses watching tentatively while rallying them to hit new highs. 
+
+Even after the tiring events, I saw many Eunoians who were still extremely lively and animated, running around, taking pictures with their friends and houses, to look back on and remember the Spartan Race that they took part in. As such, the atmosphere is one that encompasses both the high energies and fervent nature of all that participated.
 
 
 ###### What is your proudest moment as one of the ICs for Spartan Race 2023?
