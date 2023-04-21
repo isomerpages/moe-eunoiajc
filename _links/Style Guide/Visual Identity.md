@@ -8,7 +8,7 @@ The Eunoia Junior College Visual Identity embodies the college's vision, mission
 
 College-appointed vendors and students should approach their Eunoia Junior College staff liaison for the Illustrator or high-resolution files for the purpose of production. Do not use or reproduce the identity elements featured on this page.
 
-### Crest
+#### **Crest**
 
 The Eunoia&nbsp;crest is the principal symbol of the college. The primary crest is applied in typical&nbsp;settings in Eunoia Blue. The secondary crest is applied in circular environments&nbsp;such as the college collar pin, badges, and social media profile images.
 
@@ -19,7 +19,7 @@ The Eunoia crest&nbsp;should be used&nbsp;with optimal readability and visibilit
   <figcaption>CREST (L) AND SECONDARY CREST (R)</figcaption>
 </figure>
 
-### Wordmark
+#### **Wordmark**
 
 The Eunoia wordmark or logotype employs FF Mark to represent&nbsp;the name of the college in a stylised setting. It should&nbsp;not&nbsp;be recreated using word processing or design applications, or substituted with alternative representations.
 
@@ -33,7 +33,7 @@ A simplified&nbsp;wordmark, bearing only 'eunoia', may also be used in small-sca
   <figcaption>WORDMARK</figcaption>
 </figure>
 
-### Combination Marks
+#### **Combination Marks**
 
 The Eunoia combination marks pair the Eunoia crest and wordmark in horizontal and vertical configurations. These are used when the name of the college is necessary for recognition by all stakeholders. The crest can only be paired with the wordmark, and authorised logotypes of departments, committees, and programmes.
 
