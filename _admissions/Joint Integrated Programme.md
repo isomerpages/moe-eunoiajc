@@ -31,7 +31,7 @@ Read more in our [**Joint Integrated Programme Prospectus**](https://issuu.com/e
 
 <center>
 
-#### [Catholic High School](http://catholichigh.moe.edu.sg/)
+[Catholic High School](https://catholichigh.moe.edu.sg/)
 
 <br>
 
@@ -39,7 +39,7 @@ Read more in our [**Joint Integrated Programme Prospectus**](https://issuu.com/e
 
 <center>
 
-##### [CHIJ St Nicholas Girls’ School](http://chijstnicholasgirls.moe.edu.sg/)
+[CHIJ St Nicholas Girls’ School](https://chijstnicholasgirls.moe.edu.sg/)
 
 <br>
 
@@ -47,5 +47,5 @@ Read more in our [**Joint Integrated Programme Prospectus**](https://issuu.com/e
 
 <center>
 
-##### [Singapore Chinese Girls’ School](https://scgs.moe.edu.sg/)
+[Singapore Chinese Girls’ School](https://scgs.moe.edu.sg/)
 </center></center></center>
