@@ -93,7 +93,7 @@ Mr Kelvin Teo and Ms Clarice Chan
           <img src="/images/Houses-Akila-Crest.png" style="width:100%"></a></td>
     <td class="tg-0lax"><a href="/culture/house/eder/" target="_self"> 
           <img src="/images/Houses-Eder-Crest.png" style="width:100%"></a></td>
-    <td class="tg-0lax"><a href="/culture/House-System/isami/" target="_self"> 
+    <td class="tg-0lax"><a href="/culture/house/isami/" target="_self"> 
           <img src="/images/Houses-Isami-Crest.png" style="width:100%"></a></td>
     <td class="tg-0lax"><a href="/culture/house/ora/" target="_self"> 
           <img src="/images/Houses-Ora-Crest.png" style="width:100%"></a></td>
