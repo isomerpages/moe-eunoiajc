@@ -4,7 +4,7 @@ permalink: /identity-guidelines/
 description: ""
 third_nav_title: Style Guide
 ---
-### Visibility
+#### **Visibility**
 
 The crest, wordmark, and combination marks should be presented for optimal readability.
 
@@ -16,7 +16,7 @@ The crest must be&nbsp;represented&nbsp;in&nbsp;its full form at all times. Desi
 
 ![](/images/Id-Guide-01-2.png)
 
-### Clarity
+#### **Clarity**
 
 The crest, wordmark, and combination marks should be presented distinctly and prominently in all applications.
 
@@ -32,7 +32,7 @@ The crest, wordmark and combination marks may be applied on photographic, patter
 
 ![](/images/Id-Guide-06.jpeg)
 
-### Consistency
+#### **Consistency**
 
 The crest should&nbsp;<u>not</u>&nbsp;be placed next to alternative representations&nbsp;of the words, 'Eunoia Junior College' in a different typeface, or next to recreations of the wordmark in FF Mark. This is to preserve recognition of the wordmark and coherence in&nbsp;the college's visual identity.
 
@@ -40,7 +40,7 @@ In instances where the college name is required, use the horizontal or vertical 
 
 The crest should be presented in its correct orientation at all times. It should not be rotated, distorted or warped in any application.
 
-### Respect
+#### **Respect**
 
 The crest and combination marks represent the college and should be treated with respect in all environments it is applied on. It should&nbsp;not&nbsp;be directly printed&nbsp;on disposables (e.g paper cups, serviettes) or applications where the crest and combination marks can be stepped on or damaged (e.g. floor decals, doormats, sports&nbsp;equipment).
 
