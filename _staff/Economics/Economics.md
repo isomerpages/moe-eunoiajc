@@ -6,8 +6,7 @@ third_nav_title: Economics
 ---
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs-Benjamin-Liang_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Econs-Benjamin-Liang_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -16,8 +15,7 @@ HOD (Economics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs_KevinTan_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Econs_KevinTan_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -26,18 +24,16 @@ School Staff Developer
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs_KohHanYun_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Econs_KohHanYun_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
 [Ms Koh Han Yun](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-koh-han-yun/) <br>
-HOD (Student Leadership & Talent Management
+HOD (Student Leadership &amp; Talent Management
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs-Tan-Liu-Yin_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Econs-Tan-Liu-Yin_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -46,8 +42,7 @@ Deputy Head (Economics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs-Loh-Xin-Min_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Econs-Loh-Xin-Min_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -56,8 +51,16 @@ Senior Teacher (Economics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs-Elizabeth-Chin_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Econs-Chuah-JJ_s.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+**Mr Chuah Jun Jie** <br>
+Teacher (Economics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/Econs-Elizabeth-Chin_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -66,8 +69,7 @@ Teacher (Economics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs-Gary-Fong_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Econs-Gary-Fong_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -76,18 +78,16 @@ Teacher (Economics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs_JulianaWong_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Econs_JulianaWong_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
-[Ms Juliana Wong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-juliana-wong/) <Br>
+[Ms&nbsp;Juliana Wong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-juliana-wong/) <br>
 Teacher (Economics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs_KelvinTeo_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Econs_KelvinTeo_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -96,8 +96,7 @@ Teacher (Economics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs-Lim-Lay-Peng_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Econs-Lim-Lay-Peng_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -107,8 +106,7 @@ Teacher (Economics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs_Lim_LynNa_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Econs_Lim_LynNa_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -118,8 +116,7 @@ Teacher (Economics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs-Mingwei_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Econs-Mingwei_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -129,8 +126,7 @@ Teacher (Economics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs-Michelle-Chiang_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Econs-Michelle-Chiang_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -140,8 +136,7 @@ Teacher (Economics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs-Peter-Soh_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Econs-Peter-Soh_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -151,8 +146,7 @@ Teacher (Economics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs-Serene-Tan_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Econs-Serene-Tan_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -162,8 +156,7 @@ Teacher (Economics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs-Chen-Jinqi_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Econs-Chen-Jinqi_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -172,8 +165,7 @@ Teacher (Economics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs-Bernice-Lee_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Econs-Bernice-Lee_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
