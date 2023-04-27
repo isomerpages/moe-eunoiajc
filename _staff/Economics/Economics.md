@@ -51,7 +51,7 @@ Senior Teacher (Economics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs-Chuah-JJ_s.jpg" style="width:50%">
+<img src="/images/Staff/econs-chuah-jj_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
