@@ -55,7 +55,7 @@ Senior Teacher (Economics)
 </div>  
 <div></div>  
 </div>	
-[Mr Chuah Jun Jie]((https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/mrchuahjunjie/) <br>
+[Mr Chuah Jun Jie](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/mrchuahjunjie/) <br>
 Teacher (Economics)
 
 <div>  
