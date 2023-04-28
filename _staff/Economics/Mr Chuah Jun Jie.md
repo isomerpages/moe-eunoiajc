@@ -22,4 +22,4 @@ I enjoy running during my free time. It helps me reflect on my life and teaching
 
 The junior college where I previously taught was well-known for its caring teachers. My aspiration for Eunoia Junior College is to be well-known for nurturing caring students who are willing to serve the community. What is learning without serving? I look forward to work towards this aspiration on top of creating many wonderful experiences in the college.
 
-
+[chuah.jun.jie@ejc.edu.sg](mailto:chuah.jun.jie@ejc.edu.sg)
