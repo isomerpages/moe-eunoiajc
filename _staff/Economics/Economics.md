@@ -55,7 +55,7 @@ Senior Teacher (Economics)
 </div>  
 <div></div>  
 </div>	
-[Mr Chuah Jun Jie]((https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/mrchuahjunjie/) <br>
+[Mr Chuah Jun Jie](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/mrchuahjunjie/) <br>
 Teacher (Economics)
 
 <div>  
@@ -78,11 +78,11 @@ Teacher (Economics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs_JulianaWong_s.jpg" style="width:50%">
+<img src="/images/Staff/econs-juliana-wong_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
-[Ms&nbsp;Juliana Wong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-juliana-wong/) <br>
+[Ms Juliana Wong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-juliana-wong/) <br>
 Teacher (Economics)
 
 <div>  
