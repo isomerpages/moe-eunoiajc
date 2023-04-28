@@ -4,6 +4,8 @@ permalink: /culture/house/uzuri/
 description: ""
 third_nav_title: House System
 ---
+![](/images/Houses-Uzuri-Crest.png)
+
 **Dearest Cubs**
 
 Welcome to our family! You may hail from different places and names, but you are now part of the winning Uzuri family. In this house, we believe that everyone matters and that every Cub is a winner. Regardless of your background, there is a place for all Cubs. In our eyes, you are a winner in your own right as long as you win graciously and respectfully.
@@ -20,15 +22,6 @@ Mr Azhar Amin and Mr Alex Teo
 
 #### **Identity**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-gqad{font-size:16px;text-align:center;vertical-align:middle}
-.tg .tg-cbs6{font-size:15px;text-align:left;vertical-align:top}
-</style>
 <table class="tg" style="undefined;table-layout: fixed; width: 814px">
 <colgroup>
 <col style="width: 385px">
@@ -37,25 +30,16 @@ Mr Azhar Amin and Mr Alex Teo
 <tbody>
   <tr>
     <td class="tg-cbs6"><span style="font-weight:bold;font-style:normal">HOUSE EMBLEM</span><br><span style="font-weight:400;font-style:normal">The bear is a symbol of wisdom, strength and courage. </span><br><br><span style="font-weight:bold">HOUSE CHEER</span><br><span style="font-weight:400;font-style:normal">U-ZU-RI SA SA SA (X2)</span><br><span style="font-weight:400;font-style:normal">You ready?</span><br><span style="font-weight:400;font-style:normal">For what? (x2)</span><br><span style="font-weight:400;font-style:normal">To show them how we roll (x2)</span><br><span style="font-weight:400;font-style:normal">To show them how we rock and roll</span><br><span style="font-weight:400;font-style:normal">U-ZU-RI U-U-ZU-RI AH WOO (x2)</span><br><span style="font-weight:400;font-style:normal">We are ziesty! Like what?</span><br><span style="font-weight:400;font-style:normal">We are fiesty! Like what?</span><br><span style="font-weight:400;font-style:normal">Ziesty UZUs Ay Ay</span><br><span style="font-weight:400;font-style:normal">Fiesty UZUs Ay Ay</span><br><span style="font-weight:400;font-style:normal">U-ZU-RI U-U-ZURI AH WOO (x2)</span><br><span style="font-weight:400;font-style:normal">GOOO UZURI!</span></td>
-    <td class="tg-gqad"><img src="/images/Houses-Uzuri-Crest.png" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
 
+<br>
 
-
-
+![](/images/uzuri2022.jpg)
 
 #### **Committee**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cqfb{font-size:16px;text-align:left;vertical-align:middle}
-</style>
 <table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
 <col style="width: 400px">
@@ -72,15 +56,6 @@ Mr Azhar Amin and Mr Alex Teo
 
 #### **History**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-cqfb{font-size:16px;text-align:left;vertical-align:middle}
-</style>
 <table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
 <col style="width: 400px">
@@ -88,7 +63,7 @@ Mr Azhar Amin and Mr Alex Teo
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-cqfb"><span style="font-weight:bold">PAST HOUSE CAPTAINS</span><br>Ye Ganghua (17-U2)<br>Elizabeth Teo Min (18-U2)<br>Tan Hon Jung (19-U3)<br>Alden Ng (20-U4)<br>Isaac Chia Le (21-U6)<br> <br><span style="font-weight:bold">PAST HOUSE VICE-CAPTAINS</span><br>Chua Kai Ling (17-U3)<br>Timothy Chua Wen Jie (17-U4)<br>Loke Mun Shane (18-U2)<br>Kuan Xuan Wei, Keefe (18-U4)<br>Gabrielle Lee (19-U1)<br>Carson Tan (19-U3)<br>Lye Tse Hao (20-U4)<br>Rachel Grace Ong (20-U1)<br>Lydia Yong Yen-Pin (21-U3)<br>Bernice Sim Kai Tong (21-U5)</td>
+    <td class="tg-cqfb"><span style="font-weight:bold">PAST HOUSE CAPTAINS</span><span style="font-weight:400;font-style:normal"><br>Ye Ganghua (17-U2)<br>Elizabeth Teo Min (18-U2)<br>Tan Hon Jung (19-U3)<br>Alden Ng (20-U4)<br>Isaac Chia Le (21-U6)<br> <br><span style="font-weight:bold">PAST HOUSE VICE-CAPTAINS</span><br>Chua Kai Ling (17-U3)<br>Timothy Chua Wen Jie (17-U4)<br>Loke Mun Shane (18-U2)<br>Kuan Xuan Wei, Keefe (18-U4)<br>Gabrielle Lee (19-U1)<br>Carson Tan (19-U3)<br>Lye Tse Hao (20-U4)<br>Rachel Grace Ong (20-U1)<br>Lydia Yong Yen-Pin (21-U3)<br>Bernice Sim Kai Tong (21-U5)</span></td>
     <td class="tg-x5q1"><span style="font-weight:bold">PAST HOUSE MASTERS AND MISTRESSES</span><br>Mr Ganison Rajamohan<br>Mr David Hoe<br>Ms Sim Yi Min<br>Mr Mahmood Fahmi<br>Ms Koh Han Yun<br>Ms Karine Teo<br>Mr Alson Yong<br></td>
   </tr>
 </tbody>
@@ -96,15 +71,6 @@ Mr Azhar Amin and Mr Alex Teo
 
 <br>
 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
 <col style="width: 160px">

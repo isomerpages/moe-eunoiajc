@@ -4,6 +4,8 @@ permalink: /culture/house/ora/
 description: ""
 third_nav_title: House System
 ---
+![](/images/Houses-Ora-Crest.png)
+
 **Welcome to the Ora family!**
 
 **O**ur strength is drawn from the mighty bison, majestic and steadfast, yet strong and agile. You are now part of a legacy of Eunoians who are united and formidable. Leading the charge, we strive for excellence.
@@ -34,11 +36,13 @@ Mr Alson Yong and Mrs Charlotte Lee
 <tbody>
   <tr>
     <td class="tg-x5q1"><span style="font-weight:bold;font-style:normal">HOUSE EMBLEM</span><br><span style="font-weight:400;font-style:normal">The bison is a symbol of agility, determination and family.</span><br><br><span style="font-weight:bold;font-style:normal">HOUSE CHEER</span><br><span style="font-weight:400;font-style:normal">KNOCK KNOCK!</span><br><span style="font-weight:400;font-style:normal">WHO’S THERE?</span><br><span style="font-weight:400;font-style:normal">5-6-7-8!</span><br><span style="font-weight:400;font-style:normal">EHHHHHH EHH EH</span><br><span style="font-weight:400;font-style:normal">Ora Ora is the best</span><br><span style="font-weight:400;font-style:normal">Ora Ora beat the rest</span><br><span style="font-weight:400;font-style:normal">EHHHHHH EHH EH</span><br><span style="font-weight:400;font-style:normal">Watch us bring you down in flames,</span><br><span style="font-weight:400;font-style:normal">This is what the winners say!</span><br><span style="font-weight:400;font-style:normal">Ora Ora Ora Ora Ora (x2)</span><br><span style="font-weight:400;font-style:normal">OHHHHHH</span><br><span style="font-weight:400;font-style:normal">Go Ora, go go Ora (x2)</span><br><span style="font-weight:400;font-style:normal">Ora ohana Ora ohana Ora ohana Ora ohana</span><br><span style="font-weight:400;font-style:normal">KAMATE KAMATE HOO</span><br><span style="font-weight:400;font-style:normal">KAMATE KAMATE HAA</span></td>
-    <td class="tg-gqad"><img src="/images/Houses-Ora-Crest.png" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
 
+<br>
+
+![](/images/ora2022.jpg)
 
 #### **Committee**
 

@@ -12,58 +12,46 @@ The five houses of Eunoia take after the college's name. Akila, Eder, Isami, Ora
 
 #### **House Identities**
 
-The houses uphold&nbsp;their own distinct&nbsp;identity, including house colours, emblems, flags, mascots and cheers. The pioneer cohort of Orientation Group Leaders conceptualised&nbsp;the identities of the five houses. The house crests were designed by Kay Yeung (17-I2).
+The houses uphold their own distinct identity, including house colours, emblems, flags, mascots and cheers. The pioneer cohort of Orientation Group Leaders conceptualised the identities of the five houses. The house crests were designed by Kay Yeung (17-I2).
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-z9od{font-size:12px;text-align:left;vertical-align:top}
-.tg .tg-xsvg{font-size:12px;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-r28n{font-size:18px;text-align:center;vertical-align:middle}
-.tg .tg-lswp{color:#000000;font-size:12px;text-align:left;vertical-align:top}
-.tg .tg-pxya{font-size:22px;text-align:left;vertical-align:middle}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 787px">
+<table class="tg" style="undefined;table-layout: fixed; width: 520px">
 <colgroup>
-<col style="width: 388px">
-<col style="width: 399px">
+<col style="width: 100px">
+<col style="width: 100px">
 </colgroup>
 <tbody>
   <tr>
     <td class="tg-r28n" rowspan="2"><a href="/culture/House-System/akila/" target="_self"> 
-          <img src="/images/Houses-Akila-Crest.png" style="width:85%"></a></td>
+          <img src="/images/Houses-Akila-Crest.png" style="width:60%"></a></td>
     <td class="tg-pxya"><span style="font-weight:bold;color:#ED1C24">Akila House</span><span style="font-weight:bold"> </span>is represented by the colour red. Its house emblem is the <span style="font-weight:bold">eagle</span>.</td>
   </tr>
   <tr>
   </tr>
   <tr>
     <td class="tg-r28n" rowspan="2"><a href="/culture/House-System/eder/" target="_self"> 
-          <img src="/images/Houses-Eder-Crest.png" style="width:85%"></a></td>
-    <td class="tg-pxya"><span style="font-weight:bold;color:#22FF02">Eder House</span><span style="font-weight:bold"> </span>is represented by the colour green. Its house emblem is the <span style="font-weight:bold">stallion</span>.</td>
+          <img src="/images/Houses-Eder-Crest.png" style="width:60%"></a></td>
+    <td class="tg-pxya"><span style="font-weight:bold;color:#03522c">Eder House</span><span style="font-weight:bold"> </span>is represented by the colour green. Its house emblem is the <span style="font-weight:bold">stallion</span>.</td>
   </tr>
   <tr>
   </tr>
   <tr>
     <td class="tg-nrix" rowspan="2"><a href="/culture/house/isami/" target="_self"> 
-          <img src="/images/Houses-Isami-Crest.png" style="width:85%"></a></td>
+          <img src="/images/Houses-Isami-Crest.png" style="width:60%"></a></td>
   </tr>
   <tr>
-    <td class="tg-z9od"><a href="/culture/house/isami/"><span style="font-weight:bold;text-decoration:none;color:#070632">ENTER ISAMI HOUSE</span></a></td>
+    <td class="tg-z9od"><span style="font-weight:bold;color:#FF6600">Isami House</span><span style="font-weight:bold"> </span>is represented by the colour orange. Its house emblem is the <span style="font-weight:bold">Wolf</span>.
+			</td>
   </tr>
   <tr>
     <td class="tg-nrix" rowspan="2"><a href="/culture/house/ora/" target="_self"> 
-          <img src="/images/Houses-Ora-Crest.png" style="width:85%"></a></td>
+          <img src="/images/Houses-Ora-Crest.png" style="width:60%"></a></td>
     <td class="tg-pxya"><span style="font-weight:bold;color:#00C9FF">Ora House</span> is represented by the colour cyan. Its house emblem is the <span style="font-weight:bold">bison</span>.</td>
   </tr>
   <tr>
   </tr>
   <tr>
     <td class="tg-r28n" rowspan="2"><a href="/culture/house/uzuri/" target="_self"> 
-          <img src="/images/Houses-Uzuri-Crest.png" style="width:85%"></a></td>
+          <img src="/images/Houses-Uzuri-Crest.png" style="width:60%"></a></td>
     <td class="tg-pxya"><span style="font-weight:bold;color:#4E008E">Uzuri</span> House is represented by the colour purple. Its house emblem is the <span style="font-weight:bold">bear</span>.</td>
   </tr>
   <tr>
@@ -79,5 +67,7 @@ The network of relationships within each house is developed through long acquain
 Not only are there house events such as House Parties, House Assemblies and House Camps, which nurture friendships and a sense of belonging, there are also inter-house events such as the Road Run, the Inter-House Games and the Spartan Race, which inspire loyalty and a sense of being part of something greater than oneself.
 
 The college's Civics Groups are also named after their respective Houses, with each house comprising students from an even spread of subject combinations.
+
+<br>
 
 ![](/images/House-Mural-Colour.jpeg)
