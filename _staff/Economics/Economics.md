@@ -78,11 +78,11 @@ Teacher (Economics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs_JulianaWong_s.jpg" style="width:50%">
+<img src="/images/Staff/Econs-Juliana-Wong_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
-[Ms&nbsp;Juliana Wong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-juliana-wong/) <br>
+[Ms Juliana Wong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-juliana-wong/) <br>
 Teacher (Economics)
 
 <div>  
