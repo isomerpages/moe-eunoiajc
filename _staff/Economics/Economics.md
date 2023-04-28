@@ -29,7 +29,7 @@ School Staff Developer
 <div></div>  
 </div>	
 [Ms Koh Han Yun](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-koh-han-yun/) <br>
-HOD (Student Leadership &amp; Talent Management
+HOD (Student Leadership &amp; Talent Management)
 
 <div>  
 <div style="float: left">  
@@ -55,7 +55,7 @@ Senior Teacher (Economics)
 </div>  
 <div></div>  
 </div>	
-**Mr Chuah Jun Jie** <br>
+[Mr Chuah Jun Jie]((https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/mrchuahjunjie/) <br>
 Teacher (Economics)
 
 <div>  
