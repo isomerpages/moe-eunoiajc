@@ -8,9 +8,9 @@ image: ""
 ---
 ![](/images/Events/spartan2023_1.jpg)
 
-Eunoia Spartan is a core memory for our Eunoians, who participate in the physicality of the stations with grit and excited smiles. Organised by the EJC Outdoor Adventure Club, Sports Representatives and the House Committees, the annual event brings together the classes and Eunoia's five houses.
+Eunoia Spartan is a core memory for our Eunoians, who participate in the physicality of the stations with grit and excited smiles. Organised by the [Outdoor Adventure Club](/culture/cca/odac/), Sports Representatives and the House Committees, the annual event brings together the classes and Eunoia's five houses.
 
-As Overall ICs of Spartan 2023, Juliette Hon (22-E6) and Ernest Foo (22-U2) reflect on their first encounter with the event and share their thoughts on planning the event and seeing the culmination of their effort.
+As Overall ICs of Spartan 2023, **Juliette Hon (22-E6)** and **Ernest Foo (22-U2)** reflect on their first encounter with the event and share their thoughts on planning the event and seeing the culmination of their effort.
 
 <br>
 
