@@ -8,6 +8,12 @@ image: ""
 ---
 ![](/images/Events/spartan2023_1.jpg)
 
+Eunoia Spartan is a core memory for our Eunoians, who participate in the physicality of the stations with grit and excited smiles. Organised by the EJC Outdoor Adventure Club, Sports Representatives and the House Committees, the annual event brings together the classes and Eunoia's five houses.
+
+As Overall ICs of Spartan 2023, Juliette Hon (22-E6) and Ernest Foo (22-U2) reflect on their first encounter with the event and share their thoughts on planning the event and seeing the culmination of their effort.
+
+<br>
+
 ###### **What is Spartan Race about? How is it significant?**
 
 **Juliette**: The first time I heard about Spartan was through my OGLs, and from the start, my impression of Spartan was a good one!&nbsp; My OGLs shared how much they genuinely enjoyed the event and I saw all the photos of J2 Eunoians huddled in their teams, cheering each other on and smiling radiantly. As I was aware that Spartan focused on challenging one’s physical capabilities, I was surprised that it was able to garner such positive responses since students are generally inclined towards feeling more hesitant when such events involve physical activities. I really appreciated the beauty of Spartan when I saw how it successfully encouraged everyone to participate enthusiastically because of the action-packed programme and opportunities to bond with their friends via mutual encouragement. At the same time, Spartan was a channel through which students were able to form core memories. With that, I can confidently say that Spartan is one of Eunoia’s most meaningful events.
