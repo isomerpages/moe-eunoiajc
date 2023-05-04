@@ -91,7 +91,7 @@ Additional preparation for the respective categories are required and the reques
 
 <br>
 
-For all applicants to note:
+**For all applicants to note:**
 
 (1)  Fill in the online DSA Application form.
 
