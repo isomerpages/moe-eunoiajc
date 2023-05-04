@@ -31,16 +31,16 @@ The 2023 Direct School Admission (DSA-JC) exercise for admission into JC1 in 202
 | Sports | Performing Arts | School Special Programmes |
 | -------- | -------- | -------- |
 | Badminton (Girls)    | Chinese Orchestra     | Bilingualism   |
-| Basketball (Boys & Girls)    | Symphonic Band    | Humanities Programme    |
+| Basketball (Boys &amp; Girls)    | Symphonic Band    | Humanities Programme    |
 | Floorball (Boys)     | Choir     | Music Elective Programme (MEP)    |
 | Hockey (Girls)    | Modern Dance     | Leadership    |
 | Netball (Girls)     |      |     |
-| Softball (Boys & Girls)     |      |    |
+| Softball (Boys &amp; Girls)     |      |    |
 | Squash (Girls)     |      |     |
-| Table Tennis (Boys & Girls)     |      |     |
+| Table Tennis (Boys &amp; Girls)     |      |     |
 | Tennis (Girls)     |      |     |
-| Track & Field (Boys & Girls)    |      |    |
-| Volleyball (Boys & Girls)    |      |     |
+| Track &amp; Field (Boys &amp; Girls)    |      |    |
+| Volleyball (Boys &amp; Girls)    |      |     |
 
 Interested students should fill in the [online application form](https://form.gov.sg/6451f961c7e8e30012db26cf) and it must reach us by 25 June 2023.
 
@@ -60,10 +60,19 @@ Successful applicants are guaranteed a place in the college, provided they meet 
 |Represented their School, Singapore Schools or National Representation | Participated in Singapore Youth Festival |
 | Achievement / awards in international / regional / national / zonal competitions | Achievement / awards in international / regional / national competitions |
 
+<br>
 
 | Bilingualism | Music Elective Programme (MEP) | Humanities Programm | Leadership |
 | -------- | -------- | -------- | -------- |
 | Students should demonstrate passion and strong ability in the English and Chinese Languages.      | Students should demonstrate passion and strong ability in music.      | Students should have overall consistently strong academic results, demonstrate passion and strong ability in the humanities, and have good CCA/holistic contributions.     | Student leaders who possess the qualities which are aligned to our College Vision (see below).
+
+They should meet one or more of the following criteria:
+
+| Bilingualism | Music Elective Programme (MEP) | Humanities Programm | Leadership |
+| -------- | -------- | -------- | -------- |
+|Consistently attained distinctions in O Level English Language, as well as in either Chinese or Higher Chinese at secondary schools examinations.| Consistently attained distinctions in O Level Music or Higher Music at secondary school examinations.| Consistently attained distinctions in English Language and one or more Humanities subjects at secondary school examinations. | A portfolio consisting of supporting documents of your leadership experiences and reflections of those experiences. |
+| Achievement/awards in competitions, essays, projects that shows passion and flair in both English and Chinese Language.| Achievement / awards in music performing or composing. | Strong and heightened interest in global and local issues, with a unique personal voice. | |
+| Strong interest to learn about the Western and Chinese cultures.| Participation in national level music ensembles, e.g. Singapore National Youth Orchestra (SNYO), Singapore National Youth Chinese Orchestra (SNYCO). | Balanced reading diet (beyond textbooks and literature texts). |
 
 **College Vision**
 
