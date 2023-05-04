@@ -61,7 +61,12 @@ Successful applicants are guaranteed a place in the college, provided they meet 
 | Achievement / awards in international / regional / national / zonal competitions | Achievement / awards in international / regional / national competitions |
 
 
-
 | Bilingualism | Music Elective Programme (MEP) | Humanities Programm | Leadership |
 | -------- | -------- | -------- | -------- |
-| Students should demonstrate passion and strong ability in the English and Chinese Languages.      | Students should demonstrate passion and strong ability in music.      | Students should have overall consistently strong academic results, demonstrate passion and strong ability in the humanities, and have good CCA/holistic contributions.     | Student leaders who possess the qualities which are aligned to our College Vision: 1. Leader with Courage: one with the moral courage to do what is right, the confidence to speak up for others, the integrity to do right by the community
+| Students should demonstrate passion and strong ability in the English and Chinese Languages.      | Students should demonstrate passion and strong ability in music.      | Students should have overall consistently strong academic results, demonstrate passion and strong ability in the humanities, and have good CCA/holistic contributions.     | Student leaders who possess the qualities which are aligned to our College Vision (see below).
+
+**College Vision**
+
+- Leader with Courage: one with the moral courage to do what is right, the confidence to speak up for others, the integrity to do right by the community
+- Youth with Purpose: one with the passion and the conviction to lead in various capacity (in social causes, student leadership bodies, school population and the community)
+- Thinker with Heart: one with the heart to serve by inspiring and influencing others with initiative, dedication and empathy
