@@ -10,8 +10,8 @@ The Direct School Admission (DSA-JC) provides students with the opportunity to s
 
 The 2023 Direct School Admission (DSA-JC) exercise opens on 3 May 2023. Interested students should fill in the [online application form](https://form.gov.sg/6451f961c7e8e30012db26cf) which must reach us by 25 June 2023*.
 
-*Note: For all applicants to note:
-1. Attach 2 sets of the latest official results slips from the school, 1 set of results from Secondary 3 and 1 set of results from Secondary 4. 
+**For all applicants to note:**
+Attach 2 sets of the latest official results slips from the school, 1 set of results from Secondary 3 and 1 set of results from Secondary 4. 
 (Any official progress report from the school during Secondary 3 and Secondary 4. Could be weighted Assessment, Mid-Year Examinations and End of Year Examinations, if any.)
 
 For more information on the DSA-JC application process and the specific categories, please visit our 2023 Direct School Admission Exercise page.
