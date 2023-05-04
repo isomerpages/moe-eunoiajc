@@ -53,11 +53,16 @@ Successful applicants are guaranteed a place in the college, provided they meet 
 - Students who do not fulfill their DSA commitment without valid reason may be required to transfer out to another school.
 
 
-
 | Sports | Performing Arts | 
 | -------- | -------- | 
 | Students should demonstrate passion and strong ability in their niche area.     | Students should demonstrate passion and strong ability in their niche area.  | 
 | They should meet one or more of the following criteria:|
 |Represented their School, Singapore Schools or National Representation | Participated in Singapore Youth Festival |
 | Achievement / awards in international / regional / national / zonal competitions | Achievement / awards in international / regional / national competitions |
+
+
+
+| Bilingualism | Music Elective Programme (MEP) | Humanities Programm | Leadership |
+| -------- | -------- | -------- | -------- |
+| Students should demonstrate passion and strong ability in the English and Chinese Languages.      | Students should demonstrate passion and strong ability in music.      | Students should have overall consistently strong academic results, demonstrate passion and strong ability in the humanities, and have good CCA/holistic contributions.     | Student leaders who possess the qualities which are aligned to our College Vision: 1. Leader with Courage: one with the moral courage to do what is right, the confidence to speak up for others, the integrity to do right by the community
 
