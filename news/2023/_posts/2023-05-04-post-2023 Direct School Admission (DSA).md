@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-The 2023 Direct School Admission (DSA-JC) exercise for admission into JC1 in 2023 opens on 3 May 2023. The College is looking for outstanding individuals in the following areas:
+The 2023 Direct School Admission (DSA-JC) exercise for admission into JC1 in 2023 opens on 4 May 2023. The College is looking for outstanding individuals in the following areas:
 
 
 | Sports | Performing Arts | School Special Programmes |
@@ -63,22 +63,19 @@ Application will go through two selection phases.
 - Youth with Purpose: one with the passion and the conviction to lead in various capacity (in social causes, student leadership bodies, school population and the community)
 - Thinker with Heart: one with the heart to serve by inspiring and influencing others with initiative, dedication and empathy
 
-##### **PHASE 2: Physical Trials/Selection Exercise**
+##### **Phase 2: Physical Trials / Selection Exercise**
 
 Applicants who successfully cleared the Shortlisting phase will be required to attend a physical trial/selection exercise. You will be contacted by the CCA teacher in charge of the category that you are applying for. Interviews will be conducted in June/July 2023, exact details will be emailed/SMSed to successful applicants.
 
-##### **PHASE 3: Panel e-Interview/Physical Interview with the College Admissions Committee**
+##### **Phase 3: Panel e-Interview / Physical Interview with the College Admissions Committee**
 
 Applicants who successfully cleared the Trials/ Selection Exercise will be required to attend a final Interview with the College Admissions Committee comprising of the Deans/Heads of Department of Eunoia Junior College to assess their suitability and readiness to take their ‘A’ Levels at Eunoia Junior College.
 
-**Admission Criteria**
-
+**Admission Criteria**<br>
 Applicants must be current Secondary 4 students in local schools and confident of handling the rigour of the A-Level Curriculum at Eunoia Junior College. They must show passion in their area of application, as well as knowledge of the requirements of a JC Education. They should also be aware of the subject combinations that the school offers and if it is suitable for them.
 
-**Application Process**
-
-
-Interested students should fill in the online application form which must reach us by 25 June 2023.
+**Application Process**<br>
+Interested students should fill in the [online application form](https://form.gov.sg/6451f961c7e8e30012db26cf) which must reach us by 25 June 2023.
 Additional preparation for the respective categories are required and the requested documents should be sent to EunoiaDSA@ejc.edu.sg with you Name, School and Programme applying for clearly reflected in your email Subject line:
 
 <br>
@@ -93,20 +90,20 @@ Additional preparation for the respective categories are required and the reques
 
 **For all applicants to note:**
 
-(1)  Fill in the online DSA Application form.
+(1)  Fill in the [online DSA Application form](https://form.gov.sg/6451f961c7e8e30012db26cf) 
 
 (2) For applicants who are applying for Leadership, MEP, Bilingualism and Humanities Programme, please ZIP up all the requested documents and email EunoiaDSA@ejc.edu.sg with your Name, School and Programme applying for clearly stated in the email Subject line. E.g. Eu Know Ya_Eunoia Secondary School_LeadershipDSA
 
 
 
 Shortlisted applicants will be notified by email/phone for Trials/Selection at a later given date and time. 
-Applicants who are not shortlisted will receive an email notification by 29 July 2023.
+Applicants who are not shortlisted will receive an email notification by **29 July 2023**.
 
 Applicants who have cleared the Trials/Selection Exercise will be required to attend a Panel Interview with the College Admissions Committee comprising of the Dean of Eunoia Junior College. Candidates will be notified by phone.
 
-Successful applicants will receive a Letter of Offer latest by 10 August 2023. Applicants who have been placed on the waiting list will be notified via phone. Applications who are not offered a place in the DSA-JC exercise will be notified via email.
+Successful applicants will receive a Letter of Offer latest by **10 August 2023**. Applicants who have been placed on the waiting list will be notified via phone. Applications who are not offered a place in the DSA-JC exercise will be notified via email.
 
-Successful applicants* are required to accept our offer by 15 August 2023, 3pm. Applicants on the waiting list will be informed of their final application outcome by 15 August 2023.
+Successful applicants* are required to accept our offer by **15 August 2023, 3pm**. Applicants on the waiting list will be informed of their final application outcome by **15 August 2023**.
 
 *Successful applicants are guaranteed a place in the college, provided they meet eligibility criteria for admission to a JC after the release of their Singapore-Cambridge GCE O-Level results. 
 - Successful DSA-JC students will NOT be allowed to take part in the Joint Admissions Exercise as places have already been reserved for them in the DSA-JC schools.
