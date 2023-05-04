@@ -76,7 +76,7 @@ Applicants must be current Secondary 4 students in local schools and confident o
 
 **Application Process**<br>
 Interested students should fill in the [online application form](https://form.gov.sg/6451f961c7e8e30012db26cf) which must reach us by 25 June 2023.
-Additional preparation for the respective categories are required and the requested documents should be sent to EunoiaDSA@ejc.edu.sg with you Name, School and Programme applying for clearly reflected in your email Subject line:
+Additional preparation for the respective categories are required and the requested documents should be sent to [EunoiaDSA@ejc.edu.sg](mailto:EunoiaDSA@ejc.edu.sg) with your Name, School and Programme you are applying for clearly reflected in your email Subject line:
 
 <br>
 
