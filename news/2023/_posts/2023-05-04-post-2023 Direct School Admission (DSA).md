@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-The 2023 Direct School Admission (DSA-JC) exercise for admission into JC1 in 2023 opens on 3 May 2023. The College is looking for outstanding individuals in the following areas:
+The 2023 Direct School Admission (DSA-JC) exercise for admission into JC1 in 2023 opens on 4 May 2023. The College is looking for outstanding individuals in the following areas:
 
 
 | Sports | Performing Arts | School Special Programmes |
