@@ -92,14 +92,12 @@ Additional preparation for the respective categories are required and the reques
 
 (1)  Fill in the [online DSA Application form](https://form.gov.sg/6451f961c7e8e30012db26cf) 
 
-(2) For applicants who are applying for Leadership, MEP, Bilingualism and Humanities Programme, please ZIP up all the requested documents and email EunoiaDSA@ejc.edu.sg with your Name, School and Programme applying for clearly stated in the email Subject line. E.g. Eu Know Ya_Eunoia Secondary School_LeadershipDSA
-
-
+(2) For applicants who are applying for Leadership, MEP, Bilingualism and Humanities Programme, please **ZIP** up all the requested documents and email [EunoiaDSA@ejc.edu.sg](mailto:EunoiaDSA@ejc.edu.sg) with your Name, School and Programme you are applying for for clearly stated in the email Subject line. E.g. Eu Know Ya_Eunoia Secondary School_LeadershipDSA
 
 Shortlisted applicants will be notified by email/phone for Trials/Selection at a later given date and time. 
 Applicants who are not shortlisted will receive an email notification by **29 July 2023**.
 
-Applicants who have cleared the Trials/Selection Exercise will be required to attend a Panel Interview with the College Admissions Committee comprising of the Dean of Eunoia Junior College. Candidates will be notified by phone.
+Applicants who have cleared the Trials/Selection Exercise will be required to attend a Panel Interview with the College Admissions Committee comprising the Dean of Eunoia Junior College. Candidates will be notified by phone.
 
 Successful applicants will receive a Letter of Offer latest by **10 August 2023**. Applicants who have been placed on the waiting list will be notified via phone. Applications who are not offered a place in the DSA-JC exercise will be notified via email.
 
