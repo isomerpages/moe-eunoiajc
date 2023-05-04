@@ -2,7 +2,6 @@ collections:
   about:
     output: true
     order:
-      - Parents@Eunoia.md
       - About Us.md
       - Principal's Message.md
       - Vision.md
@@ -11,5 +10,6 @@ collections:
       - Staff.md
       - Directory.md
       - Partners.md
+      - Parents@Eunoia.md
       - Advisory Committee.md
       - Contact Us.md
