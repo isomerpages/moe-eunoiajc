@@ -25,7 +25,8 @@ The 2023 Direct School Admission (DSA-JC) exercise for admission into JC1 in 202
 
 Interested students should fill in the [online application form](https://form.gov.sg/6451f961c7e8e30012db26cf) and it must reach us by 25 June 2023.
 
-Eligibility
+### Eligibility
+
 The DSA-JC exercise allows all Secondary 4 students with special talents and achievements to apply to Eunoia Junior College directly.
 
 Successful applicants are guaranteed a place in the college, provided they meet eligibility criteria for admission to a JC after the release of their Singapore-Cambridge GCE O-Level results. 
@@ -33,6 +34,11 @@ Successful applicants are guaranteed a place in the college, provided they meet 
 - They will also NOT be allowed to transfer to another JC after the release of the GCE ‘O’ Level examination results. They are expected to honour their commitment to the posted DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to.
 - Students who do not fulfill their DSA commitment without valid reason may be required to transfer out to another school.
 
+### Selection Process
+
+Application will go through two selection phases.
+
+##### Phase 1 : Shortlisting
 
 | Sports | Performing Arts | 
 | -------- | -------- | 
@@ -61,10 +67,12 @@ They should meet one or more of the following criteria:
 - Youth with Purpose: one with the passion and the conviction to lead in various capacity (in social causes, student leadership bodies, school population and the community)
 - Thinker with Heart: one with the heart to serve by inspiring and influencing others with initiative, dedication and empathy
 
-PHASE 2: Physical Trials/Selection Exercise
+##### PHASE 2: Physical Trials/Selection Exercise
+
 Applicants who successfully cleared the Shortlisting phase will be required to attend a physical trial/selection exercise. You will be contacted by the CCA teacher in charge of the category that you are applying for. Interviews will be conducted in June/July 2023, exact details will be emailed/SMSed to successful applicants.
 
-PHASE 3: Panel e-Interview/Physical Interview with the College Admissions Committee
+##### PHASE 3: Panel e-Interview/Physical Interview with the College Admissions Committee
+
 Applicants who successfully cleared the Trials/ Selection Exercise will be required to attend a final Interview with the College Admissions Committee comprising of the Deans/Heads of Department of Eunoia Junior College to assess their suitability and readiness to take their ‘A’ Levels at Eunoia Junior College.
 
 **Admission Criteria**
