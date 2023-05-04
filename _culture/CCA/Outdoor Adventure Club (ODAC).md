@@ -1,6 +1,6 @@
 ---
 title: Outdoor Adventure Club (ODAC)
-permalink: /culture/odac/
+permalink: /culture/cca/odac/
 description: ""
 third_nav_title: CCA
 ---

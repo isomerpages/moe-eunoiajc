@@ -1,6 +1,6 @@
 ---
 title: Mind Sports
-permalink: /culture/mindsports/
+permalink: /culture/cca/mindsports/
 description: ""
 third_nav_title: CCA
 ---

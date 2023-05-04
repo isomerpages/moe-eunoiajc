@@ -1,6 +1,6 @@
 ---
 title: Environment Club
-permalink: /culture/environment/
+permalink: /culture/cca/environment/
 description: ""
 third_nav_title: CCA
 ---
