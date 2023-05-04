@@ -80,7 +80,7 @@ Additional preparation for the respective categories are required and the reques
 
 <br>
 
-| Bilingualism | Music Elective Programme (MEP) | Humanities Programm | Leadership |
+| Bilingualism | Music Elective Programme (MEP) | Humanities Programme | Leadership |
 | -------- | -------- | -------- | -------- |
 | (i) Two samples of writing (one in English; one in Chinese – could include school essays) | (i) A music composition (up to 3-minutes long) | (i) Two Samples of Writing: School essays included | (i) A 500-word personal statement on "Based on your personal experiences, what does it mean to lead?" |
 | (ii) Submit a 2-mins video in mandarin on how I can contribute as a DSA-bilingualism student. | (ii) A 500-word personal statement on "How do you envision yourself contributing to EJC's music and aesthetics scene as a Eunoia MEP student?" | (ii) Critical thinking essay. Pick an issue of critical importance today in the local/regional/international context, and explain why it is significant. Keep within 600 words. | (ii) The names and contact details of 2 referees who can vouch for your leadership experiences. (Please state their positions and their relationship to you.) | 
