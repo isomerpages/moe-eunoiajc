@@ -43,7 +43,7 @@ Application will go through two selection phases.
 | Sports | Performing Arts | 
 | -------- | -------- | 
 | Students should demonstrate passion and strong ability in their niche area.     | Students should demonstrate passion and strong ability in their niche area.  | 
-| They should meet one or more of the following criteria:|
+| *They should meet one or more of the following criteria*:|*They should meet one or more of the following criteria*:|
 |Represented their School, Singapore Schools or National Representation | Participated in Singapore Youth Festival |
 | Achievement / awards in international / regional / national / zonal competitions | Achievement / awards in international / regional / national competitions |
 
@@ -51,12 +51,8 @@ Application will go through two selection phases.
 
 | Bilingualism | Music Elective Programme (MEP) | Humanities Programm | Leadership |
 | -------- | -------- | -------- | -------- |
-| Students should demonstrate passion and strong ability in the English and Chinese Languages.      | Students should demonstrate passion and strong ability in music.      | Students should have overall consistently strong academic results, demonstrate passion and strong ability in the humanities, and have good CCA/holistic contributions.     | Student leaders who possess the qualities which are aligned to our College Vision (see below).
-
-They should meet one or more of the following criteria:
-
-| Bilingualism | Music Elective Programme (MEP) | Humanities Programm | Leadership |
-| -------- | -------- | -------- | -------- |
+| Students should demonstrate passion and strong ability in the English and Chinese Languages.      | Students should demonstrate passion and strong ability in music.      | Students should have overall consistently strong academic results, demonstrate passion and strong ability in the humanities, and have good CCA/holistic contributions.     | Student leaders who possess the qualities which are aligned to our College Vision (see below).|
+|*They should meet one or more of the following criteria*|*They should meet one or more of the following criteria*|*They should meet one or more of the following criteria*|*They should meet one or more of the following criteria*|
 |Consistently attained distinctions in O Level English Language, as well as in either Chinese or Higher Chinese at secondary schools examinations.| Consistently attained distinctions in O Level Music or Higher Music at secondary school examinations.| Consistently attained distinctions in English Language and one or more Humanities subjects at secondary school examinations. | A portfolio consisting of supporting documents of your leadership experiences and reflections of those experiences. |
 | Achievement/awards in competitions, essays, projects that shows passion and flair in both English and Chinese Language.| Achievement / awards in music performing or composing. | Strong and heightened interest in global and local issues, with a unique personal voice. | |
 | Strong interest to learn about the Western and Chinese cultures.| Participation in national level music ensembles, e.g. Singapore National Youth Orchestra (SNYO), Singapore National Youth Chinese Orchestra (SNYCO). | Balanced reading diet (beyond textbooks and literature texts). |
@@ -76,17 +72,24 @@ Applicants who successfully cleared the Shortlisting phase will be required to a
 Applicants who successfully cleared the Trials/ Selection Exercise will be required to attend a final Interview with the College Admissions Committee comprising of the Deans/Heads of Department of Eunoia Junior College to assess their suitability and readiness to take their ‘A’ Levels at Eunoia Junior College.
 
 **Admission Criteria**
+
 Applicants must be current Secondary 4 students in local schools and confident of handling the rigour of the A-Level Curriculum at Eunoia Junior College. They must show passion in their area of application, as well as knowledge of the requirements of a JC Education. They should also be aware of the subject combinations that the school offers and if it is suitable for them.
 
 **Application Process**
+
+
 Interested students should fill in the online application form which must reach us by 25 June 2023.
 Additional preparation for the respective categories are required and the requested documents should be sent to EunoiaDSA@ejc.edu.sg with you Name, School and Programme applying for clearly reflected in your email Subject line:
+
+<br>
 
 | Bilingualism | Music Elective Programme (MEP) | Humanities Programm | Leadership |
 | -------- | -------- | -------- | -------- |
 | (i) Two samples of writing (one in English; one in Chinese – could include school essays) | (i) A music composition (up to 3-minutes long) | (i) Two Samples of Writing: School essays included | (i) A 500-word personal statement on "Based on your personal experiences, what does it mean to lead?" |
 | (ii) Submit a 2-mins video in mandarin on how I can contribute as a DSA-bilingualism student. | (ii) A 500-word personal statement on "How do you envision yourself contributing to EJC's music and aesthetics scene as a Eunoia MEP student?" | (ii) Critical thinking essay. Pick an issue of critical importance today in the local/regional/international context, and explain why it is significant. Keep within 600 words. | (ii) The names and contact details of 2 referees who can vouch for your leadership experiences. (Please state their positions and their relationship to you.) | 
 | | | (iii) An audition video (5-10 minutes long)  | |
+
+<br>
 
 For all applicants to note:
 
