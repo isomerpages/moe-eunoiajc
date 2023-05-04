@@ -14,7 +14,7 @@ Attach 2 sets of the latest official results slips from the school, 1 set of res
 (Any official progress report from the school during Secondary 3 and Secondary 4. Could be weighted Assessment, Mid-Year Examinations and End of Year Examinations, if any.)
 
 
-Details of the latest exercise will be published in our [News](https://www.eunoiajc.moe.edu.sg/news/) section.
+Details of the latest exercise has been published in our [News](https://www.eunoiajc.moe.edu.sg/news/) section.
 
 #### **Eligibility**
 
