@@ -50,7 +50,7 @@ Application will go through two selection phases.
 
 <br>
 
-| Bilingualism | Music Elective Programme (MEP) | Humanities Programm | Leadership |
+| Bilingualism | Music Elective Programme (MEP) | Humanities Programme | Leadership |
 | -------- | -------- | -------- | -------- |
 | Students should demonstrate passion and strong ability in the English and Chinese Languages.      | Students should demonstrate passion and strong ability in music. | Students should have overall consistently strong academic results, demonstrate passion and strong ability in the humanities, and have good CCA/holistic contributions. | Student leaders who possess the qualities which are aligned to our College Vision (see below).|
 |*They should meet one or more of the following criteria* |*They should meet one or more of the following criteria* |*They should meet one or more of the following criteria* |*They should meet one or more of the following criteria* |
