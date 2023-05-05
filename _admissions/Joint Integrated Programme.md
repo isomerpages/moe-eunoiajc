@@ -26,26 +26,24 @@ Read more in our [**Joint Integrated Programme Prospectus**](https://issuu.com/e
 #### **Our JIP Partners**
 
 <br>
-
+<center>
+	
 <img src="/images/CHS2S.jpg" style="width:40%">
 
-<center>
-
-[Catholic High School](https://catholichigh.moe.edu.sg/)
+**Catholic High School**<br>
+[Website](https://catholichigh.moe.edu.sg/)
 
 <br>
 
 <img src="/images/SNGS2R.jpg" style="width:40%">
 
-<center>
-
-[CHIJ St Nicholas Girls’ School](https://chijstnicholasgirls.moe.edu.sg/)
+**CHIJ St Nicholas Girls’ School**<br>
+	[Website](https://chijstnicholasgirls.moe.edu.sg/)
 
 <br>
 
 <img src="/images/scgs_s.png" style="width:40%">
 
-<center>
-
-[Singapore Chinese Girls’ School](https://scgs.moe.edu.sg/)
-</center></center></center>
+**Singapore Chinese Girls’ School**<br>
+[Website](https://scgs.moe.edu.sg/)
+</center>

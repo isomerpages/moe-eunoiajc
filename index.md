@@ -17,9 +17,9 @@ sections:
         - title: A-Level Results
           description: Class of 2022
           url: /news/2023/results
-        - title: ALUMNI FEATURES
-          description: Class of 2022
-          url: /news/
+        - title: DSA Applications
+          description: Open from 3 May
+          url: /news/2023/dsa/
         - title: Open House
           description: Online Showcase
           url: https://www.oheunoia.com
