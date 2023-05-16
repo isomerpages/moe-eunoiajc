@@ -25,3 +25,6 @@ The road to the finals was definitely challenging. We faced struggles in time ma
 ##### **What was your toughest moment throughout the process?**
 
 We were worried about being able to generate points for impromptu round as the topics could vary. In addition, we must  be able to think on the feet to refute the other team. With constant practice, we improved day by day as we deliberately reflected on the strengths and areas for improvements after each practice. Upon reflection, those moments are the memories to look back and it led us to our achievement in the end.
+
+<br>
+<br>
