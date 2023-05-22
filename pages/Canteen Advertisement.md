@@ -16,8 +16,6 @@ description: ""
 
 * [Online Application Form](https://form.gov.sg/63ed8c44fbe9b700127a224a)
 
-
-
 2. Attach the following documents together with the application form:
 
 * Photocopy of NRIC (front and back)
