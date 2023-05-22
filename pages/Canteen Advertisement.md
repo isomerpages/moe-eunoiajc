@@ -4,9 +4,10 @@ permalink: /canteen/
 description: ""
 ---
 ### **Stalls**
- 
-Noodle Stall
-- Closing Date: 31 June 2023
+
+| Type of Stall | Closing Date | Requirements |
+| -------- | -------- | -------- |
+| Noodles     | 31 Jun 2023     | N/a    |
 
 
 ### **Application Procedure**
