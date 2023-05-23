@@ -12,11 +12,9 @@ description: ""
 
 ### **Application Procedure**
  
-1. Download and complete the application form. You may also request for a hardcopy from the college’s General Office.
+1. Download and complete the application form.
 
-* [Online Application Form](https://form.gov.sg/63ed8c44fbe9b700127a224a)
-
-![](/images/canteenqr.png)
+<br>
 
 2. Attach the following documents together with the application form:
 
