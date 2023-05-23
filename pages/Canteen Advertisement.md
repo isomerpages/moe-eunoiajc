@@ -7,7 +7,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Noodles     | 31 Jun 2023     | N/a    |
+| Noodles&nbsp;&nbsp;&nbsp;&nbsp; | 31 Jun 2023&nbsp;&nbsp;&nbsp;&nbsp; | N/a&nbsp;&nbsp;&nbsp; |
 
 
 ### **Application Procedure**
@@ -15,6 +15,8 @@ description: ""
 1. Download and complete the application form. You may also request for a hardcopy from the college’s General Office.
 
 * [Online Application Form](https://form.gov.sg/63ed8c44fbe9b700127a224a)
+
+![](/images/canteenqr.png)
 
 2. Attach the following documents together with the application form:
 
@@ -35,10 +37,11 @@ description: ""
 * Contact Person: Ms Sherilyn Ang
 
 
-### **Location**
+### **Getting Here**
 
-Eunoia Junior College
-2 Sin Ming Place
+* Address:<br>
+Eunoia Junior College<br>
+2 Sin Ming Place<br>
 Singapore 573838
 
 * Nearest MRT: Bright Hill, Bishan, Marymount
