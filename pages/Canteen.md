@@ -7,7 +7,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Noodles&nbsp;&nbsp;&nbsp;&nbsp; | 31 Jun 2023&nbsp;&nbsp;&nbsp;&nbsp; | N/a&nbsp;&nbsp;&nbsp; |
+| Noodles&nbsp;&nbsp;&nbsp;&nbsp; | 31 Jun 2023&nbsp;&nbsp;&nbsp;&nbsp; | N/A&nbsp;&nbsp;&nbsp; |
 
 
 ### **Application Procedure**
