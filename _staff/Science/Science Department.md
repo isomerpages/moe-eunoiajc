@@ -6,8 +6,7 @@ third_nav_title: Science
 ---
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Chok-Yew-Keong_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Chok-Yew-Keong_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -17,30 +16,27 @@ HOD (Science)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Koh-Siong-Yang_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Koh-Siong-Yang_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
 [Mr Koh Siong Yang](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-koh-siong-yang/)
-<Br>
-HOD (ICT&IME)
+<br>
+HOD (ICT&amp;IME)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Tan-Fangxi_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Tan-Fangxi_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
 [Ms Tan Fangxi](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-tan-fangxi/)
 <br>
-HOD (Character & Citizenship Education)
+HOD (Character &amp; Citizenship Education)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Benjamin-Choo_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Benjamin-Choo_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -50,8 +46,7 @@ Deputy Head (Biology)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Chan-Kim-Seng_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Chan-Kim-Seng_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -61,41 +56,27 @@ Deputy Head (Chemistry)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Tan-Lingmin_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Tan-Lingmin_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
 [Mdm Tan Lingmin](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mdm-tan-lingmin/)
 <br>
-Deputy Head (Chemistry)
+Deputy Head&nbsp;(Chemistry)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Ngiam-Song-Wee_s.jpg" 
-    style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Mr Ngiam Song Wee](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-ngiam-song-wee/)
-<br>
-Deputy Head (Physics & Curriculum Innovation)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/Sci-Soh-Yong-Li_s-1.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Soh-Yong-Li_s-1.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
-[Mr Robin Soh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-soh-yong-li-robin/)
+[Mr&nbsp;Robin Soh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-soh-yong-li-robin/)
 <br>
 Deputy Head (Physics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Diana-Ma_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Diana-Ma_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
@@ -105,8 +86,7 @@ Deputy Head (IME)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Enoch-Tang_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Enoch-Tang_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
@@ -116,8 +96,7 @@ Deputy Head (IME)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Gabriel-Woon_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Gabriel-Woon_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
@@ -127,30 +106,27 @@ Deputy Head (Student Well-being)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Jacintha-Huang_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Jacintha-Huang_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
 [Ms Jacintha Huang](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-jacintha-huang/)
 <br>
-Deputy Head (Careers, Scholarships & Higher Education)
+Deputy Head (Careers, Scholarships &amp; Higher Education)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Suellen-Goh_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Suellen-Goh_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
 [Ms Suellen Goh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-suellen-goh/)
 <br>
-Deputy Head (Character & Citizenship Education)
+Deputy Head (Character &amp; Citizenship Education)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Zulaiha-Said_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Zulaiha-Said_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
@@ -160,19 +136,17 @@ Deputy Head (Student Engagement)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Chan-Ter-Yue_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Chan-Ter-Yue_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
-[Mr Chan Ter Yue](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-chan-ter-yue/)
+[Mr&nbsp;Chan Ter Yue](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-chan-ter-yue/)
 <br>
 Senior Teacher (Biology)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Christopher-Tan_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Christopher-Tan_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
@@ -182,8 +156,7 @@ Senior Teacher (Chemistry)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Felix-Lim_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Felix-Lim_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
@@ -193,8 +166,7 @@ Senior Teacher (Physics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Emeline-Choo_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Emeline-Choo_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
@@ -204,8 +176,7 @@ Teacher (Biology)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Lu-Huiping-s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Lu-Huiping-s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
@@ -215,8 +186,7 @@ Teacher (Biology)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Ng-Siow-Ying_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Ng-Siow-Ying_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
@@ -226,8 +196,7 @@ Teacher (Biology)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Chan-Xin-Yu-s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Chan-Xin-Yu-s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
@@ -237,8 +206,7 @@ Teacher (Chemistry)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Chia-Xin-Hui_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Chia-Xin-Hui_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
@@ -248,8 +216,7 @@ Teacher (Chemistry)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Justin_s2.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Justin_s2.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
@@ -259,8 +226,7 @@ Teacher (Chemistry)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Liu-Shuyu_s-1.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Liu-Shuyu_s-1.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
@@ -270,8 +236,7 @@ Teacher (Chemistry)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Staff-Profile%20(1).png" 
-    style="width:50%">
+<img src="/images/Staff/Staff-Profile%20(1).png" style="width:50%">
 </div>  
 <div></div>  
 </div>
@@ -281,8 +246,7 @@ Teacher (Chemistry)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Ong-Wee-Yong_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Ong-Wee-Yong_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
@@ -292,8 +256,7 @@ Teacher (Chemistry)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Tay-Li-Kim_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Tay-Li-Kim_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
@@ -303,8 +266,7 @@ Teacher (Chemistry)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Chin-Tan-Wei-Lin_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Chin-Tan-Wei-Lin_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
@@ -314,8 +276,7 @@ Teacher (Physics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Claudia-Tan_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Claudia-Tan_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
@@ -325,8 +286,7 @@ Teacher (Physics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Ho-Hon-Wing_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Ho-Hon-Wing_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
@@ -336,8 +296,7 @@ Teacher (Physics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Lim-Teck-Seng-s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Lim-Teck-Seng-s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
@@ -347,8 +306,7 @@ Teacher (Physics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Ong-Eng-Yee-Wen_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Ong-Eng-Yee-Wen_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
@@ -358,8 +316,7 @@ Teacher (Physics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Rizal_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Rizal_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
@@ -369,8 +326,7 @@ Teacher (Physics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Tan-Zheng-Yong_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Tan-Zheng-Yong_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
@@ -380,8 +336,7 @@ Teacher (Physics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Wang-Guangquan-s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Wang-Guangquan-s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
