@@ -4,11 +4,9 @@ permalink: /about/staff/english/
 description: ""
 third_nav_title: English
 ---
-
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EL-Stephanie-Hua_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/EL-Stephanie-Hua_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -17,18 +15,16 @@ HOD (English)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/HOD-Marc-Kenji-Lim_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/HOD-Marc-Kenji-Lim_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
 [Mr Marc Kenji Lim](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-marc-kenji-lim/) <br>
-HOD (Corporate Communications & Partnerships)
+HOD (Corporate Communications &amp; Partnerships)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Eng-KokLiEn_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Eng-KokLiEn_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -36,18 +32,16 @@ HOD (Corporate Communications & Partnerships)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Nadiah-Razali-s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Nadiah-Razali-s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
-[Ms Nadiah Razali](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-nadiah-razali/) <br>
+[Ms Nadiah Razali](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-nadiah-razali/)<br>
 Deputy Head (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Eng-Edson-Ng_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Eng-Edson-Ng_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -56,8 +50,7 @@ Deputy Head (Literature in English)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EL-Heon-Mak_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/EL-Heon-Mak_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -66,8 +59,7 @@ Deputy Head (Partnerships)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/English-Danielle-M-Low_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/English-Danielle-M-Low_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -76,8 +68,7 @@ Senior Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Eng-Perrin_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Eng-Perrin_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -86,8 +77,7 @@ Senior Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EL-Benjamin-Chew_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/EL-Benjamin-Chew_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -96,8 +86,16 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EL-Cham-Bei-Qing_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Staff-Profile.png" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+Mr Cavell Chee<br>
+Teacher (Literature in English)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/EL-Cham-Bei-Qing_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -106,8 +104,7 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EL-Charlotte-Tan_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/EL-Charlotte-Tan_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -116,18 +113,16 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EL_CrispinRodrigues_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/EL_CrispinRodrigues_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
 [Mr Crispin Rodrigues](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-crispin-rodrigues/) <br>
-Teacher (General Paper)
+Teacher (Literature in English)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EL-Darren-Chong_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/EL-Darren-Chong_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -136,8 +131,7 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EL-Eleanor-Wong_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/EL-Eleanor-Wong_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -146,8 +140,7 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EL_ElenaTan_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/EL_ElenaTan_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -156,8 +149,7 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EL-Joshua-Ng_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/EL-Joshua-Ng_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -166,8 +158,7 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EL-Kajal-Kaur_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/EL-Kajal-Kaur_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -176,8 +167,7 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Eng-KarolTan_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Eng-KarolTan_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -186,8 +176,7 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EL_NgHuiQi_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/EL_NgHuiQi_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -196,18 +185,16 @@ Teacher (Literature in English)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EL-Renuka-Satianathan_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/EL-Renuka-Satianathan_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
-[Ms Renuka Satianathan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-renuka-satianathan/) <br>
+[Ms&nbsp;Renuka Satianathan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-renuka-satianathan/) <br>
 Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EL-Samuel-Wong_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/EL-Samuel-Wong_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -216,8 +203,7 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EL_TimothyNg_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/EL_TimothyNg_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -226,22 +212,29 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EL-Joey-Tan_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Staff-Profile.png" style="width:50%">
 </div>  
 <div></div>  
 </div>	
-<b>Mrs Joey Tan</b>
+Ms Xu Xiuwen<br>
+Teacher (General Paper)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/EL-Joey-Tan_s.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+Mrs Joey Tan
 <br>
 Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EL-Vivien-Yeo_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/EL-Vivien-Yeo_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
-<b>Ms Vivien Yeo</b>
+Ms Vivien Yeo
 <br>
 Teacher (General Paper)
