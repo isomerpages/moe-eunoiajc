@@ -85,7 +85,7 @@ Additional preparation for the respective categories are required and the reques
 | -------- | -------- | -------- | -------- |
 | (i) Two samples of writing: one in English; one in Chinese - school essays can be included | (i) A music composition (up to 3 min) | (i) Two Samples of Writing: school essays can be included | (i) A 500-word personal statement on "Based on your personal experiences, what does it mean to lead?" |
 | (ii) Submit a 2-min video in mandarin on how I can contribute as a DSA Bilingualism student. | (ii) A 500-word personal statement on "How do you envision yourself contributing to EJC's music and aesthetics scene as a Eunoia MEP student?" | (ii) Critical thinking essay. Pick an issue of critical importance today in the local/regional/international context, and explain why it is significant. Keep within 600 words. | (ii) The names and contact details of 2 referees who can vouch for your leadership experiences. (Please state their positions and their relationship to you.) | 
-| | | (iii) An audition video (5-10 min)  | |
+|  | (iii) An audition video (5-10 min)  | | |
 
 <br>
 
