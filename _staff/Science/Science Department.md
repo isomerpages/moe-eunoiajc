@@ -4,12 +4,11 @@ permalink: /about/staff/science/
 description: ""
 third_nav_title: Science
 ---
-<div>  
 <div style="float: left">  
 <img src="/images/Staff/Sci-Chok-Yew-Keong_s.jpg" style="width:50%">
 </div>  
 <div></div>  
-</div>	
+	
 [Dr Chok Yew Keong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/dr-chok-yew-keong/)
 <br>
 HOD (Science)
@@ -150,7 +149,7 @@ Deputy Head (Student Engagement)
 </div>  
 <div></div>  
 </div>
-[Mr&nbsp;Chan Ter Yue](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-chan-ter-yue/)
+[Mr Chan Ter Yue](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-chan-ter-yue/)
 <br>
 Senior Teacher (Biology)
 
@@ -246,7 +245,7 @@ Teacher (Chemistry)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Staff-Profile%20(1).png" style="width:50%">
+<img src="/images/Staff/profile.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
