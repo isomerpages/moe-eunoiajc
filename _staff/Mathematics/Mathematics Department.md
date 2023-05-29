@@ -4,11 +4,9 @@ permalink: /about/staff/maths/
 description: ""
 third_nav_title: Mathematics
 ---
-
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/HOD-Alvin-Toh_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/HOD-Alvin-Toh_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -17,8 +15,7 @@ HOD (Mathematics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Maths-Barry-Chia_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Maths-Barry-Chia_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -27,19 +24,17 @@ Deputy Head (Mathematics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Maths-Lim-Yin_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Maths-Lim-Yin_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
-[Mr Lim Yin](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mr-lim-yin/)
+[Mr&nbsp;Lim Yin](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mr-lim-yin/)
 <br>
 Deputy Head (Mathematics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Maths-Alex-Teo_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Maths-Alex-Teo_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -49,8 +44,16 @@ Teacher (Mathematics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Maths-Chen-Jinquan_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Staff-Profile.png" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+Mr Chang Meng Pat<br>
+Teacher (Mathematics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/Maths-Chen-Jinquan_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -59,8 +62,7 @@ Teacher (Mathematics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Maths-Chng-Xian-Yi_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Maths-Chng-Xian-Yi_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -69,18 +71,16 @@ Teacher (Mathematics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Maths-Chu-Wee-Yong_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Maths-Chu-Wee-Yong_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
-[Mr Chu Wee Yong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mr-chu-wee-yong/) <Br>
+[Mr Chu Wee Yong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mr-chu-wee-yong/) <br>
 Teacher (Mathematics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Maths-Chua-Jian-Rong_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Maths-Chua-Jian-Rong_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -89,8 +89,7 @@ Teacher (Mathematics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Maths-Clarice-Chan_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Maths-Clarice-Chan_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -100,8 +99,7 @@ Teacher (Mathematics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Kuang-Kim-Chun_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Kuang-Kim-Chun_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -110,8 +108,7 @@ Teacher (Mathematics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Maths-Lee-Boon-Ann_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Maths-Lee-Boon-Ann_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -121,8 +118,7 @@ Teacher (Mathematics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Maths-Lee-Ngern-Sim_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Maths-Lee-Ngern-Sim_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -131,8 +127,7 @@ Teacher (Mathematics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Maths-Lim-Yen-Chui_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Maths-Lim-Yen-Chui_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -141,8 +136,16 @@ Teacher (Mathematics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Maths-Ng-Yixin_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Staff-Profile.png" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+Mr Lim Yoke Kuang<br>
+Teacher (Mathematics)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/Maths-Ng-Yixin_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -152,8 +155,7 @@ Teacher (Mathematics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Maths-Ng-Phoon-Lai-Yong_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Maths-Ng-Phoon-Lai-Yong_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -163,8 +165,7 @@ Teacher (Mathematics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Maths-Tan-Khoon-Han_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Maths-Tan-Khoon-Han_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -173,8 +174,7 @@ Teacher (Mathematics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Maths-Wong-Jia-Sheng_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Maths-Wong-Jia-Sheng_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	

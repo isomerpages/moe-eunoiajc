@@ -69,15 +69,6 @@ Teacher (Economics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs-Gary-Fong_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Mr Gary Fong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/mr-gary-fong/) <br>
-Teacher (Economics)
-
-<div>  
-<div style="float: left">  
 <img src="/images/Staff/econs-juliana-wong_s.jpg" style="width:50%">
 </div>  
 <div></div>  
@@ -100,7 +91,7 @@ Teacher (Economics)
 </div>  
 <div></div>  
 </div>	
-<b>Mdm Lim Lay Peng</b>
+Mdm Lim Lay Peng
 <br>
 Teacher (Economics)
 
