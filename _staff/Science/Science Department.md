@@ -21,7 +21,7 @@ HOD (Science)
 </div>	
 [Mr Koh Siong Yang](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-koh-siong-yang/)
 <br>
-HOD (ICT&amp;IME)
+HOD (ICT &amp; IME)
 
 <div>  
 <div style="float: left">  
