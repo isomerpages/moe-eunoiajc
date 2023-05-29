@@ -62,7 +62,17 @@ Deputy Head (Chemistry)
 </div>	
 [Mdm Tan Lingmin](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mdm-tan-lingmin/)
 <br>
-Deputy Head&nbsp;(Chemistry)
+Deputy Head (Chemistry)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/Sci-Claudia-Tan_s.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Ms Claudia Tan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-claudia-tan/)
+<br>
+Deputy Head (Physics)
 
 <div>  
 <div style="float: left">  
@@ -70,7 +80,7 @@ Deputy Head&nbsp;(Chemistry)
 </div>  
 <div></div>  
 </div>
-[Mr&nbsp;Robin Soh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-soh-yong-li-robin/)
+[Mr Robin Soh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-soh-yong-li-robin/)
 <br>
 Deputy Head (Physics)
 
@@ -271,16 +281,6 @@ Teacher (Chemistry)
 <div></div>  
 </div>
 [Mrs Chin-Tan Wei Lin](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mrs-chin-tan-wei-lin/)
-<br>
-Teacher (Physics)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/Sci-Claudia-Tan_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>
-[Ms Claudia Tan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-claudia-tan/)
 <br>
 Teacher (Physics)
 
