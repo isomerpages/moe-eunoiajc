@@ -70,7 +70,7 @@ Applicants who successfully cleared the Shortlisting phase will be required to a
 
 ##### **Phase 3: Panel e-Interview / Physical Interview with the College Admissions Committee**
 
-Applicants who successfully cleared the Trials/ Selection Exercise will be required to attend a final Interview with the College Admissions Committee comprising of the Deans/Heads of Department of Eunoia Junior College to assess their suitability and readiness to take their ‘A’ Levels at Eunoia Junior College.
+Applicants who successfully cleared the Trials/ Selection Exercise will be required to attend a final Interview with the College Admissions Committee comprising of the Deans/Heads of Department of Eunoia Junior College to assess their suitability and readiness to take their A-Levels at Eunoia Junior College.
 
 **Admission Criteria**<br>
 Applicants must be current Secondary 4 students in local schools and confident of handling the rigour of the A-Level Curriculum at Eunoia Junior College. They must show passion in their area of application, as well as knowledge of the requirements of a JC Education. They should also be aware of the subject combinations that the school offers and if it is suitable for them.
@@ -108,7 +108,7 @@ Successful applicants* are required to accept our offer by **15 August 2023, 3pm
 
 *Successful applicants are guaranteed a place in the college, provided they meet eligibility criteria for admission to a JC after the release of their Singapore-Cambridge GCE O-Level results. 
 - Successful DSA-JC students will NOT be allowed to take part in the Joint Admissions Exercise as places have already been reserved for them in the DSA-JC schools.
-- They will also NOT be allowed to transfer to another JC after the release of the GCE ‘O’ Level examination results. They are expected to honour their commitment to the posted DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to.
+- They will also NOT be allowed to transfer to another JC after the release of the GCE O-Level examination results. They are expected to honour their commitment to the posted DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to.
 - Students who do not fulfill their DSA commitment without valid reason may be required to transfer out to another school.
 
 For more information, please refer to the [Ministry of Education DSA-JC website](https://www.moe.gov.sg/post-secondary/admissions/dsa).
