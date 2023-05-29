@@ -86,7 +86,7 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Staff-Profile.png" style="width:50%">
+<img src="/images/Staff/profile.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -212,7 +212,7 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Staff-Profile.png" style="width:50%">
+<img src="/images/Staff/profile.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
