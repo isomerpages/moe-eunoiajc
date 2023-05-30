@@ -44,11 +44,11 @@ Teacher (Mathematics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/profile.jpg" style="width:50%">
+<img src="/images/Staff/maths-chang-meng-pat_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
-Mr Chang Meng Pat<br>
+[Mr Chang Meng Pat](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mr-chang-meng-pat/)<br>
 Teacher (Mathematics)
 
 <div>  
@@ -136,11 +136,11 @@ Teacher (Mathematics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/profile.jpg" style="width:50%">
+<img src="/images/Staff/maths-lim-yoke-kuang_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
-Mr Lim Yoke Kuang<br>
+[Mr Lim Yoke Kuang](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mr-lim-yoke-kuang/)<br>
 Teacher (Mathematics)
 
 <div>  
