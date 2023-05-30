@@ -4,12 +4,11 @@ permalink: /about/staff/science/
 description: ""
 third_nav_title: Science
 ---
-<div>  
 <div style="float: left">  
 <img src="/images/Staff/Sci-Chok-Yew-Keong_s.jpg" style="width:50%">
 </div>  
 <div></div>  
-</div>	
+	
 [Dr Chok Yew Keong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/dr-chok-yew-keong/)
 <br>
 HOD (Science)
@@ -22,7 +21,7 @@ HOD (Science)
 </div>	
 [Mr Koh Siong Yang](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-koh-siong-yang/)
 <br>
-HOD (ICT&amp;IME)
+HOD (ICT &amp; IME)
 
 <div>  
 <div style="float: left">  
@@ -62,7 +61,17 @@ Deputy Head (Chemistry)
 </div>	
 [Mdm Tan Lingmin](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mdm-tan-lingmin/)
 <br>
-Deputy Head&nbsp;(Chemistry)
+Deputy Head (Chemistry)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/Sci-Claudia-Tan_s.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Ms Claudia Tan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-claudia-tan/)
+<br>
+Deputy Head (Physics)
 
 <div>  
 <div style="float: left">  
@@ -70,7 +79,7 @@ Deputy Head&nbsp;(Chemistry)
 </div>  
 <div></div>  
 </div>
-[Mr&nbsp;Robin Soh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-soh-yong-li-robin/)
+[Mr Robin Soh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-soh-yong-li-robin/)
 <br>
 Deputy Head (Physics)
 
@@ -140,7 +149,7 @@ Deputy Head (Student Engagement)
 </div>  
 <div></div>  
 </div>
-[Mr&nbsp;Chan Ter Yue](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-chan-ter-yue/)
+[Mr Chan Ter Yue](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-chan-ter-yue/)
 <br>
 Senior Teacher (Biology)
 
@@ -236,7 +245,7 @@ Teacher (Chemistry)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Staff-Profile%20(1).png" style="width:50%">
+<img src="/images/Staff/profile.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
@@ -271,16 +280,6 @@ Teacher (Chemistry)
 <div></div>  
 </div>
 [Mrs Chin-Tan Wei Lin](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mrs-chin-tan-wei-lin/)
-<br>
-Teacher (Physics)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/Sci-Claudia-Tan_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>
-[Ms Claudia Tan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-claudia-tan/)
 <br>
 Teacher (Physics)
 
