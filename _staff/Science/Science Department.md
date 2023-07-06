@@ -105,16 +105,6 @@ Deputy Head (IME)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Gabriel-Woon_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>
-[Mr Gabriel Woon](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-gabriel-woon/)
-<br>
-Deputy Head (Student Well-being)
-
-<div>  
-<div style="float: left">  
 <img src="/images/Staff/Sci-Jacintha-Huang_s.jpg" style="width:50%">
 </div>  
 <div></div>  
@@ -180,6 +170,16 @@ Senior Teacher (Physics)
 <div></div>  
 </div>
 [Ms Emeline Choo](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-emeline-choo/)
+<br>
+Teacher (Biology)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/Sci-Gabriel-Woon_s.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Mr Gabriel Woon](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-gabriel-woon/)
 <br>
 Teacher (Biology)
 
