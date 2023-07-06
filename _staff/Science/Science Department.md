@@ -8,7 +8,7 @@ third_nav_title: Science
 <img src="/images/Staff/Sci-Chok-Yew-Keong_s.jpg" style="width:50%">
 </div>  
 <div></div>  
-	
+
 [Dr Chok Yew Keong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/dr-chok-yew-keong/)
 <br>
 HOD (Science)
