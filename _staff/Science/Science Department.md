@@ -322,6 +322,16 @@ Teacher (Physics)
 [Mr Rizal Abu Bakar](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-rizal-abu-bakar/)
 <br>
 Teacher (Physics)
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/sci-soopuiwah_s.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Mr Soo Pui Wah](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-soo-pui-wah/)
+<br>
+Teacher (Physics)
+
 
 <div>  
 <div style="float: left">  
