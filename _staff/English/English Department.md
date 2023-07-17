@@ -212,7 +212,7 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/profile.jpg" style="width:50%">
+<img src="/images/Staff/el-xu-xiuwen_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
