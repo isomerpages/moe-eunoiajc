@@ -33,7 +33,7 @@ Deputy Head (Mother Tongue Languages)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Staff-Profile%20(1).png" style="width:50%">
+<img src="/images/Staff/mtl-elavarasi_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
