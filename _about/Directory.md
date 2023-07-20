@@ -356,7 +356,6 @@ description: ""
 			<b> Mrs Danielle Low </b> danielle.marie.low@ejc.edu.sg <br> 
 			<b> Mr Darren Chong </b> darren.chong@ejc.edu.sg <br>
 			<b> Ms Eleanor Wong </b> eleanor.wong@ejc.edu.sg <br> 
-			<b> Ms Geraldine Wong </b> geraldine.wong@ejc.edu.sg <br>
 			<b> Mr Joshua Ng </b> joshua.ng@ejc.edu.sg <br> 
 			<b> Ms Kajal Kaur Khaira </b> kajal.kaur.khaira@ejc.edu.sg <br> 
 			<b> Ms Karol Ann Tan </b> karol.ann.tan@ejc.edu.sg <br> 
