@@ -55,7 +55,7 @@ Management Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/.jpg" style="width:50%">
+<img src="/images/Staff/Staff-Profile.png" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -96,7 +96,7 @@ Operations Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/awtecklee_s.jpg" style="width:50%">
+<img src="/images/Staff/Staff-Profile.png" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -116,7 +116,7 @@ Operations Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/awtecklee_s.jpg" style="width:50%">
+<img src="/images/Staff/Staff-Profile.png" style="width:50%">
 </div>  
 <div></div>  
 </div>	
