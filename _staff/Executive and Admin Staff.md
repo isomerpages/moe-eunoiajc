@@ -96,7 +96,7 @@ Operations Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Staff-Profile.png" style="width:50%">
+<img src="/images/Staff/eas-cheongsiewkheun.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -116,7 +116,7 @@ Operations Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Staff-Profile.png" style="width:50%">
+<img src="/images/Staff/eas-jaumengjuam.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
