@@ -33,11 +33,11 @@ Deputy Head (Mother Tongue Languages)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Staff-Profile%20(1).png" style="width:50%">
+<img src="/images/Staff/mtl-elavarasi_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
-[Mdm Elavarasi Sundararaju](https://staging.d2ftoa31ukircm.amplifyapp.com//staff/mother-tongue/mdm-elavarasi/)<br>
+[Mdm Elavarasi Sundararaju இளவரசி காந்தி](https://staging.d2ftoa31ukircm.amplifyapp.com/staff/mtl/mdm-elavarasi/)<br>
 Lead Teacher (Character &amp; Citizenship Education)
 
 <div>  

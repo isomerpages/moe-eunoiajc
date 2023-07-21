@@ -5,8 +5,7 @@ description: ""
 ---
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/cmc-erni-suriyani_s%20(1).jpg" 
-    style="width:50%">
+<img src="/images/Staff/cmc-erni-suriyani_s%20(1).jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -16,8 +15,7 @@ Administration Manager
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EAS-SherilynAng_s%20(1).jpg" 
-    style="width:50%">
+<img src="/images/Staff/EAS-SherilynAng_s%20(1).jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -27,19 +25,7 @@ Administration Manager
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EAS-Lina_s.jpg" 
-    style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Mdm Lina Chan</b>
-<br>
-Administrative Executive
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/EAS-Mageswari_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/EAS-Mageswari_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -49,8 +35,7 @@ Management Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EAS-Rahimah_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/EAS-Rahimah_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -60,8 +45,7 @@ Management Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EAS-Hafilah_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/EAS-Hafilah_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -71,19 +55,17 @@ Management Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EAS-Hani_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Staff-Profile.png" style="width:50%">
 </div>  
 <div></div>  
 </div>	
-<b>Ms Rohanidawati Bte Md Yusof</b>
+<b>Mr Syed Omar</b>
 <br>
-Customer Service Officer
+Operations Manager
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Tan-Heng-Keng_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Tan-Heng-Keng_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -93,8 +75,7 @@ Operations Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/aslinah_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/aslinah_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -104,8 +85,7 @@ Operations Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/awtecklee_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/awtecklee_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -113,10 +93,20 @@ Operations Support Officer
 <br>
 Operations Support Officer
 
+
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/jamal_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/eas-cheongsiewkheun.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+<b>Mdm Cheong Siew Kheun</b>
+<br>
+Operations Support Officer
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/jamal_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -126,8 +116,17 @@ Operations Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EAS-Sim-Puay-Hee_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/eas-jaumengjuam.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+<b>Mr Jau Meng Juam</b>
+<br>
+Operations Support Officer
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/EAS-Sim-Puay-Hee_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -137,8 +136,7 @@ Operations Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/siswandy_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/siswandy_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -148,8 +146,7 @@ Operations Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Suriyati_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Suriyati_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -159,8 +156,7 @@ Operations Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Jothi_s%20(1).jpg" 
-    style="width:50%">
+<img src="/images/Staff/Jothi_s%20(1).jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -170,8 +166,7 @@ ICT Manager
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/kent_s%20(1).jpg" 
-    style="width:50%">
+<img src="/images/Staff/kent_s%20(1).jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -181,8 +176,7 @@ ICT Manager
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Staff-Profile.png" 
-    style="width:50%">
+<img src="/images/Staff/Staff-Profile.png" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -192,8 +186,7 @@ Desktop Engineer
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/rohaya_s%20(1).jpg" 
-    style="width:50%">
+<img src="/images/Staff/rohaya_s%20(1).jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -203,8 +196,7 @@ Librarian
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/zalina_s%20(1).jpg" 
-    style="width:50%">
+<img src="/images/Staff/zalina_s%20(1).jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -214,8 +206,7 @@ Librarian Assistant
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EAS-Francis-Tan_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/EAS-Francis-Tan_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -225,8 +216,7 @@ Technical Support Officer (SLT)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EAS-Koh-Hui-Min_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/EAS-Koh-Hui-Min_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -236,8 +226,7 @@ Technical Support Officer (SLT)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EAS-Iffah_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/EAS-Iffah_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -247,22 +236,20 @@ Technical Support Officer (SLT)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EAS-Miza_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/EAS-Miza_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
 <b>Ms Miza Hamizah Binte Roslan</b>
 <br>
-Technical Support Officer (SLT)
+Technical&nbsp;Support Officer (SLT)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/LayHwa_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/LayHwa_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
 <b>Mdm Tan Lay Hwa</b>
 <br>
-Technical Support Officer (SLT)
+Technical&nbsp;Support Officer (SLT)

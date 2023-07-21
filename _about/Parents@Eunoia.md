@@ -7,6 +7,8 @@ Welcome to **Parents@Eunoia** 2023, a community for parents of Eunoians by paren
 
 We are delighted to be the parents’ voice on matters close to our hearts. As representatives of the parents of Eunoians, we aim to highlight issues such as our children's holistic well-being, university preparation, and career guidance. We seek to organise fun events to nurture parent-child bonding. We also strive to consider the needs of all Eunoians above ours, and forge to build a remarkable learning space and a brighter future for our children.
 
+![](/images/parentseunoia2023-01.jpg)
+
 #### **Executive Committee**
 
 * Ms. Yasmin Abdeen - Chairperson
@@ -17,6 +19,8 @@ We are delighted to be the parents’ voice on matters close to our hearts. As r
 * Ms. Eileen Chua - Member
 * Ms. Emma Loke - Member 
 
+![](/images/parentseunoia2023-02.jpg)
+
 #### **Our Vision**
 
 * Caring Parent
@@ -24,6 +28,8 @@ We are delighted to be the parents’ voice on matters close to our hearts. As r
 * Truthful Friend
 
 Parents@Eunoia aims to dedicate ourselves to supporting EJC and our children by working as a team and staying true to our vision. 
+
+![](/images/parentseunoia2023-03.jpg)
 
 #### **Feedback**
 

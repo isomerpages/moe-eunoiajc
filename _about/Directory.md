@@ -355,9 +355,7 @@ description: ""
 			<b> Mrs Charlotte Lee </b> charlotte.lee@ejc.edu.sg <br> 
 			<b> Mrs Danielle Low </b> danielle.marie.low@ejc.edu.sg <br> 
 			<b> Mr Darren Chong </b> darren.chong@ejc.edu.sg <br>
-			<b> Mrs Elaine Toh-Tan </b> elaine.toh@ejc.edu.sg <br> 
 			<b> Ms Eleanor Wong </b> eleanor.wong@ejc.edu.sg <br> 
-			<b> Ms Geraldine Wong </b> geraldine.wong@ejc.edu.sg <br>
 			<b> Mr Joshua Ng </b> joshua.ng@ejc.edu.sg <br> 
 			<b> Ms Kajal Kaur Khaira </b> kajal.kaur.khaira@ejc.edu.sg <br> 
 			<b> Ms Karol Ann Tan </b> karol.ann.tan@ejc.edu.sg <br> 
@@ -368,7 +366,8 @@ description: ""
 			<b> Ms Renuka Satianathan </b> renuka.satianathan@ejc.edu.sg <br>
 			<b> Mr Samuel Wong </b> samuel.wong@ejc.edu.sg <br>
 			<b> Ms Stephanie Hua </b> stephanie.hua@ejc.edu.sg <br> 
-			<b> Mr Timothy Ng </b> timothy.ng@ejc.edu.sg
+			<b> Mr Timothy Ng </b> timothy.ng@ejc.edu.sg <br>
+	<b> Ms Xu Xiuwen </b> xu.xiuwen@ejc.edu.sg <br>
 			</div>
 </li>
 	
@@ -410,7 +409,7 @@ description: ""
 			<b> Dr Edson Ng </b> edson.ng@ejc.edu.sg <br>
 			<b> Mr Marc Kenji Lim </b> marc.kenji.lim@ejc.edu.sg <br>
 			<b> Ms Ng Hui Qi </b> ng.hui.qi@ejc.edu.sg <br>
-			<b> Ms Sandra Chan </b> sandra.chan@ejc.edu.sg
+			<b> Mr Cavell Chee </b> cavell.chee@ejc.edu.sg
 			</div>
 </li>
 	
@@ -430,6 +429,7 @@ description: ""
 			<b> Mr Alvin Toh </b> alvin.toh@ejc.edu.sg <br> 
 			<b> Mr Barry Chia </b> barry.chia@ejc.edu.sg <br> 
 			<b> Mr Berner Poh </b> poh.berner@ejc.edu.sg <br> 
+			<b> Mr Chang Meng Pat </b> chang.meng.pat@ejc.edu.sg <br>
 			<b> Mr Chen Jinquan </b> chen.jinquan@ejc.edu.sg <br> 
 			<b> Mr Chng Xian Yi </b> chng.xian.yi@ejc.edu.sg <br>
 			<b> Mr Chu Wee Yong </b> chu.wee.yong@ejc.edu.sg <br> 
@@ -440,10 +440,10 @@ description: ""
 			<b> Ms Lee Ngern Sim </b> lee.ngern.sim@ejc.edu.sg <br>
 			<b> Ms Lim Yen Chui </b> lim.yen.chui@ejc.edu.sg <br>
 			<b> Mr Lim Yin </b> lim.yin@ejc.edu.sg <br> 
+	<b> Mr Lim Yoke Kuang </b> lim.yoke.kuang@ejc.edu.sg <br>
 			<b> Ms Ng Yixin </b> ng.yixin@ejc.edu.sg <br>
 			<b> Mrs Ng-Phoon Lai Yong </b>  phoon.lai.yong@ejc.edu.sg <br>
 			<b> Mr Tan Khoon Han </b> tan.khoon.han@ejc.edu.sg <br> 
-			<b> Mrs Tcheau Seow Hong </b> tcheau.seow.hong@ejc.edu.sg <br> 
 			<b> Mr Wong Jia Sheng </b> wong.jia.sheng@ejc.edu.sg
 			</div>
 </li>
@@ -494,15 +494,12 @@ description: ""
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 			<b> Ms Adrienne de Souza </b> adrienne.de.souza@ejc.edu.sg <br> 
 			<b> Mr Daniel Kwan </b> daniel.kwan@ejc.edu.sg <br>
-			<b> Ms Elaine Lim </b> elaine.lim@ejc.edu.sg <br>
 			<b> Mrs Joanne Lee </b> joanne.lee@ejc.edu.sg <br>
 			<b> Ms Iris Lee </b> iris.lee@ejc.edu.sg <br> 
 			<b> Ms Ng Lee Siah </b> ng.lee.siah@ejc.edu.sg <br>
-			<b> Mr Omar Basri Sulaimir </b> omar.basri.sulaimir@ejc.edu.sg <br>
 			<b> Ms Nadira Mohamed Sedik </b> nadira.md.sedik@ejc.edu.sg <br>
 			<b> Ms Rachel Yau </b> rachel.yau@ejc.edu.sg <br>
 			<b> Ms Vivien Ng </b> vivien.ng@ejc.edu.sg <br> 
-			<b> Ms Zulaiha Said </b> zulaiha.said@ejc.edu.sg
 			</div>
 </li>
 	
@@ -510,9 +507,7 @@ description: ""
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion48">
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion48">Tamil Language / Tamil Language and Literature</label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b> Mdm Elavarasi Sundararaju </b> ela.sundararaju@ejc.edu.sg <br> 
-			<b> Mrs Uma Thiruselvam </b> uma.thiruselvam@ejc.edu.sg 
-			</div>
+			<b> Mdm Elavarasi Sundararaju </b> elavarasi.sundararaju@ejc.edu.sg			</div>
 </li>
 	
 <li>
