@@ -7,7 +7,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Halal Cuisine (Noodle) | 31 Jul 2023&nbsp;&nbsp;&nbsp;&nbsp; | N/A&nbsp;&nbsp;&nbsp; |
+| Halal Cuisine (Others - Kebab, Wraps and Salad) | 31 Jul 2023&nbsp;&nbsp;&nbsp;&nbsp; | N/A&nbsp;&nbsp;&nbsp; |
 
 
 ### **Application Procedure**
