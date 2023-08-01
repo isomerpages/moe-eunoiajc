@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Student Culture.md
-      - CCA/Health and Fitness.md
       - CCA/.keep
       - CCA/CCAs.md
       - CCA/Badminton.md
@@ -30,6 +29,7 @@ collections:
       - CCA/Computing & Robotics.md
       - CCA/Debate.md
       - CCA/Environment Club.md
+      - CCA/Health and Fitness.md
       - CCA/Library Club.md
       - CCA/Media.md
       - CCA/Mind Sports.md
