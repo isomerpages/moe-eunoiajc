@@ -12,7 +12,7 @@ description: ""
 
 ### **Application Procedure**
  
-1. Download and complete the application form.
+1. Download and complete the application form. You may also request a hardcopy from the college’s General Office.
 
 <br>
 
@@ -30,7 +30,7 @@ description: ""
 
 * Contact No: 6351 8388
 
-* Email: [Sherilyn_Ang@schools.gov.sg](mailto:Sherilyn_Ang@schools.gov.sg)
+* Email: [eunoiajc@moe.edu.sg] (mailto:eunoiajc@moe.edu.sg)
 
 * Contact Person: Ms Sherilyn Ang
 
@@ -69,3 +69,5 @@ Applicants should preferably fulfil the following criteria:
 * Possess catering experience or experience operating in a school environment.
 
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
+
+*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.*
