@@ -4,9 +4,6 @@ permalink: /about/staff/english/ms-priyah-haritheertham/
 description: ""
 third_nav_title: English
 ---
-
-
-
 > “I cannot teach anybody anything. I can only make them think.” – Socrates
 
 I graduated from the National University of Singapore with a Bachelor’s Degree in Economics (Distinction). I also completed the University Town College Programme at Tembusu College, which turned out to be one of the best experiences of my undergraduate years as it opened up my mind to new perspectives and enabled me to form long-lasting friendships. Throughout my college life, I have had the privilege of being taught by the most passionate educators and I aspire to become like them in my journey as an educator.
@@ -15,4 +12,4 @@ Even though I have an Economics background, my passion for the English language 
 
 I look forward to growing as a General Paper teacher in Eunoia, along with the support of my friendly colleagues and experienced subject leaders. I hope to give the best to my students and help them realise their full potential during their time in Eunoia.
 
-[priyadharshini@ejc.edu.sg](mailto:priyadharshini@ejc.edu.sg)
+[priyahdharshini@ejc.edu.sg](mailto:priyahdharshini@ejc.edu.sg)
