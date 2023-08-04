@@ -191,7 +191,7 @@ description: ""
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion23">
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion23">22-O5</label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Ms Priyah Haritheertham </b>  priyah.haritheertham@ejc.edu.sg
+			<b>Ms Priyah Haritheertham </b> priyahdharshini@ejc.edu.sg
 			</div>
 </li>
 	
