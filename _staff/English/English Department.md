@@ -185,6 +185,15 @@ Teacher (Literature in English)
 
 <div>  
 <div style="float: left">  
+<img src="/images/Staff/EL-Priyah-Hari_s.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Priyah Haritheertham](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-priyah-haritheertham/) <br>
+Teacher (General Paper)
+
+<div>  
+<div style="float: left">  
 <img src="/images/Staff/EL-Renuka-Satianathan_s.jpg" style="width:50%">
 </div>  
 <div></div>  
