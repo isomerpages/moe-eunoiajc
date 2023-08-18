@@ -101,65 +101,104 @@ description: ""
 #### **2023 JC1 Civics Tutors**
 
 23-A1<br>
+<b>Ms Cao Xinxin</b><br>
+<b>Mr Daniel Kwan</b>
 
 23-A2<br>
+<b>Ms Ng Huiqi</b>
 
 23-A3<br>
+<b>Ms Ng Siow Ying</b>
 
 23-A4<br>
+<b>Ms Lu Huiping</b><br>
+<b>Mr Chuah Jun Jie</b>
 	
 23-A5<br>
+<b>Mr Ong Wee Yong</b>
 
 23-A6<br>
-	
+<b>Mr Trevor Tay</b>
+
 23-E1<br>
+<b>Mrs Wee-Chen Jinqi</b>
+<b>Mr Cavell Chee</b>
 
 23-E2<br>
+<b>Ms Chia Xin Hui</b>
 
 23-E3<br>
+<b>Mr Chng Xian Yi</b>
 
 23-E4<br>
+<b>Mdm Chen Lili</b>
 
 23-E5<br>
+<b>Mr Chua Jian Rong</b>
 
 23-E6<br>
-	
+<b>Ms Michelle Chiang</b>
+<b>Mr Lim Yoke Kuang</b>
+
 23-I1<br>
+<b>Ms Renuka Satianathan</b> renuka.satianathan@ejc.edu.sg
+<b>Ms Nadira Md Sedik</b> nadira.md.sedik@ejc.edu.sg
 
 23-I2<br>
+<b>Ms Lee Ngern Sim</b> lee.ngern.sim@ejc.edu.sg
 
 23-I3<br>
-	
+<b>Mr Samuel Wong</b><br>
+<b>Mr Chang Meng Pat</b>
+
 23-I4<br>
-	
+<b>Ms Julianna Wong</b> 
+<b>Ms Lu Jing</b>
+
 23-I5<br>
+<b>Ms Chan Xin Yu</b>
 
 23-I6<br>
+<b>Ms Ng Lee Siah</b>
 
 23-O1<br>
+<b>Ms Rachel Lim</b>
 
 23-O2<br>
+<b>Mr Wong Jia Sheng</b>
 
 23-O3<br>
+<b>Mr Peter Soh</b>
 
 23-O4<br>
+<b>Mr Benjamin Chew</b>
 
 23-O5<br>
+<b>Mr Lee Ji Heng</b>
+<b>Ms Clarice Chan</b>
 
 23-O6<br>
+<b>Mr Timothy Ng</b>
 
 23-U1<br>
+<b>Mr Crispin Rodrigues</b>
 
 23-U2<br>
+<b>Mr Joshua Ng</b>
 
 23-U3<br>
-			
+<b>Mdm Liu Shuyu</b><br>
+<b>Ms Xu Xiuwen</b>
+
 23-U4<br>
+<b>Mr Kuang Kim Chun</b>
 
 23-U5<br>
+<b>Mr Ho Hon Wing</b><br>
+<b>Mdm Pan Qun</b>
 
 23-U6<br>
-
+<b>Ms Eleanor Grace Wong</b>
 	
 #### **Subject Tutors**
 	
