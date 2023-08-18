@@ -456,7 +456,7 @@ description: ""
 	<b> Mr Robin Soh </b> robin.soh@ejc.edu.sg<br>
 	<b> Mr Soo Pui Wah </b> soo.pui.wah@ejc.edu.sg<br>
 	<b> Mr Tan Zhen Yong Keith </b> tan.zhen.yong@ejc.edu.sg<br>
-	<b> Mr Wang Guangquan </b> wang.guangquan@ejc.edu.sg<br>
+	<b> Dr Wang Guangquan </b> wang.guangquan@ejc.edu.sg<br>
 			</div>
 </li>
 	
@@ -491,4 +491,3 @@ description: ""
 			<b> Ms Yang Shu Hung </b> yang.shu.hung@ejc.edu.sg
 			</div>
 </li></ul>
-
