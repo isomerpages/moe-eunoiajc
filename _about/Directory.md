@@ -446,15 +446,17 @@ description: ""
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion46">
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion46">Physics</label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b> Mr Allen Lee </b> allen.lee@ejc.edu.sg <br>
-			<b> Mr Bryan Chan </b> bryan.chan@ejc.edu.sg <br>
-			<b> Mr Charles Cheak </b> charles.cheak@ejc.edu.sg <br>
-			<b> Mr George Danapal </b> george.danapal@ejc.edu.sg <br>
-			<b> Ms Anna Loh Kai Suan </b> loh.kai.suan@ejc.edu.sg <br>
-			<b> Ms Karine Teo </b> karine.teo@ejc.edu.sg <br>
-			<b> Mr Ng Boon Hong </b> ng.boon.hong@ejc.edu.sg <br>
-			<b> Mr Ng Jun Kiat </b> ng.jun.kiat@ejc.edu.sg <br> 
-			<b> Mr Trevor Tay </b> trevor.tay@ejc.edu.sg
+	<b> Ms Claudia Tan </b> claudia.tan@ejc.edu.sg<br>
+	<b> Mr Ho Hon Wing </b> ho.hon.wing@ejc.edu.sg<br>
+	<b> Mrs Chin-Tan Wei Lin </b> tan.wei.lin@ejc.edu.sg<br>
+	<b> Mr Koh Siong Yang </b> koh.siong.yang@ejc.edu.sg<br>
+	<b> Mr Lim Teck Seng </b> lim.teck.seng@ejc.edu.sg<br>
+	<b> Mrs Ong-Eng Yee Wen </b> eng.yee.wen@ejc.edu.sg<br>
+	<b> Mr Rizal abu Bakar </b> rizal.abu.bakar@ejc.edu.sg<br>
+	<b> Mr Robin Soh </b> robin.soh@ejc.edu.sg<br>
+	<b> Mr Soo Pui Wah </b> soo.pui.wah@ejc.edu.sg<br>
+	<b> Mr Tan Zhen Yong Keith </b> tan.zhen.yong@ejc.edu.sg<br>
+	<b> Mr Wang Guangquan </b> wang.guangquan@ejc.edu.sg<br>
 			</div>
 </li>
 	
