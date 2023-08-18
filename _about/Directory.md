@@ -98,7 +98,7 @@ description: ""
 <b>Mr Tan Khoon Han</b> tan.khoon.han@ejc.edu.sg 
 
 
-#### **2023 JC2 Civics Tutors**
+#### **2023 JC1 Civics Tutors**
 
 23-A1<br>
 
