@@ -8,8 +8,8 @@ description: ""
 <ul class="jekyllcodex_accordion">
 
 <li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion30">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion30">JC2 Civics Tutors</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion01">
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion01">JC2 Civics Tutors</label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 22-A1<br>
@@ -108,8 +108,8 @@ description: ""
 	
 
 <li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion30">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion30">JC1 Civics Tutors</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion02">
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion02">JC1 Civics Tutors</label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 23-A1<br>
 <b>Ms Cao Xinxin</b> cao.xinxin@ejc.edu.sg<br>
