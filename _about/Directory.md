@@ -6,7 +6,7 @@ description: ""
 #### **2023 JC2 Civics Tutors**
 
 22-A1<br>
-<b>Mr Sun Xiaojun</b>  sun.xiaojun@ejc.edu.sg
+<b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg
 
 22-A2<br>
 <b>Mr Justin Lim</b> justin.lim@ejc.edu.sg
@@ -15,7 +15,7 @@ description: ""
 <b>Mr Chng Tsu Pang</b> chng.tsu.pang@ejc.edu.sg
 
 22-A4<br>
-<b>Mr Lim Teck Seng</b>lim.teck.seng@ejc.edu.sg
+<b>Mr Lim Teck Seng</b> lim.teck.seng@ejc.edu.sg
 	
 22-A5<br>
 <b>Mrs Charlotte Lee </b> charlotte.lee@ejc.edu.sg
@@ -148,7 +148,7 @@ description: ""
 <b>Ms Lee Ngern Sim</b> lee.ngern.sim@ejc.edu.sg
 
 23-I3<br>
-<b>Mr Samuel Wong</b><br> samuel.wong@ejc.edu.sg
+<b>Mr Samuel Wong</b> samuel.wong@ejc.edu.sg<br>
 <b>Mr Chang Meng Pat</b> chang.meng.pat@ejc.edu.sg
 
 23-I4<br>
@@ -187,7 +187,7 @@ description: ""
 <b>Mr Joshua Ng</b> joshua.ng@ejc.edu.sg
 
 23-U3<br>
-<b>Mdm Liu Shuyu</b><br> liu.shuyu@ejc.edu.sg<br>
+<b>Mdm Liu Shuyu</b> liu.shuyu@ejc.edu.sg<br>
 <b>Ms Xu Xiuwen</b> xu.xiuwen@ejc.edu.sg
 
 23-U4<br>
