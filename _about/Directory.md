@@ -101,104 +101,104 @@ description: ""
 #### **2023 JC1 Civics Tutors**
 
 23-A1<br>
-<b>Ms Cao Xinxin</b><br>
-<b>Mr Daniel Kwan</b>
+<b>Ms Cao Xinxin</b> cao.xinxin@ejc.edu.sg<br>
+<b>Mr Daniel Kwan</b> daniel.kwan@ejc.edu.sg
 
 23-A2<br>
-<b>Ms Ng Huiqi</b>
+<b>Ms Ng Hui Qi</b> ng.hui.qi@ejc.edu.sg
 
 23-A3<br>
-<b>Ms Ng Siow Ying</b>
+<b>Ms Ng Siow Ying</b> ng.siow.ying@ejc.edu.sg
 
 23-A4<br>
-<b>Ms Lu Huiping</b><br>
-<b>Mr Chuah Jun Jie</b>
+<b>Ms Lu Huiping</b> lu.huiping@ejc.edu.sg<br>
+<b>Mr Chuah Jun Jie</b> chuah.jun.jie@ejc.edu.sg
 	
 23-A5<br>
-<b>Mr Ong Wee Yong</b>
+<b>Mr Ong Wee Yong</b> ong.wee.yong@ejc.edu.sg
 
 23-A6<br>
-<b>Mr Trevor Tay</b>
+<b>Mr Trevor Tay</b> trevor.tay@ejc.edu.sg
 
 23-E1<br>
-<b>Mrs Wee-Chen Jinqi</b>
-<b>Mr Cavell Chee</b>
+<b>Mrs Wee-Chen Jinqi</b> wee.chen.jinqi@ejc.edu.sg<br>
+<b>Mr Cavell Chee</b> cavell.chee@ejc.edu.sg
 
 23-E2<br>
-<b>Ms Chia Xin Hui</b>
+<b>Ms Chia Xin Hui</b> chia.xin.hui@ejc.edu.sg
 
 23-E3<br>
-<b>Mr Chng Xian Yi</b>
+<b>Mr Chng Xian Yi</b> chng.xian.yi@ejc.edu.sg
 
 23-E4<br>
-<b>Mdm Chen Lili</b>
+<b>Mdm Chen Lili</b> chen.lili@ejc.edu.sg
 
 23-E5<br>
-<b>Mr Chua Jian Rong</b>
+<b>Mr Chua Jian Rong</b> chua.jian.rong@ejc.edu.sg
 
 23-E6<br>
-<b>Ms Michelle Chiang</b>
-<b>Mr Lim Yoke Kuang</b>
+<b>Ms Michelle Chiang</b> michelle.chiang@ejc.edu.sg<br>
+<b>Mr Lim Yoke Kuang</b> lim.yoke.kuang@ejc.edu.sg
 
 23-I1<br>
-<b>Ms Renuka Satianathan</b> renuka.satianathan@ejc.edu.sg
+<b>Ms Renuka Satianathan</b> renuka.satianathan@ejc.edu.sg<br>
 <b>Ms Nadira Md Sedik</b> nadira.md.sedik@ejc.edu.sg
 
 23-I2<br>
 <b>Ms Lee Ngern Sim</b> lee.ngern.sim@ejc.edu.sg
 
 23-I3<br>
-<b>Mr Samuel Wong</b><br>
-<b>Mr Chang Meng Pat</b>
+<b>Mr Samuel Wong</b><br> samuel.wong@ejc.edu.sg
+<b>Mr Chang Meng Pat</b> chang.meng.pat@ejc.edu.sg
 
 23-I4<br>
-<b>Ms Julianna Wong</b> 
-<b>Ms Lu Jing</b>
+<b>Ms Julianna Wong</b> julianna.wong@ejc.edu.sg<br>
+<b>Ms Lu Jing</b> lu.jing@ejc.edu.sg
 
 23-I5<br>
-<b>Ms Chan Xin Yu</b>
+<b>Ms Chan Xin Yu</b> chan.xin.yu@ejc.edu.sg
 
 23-I6<br>
-<b>Ms Ng Lee Siah</b>
+<b>Ms Ng Lee Siah</b> ng.lee.siah@ejc.edu.sg
 
 23-O1<br>
-<b>Ms Rachel Lim</b>
+<b>Ms Rachel Lim</b> rachel.lim@ejc.edu.sg
 
 23-O2<br>
-<b>Mr Wong Jia Sheng</b>
+<b>Mr Wong Jia Sheng</b> wong.jia.sheng@ejc.edu.sg
 
 23-O3<br>
-<b>Mr Peter Soh</b>
+<b>Mr Peter Soh</b> peter.soh@ejc.edu.sg
 
 23-O4<br>
-<b>Mr Benjamin Chew</b>
+<b>Mr Benjamin Chew</b> benjamin.chew@ejc.edu.sg
 
 23-O5<br>
-<b>Mr Lee Ji Heng</b>
-<b>Ms Clarice Chan</b>
+<b>Mr Lee Ji Heng</b> lee.ji.heng@ejc.edu.sg<br>
+<b>Ms Clarice Chan</b> clarice.chan@ejc.edu.sg
 
 23-O6<br>
-<b>Mr Timothy Ng</b>
+<b>Mr Timothy Ng</b> timothy.ng@ejc.edu.sg
 
 23-U1<br>
-<b>Mr Crispin Rodrigues</b>
+<b>Mr Crispin Rodrigues</b> crispin.rodrigues@ejc.edu.sg
 
 23-U2<br>
-<b>Mr Joshua Ng</b>
+<b>Mr Joshua Ng</b> joshua.ng@ejc.edu.sg
 
 23-U3<br>
-<b>Mdm Liu Shuyu</b><br>
-<b>Ms Xu Xiuwen</b>
+<b>Mdm Liu Shuyu</b><br> liu.shuyu@ejc.edu.sg<br>
+<b>Ms Xu Xiuwen</b> xu.xiuwen@ejc.edu.sg
 
 23-U4<br>
-<b>Mr Kuang Kim Chun</b>
+<b>Mr Kuang Kim Chun</b> kuang.kim.chun@ejc.edu.sg
 
 23-U5<br>
-<b>Mr Ho Hon Wing</b><br>
-<b>Mdm Pan Qun</b>
+<b>Mr Ho Hon Wing</b> ho.hon.wing@ejc.edu.sg<br>
+<b>Mdm Pan Qun</b> pan.qun@ejc.edu.sg
 
 23-U6<br>
-<b>Ms Eleanor Grace Wong</b>
+<b>Ms Eleanor Grace Wong</b> eleanor.wong@ejc.edu.sg
 	
 #### **Subject Tutors**
 	
