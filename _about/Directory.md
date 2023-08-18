@@ -13,93 +13,93 @@ description: ""
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 22-A1<br>
-<b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg
+<b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg<br><br>
 
 22-A2<br>
-<b>Mr Justin Lim</b> justin.lim@ejc.edu.sg
+<b>Mr Justin Lim</b> justin.lim@ejc.edu.sg<br><br>
 
 22-A3<br>
-<b>Mr Chng Tsu Pang</b> chng.tsu.pang@ejc.edu.sg
+<b>Mr Chng Tsu Pang</b> chng.tsu.pang@ejc.edu.sg<br><br>
 
 22-A4<br>
-<b>Mr Lim Teck Seng</b> lim.teck.seng@ejc.edu.sg
+<b>Mr Lim Teck Seng</b> lim.teck.seng@ejc.edu.sg<br><br>
 	
 22-A5<br>
-<b>Mrs Charlotte Lee </b> charlotte.lee@ejc.edu.sg
+<b>Mrs Charlotte Lee </b> charlotte.lee@ejc.edu.sg<br><br>
 
 22-A6<br>
-<b>Ms Lim Yen Chui </b> lim.yen.chui@ejc.edu.sg
+<b>Ms Lim Yen Chui </b> lim.yen.chui@ejc.edu.sg<br><br>
 	
 22-E1<br>
-<b>Ms Quek Jia Qi </b> quek.jia.qi@ejc.edu.sg
+<b>Ms Quek Jia Qi </b> quek.jia.qi@ejc.edu.sg<br><br>
 
 22-E2<br>
 <b>Mr Ng Boon Hong</b> ng.boon.hong@ejc.edu.sg <br>
-<b>Mr Kelvin Teo</b> kelvin.teo@ejc.edu.sg
+<b>Mr Kelvin Teo</b> kelvin.teo@ejc.edu.sg<br><br>
 
 22-E3<br>
-<b>Mrs Yew-Tay Li Kim</b> tay.li.kim@ejc.edu.sg 
+<b>Mrs Yew-Tay Li Kim</b> tay.li.kim@ejc.edu.sg <br><br>
 
 22-E4<br>
-<b>Mrs Ng-Phoon Lai Yong</b>  phoon.lai.yong@ejc.edu.sg
+<b>Mrs Ng-Phoon Lai Yong</b>  phoon.lai.yong@ejc.edu.sg<br><br>
 
 22-E5<br>
-<b>Ms Serene Tan</b> serene.tan@ejc.edu.sg<br>
+<b>Ms Serene Tan</b> serene.tan@ejc.edu.sg<br><br>
 
 22-E6<br>
-<b>Mr Ma Mingwei</b> ma.mingwei@ejc.edu.sg
+<b>Mr Ma Mingwei</b> ma.mingwei@ejc.edu.sg<br><br>
 	
 22-I1<br>
-<b>Ms Anna Loh Kai Suan</b> loh.kai.suan@ejc.edu.sg
+<b>Ms Anna Loh Kai Suan</b> loh.kai.suan@ejc.edu.sg<br><br>
 
 22-I2<br>
-<b>Ms Cham Bei Qing</b> cham.bei.qing@ejc.edu.sg <br>
+<b>Ms Cham Bei Qing</b> cham.bei.qing@ejc.edu.sg <br><br>
 	
 
 22-I3<br>
-<b>Ms Karol Ann Tan</b> karol.ann.tan@ejc.edu.sg
+<b>Ms Karol Ann Tan</b> karol.ann.tan@ejc.edu.sg<br><br>
 	
 22-I4<br>
 <b>Dr Wang Guangquan</b>  wang.guangquan@ejc.edu.sg <br>
-<b>Mr Darren Chong</b> darren.chong@ejc.edu.sg
+<b>Mr Darren Chong</b> darren.chong@ejc.edu.sg<br><br>
 	
 22-I5<br>
-<b>Mr Ng Jun Kiat</b> ng.jun.kiat@ejc.edu.sg
+<b>Mr Ng Jun Kiat</b> ng.jun.kiat@ejc.edu.sg<br><br>
 
 22-I6<br>
-<b>Ms Ng Yixin </b> ng.yixin@ejc.edu.sg
+<b>Ms Ng Yixin </b> ng.yixin@ejc.edu.sg<br><br>
 
 22-O1<br>
 <b>Mr Allen Lee</b> allen.lee@ejc.edu.sg <br>
-<b>Dr Edson Ng </b> edson.ng@ejc.edu.sg
+<b>Dr Edson Ng </b> edson.ng@ejc.edu.sg<br><br>
 
 22-O2<br>
-<b>Ms Kajal Kaur Khaira </b>  kajal.kaur.khaira@ejc.edu.sg
+<b>Ms Kajal Kaur Khaira </b>  kajal.kaur.khaira@ejc.edu.sg<br><br>
 
 22-O3<br>
-<b>Ms Elizabeth Chin </b> elizabeth.chin@ejc.edu.sg
+<b>Ms Elizabeth Chin </b> elizabeth.chin@ejc.edu.sg<br><br>
 
 22-O4<br>
-<b>Mr Tan Zhen Yong Keith</b> tan.zhen.yong@ejc.edu.sg
+<b>Mr Tan Zhen Yong Keith</b> tan.zhen.yong@ejc.edu.sg<br><br>
 
 22-O5<br>
 <b>Ms Priyah Haritheertham</b> priyahdharshini@ejc.edu.sg<br>
-<b>Mr Alex Teo</b> alex.teo@ejc.edu.sg
+<b>Mr Alex Teo</b> alex.teo@ejc.edu.sg<br><br>
 
 22-O6<br>
-<b>Mrs Chin-Tan Wei Lin</b> tan.wei.lin@ejc.edu.sg
+<b>Mrs Chin-Tan Wei Lin</b> tan.wei.lin@ejc.edu.sg<br><br>
 
 22-U1<br>
-<b>Ms Elena Tan</b> elena.tan@ejc.edu.sg
+<b>Ms Elena Tan</b> elena.tan@ejc.edu.sg<br><br>
 
 22-U2<br>
-<b>Ms Emeline Choo</b> emeline.choo@ejc.edu.sg
+<b>Ms Emeline Choo</b> emeline.choo@ejc.edu.sg<br><br>
 
 22-U3<br>
-<b>Mr Chen Jinquan </b> chen.jinquan@ejc.edu.sg
+<b>Mr Chen Jinquan </b> chen.jinquan@ejc.edu.sg<br><br>
 			
 22-U4<br>
-<b>Mr Bryan Chan</b> bryan.chan@ejc.edu.sg
+<b>Mr Bryan Chan</b> bryan.chan@ejc.edu.sg<br><br>
 
 22-U5<br>
 <b>Mr Tan Khoon Han</b> tan.khoon.han@ejc.edu.sg 
