@@ -3,246 +3,216 @@ title: Directory
 permalink: /about/directory/
 description: ""
 ---
-#### **2023 JC2 Civics Tutors**
-
+#### **Civics Tutors**
+	
 <ul class="jekyllcodex_accordion">
-<li>
-<input type="checkbox" id="accordion1">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">22-A1</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg
-</div>
-</li>
 
 <li>
-<input type="checkbox" id="accordion2">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">22-A2</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion01">
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion01">JC2 Civics Tutors</label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Mr Justin Lim</b> justin.lim@ejc.edu.sg
-			</div>
-</li>
+
+22-A1<br>
+<b>Mr Sun Xiaojun</b> sun.xiaojun@ejc.edu.sg<br><br>
+
+22-A2<br>
+<b>Mr Justin Lim</b> justin.lim@ejc.edu.sg<br><br>
+
+22-A3<br>
+<b>Mr Chng Tsu Pang</b> chng.tsu.pang@ejc.edu.sg<br><br>
+
+22-A4<br>
+<b>Mr Lim Teck Seng</b> lim.teck.seng@ejc.edu.sg<br><br>
 	
-<li>
-<input type="checkbox" id="accordion3">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">22-A3</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Mr Chng Tsu Pang</b> chng.tsu.pang@ejc.edu.sg
-			</div>
-</li>
+22-A5<br>
+<b>Mrs Charlotte Lee </b> charlotte.lee@ejc.edu.sg<br><br>
+
+22-A6<br>
+<b>Ms Lim Yen Chui </b> lim.yen.chui@ejc.edu.sg<br><br>
 	
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">22-A4</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Mr Lim Teck Seng </b> lim.teck.seng@ejc.edu.sg
-			</div>
-</li>
+22-E1<br>
+<b>Ms Quek Jia Qi </b> quek.jia.qi@ejc.edu.sg<br><br>
+
+22-E2<br>
+<b>Mr Ng Boon Hong</b> ng.boon.hong@ejc.edu.sg <br>
+<b>Mr Kelvin Teo</b> kelvin.teo@ejc.edu.sg<br><br>
+
+22-E3<br>
+<b>Mrs Yew-Tay Li Kim</b> tay.li.kim@ejc.edu.sg <br><br>
+
+22-E4<br>
+<b>Mrs Ng-Phoon Lai Yong</b>  phoon.lai.yong@ejc.edu.sg<br><br>
+
+22-E5<br>
+<b>Ms Serene Tan</b> serene.tan@ejc.edu.sg<br><br>
+
+22-E6<br>
+<b>Mr Ma Mingwei</b> ma.mingwei@ejc.edu.sg<br><br>
 	
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion5">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion5">22-A5</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Mrs Charlotte Lee </b> charlotte.lee@ejc.edu.sg
-			</div>
-</li>
+22-I1<br>
+<b>Ms Anna Loh Kai Suan</b> loh.kai.suan@ejc.edu.sg<br><br>
+
+22-I2<br>
+<b>Ms Cham Bei Qing</b> cham.bei.qing@ejc.edu.sg <br><br>
 	
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion6">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion6">22-A6</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Ms Lim Yen Chui </b> lim.yen.chui@ejc.edu.sg
-			</div>
-</li>
+
+22-I3<br>
+<b>Ms Karol Ann Tan</b> karol.ann.tan@ejc.edu.sg<br><br>
 	
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion7">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion7">22-E1</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Ms Quek Jia Qi </b> quek.jia.qi@ejc.edu.sg
-			</div>
-</li>
+22-I4<br>
+<b>Dr Wang Guangquan</b>  wang.guangquan@ejc.edu.sg <br>
+<b>Mr Darren Chong</b> darren.chong@ejc.edu.sg<br><br>
 	
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion8">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion8">22-E2</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Mr Ng Boon Hong</b> ng.boon.hong@ejc.edu.sg <br> <b>Mr Kelvin Teo </b> kelvin.teo@ejc.edu.sg
-			</div>
-</li>
+22-I5<br>
+<b>Mr Ng Jun Kiat</b> ng.jun.kiat@ejc.edu.sg<br><br>
+
+22-I6<br>
+<b>Ms Ng Yixin </b> ng.yixin@ejc.edu.sg<br><br>
+
+22-O1<br>
+<b>Mr Allen Lee</b> allen.lee@ejc.edu.sg <br>
+<b>Dr Edson Ng </b> edson.ng@ejc.edu.sg<br><br>
+
+22-O2<br>
+<b>Ms Kajal Kaur Khaira </b>  kajal.kaur.khaira@ejc.edu.sg<br><br>
+
+22-O3<br>
+<b>Ms Elizabeth Chin </b> elizabeth.chin@ejc.edu.sg<br><br>
+
+22-O4<br>
+<b>Mr Tan Zhen Yong Keith</b> tan.zhen.yong@ejc.edu.sg<br><br>
+
+22-O5<br>
+<b>Ms Priyah Haritheertham</b> priyahdharshini@ejc.edu.sg<br>
+<b>Mr Alex Teo</b> alex.teo@ejc.edu.sg<br><br>
+
+22-O6<br>
+<b>Mrs Chin-Tan Wei Lin</b> tan.wei.lin@ejc.edu.sg<br><br>
+
+22-U1<br>
+<b>Ms Elena Tan</b> elena.tan@ejc.edu.sg<br><br>
+
+22-U2<br>
+<b>Ms Emeline Choo</b> emeline.choo@ejc.edu.sg<br><br>
+
+22-U3<br>
+<b>Mr Chen Jinquan </b> chen.jinquan@ejc.edu.sg<br><br>
+			
+22-U4<br>
+<b>Mr Bryan Chan</b> bryan.chan@ejc.edu.sg<br><br>
+
+22-U5<br>
+<b>Mr Tan Khoon Han</b> tan.khoon.han@ejc.edu.sg 
+	</div>
+	</li>
 	
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion9">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion9">22-E3</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Mrs Yew-Tay Li Kim</b> tay.li.kim@ejc.edu.sg <br>
-			<b>Mrs Uma Thiruselvam</b>  uma.thiruselvam@ejc.edu.sg
-			</div>
-</li>
-	
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion10">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion10">22-E4</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Mrs Ng-Phoon Lai Yong</b>  phoon.lai.yong@ejc.edu.sg
-			</div>
-</li>
-	
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion11">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion11">22-E5</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Ms Serene Tan</b> serene.tan@ejc.edu.sg <br>
-			<b>Ms Ng Yi Xin</b> ng.yi.xin@ejc.edu.sg
-			</div>
-</li>
-	
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion12">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion12">22-E6</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Mr Ma Mingwei</b> ma.mingwei@ejc.edu.sg
-			</div>
-</li>
-	
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion13">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion13">22-I1</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Ms Anna Loh Kai Suan</b> loh.kai.suan@ejc.edu.sg
-			</div>
-</li>
-	
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion14">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion14">22-I2</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Ms Cham Bei Qing</b> cham.bei.qing@ejc.edu.sg <br> <b>Mr Chuah Jun Jie</b> chuah.jun.jie@ejc.edu.sg
-			</div>
-</li>
-	
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion15">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion15">22-I3</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Ms Karol Ann Tan</b> karol.ann.tan@ejc.edu.sg
-			</div>
-</li>
-	
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion16">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion16">22-I4</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Dr Wang Guangquan</b>  wang.guangquan@ejc.edu.sg <br>
-			<b>Mr Darren Chong</b> darren.chong@ejc.edu.sg
-			</div>
-</li>
-	
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion17">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion17">22-I5</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Mr Ng Jun Kiat</b> ng.jun.kiat@ejc.edu.sg
-			</div>
-</li>
-	
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion18">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion18">22-I6</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Mr Ng Yixin </b> ng.yixin@ejc.edu.sg <br>
-			<b>Ms Leong Wymin </b> leong.wymin@ejc.edu.sg
-			</div>
-</li>
-	
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion19">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion19">22-O1</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Mr Allen Lee</b> allen.lee@ejc.edu.sg <br>
-			<b>Dr Edson Ng </b> edson.ng@ejc.edu.sg
-			</div>
-</li>
-	
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion20">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion20">22-O2</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Ms Kajal Kaur Khaira </b>  kajal.kaur.khaira@ejc.edu.sg
-			</div>
-</li>
-	
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion21">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion21">22-O3</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Ms Elizabeth Chin </b> elizabeth.chin@ejc.edu.sg
-			</div>
-</li>
-	
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion22">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion22">22-O4</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Mr Tan Zhen Yong Keith</b> tan.zhen.yong@ejc.edu.sg
-			</div>
-</li>
-	
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion23">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion23">22-O5</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Ms Priyah Haritheertham </b> priyahdharshini@ejc.edu.sg
-			</div>
-</li>
-	
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion24">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion24">22-O6</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Mrs Chin-Tan Wei Lin</b> tan.wei.lin@ejc.edu.sg
-			</div>
-</li>
-	
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion25">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion25">22-U1</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Ms Elena Tan</b> elena.tan@ejc.edu.sg
-			</div>
-</li>
-	
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion26">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion26">22-U2</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Ms Emeline Choo</b> emeline.choo@ejc.edu.sg
-			</div>
-</li>
-	
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion27">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion27">22-U3</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Mr Chen Jinquan </b> chen.jinquan@ejc.edu.sg
-			</div>
-</li>
-	
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion28">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion28">22-U4</label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Mr Bryan Chan</b> bryan.chan@ejc.edu.sg
-			</div>
-</li>
 
 <li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion29">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion29">22-U5</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion02">
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion02">JC1 Civics Tutors</label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b>Mr Tan Khoon Han</b> tan.khoon.han@ejc.edu.sg
-			</div>
-</li>
-</ul>
+23-A1<br>
+<b>Ms Cao Xinxin</b> cao.xinxin@ejc.edu.sg<br>
+<b>Mr Daniel Kwan</b> daniel.kwan@ejc.edu.sg<br><br>
+
+23-A2<br>
+<b>Ms Ng Hui Qi</b> ng.hui.qi@ejc.edu.sg<br><br>
+
+23-A3<br>
+<b>Ms Ng Siow Ying</b> ng.siow.ying@ejc.edu.sg<br><br>
+
+23-A4<br>
+<b>Ms Lu Huiping</b> lu.huiping@ejc.edu.sg<br>
+<b>Mr Chuah Jun Jie</b> chuah.jun.jie@ejc.edu.sg<br><br>
+	
+23-A5<br>
+<b>Mr Ong Wee Yong</b> ong.wee.yong@ejc.edu.sg<br><br>
+
+23-A6<br>
+<b>Mr Trevor Tay</b> trevor.tay@ejc.edu.sg<br><br>
+
+23-E1<br>
+<b>Mrs Wee-Chen Jinqi</b> wee.chen.jinqi@ejc.edu.sg<br>
+<b>Mr Cavell Chee</b> cavell.chee@ejc.edu.sg<br><br>
+
+23-E2<br>
+<b>Ms Chia Xin Hui</b> chia.xin.hui@ejc.edu.sg<br><br>
+
+23-E3<br>
+<b>Mr Chng Xian Yi</b> chng.xian.yi@ejc.edu.sg<br><br>
+
+23-E4<br>
+<b>Mdm Chen Lili</b> chen.lili@ejc.edu.sg<br><br>
+
+23-E5<br>
+<b>Mr Chua Jian Rong</b> chua.jian.rong@ejc.edu.sg<br><br>
+
+23-E6<br>
+<b>Ms Michelle Chiang</b> michelle.chiang@ejc.edu.sg<br>
+<b>Mr Lim Yoke Kuang</b> lim.yoke.kuang@ejc.edu.sg<br><br>
+
+23-I1<br>
+<b>Ms Renuka Satianathan</b> renuka.satianathan@ejc.edu.sg<br>
+<b>Ms Nadira Md Sedik</b> nadira.md.sedik@ejc.edu.sg<br><br>
+
+23-I2<br>
+<b>Ms Lee Ngern Sim</b> lee.ngern.sim@ejc.edu.sg<br><br>
+
+23-I3<br>
+<b>Mr Samuel Wong</b> samuel.wong@ejc.edu.sg<br>
+<b>Mr Chang Meng Pat</b> chang.meng.pat@ejc.edu.sg<br><br>
+
+23-I4<br>
+<b>Ms Julianna Wong</b> julianna.wong@ejc.edu.sg<br>
+<b>Ms Lu Jing</b> lu.jing@ejc.edu.sg<br><br>
+
+23-I5<br>
+<b>Ms Chan Xin Yu</b> chan.xin.yu@ejc.edu.sg<br><br>
+
+23-I6<br>
+<b>Ms Ng Lee Siah</b> ng.lee.siah@ejc.edu.sg<br><br>
+
+23-O1<br>
+<b>Ms Rachel Lim</b> rachel.lim@ejc.edu.sg<br><br>
+
+23-O2<br>
+<b>Mr Wong Jia Sheng</b> wong.jia.sheng@ejc.edu.sg<br><br>
+
+23-O3<br>
+<b>Mr Peter Soh</b> peter.soh@ejc.edu.sg<br><br>
+
+23-O4<br>
+<b>Mr Benjamin Chew</b> benjamin.chew@ejc.edu.sg<br><br>
+
+23-O5<br>
+<b>Mr Lee Ji Heng</b> lee.ji.heng@ejc.edu.sg<br>
+<b>Ms Clarice Chan</b> clarice.chan@ejc.edu.sg<br><br>
+
+23-O6<br>
+<b>Mr Timothy Ng</b> timothy.ng@ejc.edu.sg<br><br>
+
+23-U1<br>
+<b>Mr Crispin Rodrigues</b> crispin.rodrigues@ejc.edu.sg<br><br>
+
+23-U2<br>
+<b>Mr Joshua Ng</b> joshua.ng@ejc.edu.sg<br><br>
+
+23-U3<br>
+<b>Mdm Liu Shuyu</b> liu.shuyu@ejc.edu.sg<br>
+<b>Ms Xu Xiuwen</b> xu.xiuwen@ejc.edu.sg<br><br>
+
+23-U4<br>
+<b>Mr Kuang Kim Chun</b> kuang.kim.chun@ejc.edu.sg<br><br>
+
+23-U5<br>
+<b>Mr Ho Hon Wing</b> ho.hon.wing@ejc.edu.sg<br>
+<b>Mdm Pan Qun</b> pan.qun@ejc.edu.sg<br><br>
+
+23-U6<br>
+<b>Ms Eleanor Grace Wong</b> eleanor.wong@ejc.edu.sg
+		</div>
+	</li></ul>
+
 	
 #### **Subject Tutors**
 	
@@ -476,15 +446,17 @@ description: ""
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion46">
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion46">Physics</label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
-			<b> Mr Allen Lee </b> allen.lee@ejc.edu.sg <br>
-			<b> Mr Bryan Chan </b> bryan.chan@ejc.edu.sg <br>
-			<b> Mr Charles Cheak </b> charles.cheak@ejc.edu.sg <br>
-			<b> Mr George Danapal </b> george.danapal@ejc.edu.sg <br>
-			<b> Ms Anna Loh Kai Suan </b> loh.kai.suan@ejc.edu.sg <br>
-			<b> Ms Karine Teo </b> karine.teo@ejc.edu.sg <br>
-			<b> Mr Ng Boon Hong </b> ng.boon.hong@ejc.edu.sg <br>
-			<b> Mr Ng Jun Kiat </b> ng.jun.kiat@ejc.edu.sg <br> 
-			<b> Mr Trevor Tay </b> trevor.tay@ejc.edu.sg
+	<b> Ms Claudia Tan </b> claudia.tan@ejc.edu.sg<br>
+	<b> Mr Ho Hon Wing </b> ho.hon.wing@ejc.edu.sg<br>
+	<b> Mrs Chin-Tan Wei Lin </b> tan.wei.lin@ejc.edu.sg<br>
+	<b> Mr Koh Siong Yang </b> koh.siong.yang@ejc.edu.sg<br>
+	<b> Mr Lim Teck Seng </b> lim.teck.seng@ejc.edu.sg<br>
+	<b> Mrs Ong-Eng Yee Wen </b> eng.yee.wen@ejc.edu.sg<br>
+	<b> Mr Rizal abu Bakar </b> rizal.abu.bakar@ejc.edu.sg<br>
+	<b> Mr Robin Soh </b> robin.soh@ejc.edu.sg<br>
+	<b> Mr Soo Pui Wah </b> soo.pui.wah@ejc.edu.sg<br>
+	<b> Mr Tan Zhen Yong Keith </b> tan.zhen.yong@ejc.edu.sg<br>
+	<b> Dr Wang Guangquan </b> wang.guangquan@ejc.edu.sg<br>
 			</div>
 </li>
 	
