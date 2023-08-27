@@ -34,7 +34,7 @@ All students offer **[H1 General Paper](/academic-subjects/Knowledge-Skills/gen
 
 In their first year, students must offer **[H1 Project Work](/academic-subjects/Knowledge-Skills/project-work/)**.
 
-###### **LNFUFWA**
+###### **LANGUAGES**
 
 Students must offer **[H1 Mother Tongue](/academic-subjects/Languages/mother-tongue-languages/)** unless they have obtained a minimum of D7 for Higher Mother Tongue at O-Level.
 
