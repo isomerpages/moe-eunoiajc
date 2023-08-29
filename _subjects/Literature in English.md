@@ -24,18 +24,6 @@ The college is offering the following papers and texts for the academic course o
 *   Harold Pinter: _The Caretaker_ (Faber)
 *   Sylvia Plath: _Ariel_ (Faber)
 
-The college is offering the following papers and texts for the academic course of 2024-2025:
-
-**Paper One: Reading Literature**
-
-*   Charlotte Brontë: _Jane Eyre_ (Penguin)
-*   William Shakespeare: _The Winter's Tale_ (New Cambridge)
-
-**Paper Two: Reading Literature _featuring_ the English Romantic Period (1785–1832)**
-
-*   Henrik Ibsen: _An Enemy of the People_ (Oxford World's Classics)
-*   John Keats: selection of poems (Penguin)
-*   Percy Bysshe Shelley: selection of poems (Penguin)
 
 #### **Our Enrichment**
 
