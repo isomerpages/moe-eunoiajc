@@ -24,9 +24,22 @@ The college is offering the following papers and texts for the academic course o
 *   Harold Pinter: _The Caretaker_ (Faber)
 *   Sylvia Plath: _Ariel_ (Faber)
 
+The college is offering the following papers and texts for the academic course of 2024-2025:
+
+**Paper One: Reading Literature**
+
+*   Charlotte Brontë: _Jane Eyre_ (Penguin)
+*   William Shakespeare: _The Winter's Tale_ (New Cambridge)
+
+**Paper Two: Reading Literature _featuring_ the English Romantic Period (1785–1832)**
+
+*   Henrik Ibsen: _An Enemy of the People_ (Oxford World's Classics)
+*   John Keats: selection of poems (Penguin)
+*   Percy Bysshe Shelley: selection of poems (Penguin)
+
 #### **Our Enrichment**
 
-In EJC, words leap off the page onto the stage. With our Eunoia Writer-in-Residence programme, you can encounter and pursue creative writing and performance first-hand. Set the rhythm at our own poetry slam competitions, have your work featured in our in-house literary publication or literally bring your texts into the spotlight at our annual literary festival. When we say Literature is life, we really mean it.
+In EJC, words leap off the page onto the stage. With our Drama programme, we will encounter and pursue dramatic writing, performance and production first-hand. We bring our texts into the spotlight at our annual Literature Festival. When we say Literature is life, we really mean it.
 
 #### **Syllabus Documents**
 
