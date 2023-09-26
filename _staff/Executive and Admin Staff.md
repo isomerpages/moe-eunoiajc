@@ -136,16 +136,6 @@ Operations Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/siswandy_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Mr Siswandy Bin Abdul Rahim</b>
-<br>
-Operations Support Officer
-
-<div>  
-<div style="float: left">  
 <img src="/images/Staff/Suriyati_s.jpg" style="width:50%">
 </div>  
 <div></div>  
@@ -173,16 +163,6 @@ ICT Manager
 <b>Mr Kent Chua Boon Hwee</b>
 <br>
 ICT Manager
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/Staff-Profile.png" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Mr Joshua Lim</b>
-<br>
-Desktop Engineer
 
 <div>  
 <div style="float: left">  

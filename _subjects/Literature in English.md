@@ -24,9 +24,10 @@ The college is offering the following papers and texts for the academic course o
 *   Harold Pinter: _The Caretaker_ (Faber)
 *   Sylvia Plath: _Ariel_ (Faber)
 
+
 #### **Our Enrichment**
 
-In EJC, words leap off the page onto the stage. With our Eunoia Writer-in-Residence programme, you can encounter and pursue creative writing and performance first-hand. Set the rhythm at our own poetry slam competitions, have your work featured in our in-house literary publication or literally bring your texts into the spotlight at our annual literary festival. When we say Literature is life, we really mean it.
+In EJC, words leap off the page onto the stage. With our Drama programme, we will encounter and pursue dramatic writing, performance and production first-hand. We bring our texts into the spotlight at our annual Literature Festival. When we say Literature is life, we really mean it.
 
 #### **Syllabus Documents**
 
