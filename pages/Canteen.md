@@ -7,13 +7,15 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Halal Cuisine (Others - Kebab, Wraps and Salad) | 31 Jul 2023&nbsp;&nbsp;&nbsp;&nbsp; | N/A&nbsp;&nbsp;&nbsp; |
+| Asian Cuisine (Halal Japanese/Korean) | 30 Nov 2023&nbsp;&nbsp;&nbsp;&nbsp; | N/A&nbsp;&nbsp;&nbsp; |
 
 
 ### **Application Procedure**
  
 1. Download and complete the application form. You may also request a hardcopy from the college’s General Office.
 
+<br>
+[Canteen Vendor Application](/files/canteen%20vendor%20application.pdf)
 <br>
 
 2. Attach the following documents together with the application form:
@@ -30,7 +32,7 @@ description: ""
 
 * Contact No: 6351 8388
 
-* Email: [eunoiajc@moe.edu.sg] (mailto:eunoiajc@moe.edu.sg)
+* Email: [eunoiajc@moe.edu.sg](mailto:eunoiajc@moe.edu.sg)
 
 * Contact Person: Ms Sherilyn Ang
 
