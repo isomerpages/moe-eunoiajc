@@ -31,7 +31,7 @@ School Counsellor
 </div>	
 [Ms Yang Shu Hung](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/ms-yang-shu-hung/)
 <br>
-Dean (JC1)
+Dean (JC2)
 
 <div>  
 <div style="float: left">  
@@ -41,17 +41,7 @@ Dean (JC1)
 </div>	
 [Mr Jared Goh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/arts/mr-jared-goh/)
 <br>
-Dean (JC2)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/Sci-Zulaiha-Said_s%20(1).jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Ms Zulaiha Said](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-zulaiha-said/)
-<br>
-Deputy Dean (JC1)
+Dean (JC1)
 
 <div>  
 <div style="float: left">  
@@ -61,7 +51,7 @@ Deputy Dean (JC1)
 </div>	
 [Ms&nbsp;Karine Teo](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/pe/ms-karine-teo/)
 <br>
-Deputy Dean (JC2)
+Deputy Dean (JC1)
 
 <div>  
 <div style="float: left">  
@@ -75,12 +65,11 @@ Teacher (Biology)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Tan-Fangxi_s%20(1).jpg" style="width:50%">
+<img src="/images/Staff/mtl-elavarasi_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
-[Ms Tan Fangxi](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-tan-fangxi/)
-<br>
+[Mdm Elavarasi Sundararaju](https://staging.d2ftoa31ukircm.amplifyapp.com/staff/mtl/mdm-elavarasi/)<br>
 HOD (Character &amp; Citizenship Education)
 
 <div>  
@@ -105,15 +94,6 @@ HOD (Student Leadership &amp; Talent Management)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/mtl-elavarasi_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Mdm Elavarasi Sundararaju](https://staging.d2ftoa31ukircm.amplifyapp.com/staff/mtl/mdm-elavarasi/)<br>
-Lead Teacher (Character &amp; Citizenship Education)
-
-<div>  
-<div style="float: left">  
 <img src="/images/Staff/PE-George-Danapal_s%20(1).jpg" style="width:50%">
 </div>  
 <div></div>  
@@ -132,12 +112,13 @@ Deputy Head (CCA)
 <br>
 Deputy Head (Character &amp; Citizenship Education)
 
+
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Suellen-Goh_s%20(1).jpg" style="width:50%">
+<img src="/images/Staff/Sci-Zulaiha-Said_s%20(1).jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
-[Ms Suellen Goh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-suellen-goh/)
+[Ms Zulaiha Said](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-zulaiha-said/)
 <br>
 Deputy Head (Character &amp; Citizenship Education)
