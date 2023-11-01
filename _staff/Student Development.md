@@ -35,6 +35,16 @@ Dean (JC2)
 
 <div>  
 <div style="float: left">  
+<img src="/images/Staff/Econs-Michelle-Chiang_s.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Michelle Chiang](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-michelle-chiang)
+<br>
+Deputy Dean (JC2)
+
+<div>  
+<div style="float: left">  
 <img src="/images/Staff/Arts-Jared-Goh_s%20(1).jpg" style="width:50%">
 </div>  
 <div></div>  
