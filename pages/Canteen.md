@@ -12,11 +12,9 @@ description: ""
 
 ### **Application Procedure**
  
-(1) Download and complete the application form. You may also request a hard copy from the college’s General Office.
+(1) Download and complete the [Canteen Vendor Application](/files/canteen%20vendor%20application.pdf) form. You may also request a hard copy from the college’s General Office.
 
-<br>
-[Canteen Vendor Application](/files/canteen%20vendor%20application.pdf)
-<br>
+
 
 (2) Attach the following documents together with the application form:
 
