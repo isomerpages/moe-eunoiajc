@@ -42,6 +42,16 @@ Deputy Head (Economics)
 
 <div>  
 <div style="float: left">  
+<img src="/images/Staff/Econs-Michelle-Chiang_s.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Michelle Chiang](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-michelle-chiang)
+<br>
+Deputy Dean (JC2)
+
+<div>  
+<div style="float: left">  
 <img src="/images/Staff/Econs-Loh-Xin-Min_s.jpg" style="width:50%">
 </div>  
 <div></div>  
@@ -112,16 +122,6 @@ Teacher (Economics)
 <div></div>  
 </div>	
 [Mr Ma Mingwei](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/mr-ma-mingwei/)
-<br>
-Teacher (Economics)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/Econs-Michelle-Chiang_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Ms Michelle Chiang](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-michelle-chiang)
 <br>
 Teacher (Economics)
 
