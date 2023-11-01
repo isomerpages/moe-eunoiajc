@@ -38,7 +38,7 @@ Deputy Head (Mother Tongue Languages)
 <div></div>  
 </div>	
 [Mdm Elavarasi Sundararaju இளவரசி காந்தி](https://staging.d2ftoa31ukircm.amplifyapp.com/staff/mtl/mdm-elavarasi/)<br>
-Lead Teacher (Character &amp; Citizenship Education)
+HOD (Character &amp; Citizenship Education)
 
 <div>  
 <div style="float: left">  
