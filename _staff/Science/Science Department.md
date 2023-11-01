@@ -54,6 +54,16 @@ Deputy Head (Chemistry)
 
 <div>  
 <div style="float: left">  
+<img src="/images/Staff/Sci-Diana-Ma_s.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Ms Diana Ma](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-diana-ma/)
+<br>
+Deputy Head (Chemistry)
+
+<div>  
+<div style="float: left">  
 <img src="/images/Staff/Sci-Tan-Lingmin_s.jpg" style="width:50%">
 </div>  
 <div></div>  
@@ -81,16 +91,6 @@ Deputy Head (Physics)
 [Mr Robin Soh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-soh-yong-li-robin/)
 <br>
 Deputy Head (Physics)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/Sci-Diana-Ma_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>
-[Ms Diana Ma](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-diana-ma/)
-<br>
-Deputy Head (IME)
 
 <div>  
 <div style="float: left">  
