@@ -6,8 +6,7 @@ third_nav_title: College Management Committee
 ---
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/SL-Andrew-Tan_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/SL-Andrew-Tan_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -17,8 +16,7 @@ Principal
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/SL-Lynn-Koh_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/SL-Lynn-Koh_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -28,8 +26,7 @@ Deputy Principal
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/SL-Md-Amran-Shah_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/SL-Md-Amran-Shah_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -39,19 +36,17 @@ Vice-Principal (Administration)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/PW-Adrienne-de-Souza_s%20(1).jpg" 
-    style="width:50%">
+<img src="/images/Staff/PW-Adrienne-de-Souza_s%20(1).jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
 [Ms Adrienne de Souza](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/pw/ms-adrienne-de-souza/)
 <br>
-HOD (Project Work & Flagship Programmes)
+HOD (Project Work &amp; Flagship&nbsp;Programmes)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/HOD-Alvin-Toh_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/HOD-Alvin-Toh_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -61,8 +56,7 @@ HOD (Mathematics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs-Benjamin-Liang_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Econs-Benjamin-Liang_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -72,19 +66,17 @@ HOD (Economics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/PE-Charles-Cheak_s-1%20(2).jpg" 
-    style="width:50%">
+<img src="/images/Staff/PE-Charles-Cheak_s-1%20(2).jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
 [Mr Charles Cheak](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/pe/mr-charles-cheak/)
 <br>
-HOD (PE & CCA)
+HOD (PE &amp; CCA)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Chok-Yew-Keong_s%20(1).jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Chok-Yew-Keong_s%20(1).jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -94,8 +86,16 @@ HOD (Science)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Arts-Jared-Goh_s%20(2).jpg" 
-    style="width:50%">
+<img src="/images/Staff/mtl-elavarasi_s.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mdm Elavarasi Sundararaju](https://staging.d2ftoa31ukircm.amplifyapp.com/staff/mtl/mdm-elavarasi/)<br>
+HOD (Character &amp; Citizenship Education)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/Arts-Jared-Goh_s%20(2).jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -105,8 +105,7 @@ Dean (JC2)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Arts_JustinLee_s%20(1).jpg" 
-    style="width:50%">
+<img src="/images/Staff/Arts_JustinLee_s%20(1).jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -116,8 +115,7 @@ HOD (Arts)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs_KevinTan_s%20(1).jpg" 
-    style="width:50%">
+<img src="/images/Staff/Econs_KevinTan_s%20(1).jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -127,41 +125,37 @@ School Staff Developer
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs_KohHanYun_s%20(2).jpg" 
-    style="width:50%">
+<img src="/images/Staff/Econs_KohHanYun_s%20(2).jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
 [Ms Koh Han Yun](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-koh-han-yun/)
 <br>
-HOD (Student Leadership & Talent Management)
+HOD (Student Leadership &amp; Talent Management)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Koh-Siong-Yang_s%20(1).jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Koh-Siong-Yang_s%20(1).jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
 [Mr Koh Siong Yang](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-koh-siong-yang/)
 <br>
-HOD (ICT&IME)
+HOD (ICT&amp;IME)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/HOD-Marc-Kenji-Lim_s%20(1).jpg" 
-    style="width:50%">
+<img src="/images/Staff/HOD-Marc-Kenji-Lim_s%20(1).jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
 [Mr Marc Kenji Lim](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-marc-kenji-lim/)
 <br>
-HOD (Corporate Communications & Partnerships)
+HOD (Corporate Communications &amp; Partnerships)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EL-Stephanie-Hua_s%20(1).jpg" 
-    style="width:50%">
+<img src="/images/Staff/EL-Stephanie-Hua_s%20(1).jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -171,30 +165,27 @@ HOD(English)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Tan-Fangxi_s%20(2).jpg" 
-    style="width:50%">
+<img src="/images/Staff/Sci-Tan-Fangxi_s%20(2).jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
 [Ms Tan Fangxi](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-tan-fangxi/)
 <br>
-HOD (Character & Citizenship Education)
+HOD (Character &amp; Citizenship Education)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/HOD-Tay-Theng-Hwee_s2%20(1).jpg" 
-    style="width:50%">
+<img src="/images/Staff/HOD-Tay-Theng-Hwee_s2%20(1).jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
 [Mr Tay Theng Hwee](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/mr-tay-theng-hwee/)
 <br>
-HOD (Mother Tongue Languages & BSP)
+HOD (Mother Tongue Languages &amp; BSP)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/MTL-Yang-Shu-Hung_s%20(2).jpg" 
-    style="width:50%">
+<img src="/images/Staff/MTL-Yang-Shu-Hung_s%20(2).jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -204,8 +195,7 @@ Dean (JC1)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/cmc-erni-suriyani_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/cmc-erni-suriyani_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -215,8 +205,7 @@ Administration Manager
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EAS-SherilynAng_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/EAS-SherilynAng_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
