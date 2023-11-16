@@ -3,6 +3,7 @@ title: Economics
 permalink: /about/staff/econs/
 description: ""
 third_nav_title: Economics
+variant: markdown
 ---
 <div>  
 <div style="float: left">  
@@ -57,7 +58,7 @@ Deputy Dean (JC2)
 <div></div>  
 </div>	
 [Ms Loh Xin Min](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-loh-xin-min/)<br>
-Senior Teacher (Economics)
+Lead Teacher (Economics)
 
 <div>  
 <div style="float: left">  
