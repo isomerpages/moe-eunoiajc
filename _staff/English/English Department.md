@@ -88,15 +88,6 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/eng-cavell-chee_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Mr Cavell Chee](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-cavell-chee)<br>
-Teacher (Literature in English)
-
-<div>  
-<div style="float: left">  
 <img src="/images/Staff/EL-Cham-Bei-Qing_s.jpg" style="width:50%">
 </div>  
 <div></div>  
@@ -115,29 +106,11 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EL_CrispinRodrigues_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Mr Crispin Rodrigues](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-crispin-rodrigues/) <br>
-Teacher (Literature in English)
-
-<div>  
-<div style="float: left">  
 <img src="/images/Staff/EL-Darren-Chong_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
 [Mr Darren Chong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-darren-chong/) <br>
-Teacher (General Paper)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/EL-Eleanor-Wong_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Ms Eleanor Grace Wong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-eleanor-grace-wong/) <br>
 Teacher (General Paper)
 
 <div>  
@@ -169,15 +142,6 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EL_NgHuiQi_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Ms Ng Hui Qi](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-ng-hui-qi/) <br>
-Teacher (Literature in English)
-
-<div>  
-<div style="float: left">  
 <img src="/images/Staff/EL-Priyah-Hari_s.jpg" style="width:50%">
 </div>  
 <div></div>  
@@ -201,15 +165,6 @@ Teacher (General Paper)
 <div></div>  
 </div>	
 [Mr Samuel Wong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-samuel-wong/) <br>
-Teacher (General Paper)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/EL_TimothyNg_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Mr Timothy Ng](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-timothy-ng/) <br>
 Teacher (General Paper)
 
 <div>  
@@ -240,3 +195,30 @@ Teacher (General Paper)
 Ms Vivien Yeo
 <br>
 Teacher (General Paper)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/eng-cavell-chee_s.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Cavell Chee](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-cavell-chee)<br>
+Teacher (Literature in English)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/EL_CrispinRodrigues_s.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Crispin Rodrigues](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-crispin-rodrigues/) <br>
+Teacher (Literature in English)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/EL_NgHuiQi_s.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Ng Hui Qi](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-ng-hui-qi/) <br>
+Teacher (Literature in English)
