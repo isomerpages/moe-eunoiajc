@@ -245,6 +245,16 @@ Teacher (Chemistry)
 
 <div>  
 <div style="float: left">  
+<img src="/images/Staff/Sci-Suellen-Goh_s.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Ms Suellen Goh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-suellen-goh/)
+<br>
+Deputy Head (Character &amp; Citizenship Education)
+
+<div>  
+<div style="float: left">  
 <img src="/images/Staff/Sci-Tay-Li-Kim_s.jpg" style="width:50%">
 </div>  
 <div></div>  
