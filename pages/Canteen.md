@@ -2,12 +2,14 @@
 title: Canteen
 permalink: /canteen/
 description: ""
+variant: markdown
 ---
 ### **Stalls**
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Asian Cuisine (Non-Halal Japanese/Korean) | 30 Nov 2023&nbsp;&nbsp;&nbsp;&nbsp; | N/A&nbsp;&nbsp;&nbsp; |
+| Asian Cuisine (Non-Halal Japanese/Korean) | 30 Nov 2023 | N/A |
+| Halal Cuisine (Noodle/Rice) | 15 Dec 2023 | Halal Nasi Padang and Noodles - Mee Reebus, Mee Siam, Mee Goreng, Lontong, Nasi Lemark etc |
 
 
 ### **Application Procedure**
