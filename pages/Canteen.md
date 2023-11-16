@@ -2,23 +2,23 @@
 title: Canteen
 permalink: /canteen/
 description: ""
+variant: markdown
 ---
 ### **Stalls**
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Asian Cuisine (Halal Japanese/Korean) | 30 Nov 2023&nbsp;&nbsp;&nbsp;&nbsp; | N/A&nbsp;&nbsp;&nbsp; |
+| Asian Cuisine (Non-Halal Japanese/Korean) | 30 Nov 2023 | N/A |
+| Halal Cuisine (Noodle/Rice) | 15 Dec 2023 | Halal Nasi Padang and Noodles - Mee Reebus, Mee Siam, Mee Goreng, Lontong, Nasi Lemark etc |
 
 
 ### **Application Procedure**
  
-1.  Download and complete the application form. You may also request a hard copy from the college’s General Office.
+(1) Download and complete the [Canteen Vendor Application](/files/canteen%20vendor%20application.pdf) form. You may also request a hard copy from the college’s General Office.
 
-<br>
-[Canteen Vendor Application](/files/canteen%20vendor%20application.pdf)
-<br>
 
-2.  Attach the following documents together with the application form:
+
+(2) Attach the following documents together with the application form:
 
 * Photocopy of NRIC (front and back)
 
@@ -26,7 +26,7 @@ description: ""
 
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
-3.  Submit the completed application form and documents by closing date via email or to the college's General Office.
+(3) Submit the completed application form and documents by closing date via email or to the college's General Office.
 
 * Address: 2 Sin Ming Place, S573838
 

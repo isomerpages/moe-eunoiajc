@@ -3,6 +3,7 @@ title: Science Department
 permalink: /about/staff/science/
 description: ""
 third_nav_title: Science
+variant: markdown
 ---
 <div style="float: left">  
 <img src="/images/Staff/Sci-Chok-Yew-Keong_s.jpg" style="width:50%">
@@ -24,16 +25,6 @@ HOD (ICT &amp; IME)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Tan-Fangxi_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Ms Tan Fangxi](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-tan-fangxi/)
-<br>
-HOD (Character &amp; Citizenship Education)
-
-<div>  
-<div style="float: left">  
 <img src="/images/Staff/Sci-Benjamin-Choo_s.jpg" style="width:50%">
 </div>  
 <div></div>  
@@ -44,11 +35,11 @@ Deputy Head (Biology)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Chan-Kim-Seng_s.jpg" style="width:50%">
+<img src="/images/Staff/Sci-Diana-Ma_s.jpg" style="width:50%">
 </div>  
 <div></div>  
-</div>	
-[Dr Chan Kim Seng](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/dr-chan-kim-seng/)
+</div>
+[Ms Diana Ma](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-diana-ma/)
 <br>
 Deputy Head (Chemistry)
 
@@ -84,16 +75,6 @@ Deputy Head (Physics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Diana-Ma_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>
-[Ms Diana Ma](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-diana-ma/)
-<br>
-Deputy Head (IME)
-
-<div>  
-<div style="float: left">  
 <img src="/images/Staff/Sci-Enoch-Tang_s.jpg" style="width:50%">
 </div>  
 <div></div>  
@@ -114,23 +95,23 @@ Deputy Head (Careers, Scholarships &amp; Higher Education)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Suellen-Goh_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>
-[Ms Suellen Goh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-suellen-goh/)
-<br>
-Deputy Head (Character &amp; Citizenship Education)
-
-<div>  
-<div style="float: left">  
 <img src="/images/Staff/Sci-Zulaiha-Said_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>
 [Ms Zulaiha Said](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-zulaiha-said/)
 <br>
-Deputy Head (Student Engagement)
+Deputy Head (Character &amp; Citizenship Education)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/Sci-Gabriel-Woon_s.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Mr Gabriel Woon](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-gabriel-woon/)
+<br>
+Deputy Head (Student Well-being)
 
 <div>  
 <div style="float: left">  
@@ -174,16 +155,6 @@ Teacher (Biology)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Gabriel-Woon_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>
-[Mr Gabriel Woon](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-gabriel-woon/)
-<br>
-Teacher (Biology)
-
-<div>  
-<div style="float: left">  
 <img src="/images/Staff/Lu-Huiping-s.jpg" style="width:50%">
 </div>  
 <div></div>  
@@ -201,6 +172,16 @@ Teacher (Biology)
 [Ms Ng Siow Ying](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-ng-siow-ying/)
 <br>
 Teacher (Biology)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/Sci-Chan-Kim-Seng_s.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Dr Chan Kim Seng](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/dr-chan-kim-seng/)
+<br>
+Teacher (Chemistry)
 
 <div>  
 <div style="float: left">  
@@ -261,6 +242,16 @@ Teacher (Chemistry)
 [Mr Ong Wee Yong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-ong-wee-yong/)
 <br>
 Teacher (Chemistry)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/Sci-Suellen-Goh_s.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>
+[Ms Suellen Goh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-suellen-goh/)
+<br>
+Deputy Head (Character &amp; Citizenship Education)
 
 <div>  
 <div style="float: left">  

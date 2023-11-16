@@ -38,7 +38,7 @@ collections:
       - English/English Department.md
       - English/Ms Stephanie Hua.md
       - English/Mr Marc Kenji Lim.md
-      - English/Ms Kok Li en.md
+      - English/Ms Elena Tan.md
       - English/Ms Nadiah Razali.md
       - English/Dr Edson Ng.md
       - English/Ms Heon Mak.md
@@ -49,8 +49,6 @@ collections:
       - English/Mrs Charlotte Lee.md
       - English/Mr Crispin Rodrigues.md
       - English/Mr Darren Chong.md
-      - English/Ms Eleanor Grace Wong.md
-      - English/Ms Elena Tan.md
       - English/Mr Joshua Ng.md
       - English/Ms Kajal Kaur Khaira.md
       - English/Ms Karol Ann Tan.md
@@ -58,7 +56,6 @@ collections:
       - English/Ms Renuka Satianathan.md
       - English/Ms Priyah Haritheertham.md
       - English/Mr Samuel Wong.md
-      - English/Mr Timothy Ng.md
       - English/Ms Xu Xiuwen.md
       - Mathematics/.keep
       - Mathematics/Mathematics Department.md
@@ -84,9 +81,9 @@ collections:
       - Mother Tongue/.keep
       - Mother Tongue/MTL Department.md
       - Mother Tongue/Mr Tay Theng Hwee.md
+      - Mother Tongue/Mdm Elavarasi Sundararaju.md
       - Mother Tongue/Ms Yang Shu Hung.md
       - Mother Tongue/Mdm Ng Lai Sze.md
-      - Mother Tongue/Mdm Elavarasi Sundararaju.md
       - Mother Tongue/Mr Cao Jiandong.md
       - Mother Tongue/Ms Cao Xinxin.md
       - Mother Tongue/Mdm Chen Lili.md
@@ -117,17 +114,14 @@ collections:
       - Science/Science Department.md
       - Science/Dr Chok Yew Keong.md
       - Science/Mr Koh Siong Yang.md
-      - Science/Ms Tan Fangxi.md
       - Science/Mr Benjamin Choo.md
-      - Science/Dr Chan Kim Seng.md
+      - Science/Ms Diana Ma.md
       - Science/Mdm Tan Lingmin.md
       - Science/Ms Claudia Tan.md
       - Science/Mr Robin Soh.md
       - Science/Mr Gabriel Woon.md
-      - Science/Ms Diana Ma.md
       - Science/Mr Enoch Tang.md
       - Science/Ms Jacintha Huang.md
-      - Science/Ms Suellen Goh.md
       - Science/Ms Zulaiha Said.md
       - Science/Mr Chan Ter Yue.md
       - Science/Mr Christopher Tan.md
@@ -135,11 +129,15 @@ collections:
       - Science/Ms Emeline Choo.md
       - Science/Ms Lu Huiping.md
       - Science/Ms Ng Siow Ying.md
+      - Science/Dr Chan Kim Seng.md
       - Science/Ms Chan Xin Yu.md
       - Science/Ms Chia Xin Hui.md
       - Science/Mr Justin Lim.md
       - Science/Mdm Liu Shuyu.md
       - Science/Mr Ong Wee Yong.md
+      - Science/Ms Suellen Goh.md
+      - Science/Mrs Yew–Tay Li Kim.md
+      - Science/Mrs Chin–Tan Wei Lin.md
       - Science/Mrs Ong Eng Yee Wen.md
       - Science/Mr Rizal Abu Bakar.md
       - Science/Mr Soo Pui Wah.md
@@ -150,21 +148,6 @@ collections:
       - College Management Committee/Mr Andrew Tan.md
       - College Management Committee/Ms Lynn Koh.md
       - College Management Committee/Mr Mohamad Amran Shah.md
-      - College Management Committee/Ms Adrienne de Souza.md
-      - College Management Committee/Mr Alvin Toh.md
-      - College Management Committee/Mr Benjamin Liang.md
-      - College Management Committee/Mr Charles Cheak.md
-      - College Management Committee/Dr Chok Yew Keong.md
-      - College Management Committee/Mr Kevin Tan.md
-      - College Management Committee/Ms Koh Han Yun.md
-      - College Management Committee/Mr Koh Siong Yang.md
-      - College Management Committee/Mr Jared Goh.md
-      - College Management Committee/Mr Justin Lee.md
-      - College Management Committee/Mr Marc Kenji Lim.md
-      - College Management Committee/Ms Stephanie Hua.md
-      - College Management Committee/Ms Tan Fangxi.md
-      - College Management Committee/Mr Tay Theng Hwee.md
-      - College Management Committee/Ms Yang Shu Hung.md
       - Executive and Admin Staff.md
       - ICT and IME.md
       - Student Development.md

@@ -65,16 +65,6 @@ Operations Manager
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Tan-Heng-Keng_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Mr Ang Tai Peck</b>
-<br>
-Operations Support Officer
-
-<div>  
-<div style="float: left">  
 <img src="/images/Staff/aslinah_s.jpg" style="width:50%">
 </div>  
 <div></div>  
