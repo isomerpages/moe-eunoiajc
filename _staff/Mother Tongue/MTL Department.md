@@ -3,6 +3,7 @@ title: MTL Department
 permalink: /about/staff/mtl/
 description: ""
 third_nav_title: Mother Tongue
+variant: markdown
 ---
 <div>  
 <div style="float: left">  
@@ -12,6 +13,15 @@ third_nav_title: Mother Tongue
 </div>	
 [Mr Tay Theng Hwee 郑澄辉](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/mr-tay-theng-hwee/) <br>
 HOD (Mother Tongue Languages &amp; BSP)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/mtl-elavarasi_s.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mdm Elavarasi Sundararaju இளவரசி காந்தி](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/mdm-elavarasi/)<br>
+HOD (Character &amp; Citizenship Education)
 
 <div>  
 <div style="float: left">  
@@ -30,15 +40,6 @@ Dean (JC2)
 </div>	
 [Mdm Ng Lai Sze 吴丽诗](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/mdm-ng-lai-sze/)&nbsp;<br>
 Deputy Head (Mother Tongue Languages)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/mtl-elavarasi_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Mdm Elavarasi Sundararaju இளவரசி காந்தி](https://staging.d2ftoa31ukircm.amplifyapp.com/staff/mtl/mdm-elavarasi/)<br>
-HOD (Character &amp; Citizenship Education)
 
 <div>  
 <div style="float: left">  
