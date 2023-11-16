@@ -2,6 +2,7 @@
 title: Student Development
 permalink: /about/staff/sd/
 description: ""
+variant: markdown
 ---
 <div>  
 <div style="float: left">  
@@ -71,7 +72,7 @@ Deputy Dean (JC1)
 </div>	
 [Mr Gabriel Woon](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-gabriel-woon/)
 <br>
-Teacher (Biology)
+Deputy Head (Student Well-being)
 
 <div>  
 <div style="float: left">  
