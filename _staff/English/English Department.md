@@ -3,6 +3,7 @@ title: English Department
 permalink: /about/staff/english/
 description: ""
 third_nav_title: English
+variant: markdown
 ---
 <div>  
 <div style="float: left">  
@@ -24,11 +25,12 @@ HOD (Corporate Communications &amp; Partnerships)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Eng-KokLiEn_s.jpg" style="width:50%">
+<img src="/images/Staff/EL_ElenaTan_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
-[Ms Kok Li-en](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-kok-li-en/) <br> Deputy Head (General Paper)
+[Ms Elena Tan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-elena-tan/) <br>
+Deputy Head (General Paper)
 
 <div>  
 <div style="float: left">  
@@ -136,15 +138,6 @@ Teacher (General Paper)
 <div></div>  
 </div>	
 [Ms Eleanor Grace Wong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-eleanor-grace-wong/) <br>
-Teacher (General Paper)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/EL_ElenaTan_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Ms Elena Tan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-elena-tan/) <br>
 Teacher (General Paper)
 
 <div>  
