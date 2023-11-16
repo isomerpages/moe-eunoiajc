@@ -123,7 +123,6 @@ Deputy Head (CCA)
 <br>
 Deputy Head (Character &amp; Citizenship Education)
 
-
 <div>  
 <div style="float: left">  
 <img src="/images/Staff/Sci-Zulaiha-Said_s%20(1).jpg" style="width:50%">
