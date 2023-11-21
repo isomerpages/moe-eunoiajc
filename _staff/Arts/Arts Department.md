@@ -3,12 +3,11 @@ title: Arts Department
 permalink: /about/staff/arts/
 description: ""
 third_nav_title: Arts
+variant: markdown
 ---
-
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Arts_JustinLee_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Arts_JustinLee_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -17,8 +16,7 @@ HOD (Arts)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Arts-Jared-Goh_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Arts-Jared-Goh_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -27,8 +25,7 @@ Dean (JC2)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Fred-Ong-s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Fred-Ong-s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -38,8 +35,7 @@ Deputy Head (Geography)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Arts-Gooi-Tah-Choe_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Arts-Gooi-Tah-Choe_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -48,8 +44,7 @@ Deputy Head (Aesthetics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Arts_AlsonYong_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Arts_AlsonYong_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -58,28 +53,25 @@ Deputy Head (Student Leadership)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Arts-Mahmood-Fahmi_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Arts-Mahmood-Fahmi_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
 [Mr Mahmood Fahmi Ahamed](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/arts/mr-mahmood-fahmi-ahamed/) <br>
-Deputy Head (HSP & Talent Management)
+Deputy Head (HSP &amp; Talent Development)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Arts-Azhar_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Arts-Azhar_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
-[Mr Azhar Amin](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/arts/mr-azhar-amin/) <br>
+[Mr Azhar&nbsp;Amin](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/arts/mr-azhar-amin/) <br>
 Senior Teacher (History)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Arts-Low-Sok-Hui_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Arts-Low-Sok-Hui_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -88,8 +80,7 @@ Senior Teacher (Art)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Arts-Leong-Wymin_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Arts-Leong-Wymin_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -98,8 +89,7 @@ Teacher (Geography)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Arts-Rachel-Lim_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Arts-Rachel-Lim_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -109,8 +99,7 @@ Teacher (Geography)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Quek-Jia-Qi-s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Quek-Jia-Qi-s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -120,8 +109,7 @@ Teacher (Art)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Arts-Lee-Ji-Heng_s.jpg" 
-    style="width:50%">
+<img src="/images/Staff/Arts-Lee-Ji-Heng_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
