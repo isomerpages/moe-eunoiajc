@@ -58,7 +58,7 @@ Deputy Head (Student Leadership)
 <div></div>  
 </div>	
 [Mr Mahmood Fahmi Ahamed](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/arts/mr-mahmood-fahmi-ahamed/) <br>
-Deputy Head (HSP &amp; Talent Development)
+Deputy Head (Talent Development &amp; Eunoia Humanities Programme)
 
 <div>  
 <div style="float: left">  
