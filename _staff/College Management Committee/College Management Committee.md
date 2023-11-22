@@ -3,6 +3,7 @@ title: College Management Committee
 permalink: /about/staff/cmc/
 description: ""
 third_nav_title: College Management Committee
+variant: markdown
 ---
 <div>  
 <div style="float: left">  
@@ -131,7 +132,7 @@ School Staff Developer
 </div>	
 [Ms Koh Han Yun](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-koh-han-yun/)
 <br>
-HOD (Student Leadership &amp; Talent Management)
+HOD (Student Leadership &amp; Talent Development)
 
 <div>  
 <div style="float: left">  
@@ -162,16 +163,6 @@ HOD (Corporate Communications &amp; Partnerships)
 [Ms Stephanie Hua](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-stephanie-hua/)
 <br>
 HOD(English)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/Sci-Tan-Fangxi_s%20(2).jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Ms Tan Fangxi](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-tan-fangxi/)
-<br>
-HOD (Character &amp; Citizenship Education)
 
 <div>  
 <div style="float: left">  

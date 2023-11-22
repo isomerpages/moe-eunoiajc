@@ -30,7 +30,7 @@ School Staff Developer
 <div></div>  
 </div>	
 [Ms Koh Han Yun](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-koh-han-yun/) <br>
-HOD (Student Leadership &amp; Talent Management)
+HOD (Student Leadership &amp; Talent Development)
 
 <div>  
 <div style="float: left">  

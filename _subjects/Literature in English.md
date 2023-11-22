@@ -2,6 +2,7 @@
 title: Literature in English
 permalink: /subjects/lit/
 description: ""
+variant: markdown
 ---
 <center><h4>“It’s in literature that true life can be found.<br>It’s under the mask of fiction that you can tell the truth.”</h4><b>Gao Xingjian</b></center>
 
@@ -11,18 +12,18 @@ Every day, words move us and inspire us to act. The EJC student of Literature wi
 
 We believe that the Literature classroom thrives on discussion, which is why team-teaching and student-led seminars are the order of the day. In the core paper, you will master the literary nuances of poetic, narrative and dramatic texts, and sharpen your close analysis skills. Apply these to the elective paper, where you will traverse social, historical and cultural contexts in three different texts. Learn to compare unseen poems and set texts, and craft an interpretation you can truly call your own.
 
-The college is offering the following papers and texts for the academic course of 2022-2023 and 2023-2024:
+The college is offering the following papers and texts for the academic course of 2024-2025:
 
 **Paper One: Reading Literature**
 
-*   Jane Austen: _Pride and Prejudice_ (Penguin)
-*   William Shakespeare: _Measure for Measure_ (New Cambridge)
+*   Charlotte Brontë: _Jane Eyre_ (Penguin)
+*   William Shakespeare: _The Winter's Tale_ (New Cambridge)
 
-**Paper Three: The Mind and Self in Literature (Elective Paper)**
+**Paper Two: Reading Literature featuring the English Romantic Period (1785-1832)**
 
-*   Edward Albee: _Who's Afraid of Virginia Woolf?_ (Vintage)
-*   Harold Pinter: _The Caretaker_ (Faber)
-*   Sylvia Plath: _Ariel_ (Faber)
+*   Henrik Ibsen: _An Enemy of the People_, Trans. James McFarlane (Oxford World's Classics)
+*   John Keats: _Selected Poems_ (Penguin)
+*   Percy Bysshe Shelley: _Selected Poems and Prose_ (Penguin)
 
 
 #### **Our Enrichment**
