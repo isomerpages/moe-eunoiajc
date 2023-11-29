@@ -34,6 +34,15 @@ HOD (Student Leadership &amp; Talent Development)
 
 <div>  
 <div style="float: left">  
+<img src="/images/Staff/Econs-Loh-Xin-Min_s.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Loh Xin Min](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-loh-xin-min/)<br>
+Lead Teacher (Economics)
+
+<div>  
+<div style="float: left">  
 <img src="/images/Staff/Econs-Tan-Liu-Yin_s.jpg" style="width:50%">
 </div>  
 <div></div>  
@@ -50,15 +59,6 @@ Deputy Head (Economics)
 [Ms Michelle Chiang](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-michelle-chiang)
 <br>
 Deputy Dean (JC2)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/Econs-Loh-Xin-Min_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Ms Loh Xin Min](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-loh-xin-min/)<br>
-Lead Teacher (Economics)
 
 <div>  
 <div style="float: left">  
