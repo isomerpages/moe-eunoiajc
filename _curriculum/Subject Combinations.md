@@ -12,9 +12,9 @@ Each H2 subject carries 2 academic units. H1 and H3 subjects carry 1 unit each.
 
 Students admitted via the **Joint Admissions Exercise (JAE)** must propose subject combinations in the stream (Arts or Science) to which they are posted. 
 
-The [**EJC Subject Combination Proposal Exercise (SCOPE)**](/files/EJC-SCOPE-2024.pdf) information booklet can be downloaded in [**PDF**](/files/EJC-SCOPE-2024.pdf) format.
+The **[EJC Subject Combination Proposal Exercise (SCOPE)](/files/EJC_SCOPE_2024.pdf)** information booklet can be downloaded in **[PDF](/files/EJC-SCOPE-2024.pdf)** format. All students may propose their **preferred subject combination** if it is not featured in the list of subject combinations, subject to approval.
 
-All students may propose their **preferred subject combination** if it is not featured in the list of subject combinations, subject to approval.
+
 
 ###### **KNOWLEDGE SKILLS**
 All students offer **[H1 General Paper](/academic-subjects/Knowledge-Skills/general-paper/)**. In their first year, students must offer **[H1 Project Work](/academic-subjects/Knowledge-Skills/project-work/)**.
