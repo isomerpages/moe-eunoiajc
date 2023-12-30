@@ -62,12 +62,13 @@ The indicative cut-off point for [H2 Further Mathematics](/subjects/fmaths/) i
 
 
 ###### **SPECIAL PROGRAMMES**
+[Bicultural Studies Programme](/special-programmes/bsp/) \[BSP(C)\] scholars must offer [H2 China Studies in Chinese](subjects/csc/).
 
-[Humanities Scholarship and Programme](/special-programmes/hsp/) (HSP) students must offer [subject combinations prescribed by the Ministry of Education](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u), which will include [H2 Literature in English](/subjects/lit/).
+Engineering and Tech Programme Scholarship (ETP) students must offer [subject combinations](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u) prescribed by the Ministry of Education, which will include [H2 Mathematics](/subjects/maths/).
+
+[Humanities Scholarship and Programme](/special-programmes/hsp/) (HSP) students must offer [subject combinations](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u) prescribed by the Ministry of Education, which will include [H2 Literature in English](/subjects/lit/).
 
 [Music Elective Programme](/special-programmes/mep/) (MEP) students must offer [H2 Music](/subjects/music/).
-
-[Bicultural Studies Programme](/special-programmes/bsp/) \[BSP(C)\] scholars must offer [H2 China Studies in Chinese](subjects/csc/).
 
 
 ###### **UNIVERSITY COURSE PRE-REQUISITES**
