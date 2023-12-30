@@ -6,14 +6,16 @@ variant: markdown
 ---
 ### **Subject Combinations**
 
-All our students undertake the Singapore-Cambridge GCE A-Level Curriculum, offering **10 to 12 units of study** including **[H1 General Paper](/academic-subjects/Knowledge-Skills/general-paper/)**, **[H1 Mother Tongue](/academic-subjects/Languages/mother-tongue-languages/)** and four content-based subjects. 
-
-Each H2 subject carries 2 academic units. H1 and H3 subjects carry 1 unit each.
+All our students undertake the Singapore-Cambridge GCE A-Level Curriculum, offering **10 to 12 units of study** including **[H1 General Paper](/academic-subjects/Knowledge-Skills/general-paper/)**, **[H1 Mother Tongue](/academic-subjects/Languages/mother-tongue-languages/)** and four content-based subjects. Each H2 subject carries 2 academic units. H1 and H3 subjects carry 1 unit each.
 
 Students admitted via the **Joint Admissions Exercise (JAE)** must propose subject combinations in the stream (Arts or Science) to which they are posted. 
 
 The **[EJC Subject Combination Proposal Exercise (SCOPE)](/files/EJC_SCOPE_2024.pdf)** information booklet can be downloaded in **[PDF](/files/EJC-SCOPE-2024.pdf)** format. All students may propose their **preferred subject combination** if it is not featured in the list of subject combinations, subject to approval.
 
+
+| ![Arts - A1 to A4](/images/2024/EJC_SCOPE_2024_1.jpg) | ![Arts - A5 to A8](/images/2024/EJC_SCOPE_2024_2.jpg) |
+| -------- | -------- |
+| ![Science - S1 to S2](/images/2024/EJC_SCOPE_2024_3.jpg) | ![Science - S3 to S5](/images/2024/EJC_SCOPE_2024_4.jpg) |
 
 
 ###### **KNOWLEDGE SKILLS**
