@@ -20,8 +20,8 @@ sections:
         - title: OPEN HOUSE
           description: 12 Jan 2024
           url: /oh/
-        - title: Open House
-          description: Online Showcase
+        - title: oheunoia.com
+          description: Online Open House
           url: https://www.oheunoia.com
       background: /images/Home_Banner2.png
       title: We Are Eunoia
