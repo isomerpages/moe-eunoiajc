@@ -39,17 +39,17 @@ sections:
           description: "My #WhyEJ is the plethora of experiences and opportunities
             available in EJ."
           linktext: Read more
-          url: ""
+          url: /gabrielle/
         - title: Kellene Chua
           description: Taking part in the many college activities has given me a sense of
             pride.
           linktext: Read more
-          url: ""
+          url: /kellene/
         - title: Jesselyn Chenice
           description: It is definitely the people here –– EJ is where I've found my
             community.
           linktext: Read more
-          url: ""
+          url: /jesselyn/
   - infopic:
       title: Admissions
       subtitle: Youth with Purpose
