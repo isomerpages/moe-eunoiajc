@@ -1,0 +1,10 @@
+---
+title: OH EUNOIA! 2024 – Open House on 12 Jan
+permalink: /oh/
+date: 2024-01-01
+layout: post
+description: ""
+image: ""
+variant: tiptap
+---
+<p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="OH2024" src="/images/2024/OH2024_banner.jpg"></div><h4>Make a date with us on <strong>12 Jan, 9am - 4pm</strong> for our Open House. We’re not perfect but we might just be perfect for you. Come for the cool campus, power-packed programmes and terrific teachers. Stay for the feels, friendships and our electric energy. We’ll be happier with you and you’ll be happier with Eunoia.</h4><p></p>
