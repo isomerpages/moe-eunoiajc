@@ -29,6 +29,27 @@ sections:
   - resources:
       title: News
       button: Find out More
+  - textcards:
+      title: "#WhyEJ"
+      id: textcards
+      description: Hear from our Eunoians and discover what has made their Eunoia
+        experience special.
+      cards:
+        - title: Gabrielle Faith Wong
+          description: "My #WhyEJ is the plethora of experiences and opportunities
+            available in EJ."
+          linktext: Read more
+          url: ""
+        - title: Kellene Chua
+          description: Taking part in the many college activities has given me a sense of
+            pride.
+          linktext: Read more
+          url: ""
+        - title: Jesselyn Chenice
+          description: It is definitely the people here –– EJ is where I've found my
+            community.
+          linktext: Read more
+          url: ""
   - infopic:
       title: Admissions
       subtitle: Youth with Purpose
