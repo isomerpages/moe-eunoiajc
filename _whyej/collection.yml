@@ -1,4 +1,5 @@
 collections:
   whyej:
     output: true
-    order: []
+    order:
+      - "Kellene Chua's #WhyEJ.md"
