@@ -2,5 +2,6 @@ collections:
   whyej:
     output: true
     order:
+      - "Jesselyn's #WhyEJ.md"
       - "Gabrielle's #WhyEJ.md"
       - "Kellene's #WhyEJ.md"
