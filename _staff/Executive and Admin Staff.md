@@ -26,7 +26,17 @@ Administration Manager
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EAS-AdrinaChua.jpg" style="width:50%">
+<img src="/images/Staff/EAS_Syed.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+<b>Mr Syed Omar</b>
+<br>
+Operations Manager
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/EAS_AdrinaChua.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -63,16 +73,6 @@ Corporate Support Officer
 <b>Ms Nur Hafilah Binte Mohd Farez</b>
 <br>
 Corporate Support Officer
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/EAS-Syed.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Mr Syed Omar</b>
-<br>
-Operations Manager
 
 <div>  
 <div style="float: left">  
