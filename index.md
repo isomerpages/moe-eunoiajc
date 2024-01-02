@@ -21,7 +21,7 @@ sections:
           description: 12 Jan 2024
           url: /oh/
         - title: oheunoia.com
-          description: Online Open House
+          description: Online Showcase
           url: https://www.oheunoia.com
       background: /images/Home_Banner2.png
       title: We Are Eunoia
