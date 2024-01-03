@@ -1,8 +1,9 @@
 ---
 title: Chinese Orchestra
-permalink: /culture/co/
+permalink: /culture/cca/co/
 description: ""
 third_nav_title: CCA
+variant: tiptap
 ---
 #### **CCA Schedule**
 

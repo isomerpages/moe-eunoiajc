@@ -2,6 +2,7 @@
 title: Executive and Admin Staff
 permalink: /about/staff/eas/
 description: ""
+variant: markdown
 ---
 <div>  
 <div style="float: left">  
@@ -25,13 +26,33 @@ Administration Manager
 
 <div>  
 <div style="float: left">  
+<img src="/images/Staff/EAS_Syed.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+<b>Mr Syed Omar</b>
+<br>
+Operations Manager
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/EAS_AdrinaChua.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+<b>Ms Adrina Chua</b>
+<br>
+Administrative Executive
+
+<div>  
+<div style="float: left">  
 <img src="/images/Staff/EAS-Mageswari_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
 <b>Mdm Mageswari Sinnayan</b>
 <br>
-Management Support Officer
+Corporate Support Officer
 
 <div>  
 <div style="float: left">  
@@ -41,7 +62,7 @@ Management Support Officer
 </div>	
 <b>Mdm Rahimah Binte Shahuthuman</b>
 <br>
-Management Support Officer
+Corporate Support Officer
 
 <div>  
 <div style="float: left">  
@@ -49,19 +70,9 @@ Management Support Officer
 </div>  
 <div></div>  
 </div>	
-<b>Ms Hafilah Binte Mohd Farez</b>
+<b>Ms Nur Hafilah Binte Mohd Farez</b>
 <br>
-Management Support Officer
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/Staff-Profile.png" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Mr Syed Omar</b>
-<br>
-Operations Manager
+Corporate Support Officer
 
 <div>  
 <div style="float: left">  

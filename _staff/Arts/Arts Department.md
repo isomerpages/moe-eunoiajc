@@ -99,6 +99,16 @@ Teacher (Geography)
 
 <div>  
 <div style="float: left">  
+<img src="/images/Staff/Staff-Profile.png" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Sea Su-An](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/arts/ms-sea-su-an/)
+<br>
+Teacher (History)
+
+<div>  
+<div style="float: left">  
 <img src="/images/Staff/Quek-Jia-Qi-s.jpg" style="width:50%">
 </div>  
 <div></div>  

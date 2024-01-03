@@ -3,6 +3,7 @@ title: Eder
 permalink: /culture/house/eder/
 description: ""
 third_nav_title: House System
+variant: markdown
 ---
 ![](/images/Houses-Eder-Crest.png)
 
@@ -33,7 +34,7 @@ Mr Kelvin Teo and Ms Clarice Chan
 
 <br>
 
-![](/images/eder2022.jpg)
+![](/images/2022/eder2022.jpg)
 
 #### **Committee**
 

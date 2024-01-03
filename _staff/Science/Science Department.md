@@ -251,7 +251,7 @@ Teacher (Chemistry)
 </div>
 [Ms Suellen Goh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/ms-suellen-goh/)
 <br>
-Deputy Head (Character &amp; Citizenship Education)
+Teacher (Chemistry)
 
 <div>  
 <div style="float: left">  

@@ -1,12 +1,12 @@
 ---
 title: EJC Yearbook 2021–22
-permalink: /highlights/2023/yearbook/
+permalink: /news/2023/yearbook/
 date: 2023-01-30
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
-
 ![](/images/Yearbook2022_banner.png)
 
 The fifth edition of our yearbook presents the courage of our Eunoians in the face of constant change and new opportunities. We are proud to share their stories with you in our **[online edition](https://issuu.com/eunoiajc/docs/our_hearts_unite)** of _Our Hearts Unite_.

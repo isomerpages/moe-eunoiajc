@@ -17,10 +17,10 @@ sections:
         - title: A-Level Results
           description: Class of 2022
           url: /news/2023/results
-        - title: DSA Applications
-          description: Open from 3 May
-          url: /news/2023/dsa/
-        - title: Open House
+        - title: OPEN HOUSE
+          description: 12 Jan 2024
+          url: /oh/
+        - title: oheunoia.com
           description: Online Showcase
           url: https://www.oheunoia.com
       background: /images/Home_Banner2.png
@@ -29,6 +29,27 @@ sections:
   - resources:
       title: News
       button: Find out More
+  - textcards:
+      title: "#WhyEJ"
+      id: textcards
+      description: Hear from our Eunoians and discover what has made their Eunoia
+        experience special.
+      cards:
+        - title: Gabrielle Faith Wong
+          description: "My #WhyEJ is the plethora of experiences and opportunities
+            available in EJ."
+          linktext: Read more
+          url: /gabrielle/
+        - title: Kellene Chua
+          description: Taking part in the many college activities has given me a sense of
+            pride.
+          linktext: Read more
+          url: /kellene/
+        - title: Jesselyn Chenice
+          description: It is definitely the people here –– EJ is where I've found my
+            community.
+          linktext: Read more
+          url: /jesselyn/
   - infopic:
       title: Admissions
       subtitle: Youth with Purpose
@@ -47,7 +68,7 @@ sections:
         in EJC.
       button: READ MORE
       url: /curriculum
-      image: /images/34001265298_9349e7e915_k.jpg
+      image: /images/home-curriculum.jpg
       alt: Image alt text
   - infopic:
       title: Culture
@@ -57,6 +78,6 @@ sections:
         each other and the community.
       button: SEE MORE
       url: /culture/
-      image: /images/52769353607_835fa5a4c0_k.jpg
+      image: /images/home-culture.jpg
       alt: Image alt text
 ---

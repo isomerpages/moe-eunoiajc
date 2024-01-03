@@ -23,7 +23,27 @@ Principal
 </div>	
 [Ms Lynn Koh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/cmc/ms-lynn-koh/)
 <br>
-Deputy Principal
+Vice-Principal
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/Staff-Profile.png" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mdm New Yi Cheen](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/cmc/mdm-new-yi-cheen/)
+<br>
+Vice-Principal
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/Staff-Profile.png" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mdm Phua Kia Ling](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/cmc/mdm-phua-kia-ling/)
+<br>
+Vice-Principal
 
 <div>  
 <div style="float: left">  
@@ -190,7 +210,7 @@ Dean (JC1)
 </div>  
 <div></div>  
 </div>	
-<b>Mdm Erni Suriyani</b>
+[Mdm Erni Suriyani](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/eas/)
 <br>
 Administration Manager
 
@@ -200,6 +220,6 @@ Administration Manager
 </div>  
 <div></div>  
 </div>	
-<b>Ms Sherilyn Ang</b>
+[Ms Sherilyn Ang](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/eas/)
 <br>
 Administration Manager

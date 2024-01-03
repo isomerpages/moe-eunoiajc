@@ -1,8 +1,9 @@
 ---
 title: Choir
-permalink: /culture/Co-Curricular-Activities/choir/
+permalink: /culture/cca/choir/
 description: ""
 third_nav_title: CCA
+variant: tiptap
 ---
 #### **CCA Schedule**
 
