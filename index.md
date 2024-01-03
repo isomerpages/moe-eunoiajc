@@ -78,6 +78,6 @@ sections:
         each other and the community.
       button: SEE MORE
       url: /culture/
-      image: /images/52769353607_835fa5a4c0_k.jpg
+      image: /images/home-culture.jpg
       alt: Image alt text
 ---
