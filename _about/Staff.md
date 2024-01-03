@@ -321,8 +321,7 @@ variant: markdown
 	<b> Mr Lim Yoke Kuang </b> lim.yoke.kuang@ejc.edu.sg <br>
 			<b> Ms Ng Yixin </b> ng.yixin@ejc.edu.sg <br>
 			<b> Mrs Ng-Phoon Lai Yong </b>  phoon.lai.yong@ejc.edu.sg <br>
-			<b> Mr Tan Khoon Han </b> tan.khoon.han@ejc.edu.sg <br> 
-			<b> Mr Wong Jia Sheng </b> wong.jia.sheng@ejc.edu.sg
+			<b> Mr Tan Khoon Han </b> tan.khoon.han@ejc.edu.sg
 			</div>
 </li>
 	
