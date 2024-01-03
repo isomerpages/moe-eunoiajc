@@ -68,7 +68,7 @@ sections:
         in EJC.
       button: READ MORE
       url: /curriculum
-      image: /images/34001265298_9349e7e915_k.jpg
+      image: /images/home-curriculum.jpg
       alt: Image alt text
   - infopic:
       title: Culture
