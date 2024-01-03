@@ -96,7 +96,7 @@ variant: markdown
 <b>Ms Clarice Chan</b> clarice.chan@ejc.edu.sg<br><br>
 
 23-O6<br>
-<b>Ms Lim Lyn Na</b> lim.lyn.na@ejc.edu.sg<br><br>
+<b>Ms Lim Lyn Na</b> lim.lyn.na@ejc.edu.sg<br>
 	<b>Dr Wang Guangquan</b> wang.guangquan@ejc.edu.sg<br><br>
 
 23-U1<br>
