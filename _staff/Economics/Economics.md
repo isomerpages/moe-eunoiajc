@@ -98,6 +98,14 @@ Teacher (Economics)
 
 <div>  
 <div style="float: left">  
+<img src="/images/Staff/Staff-Profile.png" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Kenny Tan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/mr-kenny-tan/) <br>
+Teacher (Economics)
+<div>  
+<div style="float: left">  
 <img src="/images/Staff/Econs-Lim-Lay-Peng_s.jpg" style="width:50%">
 </div>  
 <div></div>  
