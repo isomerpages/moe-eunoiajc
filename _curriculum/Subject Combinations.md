@@ -52,23 +52,23 @@ Students intending to offer **[H2 Art](/academic-subjects/Humanties-and-the-Art
 
 Students intending to offer **[H2 Translation (Chinese)](/academic-subjects/Humanties-and-the-Arts/translation-chinese/)** must have obtained a minimum of **A2** for English Language and **B3** for Higher Chinese or **A2** for Chinese at the GCE O-Level Examination, based on centrally-stated prerequisites.
 
-Students intending to offer [French, German, Japanese or Spanish](/academic-subjects/Languages/foreign-languages/) at H2 or H1 Level must have studied the respective language at MOELC in Secondary 4 or Year 4 prior to joining the college.
+Students intending to offer **[French, German, Japanese or Spanish](/academic-subjects/Languages/foreign-languages/)** at H2 or H1 Level must have studied the respective language at MOELC in Secondary 4 or Year 4 prior to joining the college.
 
 If a subject is oversubscribed, students will be selected based on academic merit, including (i) L1R5 aggregate score or equivalent, excluding bonus points, and (ii) performance in the relevant subject(s).
 
-The indicative cut-off point for [H2 Biology](/subjects/bio/), [H2 Chemistry](/subjects/chem/) and [H2 Physics](/subjects/phy/) is **B3** for the respective subject at the GCE O-Level Examination or equivalent, or **A1** for Combined Science at the GCE O-Level Examination.
+The indicative cut-off point for **[H2 Biology](/subjects/bio/), [H2 Chemistry](/subjects/chem/) and [H2 Physics](/subjects/phy/)** is **B3** for the respective subject at the GCE O-Level Examination or equivalent, or **A1** for Combined Science at the GCE O-Level Examination.
 
-The indicative cut-off point for [H2 Further Mathematics](/subjects/fmaths/) is **A1** for Additional Mathematics at the GCE O-Level Examination or equivalent.
+The indicative cut-off point for **[H2 Further Mathematics](/subjects/fmaths/)** is **A1** for Additional Mathematics at the GCE O-Level Examination or equivalent.
 
 
 ###### **SPECIAL PROGRAMMES**
-[Bicultural Studies Programme](/special-programmes/bsp/) \[BSP(C)\] scholars must offer [H2 China Studies in Chinese](subjects/csc/).
+**[Bicultural Studies Programme](/special-programmes/bsp/)** [BSP(C)] scholars must offer **[H2 China Studies in Chinese](subjects/csc/)**.
 
-Engineering and Tech Programme Scholarship (ETP) students must offer [subject combinations](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u) prescribed by the Ministry of Education, which will include [H2 Mathematics](/subjects/maths/).
+**Engineering and Tech Programme Scholarship** (ETPS) students must offer [subject combinations](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u) prescribed by the Ministry of Education, which will include **[H2 Mathematics](/subjects/maths/)**.
 
-[Humanities Scholarship and Programme](/special-programmes/hsp/) (HSP) students must offer [subject combinations](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u) prescribed by the Ministry of Education, which will include [H2 Literature in English](/subjects/lit/).
+**[Humanities Scholarship and Programme](/special-programmes/hsp/)** (HSP) students must offer [subject combinations](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u) prescribed by the Ministry of Education, which will include **[H2 Literature in English](/subjects/lit/)**.
 
-[Music Elective Programme](/special-programmes/mep/) (MEP) students must offer [H2 Music](/subjects/music/).
+**[Music Elective Programme](/special-programmes/mep/)** (MEP) students must offer **[H2 Music](/subjects/music/)**.
 
 
 ###### **UNIVERSITY COURSE PRE-REQUISITES**
