@@ -3,6 +3,7 @@ title: Uzuri
 permalink: /culture/house/uzuri/
 description: ""
 third_nav_title: House System
+variant: markdown
 ---
 ![](/images/Houses-Uzuri-Crest.png)
 
@@ -36,7 +37,7 @@ Mr Azhar Amin and Mr Alex Teo
 
 <br>
 
-![](/images/uzuri2022.jpg)
+![](/images/2022/uzuri2022.jpg)
 
 #### **Committee**
 
