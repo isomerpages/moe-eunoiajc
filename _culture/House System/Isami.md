@@ -3,6 +3,7 @@ title: Isami
 permalink: /culture/house/isami/
 description: ""
 third_nav_title: House System
+variant: markdown
 ---
 ![](/images/Houses-Isami-Crest.png)
 
@@ -33,7 +34,7 @@ Mr Darren Chong and Ms Elizabeth Chin
 
 <br>
 
-![](/images/isami2022.jpg)
+![](/images/2022/isami2022.jpg)
 
 #### **Committee**
 
