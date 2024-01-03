@@ -3,6 +3,7 @@ title: Ora
 permalink: /culture/house/ora/
 description: ""
 third_nav_title: House System
+variant: markdown
 ---
 ![](/images/Houses-Ora-Crest.png)
 
@@ -42,7 +43,7 @@ Mr Alson Yong and Mrs Charlotte Lee
 
 <br>
 
-![](/images/ora2022.jpg)
+![](/images/2022/ora2022.jpg)
 
 #### **Committee**
 
