@@ -23,18 +23,27 @@ Principal
 </div>	
 [Ms Lynn Koh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/cmc/ms-lynn-koh/)
 <br>
-Vice Principal
-
+Vice-Principal
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/SL-Lynn-Koh_s.jpg" style="width:50%">
+<img src="/images/Staff/Staff-Profile.png" style="width:50%">
 </div>  
 <div></div>  
 </div>	
-[Ms Lynn Koh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/cmc/ms-lynn-koh/)
+[Mdm New Yi Cheen](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/cmc/mdm-new-yi-cheen/)
 <br>
-Vice Principal
+Vice-Principal
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/Staff-Profile.png" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mdm Phua Kia Ling](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/cmc/mdm-phua-kia-ling/)
+<br>
+Vice-Principal
 
 <div>  
 <div style="float: left">  
