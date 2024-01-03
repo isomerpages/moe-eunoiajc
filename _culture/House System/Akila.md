@@ -3,6 +3,7 @@ title: Akila
 permalink: /culture/house/akila/
 description: ""
 third_nav_title: House System
+variant: markdown
 ---
 ![](/images/Houses-Akila-Crest.png)
 
@@ -39,7 +40,7 @@ Mr Daniel Kwan and Mr Justin Lim
 
 <br>
 
-![](/images/akila2022.jpg)
+![](/images/2022/akila2022.jpg)
 
 #### **Committee**
 
