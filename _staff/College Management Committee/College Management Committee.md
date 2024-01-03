@@ -210,7 +210,7 @@ Dean (JC1)
 </div>  
 <div></div>  
 </div>	
-<b>Mdm Erni Suriyani</b>
+[Mdm Erni Suriyani](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/eas/)
 <br>
 Administration Manager
 
@@ -220,6 +220,6 @@ Administration Manager
 </div>  
 <div></div>  
 </div>	
-<b>Ms Sherilyn Ang</b>
+[Ms Sherilyn Ang](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/eas/)
 <br>
 Administration Manager
