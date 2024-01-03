@@ -23,7 +23,18 @@ Principal
 </div>	
 [Ms Lynn Koh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/cmc/ms-lynn-koh/)
 <br>
-Deputy Principal
+Vice Principal
+
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/SL-Lynn-Koh_s.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Lynn Koh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/cmc/ms-lynn-koh/)
+<br>
+Vice Principal
 
 <div>  
 <div style="float: left">  
