@@ -2,6 +2,7 @@ collections:
   staff:
     output: true
     order:
+      - Arts/Ms Sea Su–An.md
       - Arts/.keep
       - Arts/Arts Department.md
       - Arts/Mr Justin Lee.md
