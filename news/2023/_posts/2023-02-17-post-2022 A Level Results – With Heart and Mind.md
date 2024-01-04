@@ -5,8 +5,9 @@ date: 2023-02-17
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-![](/images/2022-results_slider.jpg)
+
 
 Eunoia Junior College congratulates our class of 2022 for their well-deserved achievement at the 2022 Singapore-Cambridge GCE A-Level Examination. Enduring and thriving in two years of constant change, the class of 2022 have shown character, heart and mind throughout their Eunoia journey.
 
