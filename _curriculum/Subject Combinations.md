@@ -29,7 +29,7 @@ Students must offer **[H1 Mother Tongue](/academic-subjects/Languages/mother-to
 
 
 ###### **HYBRID COMBINATIONS**
-Students intending to offer 2 Mathematics and Sciences subjects and 2 Humanities and the Arts subjects may refer to page 7 of the **[information booklet.](/files/EJC_SCOPE_2024.pdf)** The college offers 12 ‘hybrid’ subject combinations in the **Science** stream: S4-1 to S4-6, and S5-1 to S5-6.
+Students intending to offer 2 Mathematics and Sciences subjects and 2 Humanities and the Arts subjects may refer to page 7 of the **[information booklet](/files/EJC_SCOPE_2024.pdf)**. The college offers 12 ‘hybrid’ subject combinations in the **Science** stream: S4-1 to S4-6, and S5-1 to S5-6.
 
 
 ###### **CONTRASTING SUBJECT**
