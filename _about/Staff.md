@@ -24,8 +24,7 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion02">JC2 Civics Tutors</label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 23-A1<br>
-<b>Mr Daniel Kwan</b>
-daniel.kwan@ejc.edu.sg<br><br>
+<b>Mr Daniel Kwan</b> daniel.kwan@ejc.edu.sg<br><br>
 
 23-A2<br>
 <b>Ms Ng Hui Qi</b> ng.hui.qi@ejc.edu.sg<br><br>
@@ -43,7 +42,7 @@ daniel.kwan@ejc.edu.sg<br><br>
 <b>Mr Trevor Tay</b> trevor.tay@ejc.edu.sg<br><br>
 
 23-E1<br>
-<b>Mrs Wee-Chen Jinqi</b> wee.chen.jinqi@ejc.edu.sg<br>
+<b>Mrs Wee-Chen Jinqi</b> wee.chen.jinqi@ejc.edu.sg<br><br>
 
 23-E2<br>
 <b>Ms Chia Xin Hui</b> chia.xin.hui@ejc.edu.sg<br><br>
@@ -58,10 +57,10 @@ daniel.kwan@ejc.edu.sg<br><br>
 <b>Mr Chua Jian Rong</b> chua.jian.rong@ejc.edu.sg<br><br>
 
 23-E6<br>
-<b>Dr Chan Kim Seng</b> chan.kim.seng@ejc.edu.sg<br>
+<b>Dr Chan Kim Seng</b> chan.kim.seng@ejc.edu.sg<br><br>
 
 23-I1<br>
-<b>Ms Renuka Satianathan</b> renuka.satianathan@ejc.edu.sg<br>
+<b>Ms Renuka Satianathan</b> renuka.satianathan@ejc.edu.sg<br><br>
 
 23-I2<br>
 <b>Ms Lee Ngern Sim</b> lee.ngern.sim@ejc.edu.sg<br><br>
@@ -97,7 +96,7 @@ daniel.kwan@ejc.edu.sg<br><br>
 <b>Ms Clarice Chan</b> clarice.chan@ejc.edu.sg<br><br>
 
 23-O6<br>
-<b>Ms Lim Lyn Na</b> lim.lyn.na@ejc.edu.sg<br><br>
+<b>Ms Lim Lyn Na</b> lim.lyn.na@ejc.edu.sg<br>
 	<b>Dr Wang Guangquan</b> wang.guangquan@ejc.edu.sg<br><br>
 
 23-U1<br>
@@ -152,8 +151,9 @@ daniel.kwan@ejc.edu.sg<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 			<b>Dr Chan Kim Seng</b> chan.kim.seng@ejc.edu.sg<br>
 			<b>Ms Chia Xin Hui</b> chia.xin.hui@ejc.edu.sg <br>
-			<b> Dr Chok Yew Keong</b> chok.yew.keong@ejc.edu.sg <br>
-			<b> Mr Christopher Tan</b> christopher.tan@ejc.edu.sg <br> <b>Ms Diana Ma</b> diana.ma@ejc.edu.sg <br>
+			<b>Dr Chok Yew Keong</b> chok.yew.keong@ejc.edu.sg <br>
+			<b>Mr Christopher Tan</b> christopher.tan@ejc.edu.sg <br> 
+	<b>Ms Diana Ma</b> diana.ma@ejc.edu.sg <br>
 			<b>Mr Enoch Tang </b> enoch.tang@ejc.edu.sg <br>
 			<b>Ms Jacintha Huang</b> jacintha.huang@ejc.edu.sg<br>
 			<b>Mr Justin Lim</b> justin.lim@ejc.edu.sg<br>
@@ -266,7 +266,7 @@ daniel.kwan@ejc.edu.sg<br><br>
 			<b> Mr Alson Yong </b> alson.yong@ejc.edu.sg <br>
 			<b> Mr Azhar Amin </b> azhar.amin@ejc.edu.sg <br>
 			<b> Mr Justin Lee </b> justin.lee@ejc.edu.sg <br>
-			<b> Mr Mahmood Fahmi Ahamed </b> mahmood.fahmi@ejc.edu.sg
+			<b> Mr Mahmood Fahmi Ahamed </b> mahmood.fahmi@ejc.edu.sg <br>
 				<b> Ms Sea Su-An </b> sea.su.an@ejc.edu.sg
 			</div>
 </li>
@@ -321,8 +321,7 @@ daniel.kwan@ejc.edu.sg<br><br>
 	<b> Mr Lim Yoke Kuang </b> lim.yoke.kuang@ejc.edu.sg <br>
 			<b> Ms Ng Yixin </b> ng.yixin@ejc.edu.sg <br>
 			<b> Mrs Ng-Phoon Lai Yong </b>  phoon.lai.yong@ejc.edu.sg <br>
-			<b> Mr Tan Khoon Han </b> tan.khoon.han@ejc.edu.sg <br> 
-			<b> Mr Wong Jia Sheng </b> wong.jia.sheng@ejc.edu.sg
+			<b> Mr Tan Khoon Han </b> tan.khoon.han@ejc.edu.sg
 			</div>
 </li>
 	

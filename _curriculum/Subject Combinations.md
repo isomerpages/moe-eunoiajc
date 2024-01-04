@@ -10,7 +10,7 @@ All our students undertake the Singapore-Cambridge GCE A-Level Curriculum, offer
 
 Students admitted via the **Joint Admissions Exercise (JAE)** must propose subject combinations in the stream (Arts or Science) to which they are posted. 
 
-The **[EJC Subject Combination Proposal Exercise (SCOPE)](/files/EJC_SCOPE_2024.pdf)** information booklet can be downloaded in **[PDF](/files/EJC-SCOPE-2024.pdf)** format. All students may propose their **preferred subject combination** if it is not featured in the list of subject combinations, subject to approval.
+The **[EJC Subject Combination Proposal Exercise (SCOPE)](/files/EJC_SCOPE_2024.pdf)** information booklet can be downloaded in **[PDF](/files/EJC_SCOPE_2024.pdf)** format. All students may propose their **preferred subject combination** if it is not featured in the list of subject combinations, subject to approval.
 
 
 | ![Arts - A1 to A4](/images/2024/EJC_SCOPE_2024_1.jpg) | ![Arts - A5 to A8](/images/2024/EJC_SCOPE_2024_2.jpg) |
@@ -29,7 +29,7 @@ Students must offer **[H1 Mother Tongue](/academic-subjects/Languages/mother-to
 
 
 ###### **HYBRID COMBINATIONS**
-Students intending to offer 2 Mathematics and Sciences subjects and 2 Humanities and the Arts subjects may refer to page 7 of the **[information booklet.](/files/EJC-SCOPE-2024.pdf)** The college offers 12 ‘hybrid’ subject combinations in the **Science** stream: S4-1 to S4-6, and S5-1 to S5-6.
+Students intending to offer 2 Mathematics and Sciences subjects and 2 Humanities and the Arts subjects may refer to page 7 of the **[information booklet](/files/EJC_SCOPE_2024.pdf)**. The college offers 12 ‘hybrid’ subject combinations in the **Science** stream: S4-1 to S4-6, and S5-1 to S5-6.
 
 
 ###### **CONTRASTING SUBJECT**
@@ -52,23 +52,23 @@ Students intending to offer **[H2 Art](/academic-subjects/Humanties-and-the-Art
 
 Students intending to offer **[H2 Translation (Chinese)](/academic-subjects/Humanties-and-the-Arts/translation-chinese/)** must have obtained a minimum of **A2** for English Language and **B3** for Higher Chinese or **A2** for Chinese at the GCE O-Level Examination, based on centrally-stated prerequisites.
 
-Students intending to offer [French, German, Japanese or Spanish](/academic-subjects/Languages/foreign-languages/) at H2 or H1 Level must have studied the respective language at MOELC in Secondary 4 or Year 4 prior to joining the college.
+Students intending to offer **[French, German, Japanese or Spanish](/academic-subjects/Languages/foreign-languages/)** at H2 or H1 Level must have studied the respective language at MOELC in Secondary 4 or Year 4 prior to joining the college.
 
 If a subject is oversubscribed, students will be selected based on academic merit, including (i) L1R5 aggregate score or equivalent, excluding bonus points, and (ii) performance in the relevant subject(s).
 
-The indicative cut-off point for [H2 Biology](/subjects/bio/), [H2 Chemistry](/subjects/chem/) and [H2 Physics](/subjects/phy/) is **B3** for the respective subject at the GCE O-Level Examination or equivalent, or **A1** for Combined Science at the GCE O-Level Examination.
+The indicative cut-off point for **[H2 Biology](/subjects/bio/), [H2 Chemistry](/subjects/chem/) and [H2 Physics](/subjects/phy/)** is **B3** for the respective subject at the GCE O-Level Examination or equivalent, or **A1** for Combined Science at the GCE O-Level Examination.
 
-The indicative cut-off point for [H2 Further Mathematics](/subjects/fmaths/) is **A1** for Additional Mathematics at the GCE O-Level Examination or equivalent.
+The indicative cut-off point for **[H2 Further Mathematics](/subjects/fmaths/)** is **A1** for Additional Mathematics at the GCE O-Level Examination or equivalent.
 
 
 ###### **SPECIAL PROGRAMMES**
-[Bicultural Studies Programme](/special-programmes/bsp/) \[BSP(C)\] scholars must offer [H2 China Studies in Chinese](subjects/csc/).
+**[Bicultural Studies Programme](/special-programmes/bsp/)** [BSP(C)] scholars must offer **[H2 China Studies in Chinese](subjects/csc/)**.
 
-Engineering and Tech Programme Scholarship (ETP) students must offer [subject combinations](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u) prescribed by the Ministry of Education, which will include [H2 Mathematics](/subjects/maths/).
+**Engineering and Tech Programme Scholarship** (ETPS) students must offer [subject combinations](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u) prescribed by the Ministry of Education, which will include **[H2 Mathematics](/subjects/maths/)**.
 
-[Humanities Scholarship and Programme](/special-programmes/hsp/) (HSP) students must offer [subject combinations](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u) prescribed by the Ministry of Education, which will include [H2 Literature in English](/subjects/lit/).
+**[Humanities Scholarship and Programme](/special-programmes/hsp/)** (HSP) students must offer [subject combinations](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u) prescribed by the Ministry of Education, which will include **[H2 Literature in English](/subjects/lit/)**.
 
-[Music Elective Programme](/special-programmes/mep/) (MEP) students must offer [H2 Music](/subjects/music/).
+**[Music Elective Programme](/special-programmes/mep/)** (MEP) students must offer **[H2 Music](/subjects/music/)**.
 
 
 ###### **UNIVERSITY COURSE PRE-REQUISITES**
