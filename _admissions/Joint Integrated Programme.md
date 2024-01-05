@@ -2,48 +2,6 @@
 title: Joint Integrated Programme
 permalink: /admissions/jip/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-![JIP](/images/jip%20family.jpg)
-
-Good education informs, great education transforms. For about a century, Catholic High School, CHIJ St Nicholas Girls’ School and Singapore Chinese Girls’ School have transformed generations of successful men and women – many of whom have contributed significantly to the transformation of Singapore.
-
-The Joint Integrated Programme brings together Catholic High School, CHIJ St Nicholas Girls’ School, Singapore Chinese Girls’ School and Eunoia Junior College. The three secondary schools have in common a strong tradition of excellence in all-round student development, an outstanding legacy of visionary leaders and a strong, supportive network of alumni from different fields.
-
-Together, the four schools offer a holistic and seamless six-year programme that prepares students to thrive in a volatile, uncertain, complex and ambiguous (VUCA) world. Catholic High School, CHIJ St Nicholas Girls’ School and Singapore Chinese Girls’ School students enrolled in the Joint Integrated Programme will join us after completing Year 4 in their respective schools.
-
-![](/images/JIP%202.jpg)
-
-As principled leaders of tomorrow, graduates of our Joint Integrated Programme would possess a strong passion for life, and be persons of integrity and discerning individuals who are challenged to think critically and make sound moral and ethical judgements. They would exhibit high levels of distinction in their acquisition and mastery of 21st century competencies and be dedicated and committed in using their talents to impact lives in positive and ethical ways.
-
-	
-Read more in our [**Joint Integrated Programme Prospectus**](https://issuu.com/eunoiajc/docs/jip_prospectus_2020)
-
-
-#### **Our JIP Journey**
-
-![](/images/jip_journey_1.png)
-
-#### **Our JIP Partners**
-
-<br>
-<center>
-	
-<img src="/images/CHS2S.jpg" style="width:40%">
-
-**Catholic High School**<br>
-[Website](https://catholichigh.moe.edu.sg/)
-
-<br>
-
-<img src="/images/SNGS2R.jpg" style="width:40%">
-
-**CHIJ St Nicholas Girls’ School**<br>
-	[Website](https://chijstnicholasgirls.moe.edu.sg/)
-
-<br>
-<img src="/images/SCGS2S.png" style="width:40%">
-
-**Singapore Chinese Girls’ School**<br>
-[Website](https://scgs.moe.edu.sg/)
-</center>
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="JIP" src="/images/jip%20family.jpg"></div><p>Good education informs, great education transforms. For about a century, Catholic High School, CHIJ St Nicholas Girls’ School and Singapore Chinese Girls’ School have transformed generations of successful men and women – many of whom have contributed significantly to the transformation of Singapore.</p><p>The Joint Integrated Programme brings together Catholic High School, CHIJ St Nicholas Girls’ School, Singapore Chinese Girls’ School and Eunoia Junior College. The three secondary schools have in common a strong tradition of excellence in all-round student development, an outstanding legacy of visionary leaders and a strong, supportive network of alumni from different fields.</p><p>Together, the four schools offer a holistic and seamless six-year programme that prepares students to thrive in a volatile, uncertain, complex and ambiguous (VUCA) world. Catholic High School, CHIJ St Nicholas Girls’ School and Singapore Chinese Girls’ School students enrolled in the Joint Integrated Programme will join us after completing Year 4 in their respective schools.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/JIP%202.jpg"></div><p>As principled leaders of tomorrow, graduates of our Joint Integrated Programme would possess a strong passion for life, and be persons of integrity and discerning individuals who are challenged to think critically and make sound moral and ethical judgements. They would exhibit high levels of distinction in their acquisition and mastery of 21st century competencies and be dedicated and committed in using their talents to impact lives in positive and ethical ways.</p><p>Read more in our <strong><a href="https://issuu.com/eunoiajc/docs/jip_prospectus_2020" rel="noopener noreferrer nofollow" target="_blank">Joint Integrated Programme Prospectus</a></strong></p><h4><strong>Our JIP Journey</strong></h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/jip_journey_1.png"></div><h4><strong>Our JIP Partners</strong></h4><p></p><p></p><div class="isomer-image-wrapper"><img style="width:40%" height="auto" width="100%" src="/images/CHS2S.jpg"></div><p><strong>Catholic High School</strong><br><a href="https://catholichigh.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Website</a><br></p><div class="isomer-image-wrapper"><img style="width:40%" height="auto" width="100%" src="/images/SNGS2R.jpg"></div><p><strong>CHIJ St Nicholas Girls’ School</strong><br><a href="https://chijstnicholasgirls.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Website</a></p><p><br></p><div class="isomer-image-wrapper"><img style="width:40%" height="auto" width="100%" src="/images/SCGS2S.png"></div><p><strong>Singapore Chinese Girls’ School</strong><br><a href="https://scgs.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Website</a></p>
