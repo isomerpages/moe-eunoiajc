@@ -2,6 +2,7 @@
 title: Joint Integrated Programme
 permalink: /admissions/jip/
 description: ""
+variant: markdown
 ---
 ![JIP](/images/jip%20family.jpg)
 
@@ -41,8 +42,7 @@ Read more in our [**Joint Integrated Programme Prospectus**](https://issuu.com/e
 	[Website](https://chijstnicholasgirls.moe.edu.sg/)
 
 <br>
-
-<img src="/images/scgs_s.png" style="width:40%">
+<img src="/images/SCGS2S.png" style="width:40%">
 
 **Singapore Chinese Girls’ School**<br>
 [Website](https://scgs.moe.edu.sg/)
