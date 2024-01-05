@@ -32,7 +32,7 @@ sections:
   - textcards:
       title: "#WhyEJ"
       id: textcards
-      description: Hear from our Eunoians and discover what has made their Eunoia
+      description: Hear from our Eunoians and alumni. Discover what made their Eunoia
         experience special.
       cards:
         - title: Gabrielle Faith Wong
