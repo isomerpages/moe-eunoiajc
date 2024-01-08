@@ -86,32 +86,11 @@ Operations Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/awtecklee_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Mr Aw Teck Lee</b>
-<br>
-Operations Support Officer
-
-
-<div>  
-<div style="float: left">  
 <img src="/images/Staff/eas-cheongsiewkheun.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
 <b>Mdm Cheong Siew Kheun</b>
-<br>
-Operations Support Officer
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/jamal_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Mr Jamal bin Wari</b>
 <br>
 Operations Support Officer
 
