@@ -88,6 +88,15 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
+<img src="/images/Staff/eng-cavell-chee_s.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Cavell Chee](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-cavell-chee)<br>
+Teacher (Literature in English)
+
+<div>  
+<div style="float: left">  
 <img src="/images/Staff/EL-Cham-Bei-Qing_s.jpg" style="width:50%">
 </div>  
 <div></div>  
@@ -103,6 +112,15 @@ Teacher (General Paper)
 </div>	
 [Mrs Charlotte Lee](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mrs-charlotte-lee/) <br>
 Teacher (General Paper)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/EL_CrispinRodrigues_s.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Mr Crispin Rodrigues](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-crispin-rodrigues/) <br>
+Teacher (Literature in English)
 
 <div>  
 <div style="float: left">  
@@ -139,6 +157,15 @@ Teacher (General Paper)
 </div>	
 [Ms Karol Ann Tan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-karol-ann-tan/) <br>
 Teacher (General Paper)
+
+<div>  
+<div style="float: left">  
+<img src="/images/Staff/EL_NgHuiQi_s.jpg" style="width:50%">
+</div>  
+<div></div>  
+</div>	
+[Ms Ng Hui Qi](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-ng-hui-qi/) <br>
+Teacher (Literature in English)
 
 <div>  
 <div style="float: left">  
@@ -198,27 +225,10 @@ Teacher (General Paper)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/eng-cavell-chee_s.jpg" style="width:50%">
+<img src="/images/Staff/Staff-Profile.png" style="width:50%">
 </div>  
 <div></div>  
 </div>	
-[Mr Cavell Chee](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-cavell-chee)<br>
-Teacher (Literature in English)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/EL_CrispinRodrigues_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Mr Crispin Rodrigues](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-crispin-rodrigues/) <br>
-Teacher (Literature in English)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/EL_NgHuiQi_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Ms Ng Hui Qi](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-ng-hui-qi/) <br>
-Teacher (Literature in English)
+Mr Foo Xiang Kai
+<br>
+Teacher (General Paper)
