@@ -172,12 +172,3 @@ Teacher (Mathematics)
 </div>	
 [Mr Tan Khoon Han](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mr-tan-khoon-han/) <br>
 Teacher (Mathematics)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/Maths-Wong-Jia-Sheng_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Mr Wong Jia Sheng](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mr-wong-jia-sheng/) <br>
-Teacher (Mathematics)
