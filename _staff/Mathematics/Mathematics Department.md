@@ -3,6 +3,7 @@ title: Mathematics Department
 permalink: /about/staff/maths/
 description: ""
 third_nav_title: Mathematics
+variant: markdown
 ---
 <div>  
 <div style="float: left">  
