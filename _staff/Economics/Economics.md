@@ -143,6 +143,3 @@ Teacher (Economics)
 </div>	
 [Mrs Wee-Chen Jinqi](https://eunoiajc.moe.edu.sg/about/staff/econs/mrs-wee-chen-jinqi/) <br>
 Teacher (Economics)
-
-<br>
-Teacher (Economics)
