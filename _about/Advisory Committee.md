@@ -2,12 +2,12 @@
 title: Advisory Committee
 permalink: /about/cac/
 description: ""
+variant: markdown
 ---
+### **Ms Isabella Loh**
 
-### **Prof Su Guaning**
-
-President Emeritus <br>
-Nanyang Technological University
+Chairman <br>
+Singapore Environment Council
 
 ### **Ms Cherie Tseng**
 
@@ -29,12 +29,12 @@ Director <br>
 Partner, Assurance <br>
 PricewaterhouseCoopers LLP
 
-### **Mr Lim Teng Sherng**
+### **Mr Kenneth Tang**
 
-Chief Commercial Officer <br>
-ADVANCE.AI
+Group CEO, DBS Vickers <br>
+DBS Vickers Securities
 
 ### **Ms Vicky Yap**
 
 Lawyer <br>
-Lee & Lee
+Lee &amp; Lee
