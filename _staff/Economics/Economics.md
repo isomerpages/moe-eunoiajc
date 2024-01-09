@@ -107,16 +107,6 @@ Teacher (Economics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs-Lim-Lay-Peng_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-Mdm Lim Lay Peng
-<br>
-Teacher (Economics)
-
-<div>  
-<div style="float: left">  
 <img src="/images/Staff/Econs_Lim_LynNa_s.jpg" style="width:50%">
 </div>  
 <div></div>  
