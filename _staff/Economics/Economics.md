@@ -98,20 +98,11 @@ Teacher (Economics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Staff-Profile.png" style="width:50%">
+<img src="/images/Staff/Econs_Kenny_Tan.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
 [Mr Kenny Tan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/mr-kenny-tan/) <br>
-Teacher (Economics)
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/Econs-Lim-Lay-Peng_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-Mdm Lim Lay Peng
-<br>
 Teacher (Economics)
 
 <div>  
@@ -136,16 +127,6 @@ Teacher (Economics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs-Peter-Soh_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Mr Peter Soh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/mr-peter-soh)
-<br>
-Teacher (Economics)
-
-<div>  
-<div style="float: left">  
 <img src="/images/Staff/Econs-Serene-Tan_s.jpg" style="width:50%">
 </div>  
 <div></div>  
@@ -161,14 +142,4 @@ Teacher (Economics)
 <div></div>  
 </div>	
 [Mrs Wee-Chen Jinqi](https://eunoiajc.moe.edu.sg/about/staff/econs/mrs-wee-chen-jinqi/) <br>
-Teacher (Economics)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/Econs-Bernice-Lee_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-Ms Bernice Lee
-<br>
 Teacher (Economics)

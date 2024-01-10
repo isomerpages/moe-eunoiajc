@@ -27,17 +27,17 @@ Vice-Principal
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Staff-Profile.png" style="width:50%">
+<img src="/images/Staff/SL_New_Yi_Cheen.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
-[Mdm New Yi Cheen](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/cmc/mdm-new-yi-cheen/)
+[Ms New Yi Cheen](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/cmc/ms-new-yi-cheen/)
 <br>
 Vice-Principal
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Staff-Profile.png" style="width:50%">
+<img src="/images/Staff/SL_Phua_Kia_Ling.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	

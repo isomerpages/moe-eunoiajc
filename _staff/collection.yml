@@ -2,6 +2,14 @@ collections:
   staff:
     output: true
     order:
+      - College Management Committee/.keep
+      - College Management Committee/College Management Committee.md
+      - College Management Committee/Mr Andrew Tan.md
+      - College Management Committee/Ms Lynn Koh.md
+      - College Management Committee/Ms New Yi Cheen.md
+      - College Management Committee/Mdm Phua Kia Ling.md
+      - College Management Committee/Mr Mohamad Amran Shah.md
+      - Executive and Admin Staff.md
       - Arts/.keep
       - Arts/Arts Department.md
       - Arts/Mr Justin Lee.md
@@ -142,13 +150,5 @@ collections:
       - Science/Mr Soo Pui Wah.md
       - Science/Mr Tan Zhen Yong Keith.md
       - Science/Dr Wang Guangquan.md
-      - College Management Committee/.keep
-      - College Management Committee/College Management Committee.md
-      - College Management Committee/Mr Andrew Tan.md
-      - College Management Committee/Ms Lynn Koh.md
-      - College Management Committee/Mdm New Yi Cheen.md
-      - College Management Committee/Mdm Phua Kia Ling.md
-      - College Management Committee/Mr Mohamad Amran Shah.md
-      - Executive and Admin Staff.md
-      - ICT and IME.md
       - Student Development.md
+      - ICT and IME.md

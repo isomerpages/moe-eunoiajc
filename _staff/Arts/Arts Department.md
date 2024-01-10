@@ -99,7 +99,7 @@ Teacher (Geography)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Staff-Profile.png" style="width:50%">
+<img src="/images/Staff/Arts_Sea_Su_An.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
