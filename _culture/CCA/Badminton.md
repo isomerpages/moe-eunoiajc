@@ -3,27 +3,6 @@ title: Badminton
 permalink: /culture/cca/badminton/
 description: ""
 third_nav_title: CCA
+variant: tiptap
 ---
-#### **CCA Schedule**
-
-**Monday**  
-5.00 - 7.30pm  
-Multi-Purpose Hall
-
-**Wednesday**  
-5.00 - 7.30pm  
-Multi-Purpose Hall
-
-#### **Teachers-in-charge**
-
-**Mr Lee Wei Ming Allen**  
-[allen.lee@ejc.edu.sg](mailto:allen.lee@ejc.edu.sg)
-
-**Ms Kajal Kaur Khaira**  
-[kajal.kaur.khaira@ejc.edu.sg](mailto:kajal.kaur.khaira@ejc.edu.sg)
-
-**Mr Tan Zhen Yong Keith**  
-[tan.zhen.yong@ejc.edu.sg](mailto:tan.zhen.yong@ejc.edu.sg)
-
-**Ms Chan Xin Yu**   
-[chan.xin.yu@ejc.edu.sg](mailto:chan.xin.yu@ejc.edu.sg)
+<h4><strong>CCA Schedule</strong></h4><p><strong>Monday</strong><br>5.00 - 7.30pm<br>Multi-Purpose Hall</p><p><strong>Wednesday</strong><br>5.00 - 7.30pm<br>Multi-Purpose Hall</p><h4><strong>Teachers-in-charge</strong></h4><p><strong>Ms Chan Xin Yu</strong><br><a href="mailto:chan.xin.yu@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan.xin.yu@ejc.edu.sg</a></p><p><strong>Mr Keith Tan Zhen Yong </strong><br><a href="mailto:tan.zhen.yong@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.zhen.yong@ejc.edu.sg</a></p><p><strong>Mr Allen Lee </strong><br><a href="mailto:allen.lee@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">allen.lee@ejc.edu.sg</a></p>
