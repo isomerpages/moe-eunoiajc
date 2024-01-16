@@ -3,28 +3,6 @@ title: Volleyball
 permalink: /culture/cca/volleyball/
 description: ""
 third_nav_title: CCA
+variant: tiptap
 ---
-#### **CCA Schedule**
-
-**Tueday**  
-5.00 - 7.30pm   
-Multi-Purpose Hall
-
-**Thursday**  
-5.00 - 7.30pm  
-Multi-Purpose Hall
-
-**Saturday (School Teams)**  
-8.00 - 12.00pm  
-Multi-Purpose Hall
-
-#### **Teachers-in-charge**
-
-**Mr Kelvin Teo**  
-[kelvin.teo@ejc.edu.sg](mailto:kelvin.teo@ejc.edu.sg)
-
-**Mr Ng Jun Kiat**  
-[ng.jun.kiat@ejc.edu.sg](mailto:ng.jun.kiat@ejc.edu.sg)
-
-**Ms Serene Tan**  
-[serene.tan@ejc.edu.sg](mailto:serene.tan@ejc.edu.sg)
+<h4><strong>CCA Schedule</strong></h4><p><strong>Tueday</strong><br>5.00 - 7.30pm<br>Multi-Purpose&nbsp;Hall</p><p><strong>Thursday</strong><br>5.00 - 7.30pm<br>Multi-Purpose&nbsp;Hall</p><p><em>Term 2</em><br><strong>Saturday </strong><br>8.00 - 12.00pm<br>Multi-Purpose Hall</p><p></p><h4><strong>Teachers-in-charge</strong></h4><p><strong>Mr Kelvin Teo</strong><br><a href="mailto:kelvin.teo@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kelvin.teo@ejc.edu.sg</a></p><p><strong>Mr Ng Jun Kiat</strong><br><a href="mailto:ng.jun.kiat@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.jun.kiat@ejc.edu.sg</a></p><p><strong>Ms Serene Tan</strong><br><a href="mailto:serene.tan@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">serene.tan@ejc.edu.sg</a></p>
