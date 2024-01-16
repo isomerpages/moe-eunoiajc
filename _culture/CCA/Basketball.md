@@ -3,32 +3,6 @@ title: Basketball
 permalink: /culture/cca/basketball/
 description: ""
 third_nav_title: CCA
+variant: tiptap
 ---
-### CCA Schedule
-
-**Monday**  
-5.00 - 7.30pm  
-Basketball Courts / Indoor Sports Hall
-
-**Wednesday**  
-5.00 - 7.30pm  
-Basketball Courts / Indoor Sports Hall
-
-**Friday**  
-5.00 - 7.30pm  
-Basketball Courts / Indoor Sports Hall
-
-
-### Teachers-in-charge
-
-**Mr Allen Lee**  
-[allen.lee@ejc.edu.sg](mailto:allen.lee@ejc.edu.sg)
-
-**Mr Timothy Ng**  
-[timothy.ng@ejc.edu.sg](mailto:timothy.ng@ejc.edu.sg)
-
-**Mr Sun Xiao Jun**  
-[sun.xiaojun@ejc.edu.sg](mailto:sun.xiaojun@ejc.edu.sg)
-
-**Mr Peter Soh**  
-[peter.soh@ejc.edu.sg](mailto:peter.soh@ejc.edu.sg)
+<h3><strong>CCA Schedule</strong></h3><p><strong>Monday</strong><br>5.00 - 7.30pm<br>Basketball Courts / Indoor Sports Hall</p><p><strong>Wednesday</strong><br>5.00 - 7.30pm<br>Basketball Courts / Indoor Sports Hall</p><p><strong>Friday</strong><br>5.00 - 7.30pm<br>Basketball Courts / Indoor Sports Hall</p><p></p><h3><strong>Teachers-in-charge</strong></h3><p><strong>Mr Allen Lee</strong><br><a href="mailto:allen.lee@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">allen.lee@ejc.edu.sg</a></p><p><strong>Mr Sun Xiao Jun</strong><br><a href="mailto:sun.xiaojun@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sun.xiaojun@ejc.edu.sg</a></p><p><strong>Ms Sea Su-An</strong><br><a href="mailto:sea.su.an@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sea.su.an@ejc.edu.sg</a></p>
