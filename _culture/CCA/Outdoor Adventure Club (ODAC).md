@@ -3,27 +3,6 @@ title: Outdoor Adventure Club (ODAC)
 permalink: /culture/cca/odac/
 description: ""
 third_nav_title: CCA
+variant: tiptap
 ---
-#### **CCA Schedule**
-
-**Wednesday**  
-4.00 - 7.00pm  
-ODAC Store / ODAC Field
-
-**Friday**  
-4.00 - 7.00pm  
-ODAC Store / ODAC Field
-
-#### **Teachers-in-charge**
-
-**Mr Ng Boon Hong**  
-[ng.boon.hong@ejc.edu.sg](mailto:ng.boon.hong@ejc.edu.sg)
-
-**Mr Chen Jinquan**  
-[chen.jinquan@ejc.edu.sg](mailto:chen.jinquan@ejc.edu.sg)
-
-**Dr Wang Guangquan**   
-[wang.guangquan@ejc.edu.sg](mailto:wang.guangquan@ejc.edu.sg)
-
-**Mr Charles Cheak**  
-[charles.cheak@ejc.edu.sg](mailto:charles.cheak@ejc.edu.sg)
+<h4><strong>CCA Schedule</strong></h4><p><strong>Wednesday</strong><br>4.00&nbsp;- 7.00pm<br>ODAC Store / ODAC Field / TR6-08</p><p><strong>Friday</strong><br>4.00&nbsp;- 7.00pm<br>ODAC Store / ODAC Field / TR6-08</p><p></p><h4><strong>Teachers-in-charge</strong></h4><p><strong>Mr Ng Boon Hong</strong><br><a href="mailto:ng.boon.hong@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.boon.hong@ejc.edu.sg</a></p><p><strong>Mr Chen Jinquan</strong><br><a href="mailto:chen.jinquan@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen.jinquan@ejc.edu.sg</a></p><p><strong>Dr Wang Guangquan</strong><br><a href="mailto:wang.guangquan@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang.guangquan@ejc.edu.sg</a></p><p><strong>Mr Charles Cheak</strong><br><a href="mailto:charles.cheak@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">charles.cheak@ejc.edu.sg</a></p>
