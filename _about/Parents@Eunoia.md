@@ -4,37 +4,30 @@ permalink: /about/parents/
 description: ""
 variant: markdown
 ---
-Welcome to **Parents@Eunoia** 2023, a community for parents of Eunoians by parents of Eunoians!
+#### **WHO ARE WE**
 
-We are delighted to be the parents’ voice on matters close to our hearts. As representatives of the parents of Eunoians, we aim to highlight issues such as our children's holistic well-being, university preparation, and career guidance. We seek to organise fun events to nurture parent-child bonding. We also strive to consider the needs of all Eunoians above ours, and forge to build a remarkable learning space and a brighter future for our children.
+Welcome to **Parents@Eunoia** (P@E), the Parent Support Group (PSG) at Eunoia Junior College (EJC). We are devoted parent volunteers, committed to collaborating with EJC parents to navigate the JC years alongside our teenage sons or daughters at EJC.
 
-![](/images/2023/parentseunoia2023-01.jpg)
+#### **P@E EXECUTIVE COMMITTEE 2024**
 
-#### **Executive Committee**
+* Ms. Joerynn Tay - Chairperson
+* Ms. Ng Hei-Di - Secretary (Communication)
+* Ms. Angie Yeo – Treasurer (Communication)
+* Mr. Clifford Lew - Design and IT
 
-* Ms. Yasmin Abdeen - Chairperson
-* Ms. Joerynn Susie Lim - Vice Chairperson
-* Ms. Sue Lee - Treasurer 
-* Ms. Joyce Tan - Secretary (Communication)
-* Ms. Hummaira Gul Azeez- Secretary (Media)
-* Ms. Eileen Chua - Member
-* Ms. Emma Loke - Member 
+![](/images/2024/parents_eunoia_exco_2024.jpg)
+(From left to right) Clifford Lew, Angie Yeo, Joerynn Tay, Ng Hei-Di
 
-![](/images/2023/parentseunoia2023-02.jpg)
+We aim to:
+* Support the school in improving the well-being and learning of our students.
+* Build an inclusive and supportive community where parents can share their concerns and wisdom.
+* Provide parents with insight on relevant issues.
+* Be a channel for parents to express their collective legitimate concerns to the school.
 
-#### **Our Vision**
+#### **CONTACT US** ####
+We will love to hear your feedback. You can reach us at: [ejparents@ejc.edu.sg](mailto:ejparents@ejc.edu.sg)
 
-* Caring Parent
-* Reliable Partner
-* Truthful Friend
-
-Parents@Eunoia aims to dedicate ourselves to supporting EJC and our children by working as a team and staying true to our vision. 
-
-![](/images/2023/parentseunoia2023-03.jpg)
-
-#### **Feedback**
-
-We value your feedback to help us improve and serve you better. Feel free to reach out to us at parents.eunoia@gmail.com
-
-Cheers,<br>
-Parents@Eunoia Exco Team
+We look forward to a meaningful and exciting year with you! <br>
+Cheers, <br>
+P@E Executive Committee 2024 <br>
+(Say Hi when you see us! We’ll love to chat with you!)
