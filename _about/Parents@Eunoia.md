@@ -10,7 +10,7 @@ Welcome to **Parents@Eunoia** (P@E), the Parent Support Group (PSG) at Eunoia Ju
 
 #### **P@E EXECUTIVE COMMITTEE 2024**
 
-* Ms. Joerynn Tay - Chairperson
+* Ms. Joerynn Susie Lim - Chairperson
 * Ms. Ng Hei-Di - Secretary (Communication)
 * Ms. Angie Yeo – Treasurer (Communication)
 * Mr. Clifford Lew - Design and IT
