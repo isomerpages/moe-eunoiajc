@@ -3,21 +3,6 @@ title: Debate
 permalink: /culture/cca/debate/
 description: ""
 third_nav_title: CCA
+variant: tiptap
 ---
-#### **CCA Schedule**
-
-**Wednesday**  
-4.00 - 7.00pm  
-Seminar Room 4A and 4B
-
-**Friday**  
-3.30 - 6.30pm  
-Seminar Room 4A and 3B
-
-#### **Teachers-in-charge**
-
-**Ms Nadiah Razali**  
-[nadiah.razali@ejc.edu.sg](mailto:nadiah.razali@ejc.edu.sg)
-
-**Mr Benjamin Chew**  
-[benjamin.chew@ejc.edu.sg](mailto:benjamin.chew@ejc.edu.sg)
+<h4><strong>CCA Schedule</strong></h4><p><strong>Wednesday</strong><br>4.00&nbsp;- 7.00pm<br>Seminar Room 5-2A/2B</p><p><strong>Friday</strong><br>3.30 - 6.30pm<br>Seminar Room 5-2A/2B</p><p></p><h4><strong>Teachers-in-charge</strong></h4><p><strong>Mr Benjamin Chew</strong><br><a href="mailto:benjamin.chew@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">benjamin.chew@ejc.edu.sg</a></p><p><strong>Ms Nadiah Razali</strong><br><a href="mailto:nadiah.razali@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadiah.razali@ejc.edu.sg</a></p><p></p>

@@ -3,31 +3,6 @@ title: Softball
 permalink: /culture/cca/softball/
 description: ""
 third_nav_title: CCA
+variant: tiptap
 ---
-### CCA Schedule
-
-**Monday**  
-4.30 - 7.30pm  
-Field
-
-**Wednesday**  
-4.30 - 7.30pm  
-Field
-
-**Friday**  
-4.30 - 7.30pm  
-Field
-
-### Teachers-in-charge
-
-**Mr Trevor Tay**  
-[trevor.tay@ejc.edu.sg](mailto:trevor.tay@ejc.edu.sg)
-
-**Mr Ng Jun Kiat**  
-[ng.jun.kiat@ejc.edu.sg](mailto:ng.jun.kiat@ejc.edu.sg)
-
-**Mrs Ng-Phoon Lai Yong**  
-[phoon.lai.yong@ejc.edu.sg](mailto:phoon.lai.yong@ejc.edu.sg)
-
-**Mr Tan Khoon Han**  
-[tan.khoon.han@ejc.edu.sg](mailto:tan.khoon.han@ejc.edu.sg)
+<h3><strong>CCA Schedule</strong></h3><p><strong>Monday</strong><br>4.30 - 7.30pm<br>Field</p><p><strong>Wednesday</strong><br>4.30 - 7.30pm<br>Field</p><p><strong>Friday</strong><br>4.30 - 7.30pm<br>Field</p><h3><strong>Teachers-in-charge</strong></h3><p><strong>Mr Trevor Tay</strong><br><a href="mailto:trevor.tay@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">trevor.tay@ejc.edu.sg</a></p><p><strong>Mr George Danapal</strong><br><a href="mailto:george.danapal@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">george.danapal@ejc.edu.sg</a></p><p><strong>Mrs Ng-Phoon Lai Yong</strong><br><a href="mailto:phoon.lai.yong@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phoon.lai.yong@ejc.edu.sg</a></p><p><strong>Mr Tan Khoon Han</strong><br><a href="mailto:tan.khoon.han@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.khoon.han@ejc.edu.sg</a></p>

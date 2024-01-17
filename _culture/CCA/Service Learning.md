@@ -3,24 +3,6 @@ title: Service Learning
 permalink: /culture/cca/servicelearning/
 description: ""
 third_nav_title: CCA
+variant: tiptap
 ---
-#### **CCA Schedule**
-
-**Wednesday**  
-3.00 - 5.30pm  
-Seminar Room 3A and 3B
-
-**Friday**  
-3.00 - 5.30pm  
-Seminar Room 3A and 3B
-
-#### **Teachers-in-charge**
-
-**Ms Ng Siow Ying**  
-[ng.siow.ying@ejc.edu.sg](mailto:ng.siow.ying@ejc.edu.sg)
-
-**Ms Eleanor Grace Wong**  
-[eleanor.wong@ejc.edu.sg](mailto:eleanor.wong@ejc.edu.sg)
-
-**Ms Elena Tan**  
-[elena.tan@ejc.edu.sg](mailto:elena.tan@ejc.edu.sg)
+<h4><strong>CCA Schedule</strong></h4><p><strong>Wednesday</strong><br>3.00 - 5.30pm<br>Seminar Room 5-1A / 1B</p><p><strong>Friday</strong><br>3.00 - 5.30pm<br>Seminar Room 5-1A / 1B</p><h4><strong>Teachers-in-charge</strong></h4><p><strong>Ms Ng Siow Ying</strong><br><a href="mailto:ng.siow.ying@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.siow.ying@ejc.edu.sg</a></p><p><strong>Ms Kajal Kaur Khaira</strong><br><a href="mailto:kajal.kaur.khaira@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kajal.kaur.khaira@ejc.edu.sg</a></p>

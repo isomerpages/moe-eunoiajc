@@ -3,24 +3,6 @@ title: Taekwondo
 permalink: /culture/cca/taekwondo/
 description: ""
 third_nav_title: CCA
+variant: tiptap
 ---
-### CCA Schedule
-
-**Tuesday**  
-5.00 - 7.30pm  
-Symposia
-
-**Thursday**  
-5.00 - 7.30pm  
-Symposia
-
-### Teachers-in-charge
-
-**Mr George Danapal**  
-[george.danapal@ejc.edu.sg](mailto:george.danapal@ejc.edu.sg)
-
-**Ms Suellen Goh**  
-[suellen.goh@ejc.edu.sg](mailto:suellen.goh@ejc.edu.sg)
-
-**Ms Lu Huiping**  
-[lu.huiping@ejc.edu.sg](mailto:lu.huiping@ejc.edu.sg)
+<h3><strong>CCA Schedule</strong></h3><p><strong>Tuesday</strong><br>5.30 - 7.30pm<br>Symposia</p><p><strong>Thursday</strong><br>5.30 - 7.30pm<br>Symposia</p><h3><strong>Teachers-in-charge</strong></h3><p><strong>Mr Ng Jun Kiat</strong><br><a href="mailto:ng.jun.kiat@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.jun.kiat@ejc.edu.sg</a></p><p><strong>Ms Lu Huiping</strong><br><a href="mailto:lu.huiping@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lu.huiping@ejc.edu.sg</a></p><p><strong>Ms Lim Yen Chui</strong><br><a href="mailto:lim.yen.chui@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.yen.chui@ejc.edu.sg</a></p>
