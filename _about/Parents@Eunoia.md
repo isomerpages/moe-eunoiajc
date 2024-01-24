@@ -15,7 +15,8 @@ Welcome to **Parents@Eunoia** (P@E), the Parent Support Group (PSG) at Eunoia Ju
 * Ms. Angie Yeo – Treasurer &amp; Communication
 * Mr. Clifford Lew - Design and IT Specialist
 
-![](/images/2024/parents_eunoia_exco_2024.jpg)
+
+![](/images/2024/Parents_Eunoia_EXCO_2024__updated_.jpg)
 (From left to right) Clifford Lew, Angie Yeo, Joerynn Susie Lim, Ng Hei-Di
 
 We aim to:
