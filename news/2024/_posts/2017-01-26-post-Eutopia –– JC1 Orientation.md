@@ -19,8 +19,8 @@ our hearts unite and together, our dreams take flight!</p>
 <p><strong>Mr Jared Goh<br></strong>Dean (JC1)</p>
 <p></p>
 <h4><strong>Reporting Details</strong></h4>
-<p>Date: 2 February 2024
-<br>Time: 7:55 am
+<p>Date: 2 Feb 2024 (Fri)
+<br>Time: 7.55 am
 <br>Venue: Multi Purpose Hall (MPH)</p>
 <p></p>
 <h4><strong>Selection Tests</strong></h4>
