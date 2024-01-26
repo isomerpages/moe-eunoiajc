@@ -122,7 +122,7 @@ HOD (Character &amp; Citizenship Education)
 </div>	
 [Mr Jared Goh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/arts/mr-jared-goh/)
 <br>
-Dean (JC2)
+Dean (JC1)
 
 <div>  
 <div style="float: left">  
@@ -202,7 +202,7 @@ HOD (Mother Tongue Languages &amp; BSP)
 </div>	
 [Ms Yang Shu Hung](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/ms-yang-shu-hung/)
 <br>
-Dean (JC1)
+Dean (JC2)
 
 <div>  
 <div style="float: left">  
