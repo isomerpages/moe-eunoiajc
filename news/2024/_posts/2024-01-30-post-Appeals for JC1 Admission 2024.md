@@ -9,9 +9,8 @@ variant: tiptap
 ---
 <p>The 2023 Joint Admissions Exercise (JAE) Appeal Exercise is for students
 who have not been posted to Eunoia Junior College (EJC) under the JAE Posting
-Exercise.</p>
-<p>Students admitted to other institutions via Direct School Admission (DSA-JC)
-are <u>not</u> eligible for this exercise.</p>
+Exercise. Students admitted to other institutions via Direct School Admission
+(DSA-JC) are <u>not</u> eligible for this exercise.</p>
 <p>The&nbsp;official appeal period for JAE is from&nbsp;<strong>1 Feb to 7 Feb 2024 (1700 hours).</strong>
 </p>
 <p>Appeals for transfer to Eunoia Junior College will be based on merit.
