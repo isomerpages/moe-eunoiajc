@@ -19,9 +19,10 @@ our hearts unite and together, our dreams take flight!</p>
 <p><strong>Mr Jared Goh<br></strong>Dean (JC1)</p>
 <p></p>
 <h4><strong>Reporting Details</strong></h4>
-<p>Date: 2 Feb 2024 (Fri)
-<br>Time: 7.55 am
-<br>Venue: Multi Purpose Hall (MPH)</p>
+<p>Date: <strong>2 Feb 2024 (Fri) </strong>
+<br>Time: <strong>7.55 am </strong>
+<br>Venue: <strong>Multi Purpose Hall (MPH)</strong>
+</p>
 <p></p>
 <h4><strong>Selection Tests</strong></h4>
 <p>For students intending to offer <strong>H2 KI, H2 Music, H2 Art, H2 Further Mathematics, H2 Translation (Chinese)</strong> as
@@ -52,7 +53,7 @@ from different OGs to buy their uniforms.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Stipulated Timing</strong>
+<p><strong>Time</strong>
 </p>
 </td>
 </tr>
