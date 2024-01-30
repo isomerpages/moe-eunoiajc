@@ -10,7 +10,7 @@ variant: tiptap
 <h4><strong>Dear Eunoians,</strong></h4>
 <p>Hello and a warm welcome to Eunoia Junior College! As you embark on your
 journey as an incoming JC1 student, you will form new friendships, forge
-new memories and foster new familiarities, to discover your Eutopia! The
+new memories and foster new familiarities, to discover your <em>Eutopia!</em> The
 JC1 Orientation marks the beginning of our myriad of programmes that have
 been specially curated for you to explore your passions and pursuits in
 your next two years in EJC. &nbsp;As one Eunoia, may our minds ignite,
