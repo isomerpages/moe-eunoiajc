@@ -12,7 +12,7 @@ who have not been posted to Eunoia Junior College (EJC) under the JAE Posting
 Exercise.</p>
 <p>Students admitted to other institutions via Direct School Admission (DSA-JC)
 are <u>not</u> eligible for this exercise.</p>
-<p>The&nbsp;official appeal period for JAE is from&nbsp;<strong>1 Feb to 7 Feb 2024 (12nn).</strong>
+<p>The&nbsp;official appeal period for JAE is from&nbsp;<strong>1 Feb to 7 Feb 2024 (1700 hours).</strong>
 </p>
 <p>Appeals for transfer to Eunoia Junior College will be based on merit.
 Students who wish to appeal on other grounds are unlikely to be successful
@@ -52,8 +52,8 @@ the email subject titled,&nbsp;<strong>"Documents for JAE Appeal 2024 - Full Nam
 <p>Please refer to and understand the&nbsp;<strong><a href="/subject-combinations/" rel="noopener noreferrer nofollow" target="_blank">subject combinations</a></strong>&nbsp;available
 in the college before starting the application.&nbsp;</p>
 <p>Incomplete / Late applications will not be considered.</p>
-<p><strong>Applicants will be notified</strong>  <strong>by</strong>&nbsp;<strong>8 Feb 2024</strong>&nbsp;on
-the application outcome.</p>
+<p><strong>Only successful applicants will be notified by 8 Feb 2024 </strong>on
+the application outcome via email.</p>
 <p>The decision of the Admissions Committee is final. No further appeals
 will be considered.</p>
 <h4><strong>Annexes</strong></h4>
