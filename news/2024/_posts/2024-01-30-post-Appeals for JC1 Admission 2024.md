@@ -47,11 +47,12 @@ applicable)</p>
 <p>If you are unable to upload the documents, you can submit the relevant
 documents by emailing the softcopy documents to&nbsp;<strong><a href="mailto:eunoiajc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eunoiajc@moe.edu.sg</a></strong>&nbsp;with
 the email subject titled,&nbsp;<strong>"Documents for JAE Appeal 2024 - Full Name"</strong>.</p>
-<p><strong>All appeals must reach the college by 12nn on 7 Feb 2024.</strong>&nbsp;</p>
+<p><strong>All appeals must reach the college by 7 Feb 2024 (1700 hours).</strong>
+</p>
 <p>Please refer to and understand the&nbsp;<strong><a href="/subject-combinations/" rel="noopener noreferrer nofollow" target="_blank">subject combinations</a></strong>&nbsp;available
 in the college before starting the application.&nbsp;</p>
 <p>Incomplete / Late applications will not be considered.</p>
-<p>Applicants will be notified <strong>by</strong>&nbsp;<strong>8 Feb 2024</strong>&nbsp;on
+<p><strong>Applicants will be notified</strong>  <strong>by</strong>&nbsp;<strong>8 Feb 2024</strong>&nbsp;on
 the application outcome.</p>
 <p>The decision of the Admissions Committee is final. No further appeals
 will be considered.</p>
