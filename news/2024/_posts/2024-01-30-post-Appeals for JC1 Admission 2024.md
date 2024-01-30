@@ -11,15 +11,13 @@ variant: tiptap
 who have not been posted to Eunoia Junior College (EJC) under the JAE Posting
 Exercise. Students admitted to other institutions via Direct School Admission
 (DSA-JC) are <u>not</u> eligible for this exercise.</p>
-<p>The&nbsp;official appeal period for JAE is from&nbsp;<strong>1 Feb to 7 Feb 2024 (1700 hours).</strong>
-</p>
-<p>Appeals for transfer to Eunoia Junior College will be based on merit.
-Students who wish to appeal on other grounds are unlikely to be successful
-if they have not met the course Cut-Off Point (COP) for the year and do
-not present extenuating circumstances to merit a transfer.</p>
+<p>The&nbsp;official appeal period for JAE is from&nbsp;<strong>1 Feb to 7 Feb 2024 (1700 hours). </strong>Appeals
+for transfer to Eunoia Junior College will be based on merit. Students
+who wish to appeal on other grounds are unlikely to be successful if they
+have not met the course Cut-Off Point (COP) for the year and do not present
+extenuating circumstances to merit a transfer.</p>
 <p>The 2024 COP for the Science course and the Arts course will be published
 on 1 Feb 2024.</p>
-<p></p>
 <p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/65a9db9b4c2f3e0012a76c9b"><img style="width: 20%;" height="auto" width="100%" alt="Online Form" src="/images/Form.png"></a>
 <p></p>
 <h4><strong>Instructions</strong></h4>
