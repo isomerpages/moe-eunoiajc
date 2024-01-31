@@ -109,7 +109,7 @@ variant: tiptap
 <br><a href="/subjects/mtl/" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Languages</a>
 </p>
 <p></p>
-<h4><strong>Mathematics and Sciences</strong></h4>
+<h4><strong>Mathematics </strong><br><strong>and Sciences</strong></h4>
 <p><a href="/subjects/maths/" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a> 
 <br><a href="/subjects/fmaths/" rel="noopener noreferrer nofollow" target="_blank">Further Mathematics</a> 
 <br><a href="/subjects/bio/" rel="noopener noreferrer nofollow" target="_blank">Biology</a> 
@@ -119,7 +119,7 @@ variant: tiptap
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<h4><strong>Humanities and the Arts</strong></h4>
+<h4><strong>Humanities </strong><br><strong>and the Arts</strong></h4>
 <p><a href="/subjects/econs/" rel="noopener noreferrer nofollow" target="_blank">Economics</a> 
 <br><a href="/subjects/geog/" rel="noopener noreferrer nofollow" target="_blank">Geography</a> 
 <br><a href="/subjects/his/" rel="noopener noreferrer nofollow" target="_blank">History</a> 
