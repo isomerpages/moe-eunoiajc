@@ -22,8 +22,8 @@ our hearts unite and together, our dreams take flight!</p>
 <p>Date: <strong>2 Feb 2024 (Fri) </strong>
 <br>Time: <strong>7.55 am </strong>
 <br>Venue: <strong>Multi Purpose Hall (MPH)</strong> 
-<br>Attire: <strong>Secondary School PE shirt and bottoms </strong>(skirt /
-pants)</p>
+<br>Attire: <strong>Secondary School PE T-shirt and bottoms </strong>(skirt
+/ pants)</p>
 <p></p>
 <p>The purchase of uniforms as well as selection / diagnostic tests for selected
 subjects will take place after 2pm.</p>
