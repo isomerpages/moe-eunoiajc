@@ -21,12 +21,12 @@ our hearts unite and together, our dreams take flight!</p>
 <h4><strong>Reporting Details</strong></h4>
 <p>Date: <strong>2 Feb 2024 (Fri) </strong>
 <br>Time: <strong>7.55 am </strong>
-<br>Venue: <strong>Multi Purpose Hall (MPH)</strong>
+<br>Venue: <strong>Multi Purpose Hall (MPH)</strong> 
 <br>Attire: <strong>Secondary School PE shirt and bottoms </strong>(skirt /
 pants)</p>
 <p></p>
-<p>The purchase of uniforms and graphing calculators as well as selection
-/ diagnostic tests for selected subjects will take place after 2pm.</p>
+<p>The purchase of uniforms as well as selection / diagnostic tests for selected
+subjects will take place after 2pm.</p>
 <p>You will be added to a WhatsApp group by your OGLs where they will be
 disseminating information relating to Orientation.</p>
 <p>In the meantime, do follow the EJC Orientation Instagram account <strong><a href="https://www.instagram.com/ejc.orientation" rel="noopener noreferrer nofollow" target="_blank">@ejc.orientation</a></strong>!</p>
