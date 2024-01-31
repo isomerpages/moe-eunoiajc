@@ -22,13 +22,13 @@ up to you to embody the spirit of the knights and continue Eder’s shining
 legacy. Take courage! The journey is long and the trials are many, but
 every Eder knight will come through to fulfil our calling.</p>
 <p>The time is now. Eder, charge!</p>
-<p><strong>Your House Masters</strong>
+<p><strong>Your House Masters</strong> 
 <br>Mr Kelvin Teo and Ms Clarice Chan</p>
 <h4><strong>Identity</strong></h4>
-<p><strong>HOUSE EMBLEM</strong>
+<p><strong>HOUSE EMBLEM</strong> 
 <br>The stallion is a symbol of freedom, power and endurance.
 <br>
-<br><strong>HOUSE CHEER</strong>
+<br><strong>HOUSE CHEER</strong> 
 <br>Who are who are who are we
 <br>We are we are we are who
 <br>We are the Eder
@@ -51,23 +51,23 @@ every Eder knight will come through to fulfil our calling.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOUSE MASTER</strong>
+<p><strong>HOUSE MASTER</strong> 
 <br>Mr Kelvin Teo
 <br>
-<br><strong>ASSISTANT HOUSE MASTER</strong>
+<br><strong>ASSISTANT HOUSE MASTER</strong> 
 <br>Ms Clarice Chan
 <br>
-<br><strong>HOUSE CAPTAIN</strong>
+<br><strong>HOUSE CAPTAIN</strong> 
 <br>Tay Jun Yong (23-E5)
 <br>
-<br><strong>HOUSE VICE-CAPTAINS</strong>
+<br><strong>HOUSE VICE-CAPTAINS</strong> 
 <br>Tan Jing Ren, Sarah (23-E4)
 <br>Matthew Hoo Haoming (23-E3)
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>HOUSE REPRESENTATIVES</strong>
+<p><strong>HOUSE REPRESENTATIVES</strong> 
 <br>Ariana Binte Iskandar Meirza (23-E1)
 <br>Tan Li Ning Valerie (23-E1)
 <br>Chin Yun Qing Shennon (23-E2)
@@ -91,7 +91,7 @@ every Eder knight will come through to fulfil our calling.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PAST HOUSE CAPTAINS</strong>
+<p><strong>PAST HOUSE CAPTAINS</strong> 
 <br>Timothy Ang (17-E4)
 <br>Ashley Wong (18-E2)
 <br>Eric Lu (19-E2)
@@ -99,7 +99,7 @@ every Eder knight will come through to fulfil our calling.</p>
 <br>Ashley Toh Kai Lun (21-E4)
 <br>Goh Wei An (22-E5)</p>
 <p></p>
-<p><strong>PAST HOUSE MASTERS</strong>
+<p><strong>PAST HOUSE MASTERS</strong> 
 <br>Mrs Elaine Toh-Tan
 <br>Ms Sandra Chan
 <br>Dr Edson Ng
@@ -108,7 +108,7 @@ every Eder knight will come through to fulfil our calling.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>PAST HOUSE VICE-CAPTAINS</strong>
+<p><strong>PAST HOUSE VICE-CAPTAINS</strong> 
 <br>Lye Hao Yu Xanthia (17-E2)
 <br>Wang Anqi (17-E3)
 <br>Tan Yi Juan, Kimmie (18-E3)
