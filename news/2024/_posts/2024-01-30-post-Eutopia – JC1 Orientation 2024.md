@@ -22,13 +22,20 @@ our hearts unite and together, our dreams take flight!</p>
 <p>Date: <strong>2 Feb 2024 (Fri) </strong>
 <br>Time: <strong>7.55 am </strong>
 <br>Venue: <strong>Multi Purpose Hall (MPH)</strong>
-</p>
+<br>Attire: <strong>Secondary School PE shirt and bottoms </strong>(skirt /
+pants)</p>
+<p></p>
+<p>The purchase of uniforms and graphing calculators as well as selection
+/ diagnostic tests for selected subjects will take place after 2pm.</p>
+<p>You will be added to a WhatsApp group by your OGLs where they will be
+disseminating information relating to Orientation.</p>
+<p>In the meantime, do follow the EJC Orientation Instagram account <strong><a href="https://www.instagram.com/ejc.orientation" rel="noopener noreferrer nofollow" target="_blank">@ejc.orientation</a></strong>!</p>
 <p></p>
 <h4><strong>Selection Tests</strong></h4>
 <p>For students intending to offer <strong>H2 KI, H2 Music, H2 Art, H2 Further Mathematics, H2 Translation (Chinese)</strong> as
-part of your subject combinations, you would need to pass a Selection/Diagnostic
-test. Please refer to the table below for the details if you are interested
-to take the test.</p>
+part of your subject combinations, you would need to pass a Selection /
+Diagnostic test. Please refer to the table below for the details if you
+are interested to take the test.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2024_Selection_Tests.png">
