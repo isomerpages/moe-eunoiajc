@@ -44,7 +44,7 @@ are interested to take the test.</p>
 <h4><strong>Uniform Purchase</strong></h4>
 <p>The uniform vendor will be in the college for students to purchase their
 school uniforms. The uniform vendors would also not be providing plastic
-bags for sustainability, so you are to <strong>bring along a recycling bag</strong> during
+bags for sustainability, so you are to <strong>bring along a reusable bag</strong> during
 your uniform purchase. Please see below for recommended timings for students
 from different OGs to buy their uniforms.</p>
 <p></p>
