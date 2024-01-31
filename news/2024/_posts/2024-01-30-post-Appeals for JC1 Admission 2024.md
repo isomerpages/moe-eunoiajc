@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>The 2023 Joint Admissions Exercise (JAE) Appeal Exercise is for students
+<p>The 2024 Joint Admissions Exercise (JAE) Appeal Exercise is for students
 who have not been posted to Eunoia Junior College (EJC) under the JAE Posting
 Exercise. Students admitted to other institutions via Direct School Admission
 (DSA-JC) are <u>not</u> eligible for this exercise.</p>
@@ -20,8 +20,8 @@ extenuating circumstances to merit a transfer.</p>
 <p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/65a9db9b4c2f3e0012a76c9b"><img style="width: 20%;" height="auto" width="100%" alt="Online Form" src="/images/Form.png"></a>
 <p></p>
 <h4><strong>Instructions</strong></h4>
-<p><strong><a href="https://form.gov.sg/65a9db9b4c2f3e0012a76c9b" rel="noopener noreferrer nofollow" target="_blank">Complete the online form</a></strong>.&nbsp;You
-are required to upload the following documents as part of your appeal submission:</p>
+<p><strong><a href="https://form.gov.sg/65a9db9b4c2f3e0012a76c9b" rel="noopener noreferrer nofollow" target="_blank">Complete the online form</a></strong>.&nbsp;<strong>You are required to upload the following documents</strong> as
+part of your appeal submission:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Form A</p>
@@ -41,8 +41,8 @@ applicable)</p>
 </li>
 </ul>
 <p>If you are unable to upload the documents, you can submit the relevant
-documents by emailing the softcopy documents to&nbsp;<strong><a href="mailto:eunoiajc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eunoiajc@moe.edu.sg</a></strong>&nbsp;with
-the email subject titled,&nbsp;<strong>"Documents for JAE Appeal 2024 - Full Name"</strong>.</p>
+documents by emailing the soft copy documents to&nbsp;<strong><a href="mailto:eunoiajc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eunoiajc@moe.edu.sg</a></strong>&nbsp;with
+the <strong>email</strong>  <strong>subject</strong> titled,&nbsp;<strong>"Documents for JAE Appeal 2024 - Full Name"</strong>.</p>
 <p><strong>All appeals must reach the college by 7 Feb 2024 (1700 hours).</strong>
 </p>
 <p>Please refer to and understand the&nbsp;<strong><a href="/subject-combinations/" rel="noopener noreferrer nofollow" target="_blank">subject combinations</a></strong>&nbsp;available
