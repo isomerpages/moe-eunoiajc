@@ -98,6 +98,14 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<h4><strong>Mathematics </strong><br><strong>and Sciences</strong></h4>
+<p><a href="/subjects/maths/" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a> 
+<br><a href="/subjects/fmaths/" rel="noopener noreferrer nofollow" target="_blank">Further Mathematics</a> 
+<br><a href="/subjects/bio/" rel="noopener noreferrer nofollow" target="_blank">Biology</a> 
+<br><a href="/subjects/chem/" rel="noopener noreferrer nofollow" target="_blank">Chemistry</a> 
+<br><a href="/subjects/phy/" rel="noopener noreferrer nofollow" target="_blank">Physics</a>
+</p>
+<p></p>
 <h4><strong>Knowledge Skills</strong></h4>
 <p><a href="/subjects/gp/" rel="noopener noreferrer nofollow" target="_blank">General Paper</a> 
 <br><a href="/subjects/ki/" rel="noopener noreferrer nofollow" target="_blank">Knowledge &amp; Inquiry</a> 
@@ -108,15 +116,6 @@ variant: tiptap
 <p><a href="/subjects/fl/" rel="noopener noreferrer nofollow" target="_blank">Foreign Languages</a> 
 <br><a href="/subjects/mtl/" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Languages</a>
 </p>
-<p></p>
-<h4><strong>Mathematics </strong><br><strong>and Sciences</strong></h4>
-<p><a href="/subjects/maths/" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a> 
-<br><a href="/subjects/fmaths/" rel="noopener noreferrer nofollow" target="_blank">Further Mathematics</a> 
-<br><a href="/subjects/bio/" rel="noopener noreferrer nofollow" target="_blank">Biology</a> 
-<br><a href="/subjects/chem/" rel="noopener noreferrer nofollow" target="_blank">Chemistry</a> 
-<br><a href="/subjects/phy/" rel="noopener noreferrer nofollow" target="_blank">Physics</a>
-</p>
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <h4><strong>Humanities </strong><br><strong>and the Arts</strong></h4>
@@ -133,14 +132,6 @@ variant: tiptap
 <br><a href="/subjects/translation/" rel="noopener noreferrer nofollow" target="_blank">Translation (Chinese)</a>  <strong><br></strong>
 </p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
