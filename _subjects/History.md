@@ -37,5 +37,5 @@ forward, take a step back through History.</p>
 </p>
 <p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9174_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 History</a>
 </p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9174_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 History</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9823_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 History</a>
 </p>
