@@ -19,7 +19,7 @@ The **[EJC Subject Combination Proposal Exercise (SCOPE)](/files/EJC_SCOPE_2024
 
 
 ###### **KNOWLEDGE SKILLS**
-All students offer **[H1 General Paper](/subjects/gp/)**. In their first year, students must offer **[H1 Project Work](/subjects/pw/)**.
+All students offer **[H1 General Paper](/subjects/gp/)**. In their first year, students must offer **[Project Work](/subjects/pw/)**.
 
 
 ###### **LANGUAGES**
