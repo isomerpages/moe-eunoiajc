@@ -32,8 +32,6 @@ or take it to the next level by proposing solutions to government ministries.
 Geography uncovers new territories and carves new routes between old ones,
 so that your knowledge is as far-reaching as it can be.</p>
 <h4><strong>Syllabus Documents</strong></h4>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8834_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Geography</a>
-</p>
 <p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9173_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Geography</a>
 </p>
 <p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9822_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Geography</a>
