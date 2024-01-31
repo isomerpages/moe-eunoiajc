@@ -17,9 +17,9 @@ sections:
         - title: A-Level Results
           description: Class of 2022
           url: /news/2023/results
-        - title: OPEN HOUSE
-          description: 12 Jan 2024
-          url: /oh/
+        - title: JAE appeals
+          description: 1 - 7 Feb 2024
+          url: https://www.eunoiajc.moe.edu.sg/news/2024/appeals/
         - title: oheunoia.com
           description: Online Showcase
           url: https://www.oheunoia.com
