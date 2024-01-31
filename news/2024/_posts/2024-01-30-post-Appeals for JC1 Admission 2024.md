@@ -16,8 +16,7 @@ for transfer to Eunoia Junior College will be based on merit. Students
 who wish to appeal on other grounds are unlikely to be successful if they
 have not met the course Cut-Off Point (COP) for the year and do not present
 extenuating circumstances to merit a transfer.</p>
-<p>The 2024 COP for the Science course and the Arts course will be published
-on 1 Feb 2024.</p>
+<p>The 2024 COP for the Science course is 6 and the Arts course is 7.</p>
 <p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/65a9db9b4c2f3e0012a76c9b"><img style="width: 20%;" height="auto" width="100%" alt="Online Form" src="/images/Form.png"></a>
 <p></p>
 <h4><strong>Instructions</strong></h4>
