@@ -72,23 +72,23 @@ variant: tiptap
 <p></p><a class="isomer-image-wrapper" href="/subjects/csc/"><img style="width: 100%" height="auto" width="100%" alt="CSC" src="/images/Subject16.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/subjects/cll/"><img style="width: 100%" height="auto" width="100%" alt="CLL" src="/images/Subject17.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/subjects/fl/"><img style="width: 100%" height="auto" width="100%" alt="Foreign Languages" src="/images/Subject21.png"></a>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/subjects/mll/"><img style="width: 100%" height="auto" width="100%" alt="MLL" src="/images/Subject18.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/subjects/translation/"><img style="width: 100%" height="auto" width="100%" alt="Translation" src="/images/Subject20.png"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/subjects/tll/"><img style="width: 100%" height="auto" width="100%" alt="TLL" src="/images/Subject19.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/subjects/cll/"><img style="width: 100%" height="auto" width="100%" alt="CLL" src="/images/Subject17.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/subjects/translation/"><img style="width: 100%" height="auto" width="100%" alt="Translation" src="/images/Subject20.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/subjects/mll/"><img style="width: 100%" height="auto" width="100%" alt="MLL" src="/images/Subject18.png"></a>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/subjects/fl/"><img style="width: 100%" height="auto" width="100%" alt="Foreign Languages" src="/images/Subject21.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/subjects/tll/"><img style="width: 100%" height="auto" width="100%" alt="TLL" src="/images/Subject19.png"></a>
 </td>
 </tr>
 </tbody>
@@ -125,7 +125,7 @@ variant: tiptap
 <br><a href="/subjects/his/" rel="noopener noreferrer nofollow" target="_blank">History</a> 
 <br><a href="/subjects/lit/" rel="noopener noreferrer nofollow" target="_blank">Literature in English</a> 
 <br><a href="/subjects/art/" rel="noopener noreferrer nofollow" target="_blank">Art</a> 
-<br><a href="/subjects/music/" rel="noopener noreferrer nofollow" target="_blank">Music</a>
+<br><a href="/subjects/music/" rel="noopener noreferrer nofollow" target="_blank">Music</a> 
 <br><a href="/subjects/csc/" rel="noopener noreferrer nofollow" target="_blank">China Studies in Chinese</a> 
 <br><a href="/subjects/cll/" rel="noopener noreferrer nofollow" target="_blank">Chinese Language &amp; Literature</a> 
 <br><a href="/subjects/mll/" rel="noopener noreferrer nofollow" target="_blank">Malay Language &amp; Literature</a> 
