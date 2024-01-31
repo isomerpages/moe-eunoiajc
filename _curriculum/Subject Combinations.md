@@ -12,14 +12,11 @@ H1 and H3 subjects carry 1 unit each.</p>
 <p>Students admitted via the&nbsp;<strong>Joint Admissions Exercise (JAE)</strong>&nbsp;must
 propose subject combinations in the stream (Arts or Science) to which they
 are posted.</p>
-<p></p><a class="isomer-image-wrapper" href="/files/EJC_SCOPE_2024.pdf"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Download.png"></a>
-<p></p>
-<p></p>
 <p>The&nbsp;<strong><a href="/files/EJC_SCOPE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">EJC Subject Combination Proposal Exercise (SCOPE)</a></strong>&nbsp;information
 booklet can be downloaded in&nbsp;<strong><a href="/files/EJC_SCOPE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF</a></strong>&nbsp;format.
 All students may propose their&nbsp;<strong>preferred subject combination</strong>&nbsp;if
 it is not featured in the list of subject combinations, subject to approval.</p>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="/files/EJC_SCOPE_2024.pdf"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Download.png"></a>
 <p></p>
 <p></p>
 <table>
