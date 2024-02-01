@@ -18,7 +18,7 @@ have not met the course Cut-Off Point (COP) for the year and do not present
 extenuating circumstances to merit a transfer.</p>
 <p>The 2024 COP for the Science course is <strong>6</strong> and the Arts course
 is <strong>7</strong>.</p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/65a9db9b4c2f3e0012a76c9b"><img style="width: 20%;" height="auto" width="100%" alt="Online Form" src="/images/Form.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/65a9db9b4c2f3e0012a76c9b"><img style="width: 25%;" height="auto" width="100%" alt="Online Form" src="/images/Form.png"></a>
 <p></p>
 <h4><strong>Instructions</strong></h4>
 <p><strong><a href="https://form.gov.sg/65a9db9b4c2f3e0012a76c9b" rel="noopener noreferrer nofollow" target="_blank">Complete the online form</a></strong>.&nbsp;<strong>You are required to upload the following documents</strong> as
