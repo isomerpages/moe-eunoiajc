@@ -60,15 +60,15 @@ to our students:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For students to implement assigned task(s) within an authentic work environment
-to gain valuable work experience and learn new skills/knowledge.</p>
+to gain valuable work experience and learn new skills/knowledge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For students to implement assigned task(s) within an authentic work environment
-to gain valuable work experience and learn new skills/knowledge.</p>
+to gain valuable work experience and learn new skills/knowledge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For students to shadow an experienced person in the organisation and gain
-deeper insights into particular field.</p>
+deeper insights into particular field</p>
 </td>
 </tr>
 <tr>
@@ -83,7 +83,7 @@ deeper insights into particular field.</p>
 <p>1 - 2 weeks</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 - 2 days</p>
+<p>1 - 3 days</p>
 </td>
 </tr>
 <tr>
