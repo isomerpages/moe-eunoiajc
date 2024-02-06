@@ -26,13 +26,13 @@ one of personal growth, and that you will find great&nbsp;<em>amigos</em>&nbsp;h
 who will journey with you through the triumphs and challenges of JC.&nbsp;Let’s
 forge loyal friendships, end the year courageously and remember - the pack's
 always got your back!</p>
-<p><strong>Your House Masters</strong>
+<p><strong>Your House Masters</strong> 
 <br>Mr Darren Chong and Ms Elizabeth Chin</p>
 <h4><strong>Identity</strong></h4>
-<p><strong>HOUSE EMBLEM</strong>
+<p><strong>HOUSE EMBLEM</strong> 
 <br>The wolf is a symbol of intelligence, loyalty and spirit.
 <br>
-<br><strong>HOUSE CHEER</strong>
+<br><strong>HOUSE CHEER</strong> 
 <br>Who are we? ISAMI (x3)
 <br>I - will win the war
 <br>S - you’ll see us soar
@@ -44,30 +44,30 @@ always got your back!</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Isami_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Isami_2024_2.jpg">
 </div>
 <h4><strong>Committee</strong></h4>
 <table>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOUSE MASTER</strong>
+<p><strong>HOUSE MASTER</strong> 
 <br>Mr Darren Chong
 <br>
-<br><strong>ASSISTANT HOUSE MASTER</strong>
+<br><strong>ASSISTANT HOUSE MASTER</strong> 
 <br>Ms Elizabeth Chin
 <br>
-<br><strong>HOUSE CAPTAIN</strong>
+<br><strong>HOUSE CAPTAIN</strong> 
 <br>Nathan Neo (23-I4)
 <br>
-<br><strong>HOUSE VICE-CAPTAINS</strong>
+<br><strong>HOUSE VICE-CAPTAINS</strong> 
 <br>Alina Sudarman (23-I6)
 <br>Charlotte Koh Hui Ting (23-I3)
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>HOUSE REPRESENTATIVES</strong>
+<p><strong>HOUSE REPRESENTATIVES</strong> 
 <br>Donovan Tng (23-I1)
 <br>Law Jing Xuan Jermaine (23-I1)
 <br>Reann Oh Xin Yu (23-I2)
@@ -91,7 +91,7 @@ always got your back!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PAST HOUSE CAPTAINS</strong>
+<p><strong>PAST HOUSE CAPTAINS</strong> 
 <br>Darren Sum (17-I4)
 <br>Hazel Wong (18-I1)
 <br>Julia Ng (19-I3)
@@ -99,7 +99,7 @@ always got your back!</p>
 <br>Clarianne Effendi (21-I6)
 <br>Ng Xuan Jie (22-I2)</p>
 <p></p>
-<p><strong>PAST HOUSE MASTERS</strong>
+<p><strong>PAST HOUSE MASTERS</strong> 
 <br>Mr Chuah Jun Jie
 <br>Ms Iris Lee
 <br>Ms Lu Jing
@@ -110,7 +110,7 @@ always got your back!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>PAST HOUSE VICE-CAPTAINS</strong>
+<p><strong>PAST HOUSE VICE-CAPTAINS</strong> 
 <br>Kaelyn Neo (17-I1)
 <br>Caspian Ng (17-I1)
 <br>Tang Xin Ru (18-I2)
