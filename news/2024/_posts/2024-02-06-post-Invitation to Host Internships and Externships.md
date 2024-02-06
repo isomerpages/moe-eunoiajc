@@ -93,7 +93,7 @@ deeper insights into particular field</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nov to Jan the following year (before students officially enrol in Eunoia
-Junior College</p>
+Junior College)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mid Nov to Dec</p>
