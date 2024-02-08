@@ -113,7 +113,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/mr-cavell-chee/" rel="noopener noreferrer nofollow" target="_blank">Mr Cavell Chee</a></strong>
+<p><strong><a href="/about/staff/english/mr-cavell-chee/" rel="noopener noreferrer nofollow" target="_blank">Mr Cavell Chee</a></strong> 
 <br>Teacher (Literature in English)</p>
 </td>
 </tr>
@@ -124,7 +124,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/ms-cham-bei-qing/" rel="noopener noreferrer nofollow" target="_blank">Ms Cham Bei Qing</a></strong>
+<p><strong><a href="/about/staff/english/ms-cham-bei-qing/" rel="noopener noreferrer nofollow" target="_blank">Ms Cham Bei Qing</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
@@ -135,7 +135,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/mrs-charlotte-lee/" rel="noopener noreferrer nofollow" target="_blank">Mrs Charlotte Lee</a></strong>
+<p><strong><a href="/about/staff/english/mrs-charlotte-lee/" rel="noopener noreferrer nofollow" target="_blank">Mrs Charlotte Lee</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
@@ -146,7 +146,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/mr-crispin-rodrigues/" rel="noopener noreferrer nofollow" target="_blank">Mr Crispin Rodrigues</a></strong>
+<p><strong><a href="/about/staff/english/mr-crispin-rodrigues/" rel="noopener noreferrer nofollow" target="_blank">Mr Crispin Rodrigues</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
@@ -157,7 +157,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/mr-darren-chong/" rel="noopener noreferrer nofollow" target="_blank">Mr Darren Chong</a></strong>
+<p><strong><a href="/about/staff/english/mr-darren-chong/" rel="noopener noreferrer nofollow" target="_blank">Mr Darren Chong</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
@@ -168,7 +168,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/mr-joshua-ng/" rel="noopener noreferrer nofollow" target="_blank">Mr Joshua Ng</a></strong>
+<p><strong><a href="/about/staff/english/mr-joshua-ng/" rel="noopener noreferrer nofollow" target="_blank">Mr Joshua Ng</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
@@ -179,7 +179,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/ms-kajal-kaur-khaira/" rel="noopener noreferrer nofollow" target="_blank">Ms Kajal Kaur Khaira</a></strong>
+<p><strong><a href="/about/staff/english/ms-kajal-kaur-khaira/" rel="noopener noreferrer nofollow" target="_blank">Ms Kajal Kaur Khaira</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
@@ -190,7 +190,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/ms-karol-ann-tan/" rel="noopener noreferrer nofollow" target="_blank">Ms Karol Ann Tan</a></strong>
+<p><strong><a href="/about/staff/english/ms-karol-ann-tan/" rel="noopener noreferrer nofollow" target="_blank">Ms Karol Ann Tan</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
@@ -201,7 +201,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/ms-ng-hui-qi/" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Hui Qi</a></strong>
+<p><strong><a href="/about/staff/english/ms-ng-hui-qi/" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Hui Qi</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
@@ -212,7 +212,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/ms-priya-haritheertham/" rel="noopener noreferrer nofollow" target="_blank">Ms Priya Haritheertham</a></strong>
+<p><strong><a href="/about/staff/english/ms-priya-haritheertham/" rel="noopener noreferrer nofollow" target="_blank">Ms Priya Haritheertham</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
@@ -223,7 +223,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/ms-renuka-satianathan/" rel="noopener noreferrer nofollow" target="_blank">Ms Renuka Satianathan</a></strong>
+<p><strong><a href="/about/staff/english/ms-renuka-satianathan/" rel="noopener noreferrer nofollow" target="_blank">Ms Renuka Satianathan</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
@@ -234,7 +234,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/mr-samuel-wong/" rel="noopener noreferrer nofollow" target="_blank">Mr Samuel Wong</a></strong>
+<p><strong><a href="/about/staff/english/mr-samuel-wong/" rel="noopener noreferrer nofollow" target="_blank">Mr Samuel Wong</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
@@ -245,7 +245,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/ms-xu-xiuwen/" rel="noopener noreferrer nofollow" target="_blank">Ms Xu Xiuwen</a></strong>
+<p><strong><a href="/about/staff/english/ms-xu-xiuwen/" rel="noopener noreferrer nofollow" target="_blank">Ms Xu Xiuwen</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
@@ -268,6 +268,28 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mrs Vivien Yeo</strong> 
+<br>Teacher (General Paper)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Staff/Staff-Profile.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Esther Chiam</strong>
+<br>Teacher (General Paper)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Staff/Staff-Profile.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Masnidah Masnawi</strong>
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
