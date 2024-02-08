@@ -57,7 +57,7 @@ Vice-Principal (Administration)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/PW-Adrienne-de-Souza_s%20(1).jpg" style="width:50%">
+<img src="/images/Staff/PW-Adrienne-de-Souza_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -87,7 +87,7 @@ HOD (Economics)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/PE-Charles-Cheak_s-1%20(2).jpg" style="width:50%">
+<img src="/images/Staff/PE-Charles-Cheak_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -97,7 +97,7 @@ HOD (PE &amp; CCA)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Chok-Yew-Keong_s%20(1).jpg" style="width:50%">
+<img src="/images/Staff/Sci-Chok-Yew-Keong_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -126,7 +126,7 @@ Dean (JC1)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Arts_JustinLee_s%20(1).jpg" style="width:50%">
+<img src="/images/Staff/Arts_JustinLee_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -136,7 +136,7 @@ HOD (Arts)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs_KevinTan_s%20(1).jpg" style="width:50%">
+<img src="/images/Staff/Econs_KevinTan_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -146,7 +146,7 @@ School Staff Developer
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Econs_KohHanYun_s%20(2).jpg" style="width:50%">
+<img src="/images/Staff/Econs_KohHanYun_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -156,7 +156,7 @@ HOD (Student Leadership &amp; Talent Development)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Sci-Koh-Siong-Yang_s%20(1).jpg" style="width:50%">
+<img src="/images/Staff/Sci-Koh-Siong-Yang_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -166,7 +166,7 @@ HOD (ICT&amp;IME)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/HOD-Marc-Kenji-Lim_s%20(1).jpg" style="width:50%">
+<img src="/images/Staff/HOD-Marc-Kenji-Lim_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -176,7 +176,7 @@ HOD (Corporate Communications &amp; Partnerships)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/EL-Stephanie-Hua_s%20(1).jpg" style="width:50%">
+<img src="/images/Staff/EL-Stephanie-Hua_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -186,7 +186,7 @@ HOD(English)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/HOD-Tay-Theng-Hwee_s2%20(1).jpg" style="width:50%">
+<img src="/images/Staff/HOD-Tay-Theng-Hwee_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -196,7 +196,7 @@ HOD (Mother Tongue Languages &amp; BSP)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/MTL-Yang-Shu-Hung_s%20(2).jpg" style="width:50%">
+<img src="/images/Staff/MTL-Yang-Shu-Hung_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
