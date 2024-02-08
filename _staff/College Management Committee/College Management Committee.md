@@ -58,7 +58,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/cmc/mr-mohamad-amran-shah/" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamad Amran Shah</a></strong>
+<p><strong><a href="/about/staff/cmc/mr-mohamad-amran-shah/" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamad Amran Shah</a></strong> 
 <br>Vice-Principal (Administration)</p>
 </td>
 </tr>
@@ -113,7 +113,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/dr-chok-yew-keong/" rel="noopener noreferrer nofollow" target="_blank">Dr Chok Yew Keong</a></strong>
+<p><strong><a href="/about/staff/science/dr-chok-yew-keong/" rel="noopener noreferrer nofollow" target="_blank">Dr Chok Yew Keong</a></strong> 
 <br>HOD (Science)</p>
 </td>
 </tr>
@@ -124,7 +124,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/mtl/mdm-elavarasi/" rel="noopener noreferrer nofollow" target="_blank">Mdm Elavarasi Sundararaju</a></strong>
+<p><strong><a href="/about/staff/mtl/mdm-elavarasi/" rel="noopener noreferrer nofollow" target="_blank">Mdm Elavarasi Sundararaju</a></strong> 
 <br>HOD (Character &amp; Citizenship Education)</p>
 </td>
 </tr>
@@ -135,7 +135,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/arts/mr-jared-goh/" rel="noopener noreferrer nofollow" target="_blank">Mr Jared Goh</a></strong>
+<p><strong><a href="/about/staff/arts/mr-jared-goh/" rel="noopener noreferrer nofollow" target="_blank">Mr Jared Goh</a></strong> 
 <br>Dean (JC1)</p>
 </td>
 </tr>
@@ -146,7 +146,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/arts/mr-justin-lee/" rel="noopener noreferrer nofollow" target="_blank">Mr Justin Lee</a></strong>
+<br>HOD (Arts)</p>
 </td>
 </tr>
 <tr>
@@ -156,7 +157,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/econs/mr-kevin-tan/" rel="noopener noreferrer nofollow" target="_blank">Mr Kevin Tan</a></strong>
+<br>School Staff Developer</p>
 </td>
 </tr>
 <tr>
@@ -166,7 +168,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/econs/ms-koh-han-yun/" rel="noopener noreferrer nofollow" target="_blank">Ms Koh Han Yun</a></strong>
+<br>HOD (Student Leadership &amp; Talent Development)</p>
 </td>
 </tr>
 <tr>
@@ -176,7 +179,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/science/mr-koh-siong-yang/" rel="noopener noreferrer nofollow" target="_blank">Mr Koh Siong Yang</a></strong>
+<br>HOD (ICT&amp;IME)</p>
 </td>
 </tr>
 <tr>
@@ -186,7 +190,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/english/mr-marc-kenji-lim/" rel="noopener noreferrer nofollow" target="_blank">Mr Marc Kenji Lim</a></strong>
+<br>HOD (Corporate Communications &amp; Partnerships)</p>
 </td>
 </tr>
 <tr>
@@ -196,7 +201,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/english/ms-stephanie-hua/" rel="noopener noreferrer nofollow" target="_blank">Ms Stephanie Hua</a></strong>
+<br>HOD(English)</p>
 </td>
 </tr>
 <tr>
@@ -206,7 +212,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/mtl/mr-tay-theng-hwee/" rel="noopener noreferrer nofollow" target="_blank">Mr Tay Theng Hwee</a></strong>
+<br>HOD (Mother Tongue Languages &amp; BSP)</p>
 </td>
 </tr>
 <tr>
@@ -216,7 +223,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/mtl/ms-yang-shu-hung/" rel="noopener noreferrer nofollow" target="_blank">Ms Yang Shu Hung</a></strong>
+<br>Dean (JC2)</p>
 </td>
 </tr>
 <tr>
@@ -226,7 +234,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/eas/" rel="noopener noreferrer nofollow" target="_blank">Mdm Erni Suriyani</a></strong>
+<br>Administration Manager</p>
 </td>
 </tr>
 <tr>
@@ -236,30 +245,10 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/eas/" rel="noopener noreferrer nofollow" target="_blank">Ms Sherilyn Ang</a></strong>
+<br>Administration Manager</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p>[Mr Justin Lee](/about/staff/arts/mr-justin-lee/)
-<br>HOD (Arts)</p>
-<p>[Mr Kevin Tan](/about/staff/econs/mr-kevin-tan/)
-<br>School Staff Developer</p>
-<p>[Ms Koh Han Yun](/about/staff/econs/ms-koh-han-yun/)
-<br>HOD (Student Leadership &amp; Talent Development)</p>
-<p>[Mr Koh Siong Yang](/about/staff/science/mr-koh-siong-yang/)
-<br>HOD (ICT&amp;IME)</p>
-<p>[Mr Marc Kenji Lim](/about/staff/english/mr-marc-kenji-lim/)
-<br>HOD (Corporate Communications &amp; Partnerships)</p>
-<p>[Ms Stephanie Hua](/about/staff/english/ms-stephanie-hua/)
-<br>HOD(English)</p>
-<p>[Mr Tay Theng Hwee](/about/staff/mtl/mr-tay-theng-hwee/)
-<br>HOD (Mother Tongue Languages &amp; BSP)</p>
-<p>[Ms Yang Shu Hung](/about/staff/mtl/ms-yang-shu-hung/)
-<br>Dean (JC2)</p>
-<p>[Mdm Erni Suriyani](/about/staff/eas/)
-<br>Administration Manager</p>
-<p>[Ms Sherilyn Ang](/about/staff/eas/)
-<br>Administration Manager</p>
