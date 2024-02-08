@@ -10,7 +10,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/SL-Andrew-Tan_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/SL-Andrew-Tan_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -21,7 +21,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/SL-Lynn-Koh_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/SL-Lynn-Koh_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -32,7 +32,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/SL_New_Yi_Cheen.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/SL_New_Yi_Cheen.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,7 +43,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/SL_Phua_Kia_Ling.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/SL_Phua_Kia_Ling.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,7 +54,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/SL-Md-Amran-Shah_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/SL-Md-Amran-Shah_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -65,7 +65,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/PW-Adrienne-de-Souza_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/PW-Adrienne-de-Souza_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,7 +76,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/HOD-Alvin-Toh_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/HOD-Alvin-Toh_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,7 +87,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/Econs-Benjamin-Liang_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Benjamin-Liang_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,7 +98,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/pe-charles-cheak_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/pe-charles-cheak_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -109,7 +109,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/Sci-Chok-Yew-Keong_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Chok-Yew-Keong_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,7 +120,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/mtl-elavarasi_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/mtl-elavarasi_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -131,7 +131,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/Arts-Jared-Goh_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Arts-Jared-Goh_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,110 +142,110 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/Arts_JustinLee_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Arts_JustinLee_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/arts/mr-justin-lee/" rel="noopener noreferrer nofollow" target="_blank">Mr Justin Lee</a></strong>
+<p><strong><a href="/about/staff/arts/mr-justin-lee/" rel="noopener noreferrer nofollow" target="_blank">Mr Justin Lee</a></strong> 
 <br>HOD (Arts)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/Econs_KevinTan_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs_KevinTan_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/econs/mr-kevin-tan/" rel="noopener noreferrer nofollow" target="_blank">Mr Kevin Tan</a></strong>
+<p><strong><a href="/about/staff/econs/mr-kevin-tan/" rel="noopener noreferrer nofollow" target="_blank">Mr Kevin Tan</a></strong> 
 <br>School Staff Developer</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/Econs_KohHanYun_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs_KohHanYun_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/econs/ms-koh-han-yun/" rel="noopener noreferrer nofollow" target="_blank">Ms Koh Han Yun</a></strong>
+<p><strong><a href="/about/staff/econs/ms-koh-han-yun/" rel="noopener noreferrer nofollow" target="_blank">Ms Koh Han Yun</a></strong> 
 <br>HOD (Student Leadership &amp; Talent Development)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/Sci-Koh-Siong-Yang_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Koh-Siong-Yang_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/mr-koh-siong-yang/" rel="noopener noreferrer nofollow" target="_blank">Mr Koh Siong Yang</a></strong>
+<p><strong><a href="/about/staff/science/mr-koh-siong-yang/" rel="noopener noreferrer nofollow" target="_blank">Mr Koh Siong Yang</a></strong> 
 <br>HOD (ICT&amp;IME)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/HOD-Marc-Kenji-Lim_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/HOD-Marc-Kenji-Lim_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/mr-marc-kenji-lim/" rel="noopener noreferrer nofollow" target="_blank">Mr Marc Kenji Lim</a></strong>
+<p><strong><a href="/about/staff/english/mr-marc-kenji-lim/" rel="noopener noreferrer nofollow" target="_blank">Mr Marc Kenji Lim</a></strong> 
 <br>HOD (Corporate Communications &amp; Partnerships)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/EL-Stephanie-Hua_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Stephanie-Hua_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/ms-stephanie-hua/" rel="noopener noreferrer nofollow" target="_blank">Ms Stephanie Hua</a></strong>
+<p><strong><a href="/about/staff/english/ms-stephanie-hua/" rel="noopener noreferrer nofollow" target="_blank">Ms Stephanie Hua</a></strong> 
 <br>HOD(English)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/HOD-Tay-Theng-Hwee_s2.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/HOD-Tay-Theng-Hwee_s2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/mtl/mr-tay-theng-hwee/" rel="noopener noreferrer nofollow" target="_blank">Mr Tay Theng Hwee</a></strong>
+<p><strong><a href="/about/staff/mtl/mr-tay-theng-hwee/" rel="noopener noreferrer nofollow" target="_blank">Mr Tay Theng Hwee</a></strong> 
 <br>HOD (Mother Tongue Languages &amp; BSP)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/MTL-Yang-Shu-Hung_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/MTL-Yang-Shu-Hung_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/mtl/ms-yang-shu-hung/" rel="noopener noreferrer nofollow" target="_blank">Ms Yang Shu Hung</a></strong>
+<p><strong><a href="/about/staff/mtl/ms-yang-shu-hung/" rel="noopener noreferrer nofollow" target="_blank">Ms Yang Shu Hung</a></strong> 
 <br>Dean (JC2)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/cmc-erni-suriyani_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/cmc-erni-suriyani_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/eas/" rel="noopener noreferrer nofollow" target="_blank">Mdm Erni Suriyani</a></strong>
+<p><strong><a href="/about/staff/eas/" rel="noopener noreferrer nofollow" target="_blank">Mdm Erni Suriyani</a></strong> 
 <br>Administration Manager</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/EAS-SherilynAng_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EAS-SherilynAng_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/eas/" rel="noopener noreferrer nofollow" target="_blank">Ms Sherilyn Ang</a></strong>
+<p><strong><a href="/about/staff/eas/" rel="noopener noreferrer nofollow" target="_blank">Ms Sherilyn Ang</a></strong> 
 <br>Administration Manager</p>
 </td>
 </tr>
