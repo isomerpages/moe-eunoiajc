@@ -27,55 +27,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Dept03_English.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/about/staff/english/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Dept03_English.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Dept08_Math.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/about/staff/maths/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Dept08_Math.png"></a>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Dept05_MTL.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/about/staff/mtl/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Dept05_MTL.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Dept04_PW.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/about/staff/pw/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Dept04_PW.png"></a>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Dept10_PE.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/about/staff/pe/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Dept10_PE.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Dept09_Science.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/about/staff/science/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Dept09_Science.png"></a>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Dept11_ICTMRL.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/about/staff/ict/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Dept11_ICTMRL.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
