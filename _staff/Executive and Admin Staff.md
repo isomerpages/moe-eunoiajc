@@ -2,213 +2,252 @@
 title: Executive and Admin Staff
 permalink: /about/staff/eas/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/cmc-erni-suriyani_s%20(1).jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Mdm Erni Suriyani</b>
-<br>
-Administration Manager
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/EAS-SherilynAng_s%20(1).jpg" style="width:50%">
-</div>  
-<div></div>  
-<b>Ms Sherilyn Ang</b>
-<br>
-Administration Manager
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/EAS_Syed.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Mr Syed Omar</b>
-<br>
-Operations Manager
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/EAS_AdrinaChua.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Ms Adrina Chua</b>
-<br>
-Administrative Executive
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/EAS-Mageswari_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Mdm Mageswari Sinnayan</b>
-<br>
-Corporate Support Officer
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/EAS-Rahimah_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Mdm Rahimah Binte Shahuthuman</b>
-<br>
-Corporate Support Officer
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/EAS-Hafilah_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Ms Nur Hafilah Binte Mohd Farez</b>
-<br>
-Corporate Support Officer
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/aslinah_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Ms Aslinah Bte Hassan</b>
-<br>
-Operations Support Officer
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/eas-cheongsiewkheun.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Mdm Cheong Siew Kheun</b>
-<br>
-Operations Support Officer
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/eas-jaumengjuam.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Mr Jau Meng Juam</b>
-<br>
-Operations Support Officer
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/EAS-Sim-Puay-Hee_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Mr Sim Puay Hee</b>
-<br>
-Operations Support Officer
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/Suriyati_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Mdm Suriyati Binte Midi</b>
-<br>
-Operations Support Officer
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/Jothi_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Mr Jothi Raj Karuppiah</b>
-<br>
-ICT Manager
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/kent_s%20(1).jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Mr Kent Chua Boon Hwee</b>
-<br>
-ICT Manager
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/rohaya_s%20(1).jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Mdm Rohaya Zainal Abidin</b>
-<br>
-Librarian
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/zalina_s%20(1).jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Mdm Zalina Bte Abdullah</b>
-<br>
-Librarian Assistant
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/EAS-Francis-Tan_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Mr Francis Tan</b>
-<br>
-Technical Support Officer (SLT)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/EAS-Koh-Hui-Min_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Ms Koh Hui Min</b>
-<br>
-Technical Support Officer (SLT)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/EAS-Iffah_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Ms Iffah Suraya Binte Salleh</b>
-<br>
-Technical Support Officer (SLT)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/EAS-Miza_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Ms Miza Hamizah Binte Roslan</b>
-<br>
-Technical&nbsp;Support Officer (SLT)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/eas-layhwa_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-<b>Mdm Tan Lay Hwa</b>
-<br>
-Technical&nbsp;Support Officer (SLT)</div>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Staff/cmc-erni-suriyani_s%20(1).jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Mdm Erni Suriyani</strong> 
+<br>Administration Manager</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Staff/EAS-SherilynAng_s%20(1).jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Sherilyn Ang<br></strong>Administration Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Staff/EAS_Syed.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Syed Omar</strong> 
+<br>Operations Manager</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Staff/EAS_AdrinaChua.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Adrina Chua</strong> 
+<br>Administrative Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Staff/EAS-Mageswari_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Mageswari Sinnayan</strong> 
+<br>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Staff/EAS-Rahimah_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Rahimah Binte Shahuthuman</strong> 
+<br>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Staff/EAS-Hafilah_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Nur Hafilah Binte Mohd Farez</strong> 
+<br>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Staff/aslinah_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Aslinah Bte Hassan</strong> 
+<br>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Staff/eas-cheongsiewkheun.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Cheong Siew Kheun</strong> 
+<br>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Staff/eas-jaumengjuam.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Jau Meng Juam</strong> 
+<br>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Staff/EAS-Sim-Puay-Hee_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Sim Puay Hee</strong> 
+<br>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Staff/Suriyati_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Suriyati Binte Midi</strong> 
+<br>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Staff/Jothi_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Jothi Raj Karuppiah</strong> 
+<br>ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Staff/kent_s%20(1).jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Kent Chua Boon Hwee</strong> 
+<br>ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Staff/rohaya_s%20(1).jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Rohaya Zainal Abidin</strong> 
+<br>Librarian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Staff/zalina_s%20(1).jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Zalina Bte Abdullah</strong> 
+<br>Librarian Assistant</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Staff/EAS-Francis-Tan_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Francis Tan</strong> 
+<br>Technical Support Officer (SLT)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Staff/EAS-Koh-Hui-Min_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Koh Hui Min</strong> 
+<br>Technical Support Officer (SLT)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Staff/EAS-Iffah_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Iffah Suraya Binte Salleh</strong> 
+<br>Technical Support Officer (SLT)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Staff/EAS-Miza_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Miza Hamizah Binte Roslan</strong> 
+<br>Technical&nbsp;Support Officer (SLT)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Staff/eas-layhwa_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Tan Lay Hwa</strong> 
+<br>Technical&nbsp;Support Officer (SLT)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
