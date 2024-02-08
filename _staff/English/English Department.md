@@ -36,7 +36,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-elena-tan/" rel="noopener noreferrer nofollow" target="_blank">Ms Elena Tan</a></strong>
+<p><strong><a href="https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-elena-tan/" rel="noopener noreferrer nofollow" target="_blank">Ms Elena Tan</a></strong> 
 <br>Deputy Head (General Paper)</p>
 </td>
 </tr>
@@ -47,7 +47,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-nadiah-razali/" rel="noopener noreferrer nofollow" target="_blank">Ms Nadiah Razali</a></strong>
+<p><strong><a href="https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-nadiah-razali/" rel="noopener noreferrer nofollow" target="_blank">Ms Nadiah Razali</a></strong> 
 <br>Deputy Head (General Paper)</p>
 </td>
 </tr>
@@ -58,7 +58,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/dr-edson-ng/" rel="noopener noreferrer nofollow" target="_blank">Dr Edson Ng</a></strong>
+<p><strong><a href="https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/dr-edson-ng/" rel="noopener noreferrer nofollow" target="_blank">Dr Edson Ng</a></strong> 
 <br>Deputy Head (Literature in English)</p>
 </td>
 </tr>
@@ -69,7 +69,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-heon-mak/" rel="noopener noreferrer nofollow" target="_blank">Ms Heon Mak</a></strong>
+<p><strong><a href="https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-heon-mak/" rel="noopener noreferrer nofollow" target="_blank">Ms Heon Mak</a></strong> 
 <br>Deputy Head (Partnerships)</p>
 </td>
 </tr>
@@ -80,7 +80,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mrs-danielle-marie-low/" rel="noopener noreferrer nofollow" target="_blank">Mrs Danielle Low</a></strong>
+<p><strong><a href="https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mrs-danielle-marie-low/" rel="noopener noreferrer nofollow" target="_blank">Mrs Danielle Low</a></strong> 
 <br>Senior Teacher (General Paper)</p>
 </td>
 </tr>
@@ -91,7 +91,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-perrin-singarayar/" rel="noopener noreferrer nofollow" target="_blank">Mr Perrin Singarayar</a></strong>
+<p><strong><a href="https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-perrin-singarayar/" rel="noopener noreferrer nofollow" target="_blank">Mr Perrin Singarayar</a></strong> 
 <br>Senior Teacher (General Paper)</p>
 </td>
 </tr>
@@ -102,7 +102,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-benjamin-chew/" rel="noopener noreferrer nofollow" target="_blank">Mr Benjamin Chew</a></strong>
+<p><strong><a href="https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-benjamin-chew/" rel="noopener noreferrer nofollow" target="_blank">Mr Benjamin Chew</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
@@ -256,7 +256,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Joey Tan</strong>
+<p><strong>Mrs Joey Tan</strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
@@ -267,7 +267,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Vivien Yeo</strong>
+<p><strong>Mrs Vivien Yeo</strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
@@ -279,7 +279,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Alethea Ellingsen</strong>
+<p><strong>Ms Alethea Ellingsen</strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
@@ -291,7 +291,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Wendy Lau</strong>
+<p><strong>Ms Wendy Lau</strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
@@ -303,7 +303,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Joyce Yeo</strong>
+<p><strong>Mrs Joyce Yeo</strong> 
 <br>Teacher (Literature in English)</p>
 </td>
 </tr>
@@ -314,7 +314,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Foo Xiang Kai</strong>
+<p><strong>Mr Foo Xiang Kai</strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
