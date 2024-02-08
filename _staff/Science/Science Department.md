@@ -209,7 +209,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/dr-chan-kim-seng/" rel="noopener noreferrer nofollow" target="_blank">Dr Chan Kim Seng</a></strong>
+<p><strong><a href="/about/staff/science/dr-chan-kim-seng/" rel="noopener noreferrer nofollow" target="_blank">Dr Chan Kim Seng</a></strong> 
 <br>Teacher (Chemistry)</p>
 </td>
 </tr>
@@ -220,7 +220,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/ms-chan-xin-yu/" rel="noopener noreferrer nofollow" target="_blank">Ms Chan Xin Yu</a></strong>
+<p><strong><a href="/about/staff/science/ms-chan-xin-yu/" rel="noopener noreferrer nofollow" target="_blank">Ms Chan Xin Yu</a></strong> 
 <br>Teacher (Chemistry)</p>
 </td>
 </tr>
@@ -231,7 +231,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/ms-chia-xin-hui/" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Xin Hui</a></strong>
+<p><strong><a href="/about/staff/science/ms-chia-xin-hui/" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Xin Hui</a></strong> 
 <br>Teacher (Chemistry)</p>
 </td>
 </tr>
@@ -264,7 +264,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/mr-justin-lim/" rel="noopener noreferrer nofollow" target="_blank">Mr Justin Lim</a></strong>
+<p><strong><a href="/about/staff/science/mr-justin-lim/" rel="noopener noreferrer nofollow" target="_blank">Mr Justin Lim</a></strong> 
 <br>Teacher (Chemistry)</p>
 </td>
 </tr>
@@ -275,7 +275,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/mdm-liu-shuyu/" rel="noopener noreferrer nofollow" target="_blank">Mdm Liu Shuyu</a></strong>
+<p><strong><a href="/about/staff/science/mdm-liu-shuyu/" rel="noopener noreferrer nofollow" target="_blank">Mdm Liu Shuyu</a></strong> 
 <br>Teacher (Chemistry)</p>
 </td>
 </tr>
@@ -297,7 +297,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/mr-ong-wee-yong/" rel="noopener noreferrer nofollow" target="_blank">Mr Ong Wee Yong</a></strong>
+<p><strong><a href="/about/staff/science/mr-ong-wee-yong/" rel="noopener noreferrer nofollow" target="_blank">Mr Ong Wee Yong</a></strong> 
 <br>Teacher (Chemistry)</p>
 </td>
 </tr>
@@ -308,16 +308,8 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/mrs-yew-li-kim/" rel="noopener noreferrer nofollow" target="_blank">Mrs Yew-Tay Li Kim</a></strong>
+<p><strong><a href="/about/staff/science/mrs-yew-li-kim/" rel="noopener noreferrer nofollow" target="_blank">Mrs Yew-Tay Li Kim</a></strong> 
 <br>Teacher (Chemistry)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
