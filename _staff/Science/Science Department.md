@@ -319,7 +319,8 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/science/mrs-chin-tan-wei-lin/" rel="noopener noreferrer nofollow" target="_blank">Mrs Chin-Tan Wei Lin</a></strong>
+<br>Teacher (Physics)</p>
 </td>
 </tr>
 <tr>
@@ -329,7 +330,8 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/science/mr-ho-hon-wing/" rel="noopener noreferrer nofollow" target="_blank">Mr Ho Hon Wing</a> </strong>
+<br>Teacher (Physics)</p>
 </td>
 </tr>
 <tr>
@@ -339,7 +341,8 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/science/mr-lim-teck-seng/" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Teck Seng</a></strong>
+<br>Teacher (Physics)</p>
 </td>
 </tr>
 <tr>
@@ -349,17 +352,8 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Sci-Rizal_s.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/science/mrs-ong-yee-wen/" rel="noopener noreferrer nofollow" target="_blank">Mrs Ong-Eng Yee Wen</a></strong>
+<br>Teacher (Physics)</p>
 </td>
 </tr>
 <tr>
@@ -369,7 +363,8 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/science/mr-soo-pui-wah/" rel="noopener noreferrer nofollow" target="_blank">Mr Soo Pui Wah</a></strong>
+<br>Teacher (Physics)</p>
 </td>
 </tr>
 <tr>
@@ -379,7 +374,8 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/science/mr-tan-zhen-yong/" rel="noopener noreferrer nofollow" target="_blank">Mr Keith Tan Zhen Yong</a></strong>
+<br>Teacher (Physics)</p>
 </td>
 </tr>
 <tr>
@@ -389,7 +385,8 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/science/dr-wang-guangquan/" rel="noopener noreferrer nofollow" target="_blank">Dr Wang Guangquan</a></strong>
+<br>Teacher (Physics)</p>
 </td>
 </tr>
 <tr>
@@ -404,19 +401,8 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </table>
 <p></p>
 <p></p>
-<p>[Mrs Chin-Tan Wei Lin](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mrs-chin-tan-wei-lin/)
-<br>Teacher (Physics)</p>
-<p>[Mr Ho Hon Wing](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-ho-hon-wing/)
-<br>Teacher (Physics)</p>
-<p>[Mr Lim Teck Seng](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-lim-teck-seng/)
-<br>Teacher (Physics)</p>
-<p>[Mrs Ong-Eng Yee Wen](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mrs-ong-yee-wen/)
-<br>Teacher (Physics)</p>
-<p>[Mr Rizal Abu Bakar](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-rizal-abu-bakar/)
-<br>Teacher (Physics)</p>
-<p>[Mr Soo Pui Wah](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-soo-pui-wah/)
-<br>Teacher (Physics)</p>
-<p>[Mr Tan Zhen Yong Keith](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-tan-zhen-yong/)
-<br>Teacher (Physics)</p>
-<p>[Dr Wang Guangquan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/dr-wang-guangquan/)
-<br>Teacher (Physics)</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
