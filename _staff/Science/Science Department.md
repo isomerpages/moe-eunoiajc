@@ -319,7 +319,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/mrs-chin-tan-wei-lin/" rel="noopener noreferrer nofollow" target="_blank">Mrs Chin-Tan Wei Lin</a></strong>
+<p><strong><a href="/about/staff/science/mrs-chin-tan-wei-lin/" rel="noopener noreferrer nofollow" target="_blank">Mrs Chin-Tan Wei Lin</a></strong> 
 <br>Teacher (Physics)</p>
 </td>
 </tr>
@@ -341,7 +341,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/mr-lim-teck-seng/" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Teck Seng</a></strong>
+<p><strong><a href="/about/staff/science/mr-lim-teck-seng/" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Teck Seng</a></strong> 
 <br>Teacher (Physics)</p>
 </td>
 </tr>
@@ -352,7 +352,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/mrs-ong-yee-wen/" rel="noopener noreferrer nofollow" target="_blank">Mrs Ong-Eng Yee Wen</a></strong>
+<p><strong><a href="/about/staff/science/mrs-ong-yee-wen/" rel="noopener noreferrer nofollow" target="_blank">Mrs Ong-Eng Yee Wen</a></strong> 
 <br>Teacher (Physics)</p>
 </td>
 </tr>
@@ -363,7 +363,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/mr-soo-pui-wah/" rel="noopener noreferrer nofollow" target="_blank">Mr Soo Pui Wah</a></strong>
+<p><strong><a href="/about/staff/science/mr-soo-pui-wah/" rel="noopener noreferrer nofollow" target="_blank">Mr Soo Pui Wah</a></strong> 
 <br>Teacher (Physics)</p>
 </td>
 </tr>
@@ -374,7 +374,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/mr-tan-zhen-yong/" rel="noopener noreferrer nofollow" target="_blank">Mr Keith Tan Zhen Yong</a></strong>
+<p><strong><a href="/about/staff/science/mr-tan-zhen-yong/" rel="noopener noreferrer nofollow" target="_blank">Mr Keith Tan Zhen Yong</a></strong> 
 <br>Teacher (Physics)</p>
 </td>
 </tr>
@@ -385,7 +385,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/dr-wang-guangquan/" rel="noopener noreferrer nofollow" target="_blank">Dr Wang Guangquan</a></strong>
+<p><strong><a href="/about/staff/science/dr-wang-guangquan/" rel="noopener noreferrer nofollow" target="_blank">Dr Wang Guangquan</a></strong> 
 <br>Teacher (Physics)</p>
 </td>
 </tr>
