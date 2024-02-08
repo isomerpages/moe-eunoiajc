@@ -7,15 +7,14 @@ variant: tiptap
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/Staff/cmc-erni-suriyani_s%20(1).jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Mdm Erni Suriyani</strong> 
-<br>Administration Manager</p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Erni Suriyani<br></strong>Administration Manager</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
