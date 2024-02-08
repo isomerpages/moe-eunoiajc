@@ -20,7 +20,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/EAS-SherilynAng_s%20(1).jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff/EAS-SherilynAng_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -152,7 +152,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/kent_s%20(1).jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff/kent_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -163,7 +163,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/rohaya_s%20(1).jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff/rohaya_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -174,7 +174,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/zalina_s%20(1).jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff/zalina_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
