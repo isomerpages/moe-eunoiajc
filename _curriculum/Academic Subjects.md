@@ -8,87 +8,83 @@ variant: tiptap
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/subjects/gp/"><img style="width: 100%" height="auto" width="100%" alt="General Paper" src="/images/Subject01.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/subjects/gp/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Curriculum/Subject01.png"></a>
 </th>
-<th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/subjects/mtl/"><img style="width: 100%" height="auto" width="100%" alt="Mother Tongue Languages" src="/images/Subject03.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/subjects/mtl/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Subject03.png"></a>
+</th>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/subjects/pw/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Subject04.png"></a>
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/subjects/pw/"><img style="width: 100%" height="auto" width="100%" alt="Project Work" src="/images/Subject04.png"></a>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/subjects/bio/"><img style="width: 100%" height="auto" width="100%" alt="Biology" src="/images/Subject05.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/subjects/bio/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Subject05.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/subjects/chem/"><img style="width: 100%" height="auto" width="100%" alt="Chemistry" src="/images/Subject06.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/subjects/chem/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Subject06.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="/subjects/phy/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Subject07.png"></a>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/subjects/phy/"><img style="width: 100%" height="auto" width="100%" alt="Physics" src="/images/Subject07.png"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/subjects/maths/"><img style="width: 100%" height="auto" width="100%" alt="Mathematics" src="/images/Subject08.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/subjects/maths/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Subject08.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/subjects/fmaths/"><img style="width: 100%" height="auto" width="100%" alt="Further Mathematics" src="/images/Subject09.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/subjects/fmaths/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Subject09.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="/subjects/ki/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Subject02.png"></a>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/subjects/ki/"><img style="width: 100%" height="auto" width="100%" alt="Knowledge and Inquiry" src="/images/Subject02.png"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/subjects/econs/"><img style="width: 100%" height="auto" width="100%" alt="Economics" src="/images/Subject10.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/subjects/econs/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Subject10.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/subjects/geog/"><img style="width: 100%" height="auto" width="100%" alt="Geography" src="/images/Subject11.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/subjects/geog/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Subject11.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="/subjects/his/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Subject12.png"></a>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/subjects/his/"><img style="width: 100%" height="auto" width="100%" alt="History" src="/images/Subject12.png"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/subjects/lit/"><img style="width: 100%" height="auto" width="100%" alt="Literature" src="/images/Subject13.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/subjects/lit/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Subject13.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/subjects/art/"><img style="width: 100%" height="auto" width="100%" alt="Art" src="/images/Subject14.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/subjects/art/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Subject14.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="/subjects/music/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Subject15.png"></a>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/subjects/music/"><img style="width: 100%" height="auto" width="100%" alt="Music" src="/images/Subject15.png"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/subjects/csc/"><img style="width: 100%" height="auto" width="100%" alt="CSC" src="/images/Subject16.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/subjects/fl/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Subject21.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/subjects/fl/"><img style="width: 100%" height="auto" width="100%" alt="Foreign Languages" src="/images/Subject21.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/subjects/csc/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Subject16.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="/subjects/translation/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Subject20.png"></a>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/subjects/translation/"><img style="width: 100%" height="auto" width="100%" alt="Translation" src="/images/Subject20.png"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/subjects/cll/"><img style="width: 100%" height="auto" width="100%" alt="CLL" src="/images/Subject17.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/subjects/cll/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Subject17.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/subjects/mll/"><img style="width: 100%" height="auto" width="100%" alt="MLL" src="/images/Subject18.png"></a>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="/subjects/mll/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Subject18.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/subjects/tll/"><img style="width: 100%" height="auto" width="100%" alt="TLL" src="/images/Subject19.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/subjects/tll/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Subject19.png"></a>
 </td>
 </tr>
 </tbody>
@@ -99,11 +95,12 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <h4><strong>Mathematics </strong><br><strong>and Sciences</strong></h4>
-<p><a href="/subjects/maths/" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a> 
-<br><a href="/subjects/fmaths/" rel="noopener noreferrer nofollow" target="_blank">Further Mathematics</a> 
-<br><a href="/subjects/bio/" rel="noopener noreferrer nofollow" target="_blank">Biology</a> 
+<p><a href="/subjects/bio/" rel="noopener noreferrer nofollow" target="_blank">Biology</a> 
 <br><a href="/subjects/chem/" rel="noopener noreferrer nofollow" target="_blank">Chemistry</a> 
 <br><a href="/subjects/phy/" rel="noopener noreferrer nofollow" target="_blank">Physics</a>
+</p>
+<p><a href="/subjects/maths/" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a> 
+<br><a href="/subjects/fmaths/" rel="noopener noreferrer nofollow" target="_blank">Further Mathematics</a> 
 </p>
 <p></p>
 <h4><strong>Knowledge Skills</strong></h4>
