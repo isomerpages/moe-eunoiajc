@@ -19,7 +19,6 @@ Administration Manager
 <img src="/images/Staff/EAS-SherilynAng_s%20(1).jpg" style="width:50%">
 </div>  
 <div></div>  
-</div>	
 <b>Ms Sherilyn Ang</b>
 <br>
 Administration Manager
@@ -126,7 +125,7 @@ Operations Support Officer
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/Jothi_s%20(1).jpg" style="width:50%">
+<img src="/images/Staff/Jothi_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
@@ -206,10 +205,10 @@ Technical&nbsp;Support Officer (SLT)
 
 <div>  
 <div style="float: left">  
-<img src="/images/Staff/LayHwa_s.jpg" style="width:50%">
+<img src="/images/Staff/eas-layhwa_s.jpg" style="width:50%">
 </div>  
 <div></div>  
 </div>	
 <b>Mdm Tan Lay Hwa</b>
 <br>
-Technical&nbsp;Support Officer (SLT)
+Technical&nbsp;Support Officer (SLT)</div>
