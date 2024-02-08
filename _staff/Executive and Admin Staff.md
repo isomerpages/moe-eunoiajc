@@ -29,18 +29,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/EAS_Syed.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Syed Omar</strong> 
-<br>Operations Manager</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/Staff/EAS_AdrinaChua.jpg">
 </div>
 </td>
@@ -80,6 +68,18 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Ms Nur Hafilah Binte Mohd Farez</strong> 
 <br>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Staff/EAS_Syed.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Syed Omar</strong> 
+<br>Operations Manager</p>
+<p></p>
 </td>
 </tr>
 <tr>
