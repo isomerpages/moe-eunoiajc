@@ -8,17 +8,9 @@ variant: tiptap
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Sci-Chok-Yew-Keong_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Chok-Yew-Keong_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -29,7 +21,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Sci-Koh-Siong-Yang_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Koh-Siong-Yang_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -40,7 +32,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Sci-Benjamin-Choo_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Benjamin-Choo_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -51,7 +43,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Sci-Diana-Ma_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Diana-Ma_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,7 +54,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Tan_Lingmin.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Tan_Lingmin.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,7 +65,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Sci-Claudia-Tan_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Claudia-Tan_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -84,7 +76,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Sci-Soh-Yong-Li_s-1.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Soh-Yong-Li_s-1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -95,7 +87,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Sci-Enoch-Tang_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Enoch-Tang_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -106,7 +98,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Sci-Jacintha-Huang_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Jacintha-Huang_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -117,7 +109,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Sci-Zulaiha-Said_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Zulaiha-Said_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,7 +120,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Sci-Gabriel-Woon_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Gabriel-Woon_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -139,7 +131,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Sci-Chan-Ter-Yue_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Chan-Ter-Yue_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -150,7 +142,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Sci-Christopher-Tan_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Christopher-Tan_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -161,7 +153,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Sci-Felix-Lim_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Felix-Lim_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -172,7 +164,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Sci-Emeline-Choo_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Emeline-Choo_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -183,7 +175,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Staff-Profile.png">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Staff-Profile.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -194,7 +186,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Sci-Ng-Siow-Ying_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Ng-Siow-Ying_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -205,7 +197,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Sci-Chan-Kim-Seng_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Chan-Kim-Seng_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -216,7 +208,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Chan-Xin-Yu-s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Chan-Xin-Yu-s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -227,7 +219,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Sci-Chia-Xin-Hui_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Chia-Xin-Hui_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -238,7 +230,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Evelyn_Yong.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Evelyn_Yong.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -249,7 +241,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Jeannie_Oh.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Jeannie_Oh.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -260,7 +252,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Justin_Lim.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Justin_Lim.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -271,7 +263,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Sci-Liu-Shuyu_s-1.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Liu-Shuyu_s-1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -282,7 +274,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Luke_Lau.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Luke_Lau.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -293,7 +285,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Sci-Ong-Wee-Yong_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Ong-Wee-Yong_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -304,7 +296,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Sci-Tay-Li-Kim_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Tay-Li-Kim_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -315,7 +307,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Sci-Chin-Tan-Wei-Lin_s.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Staff/Sci-Chin-Tan-Wei-Lin_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -326,7 +318,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Sci-Ho-Hon-Wing_s.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Staff/Sci-Ho-Hon-Wing_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -337,7 +329,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Lim-Teck-Seng-s.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Staff/Lim-Teck-Seng-s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -348,7 +340,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Sci-Ong-Eng-Yee-Wen_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Ong-Eng-Yee-Wen_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -359,7 +351,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/sci-soopuiwah_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/sci-soopuiwah_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -370,7 +362,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Sci-Tan-Zheng-Yong_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Tan-Zheng-Yong_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -381,7 +373,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Wang-Guangquan-s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Wang-Guangquan-s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
