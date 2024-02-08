@@ -58,7 +58,7 @@ Head (Mathematics)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/mr-chang-meng-pat/" rel="noopener noreferrer nofollow" target="_blank">Mr Chang Meng Pat</a></strong>
+<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/mr-chang-meng-pat/" rel="noopener noreferrer nofollow" target="_blank">Mr Chang Meng Pat</a></strong> 
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
@@ -168,7 +168,7 @@ Head (Mathematics)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="(https://eunoiajc.moe.edu.sg/about/staff/maths/mr-lim-yoke-kuang/" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Yoke Kuang</a></strong>
+<p><strong><a href="(https://eunoiajc.moe.edu.sg/about/staff/maths/mr-lim-yoke-kuang/" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Yoke Kuang</a></strong> 
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
@@ -179,7 +179,7 @@ Head (Mathematics)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/ms-ng-yixin/" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Yixin</a></strong>
+<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/ms-ng-yixin/" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Yixin</a></strong> 
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
@@ -190,7 +190,7 @@ Head (Mathematics)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/mrs-ng-phoon-lai-yong/" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng-Phoon Lai Yong</a></strong>
+<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/mrs-ng-phoon-lai-yong/" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng-Phoon Lai Yong</a></strong> 
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
@@ -201,13 +201,15 @@ Head (Mathematics)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/mr-tan-khoon-han/" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Khoon Han</a></strong>
+<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/mr-tan-khoon-han/" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Khoon Han</a></strong> 
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Berner-Poh_s.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Berner Poh
