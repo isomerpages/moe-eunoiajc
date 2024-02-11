@@ -119,50 +119,68 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs_KelvinTeo_s.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/econs/mr-kelvin-teo/" rel="noopener noreferrer nofollow" target="_blank">Mr Kelvin Teo</a></strong>
+<br>Teacher (Economics)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs_Kenny_Tan.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/econs/mr-kenny-tan/" rel="noopener noreferrer nofollow" target="_blank">Mr Kenny Tan</a></strong>
+<br>Teacher (Economics)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs_Lim_LynNa_s.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/econs/ms-lim-lyn-na/" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Lyn Na</a></strong>
+<br>Teacher (Economics)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Mingwei_s.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/econs/mr-ma-mingwei/" rel="noopener noreferrer nofollow" target="_blank">Mr Ma Mingwei</a></strong>
+<br>Teacher (Economics)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Serene-Tan_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/econs/ms-serene-tan/" rel="noopener noreferrer nofollow" target="_blank">Ms Serene Tan</a></strong>
+<br>Teacher (Economics)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Chen-Jinqi_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/econs/mrs-wee-chen-jinqi/" rel="noopener noreferrer nofollow" target="_blank">Mrs Wee-Chen Jinqi</a></strong>
+<br>Teacher (Economics)</p>
 </td>
 </tr>
 <tr>
@@ -193,33 +211,7 @@ variant: tiptap
 </table>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs_KelvinTeo_s.jpg">
-</div>
-<p>[Mr Kelvin Teo](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/mr-kelvin-teo/)
-<br>Teacher (Economics)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs_Kenny_Tan.jpg">
-</div>
-<p>[Mr Kenny Tan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/mr-kenny-tan/)
-<br>Teacher (Economics)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs_Lim_LynNa_s.jpg">
-</div>
-<p>[Ms Lim Lyn Na](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-lim-lyn-na/)
-<br>Teacher (Economics)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Mingwei_s.jpg">
-</div>
-<p>[Mr Ma Mingwei](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/mr-ma-mingwei/)
-<br>Teacher (Economics)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Serene-Tan_s.jpg">
-</div>
-<p>[Ms Serene Tan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-serene-tan/)
-<br>Teacher (Economics)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Chen-Jinqi_s.jpg">
-</div>
-<p>[Mrs Wee-Chen Jinqi](https://eunoiajc.moe.edu.sg/about/staff/econs/mrs-wee-chen-jinqi/)
-<br>Teacher (Economics)</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
