@@ -8,14 +8,6 @@ variant: tiptap
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Benjamin-Liang_s.jpg">
