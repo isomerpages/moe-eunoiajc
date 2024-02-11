@@ -124,7 +124,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/econs/mr-kelvin-teo/" rel="noopener noreferrer nofollow" target="_blank">Mr Kelvin Teo</a></strong>
+<p><strong><a href="/about/staff/econs/mr-kelvin-teo/" rel="noopener noreferrer nofollow" target="_blank">Mr Kelvin Teo</a></strong> 
 <br>Teacher (Economics)</p>
 </td>
 </tr>
@@ -135,7 +135,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/econs/mr-kenny-tan/" rel="noopener noreferrer nofollow" target="_blank">Mr Kenny Tan</a></strong>
+<p><strong><a href="/about/staff/econs/mr-kenny-tan/" rel="noopener noreferrer nofollow" target="_blank">Mr Kenny Tan</a></strong> 
 <br>Teacher (Economics)</p>
 </td>
 </tr>
@@ -146,7 +146,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/econs/ms-lim-lyn-na/" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Lyn Na</a></strong>
+<p><strong><a href="/about/staff/econs/ms-lim-lyn-na/" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Lyn Na</a></strong> 
 <br>Teacher (Economics)</p>
 </td>
 </tr>
@@ -157,7 +157,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/econs/mr-ma-mingwei/" rel="noopener noreferrer nofollow" target="_blank">Mr Ma Mingwei</a></strong>
+<p><strong><a href="/about/staff/econs/mr-ma-mingwei/" rel="noopener noreferrer nofollow" target="_blank">Mr Ma Mingwei</a></strong> 
 <br>Teacher (Economics)</p>
 </td>
 </tr>
@@ -168,7 +168,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/econs/ms-serene-tan/" rel="noopener noreferrer nofollow" target="_blank">Ms Serene Tan</a></strong>
+<p><strong><a href="/about/staff/econs/ms-serene-tan/" rel="noopener noreferrer nofollow" target="_blank">Ms Serene Tan</a></strong> 
 <br>Teacher (Economics)</p>
 </td>
 </tr>
@@ -179,32 +179,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/econs/mrs-wee-chen-jinqi/" rel="noopener noreferrer nofollow" target="_blank">Mrs Wee-Chen Jinqi</a></strong>
+<p><strong><a href="/about/staff/econs/mrs-wee-chen-jinqi/" rel="noopener noreferrer nofollow" target="_blank">Mrs Wee-Chen Jinqi</a></strong> 
 <br>Teacher (Economics)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
