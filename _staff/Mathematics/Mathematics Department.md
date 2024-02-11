@@ -10,7 +10,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Staff/HOD-Alvin-Toh_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/HOD-Alvin-Toh_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -21,7 +21,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Maths-Barry-Chia_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Maths-Barry-Chia_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -32,7 +32,7 @@ Head (Mathematics)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Maths-Lim-Yin_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Maths-Lim-Yin_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,7 +43,7 @@ Head (Mathematics)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Staff/Maths-Alex-Teo_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Maths-Alex-Teo_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,7 +54,7 @@ Head (Mathematics)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Staff/maths-chang-meng-pat_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/maths-chang-meng-pat_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -65,7 +65,7 @@ Head (Mathematics)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Chen-Jinquan_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Chen-Jinquan_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,7 +76,7 @@ Head (Mathematics)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Chng-Xian-Yi_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Chng-Xian-Yi_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,7 +87,7 @@ Head (Mathematics)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Chu-Wee-Yong_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Chu-Wee-Yong_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,7 +98,7 @@ Head (Mathematics)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Chua-Jian-Rong_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Chua-Jian-Rong_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -109,7 +109,7 @@ Head (Mathematics)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Clarice-Chan_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Clarice-Chan_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,7 +120,7 @@ Head (Mathematics)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Staff/Kuang-Kim-Chun_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Kuang-Kim-Chun_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -131,7 +131,7 @@ Head (Mathematics)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Lee-Boon-Ann_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Lee-Boon-Ann_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,7 +142,7 @@ Head (Mathematics)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Lee-Ngern-Sim_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Lee-Ngern-Sim_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -153,7 +153,7 @@ Head (Mathematics)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Lim-Yen-Chui_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Lim-Yen-Chui_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -164,7 +164,7 @@ Head (Mathematics)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Staff/maths-lim-yoke-kuang_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/maths-lim-yoke-kuang_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -175,7 +175,7 @@ Head (Mathematics)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Ng-Yixin_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Ng-Yixin_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -186,7 +186,7 @@ Head (Mathematics)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Ng-Phoon-Lai-Yong_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Ng-Phoon-Lai-Yong_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -197,7 +197,7 @@ Head (Mathematics)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Tan-Khoon-Han_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Tan-Khoon-Han_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -208,11 +208,11 @@ Head (Mathematics)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Berner-Poh_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Berner-Poh_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Berner Poh
+<p><strong>Mr Berner Poh </strong>
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
