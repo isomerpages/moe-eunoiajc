@@ -9,9 +9,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Benjamin-Liang_s.jpg">
-</div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -20,11 +18,23 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Benjamin-Liang_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/econs/mr-benjamin-liang/" rel="noopener noreferrer nofollow" target="_blank">Mr Benjamin Liang</a></strong> 
+<br>HOD (Economics)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs_KevinTan_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/econs/mr-kevin-tan/" rel="noopener noreferrer nofollow" target="_blank">Mr Kevin Tan</a></strong> 
+<br>School Staff Developer</p>
 </td>
 </tr>
 <tr>
@@ -34,7 +44,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/econs/ms-koh-han-yun/" rel="noopener noreferrer nofollow" target="_blank">Ms Koh Han Yun</a></strong> 
+<br>HOD (Student Leadership &amp; Talent Development)</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +55,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/econs/ms-loh-xin-min/" rel="noopener noreferrer nofollow" target="_blank">Ms Loh Xin Min</a></strong> 
+<br>Lead Teacher (Economics)</p>
 </td>
 </tr>
 <tr>
@@ -54,6 +66,10 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/econs/ms-tan-liu-yin/" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Liu Yin</a></strong> 
+<br>Deputy Head (Economics)</p>
+<p></p>
+<p></p>
 <p></p>
 </td>
 </tr>
@@ -64,7 +80,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/econs/ms-michelle-chiang" rel="noopener noreferrer nofollow" target="_blank">Ms Michelle Chiang</a></strong> 
+<br>Deputy Dean (JC2)</p>
 </td>
 </tr>
 <tr>
@@ -74,7 +91,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/econs/mr-chuah-jun-jie/" rel="noopener noreferrer nofollow" target="_blank">Mr Chuah Jun Jie</a></strong> 
+<br>Teacher (Economics)</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +102,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/econs/ms-elizabeth-chin/" rel="noopener noreferrer nofollow" target="_blank">Ms Elizabeth Chin</a></strong> 
+<br>Teacher (Economics)</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +113,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/econs/ms-juliana-wong/" rel="noopener noreferrer nofollow" target="_blank">Ms Juliana Wong</a></strong> 
+<br>Teacher (Economics)</p>
 </td>
 </tr>
 <tr>
@@ -172,24 +192,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><strong><a href="/about/staff/econs/mr-benjamin-liang/" rel="noopener noreferrer nofollow" target="_blank">Mr Benjamin Liang</a></strong>
-<br>HOD (Economics)</p>
-<p><strong><a href="/about/staff/econs/mr-kevin-tan/" rel="noopener noreferrer nofollow" target="_blank">Mr Kevin Tan</a></strong>
-<br>School Staff Developer</p>
-<p><strong><a href="/about/staff/econs/ms-koh-han-yun/" rel="noopener noreferrer nofollow" target="_blank">Ms Koh Han Yun</a></strong>
-<br>HOD (Student Leadership &amp; Talent Development)</p>
-<p><strong><a href="/about/staff/econs/ms-loh-xin-min/" rel="noopener noreferrer nofollow" target="_blank">Ms Loh Xin Min</a></strong>
-<br>Lead Teacher (Economics)</p>
-<p><strong><a href="/about/staff/econs/ms-tan-liu-yin/" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Liu Yin</a></strong>
-<br>Deputy Head (Economics)</p>
-<p><strong><a href="/about/staff/econs/ms-michelle-chiang" rel="noopener noreferrer nofollow" target="_blank">Ms Michelle Chiang</a></strong>
-<br>Deputy Dean (JC2)</p>
-<p><strong><a href="/about/staff/econs/mr-chuah-jun-jie/" rel="noopener noreferrer nofollow" target="_blank">Mr Chuah Jun Jie</a></strong>
-<br>Teacher (Economics)</p>
-<p><strong><a href="/about/staff/econs/ms-elizabeth-chin/" rel="noopener noreferrer nofollow" target="_blank">Ms Elizabeth Chin</a></strong>
-<br>Teacher (Economics)</p>
-<p><strong><a href="/about/staff/econs/ms-juliana-wong/" rel="noopener noreferrer nofollow" target="_blank">Ms Juliana Wong</a></strong>
-<br>Teacher (Economics)</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs_KelvinTeo_s.jpg">
 </div>
