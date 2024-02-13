@@ -8,21 +8,14 @@ variant: tiptap
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/pe-charles-cheak_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/pe/mr-charles-cheak/" rel="noopener noreferrer nofollow" target="_blank">Mr Charles Cheak</a></strong>
+<br>HOD (PE &amp; CCA)</p>
 </td>
 </tr>
 <tr>
@@ -32,7 +25,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/pe/mr-george-danapal/" rel="noopener noreferrer nofollow" target="_blank">Mr George Danapal Danaraj</a></strong>
+<br>Deputy Head (CCA)</p>
 </td>
 </tr>
 <tr>
@@ -42,7 +36,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/pe/ms-karine-teo/" rel="noopener noreferrer nofollow" target="_blank">Ms Karine Teo</a></strong>
+<br>Deputy Dean (JC1)</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +47,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/pe/mr-allen-lee/" rel="noopener noreferrer nofollow" target="_blank">Mr Allen Lee</a></strong>
+<br>Teacher (Physical Education)</p>
 </td>
 </tr>
 <tr>
@@ -62,7 +58,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/pe/ms-loh-kai-suan/" rel="noopener noreferrer nofollow" target="_blank">Ms Anna Loh Kai Suan</a></strong>
+<br>Teacher (Physical Education)</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +69,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/pe/mr-bryan-chan/" rel="noopener noreferrer nofollow" target="_blank">Mr Bryan Chan</a></strong>
+<br>Teacher (Physical Education)</p>
 </td>
 </tr>
 <tr>
@@ -82,7 +80,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/pe/mr-ng-boon-hong/" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Boon Hong</a></strong>
+<br>Teacher (Physical Education)</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +91,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/pe/mr-ng-jun-kiat/" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Jun Kiat</a></strong>
+<br>Teacher (Physical Education)</p>
 </td>
 </tr>
 <tr>
@@ -102,35 +102,10 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/about/staff/pe/mr-trevor-tay/" rel="noopener noreferrer nofollow" target="_blank">Mr Trevor Tay</a></strong>
+<br>Teacher (Physical Education)</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>[Mr Charles Cheak](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/pe/mr-charles-cheak/)
-<br>HOD (PE &amp; CCA)</p>
-<p>[Mr George Danapal Danaraj](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/pe/mr-george-danapal/)
-<br>Deputy Head (CCA)</p>
-<p>[Ms&nbsp;Karine Teo](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/pe/ms-karine-teo/)
-<br>Deputy Dean (JC1)</p>
-<p>[Mr Allen Lee](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/pe/mr-allen-lee/)
-<br>Teacher (Physical Education)</p>
-<p>[Ms Anna Loh Kai Suan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/pe/ms-loh-kai-suan/)
-<br>Teacher (Physical Education)</p>
-<p>[Mr Bryan Chan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/pe/mr-bryan-chan/)
-<br>Teacher (Physical Education)</p>
-<p>[Mr Ng Boon Hong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/pe/mr-ng-boon-hong/)
-<br>Teacher (Physical Education)</p>
-<p>[Mr Ng Jun Kiat](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/pe/mr-ng-jun-kiat/)
-<br>Teacher (Physical Education)</p>
-<p>[Mr Trevor Tay](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/pe/mr-trevor-tay/)
-<br>Teacher (Physical Education)</p>
