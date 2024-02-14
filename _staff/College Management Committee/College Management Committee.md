@@ -3,223 +3,252 @@ title: College Management Committee
 permalink: /about/staff/cmc/
 description: ""
 third_nav_title: College Management Committee
-variant: markdown
+variant: tiptap
 ---
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/SL-Andrew-Tan_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Mr Andrew Tan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/cmc/mr-andrew-tan/)
-<br>
-Principal
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/SL-Lynn-Koh_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Ms Lynn Koh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/cmc/ms-lynn-koh/)
-<br>
-Vice-Principal
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/SL_New_Yi_Cheen.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Ms New Yi Cheen](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/cmc/ms-new-yi-cheen/)
-<br>
-Vice-Principal
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/SL_Phua_Kia_Ling.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Mdm Phua Kia Ling](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/cmc/mdm-phua-kia-ling/)
-<br>
-Vice-Principal
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/SL-Md-Amran-Shah_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Mohamad Amran Shah](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/cmc/mr-mohamad-amran-shah/)
-<br>
-Vice-Principal (Administration)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/PW-Adrienne-de-Souza_s%20(1).jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Ms Adrienne de Souza](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/pw/ms-adrienne-de-souza/)
-<br>
-HOD (Project Work &amp; Flagship&nbsp;Programmes)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/HOD-Alvin-Toh_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Mr Alvin Toh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/maths/mr-alvin-toh/)
-<br>
-HOD (Mathematics)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/Econs-Benjamin-Liang_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Mr Benjamin Liang](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/mr-benjamin-liang/)
-<br>
-HOD (Economics)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/PE-Charles-Cheak_s-1%20(2).jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Mr Charles Cheak](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/pe/mr-charles-cheak/)
-<br>
-HOD (PE &amp; CCA)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/Sci-Chok-Yew-Keong_s%20(1).jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Dr Chok Yew Keong](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/dr-chok-yew-keong/)
-<br>
-HOD (Science)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/mtl-elavarasi_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Mdm Elavarasi Sundararaju](https://staging.d2ftoa31ukircm.amplifyapp.com/staff/mtl/mdm-elavarasi/)<br>
-HOD (Character &amp; Citizenship Education)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/Arts-Jared-Goh_s%20(2).jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Mr Jared Goh](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/arts/mr-jared-goh/)
-<br>
-Dean (JC1)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/Arts_JustinLee_s%20(1).jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Mr Justin Lee](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/arts/mr-justin-lee/)
-<br>
-HOD (Arts)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/Econs_KevinTan_s%20(1).jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Mr Kevin Tan](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/mr-kevin-tan/)
-<br>
-School Staff Developer
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/Econs_KohHanYun_s%20(2).jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Ms Koh Han Yun](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/econs/ms-koh-han-yun/)
-<br>
-HOD (Student Leadership &amp; Talent Development)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/Sci-Koh-Siong-Yang_s%20(1).jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Mr Koh Siong Yang](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/science/mr-koh-siong-yang/)
-<br>
-HOD (ICT&amp;IME)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/HOD-Marc-Kenji-Lim_s%20(1).jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Mr Marc Kenji Lim](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/mr-marc-kenji-lim/)
-<br>
-HOD (Corporate Communications &amp; Partnerships)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/EL-Stephanie-Hua_s%20(1).jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Ms Stephanie Hua](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/english/ms-stephanie-hua/)
-<br>
-HOD(English)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/HOD-Tay-Theng-Hwee_s2%20(1).jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Mr Tay Theng Hwee](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/mr-tay-theng-hwee/)
-<br>
-HOD (Mother Tongue Languages &amp; BSP)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/MTL-Yang-Shu-Hung_s%20(2).jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Ms Yang Shu Hung](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/mtl/ms-yang-shu-hung/)
-<br>
-Dean (JC2)
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/cmc-erni-suriyani_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Mdm Erni Suriyani](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/eas/)
-<br>
-Administration Manager
-
-<div>  
-<div style="float: left">  
-<img src="/images/Staff/EAS-SherilynAng_s.jpg" style="width:50%">
-</div>  
-<div></div>  
-</div>	
-[Ms Sherilyn Ang](https://staging.d2ftoa31ukircm.amplifyapp.com/about/staff/eas/)
-<br>
-Administration Manager
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/SL-Andrew-Tan_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/cmc/mr-andrew-tan/" rel="noopener noreferrer nofollow" target="_blank">Mr Andrew Tan</a> </strong>
+<br>Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/SL-Lynn-Koh_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/cmc/ms-lynn-koh/" rel="noopener noreferrer nofollow" target="_blank">Ms Lynn Koh</a> </strong>
+<br>Vice-Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/SL_New_Yi_Cheen.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/cmc/ms-new-yi-cheen/" rel="noopener noreferrer nofollow" target="_blank">Ms New Yi Cheen</a> </strong>
+<br>Vice-Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/SL_Phua_Kia_Ling.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/cmc/mdm-phua-kia-ling/" rel="noopener noreferrer nofollow" target="_blank">Mdm Phua Kia Ling</a> </strong>
+<br>Vice-Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/SL-Md-Amran-Shah_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/cmc/mr-mohamad-amran-shah/" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamad Amran Shah</a></strong> 
+<br>Vice-Principal (Administration)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/PW-Adrienne-de-Souza_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/pw/ms-adrienne-de-souza/" rel="noopener noreferrer nofollow" target="_blank">Ms Adrienne de Souza</a> </strong>
+<br>HOD (Project Work &amp; Integrated&nbsp;Programme)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/HOD-Alvin-Toh_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/maths/mr-alvin-toh/" rel="noopener noreferrer nofollow" target="_blank">Mr Alvin Toh</a> </strong>
+<br>HOD (Mathematics)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Benjamin-Liang_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/econs/mr-benjamin-liang/" rel="noopener noreferrer nofollow" target="_blank">Mr Benjamin Liang</a></strong> 
+<br>HOD (Economics)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/pe-charles-cheak_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/pe/mr-charles-cheak/" rel="noopener noreferrer nofollow" target="_blank">Mr Charles Cheak</a> </strong>
+<br>HOD (PE &amp; CCA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Chok-Yew-Keong_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/science/dr-chok-yew-keong/" rel="noopener noreferrer nofollow" target="_blank">Dr Chok Yew Keong</a></strong> 
+<br>HOD (Science)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/mtl-elavarasi_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/mtl/mdm-elavarasi/" rel="noopener noreferrer nofollow" target="_blank">Mdm Elavarasi Sundararaju</a></strong> 
+<br>HOD (Character &amp; Citizenship Education)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Arts-Jared-Goh_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/arts/mr-jared-goh/" rel="noopener noreferrer nofollow" target="_blank">Mr Jared Goh</a></strong> 
+<br>Dean (JC1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Arts_JustinLee_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/arts/mr-justin-lee/" rel="noopener noreferrer nofollow" target="_blank">Mr Justin Lee</a></strong> 
+<br>HOD (Arts)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs_KevinTan_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/econs/mr-kevin-tan/" rel="noopener noreferrer nofollow" target="_blank">Mr Kevin Tan</a></strong> 
+<br>School Staff Developer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs_KohHanYun_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/econs/ms-koh-han-yun/" rel="noopener noreferrer nofollow" target="_blank">Ms Koh Han Yun</a></strong> 
+<br>HOD (Student Leadership &amp; Talent Development)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Koh-Siong-Yang_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/science/mr-koh-siong-yang/" rel="noopener noreferrer nofollow" target="_blank">Mr Koh Siong Yang</a></strong> 
+<br>HOD (ICT&amp;IME)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/HOD-Marc-Kenji-Lim_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/english/mr-marc-kenji-lim/" rel="noopener noreferrer nofollow" target="_blank">Mr Marc Kenji Lim</a></strong> 
+<br>HOD (Corporate Communications &amp; Partnerships)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Stephanie-Hua_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/english/ms-stephanie-hua/" rel="noopener noreferrer nofollow" target="_blank">Ms Stephanie Hua</a></strong> 
+<br>HOD(English)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/HOD-Tay-Theng-Hwee_s2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/mtl/mr-tay-theng-hwee/" rel="noopener noreferrer nofollow" target="_blank">Mr Tay Theng Hwee</a></strong> 
+<br>HOD (Mother Tongue Languages &amp; BSP)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/MTL-Yang-Shu-Hung_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/mtl/ms-yang-shu-hung/" rel="noopener noreferrer nofollow" target="_blank">Ms Yang Shu Hung</a></strong> 
+<br>Dean (JC2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/cmc-erni-suriyani_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/eas/" rel="noopener noreferrer nofollow" target="_blank">Mdm Erni Suriyani</a></strong> 
+<br>Administration Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EAS-SherilynAng_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/eas/" rel="noopener noreferrer nofollow" target="_blank">Ms Sherilyn Ang</a></strong> 
+<br>Administration Manager</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

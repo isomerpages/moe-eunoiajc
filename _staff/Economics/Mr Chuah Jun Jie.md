@@ -1,8 +1,9 @@
 ---
 title: Mr Chuah Jun Jie
-permalink: /about/staff/econs/mrchuahjunjie/
+permalink: /about/staff/econs/mr-chuah-jun-jie/
 description: ""
 third_nav_title: Economics
+variant: tiptap
 ---
 I graduated from the University of Western Australia in 2006 with a Bachelor’s Degree in Economics with a double major in International Business Economics and Corporate Finance. After graduating, I started working in the finance sector. During  my short stint in the industry, I gained many valuable experiences and met many wonderful people there whom I still keep in touch with. Prior to joining the Eunoia family, I also taught in a primary school for a year and in a junior college for ten years from 2008 to 2017.
 
