@@ -23,7 +23,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/mtl/mr-tay-theng-hwee/" rel="noopener noreferrer nofollow" target="_blank">Mr Tay Theng Hwee</a>  郑澄辉</strong>
+<p><strong><a href="/about/staff/mtl/mr-tay-theng-hwee/" rel="noopener noreferrer nofollow" target="_blank">Mr Tay Theng Hwee</a> 郑澄辉</strong> 
 <br>HOD (Mother Tongue Languages &amp; BSP)</p>
 </td>
 </tr>
@@ -56,7 +56,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/mtl/mdm-ng-lai-sze/" rel="noopener noreferrer nofollow" target="_blank">Mdm Ng Lai Sze</a>  吴丽诗</strong> 
+<p><strong><a href="/about/staff/mtl/mdm-ng-lai-sze/" rel="noopener noreferrer nofollow" target="_blank">Mdm Ng Lai Sze</a> 吴丽诗</strong> 
 <br>Deputy Head (Mother Tongue Languages)</p>
 </td>
 </tr>
@@ -67,7 +67,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/mtl/mr-cao-jiandong/" rel="noopener noreferrer nofollow" target="_blank">Mr Cao Jiandong</a>  曹剑东&nbsp; </strong>
+<p><strong><a href="/about/staff/mtl/mr-cao-jiandong/" rel="noopener noreferrer nofollow" target="_blank">Mr Cao Jiandong</a> 曹剑东&nbsp; </strong>
 <br>Senior Teacher (Chinese Language)</p>
 </td>
 </tr>
@@ -78,7 +78,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/mtl/ms-cao-xinxin/" rel="noopener noreferrer nofollow" target="_blank">Ms Cao Xinxin</a>  曹昕欣</strong>
+<p><strong><a href="/about/staff/mtl/ms-cao-xinxin/" rel="noopener noreferrer nofollow" target="_blank">Ms Cao Xinxin</a> 曹昕欣</strong> 
 <br>Teacher (China Studies in Chinese)</p>
 </td>
 </tr>
@@ -111,7 +111,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Lim Tian Min</strong>  <strong>林恬敏</strong>
+<p><strong>Mdm Lim Tian Min</strong>  <strong>林恬敏</strong> 
 <br>Teacher (Chinese Language)</p>
 </td>
 </tr>
@@ -144,7 +144,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/mtl/mr-sun-xiaojun/" rel="noopener noreferrer nofollow" target="_blank">Mr Sun Xiaojun</a>  孙晓军</strong> 
+<p><strong><a href="/about/staff/mtl/mr-sun-xiaojun/" rel="noopener noreferrer nofollow" target="_blank">Mr Sun Xiaojun</a> 孙晓军</strong> 
 <br>Teacher (China Studies in Chinese)</p>
 </td>
 </tr>
