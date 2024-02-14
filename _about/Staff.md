@@ -115,7 +115,8 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong>24-A4</strong> 
-<br>Mr Lim Teck Seng</p>
+<br><a href="/about/staff/science/mr-lim-teck-seng/" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Teck Seng</a>
+</p>
 <p></p>
 <p><strong>24-A5</strong> 
 <br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/pw/ms-ng-lee-siah/" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Lee Siah</a> 
