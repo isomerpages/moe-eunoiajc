@@ -319,7 +319,7 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong>24-U4</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/science/mr-tan-zhen-yong/" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Zhen Yong</a>
+<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/science/mr-tan-zhen-yong/" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Zhen Yong</a> 
 <br>Mr Kang You Jin</p>
 <p></p>
 <p><strong>24-U5</strong> 
