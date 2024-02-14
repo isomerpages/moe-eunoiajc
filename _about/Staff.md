@@ -100,7 +100,30 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>24-A1</strong>
+</p>
+<p>Ms Leong Wymin</p>
 <p></p>
+<p><strong>24-A2</strong>
+</p>
+<p>Mr Justin Lim</p>
+<p></p>
+<p><strong>24-A3</strong>
+</p>
+<p>Mr Chng Tsu Pang</p>
+<p></p>
+<p><strong>24-A4</strong>
+</p>
+<p>Mr Lim Teck Seng</p>
+<p></p>
+<p><strong>24-A5</strong>
+</p>
+<p>Ms Ng Lee Siah</p>
+<p>Mr Mike Tan</p>
+<p></p>
+<p><strong>24-A6</strong>
+</p>
+<p>Mr Ma Mingwei</p>
 </td>
 </tr>
 <tr>
@@ -128,7 +151,29 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p><strong>24-E1</strong>
+</p>
+<p>Ms Quek Jia Qi</p>
 <p></p>
+<p><strong>24-E2</strong>
+</p>
+<p>Ms Lu Huiping</p>
+<p></p>
+<p><strong>24-E3</strong>
+</p>
+<p>Mr Ng Boon Hong</p>
+<p></p>
+<p><strong>24-E4</strong>
+</p>
+<p>Ms Lu Jing</p>
+<p></p>
+<p><strong>24-E5</strong>
+</p>
+<p>Mrs Yew-Tay Li Kim</p>
+<p></p>
+<p><strong>24-E6</strong>
+</p>
+<p>Mr Kelvin Teo</p>
 </td>
 </tr>
 <tr>
@@ -155,6 +200,29 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p><strong>24-I1</strong>
+</p>
+<p>Mr Nh Jun Kiat</p>
+<p></p>
+<p><strong>24-I2</strong>
+</p>
+<p>Ms Ng Yi Xin</p>
+<p></p>
+<p><strong>24-I3</strong>
+</p>
+<p>Ms Elizabeth Chin</p>
+<p></p>
+<p><strong>24-I4</strong>
+</p>
+<p>Ms Nadira Sedik</p>
+<p></p>
+<p><strong>24-I5</strong>
+</p>
+<p>Mr Lim Yoke Kuang</p>
+<p></p>
+<p><strong>24-I6</strong>
+</p>
+<p>Mrs Ng-Phoon Lai Yong</p>
 </td>
 </tr>
 <tr>
@@ -184,6 +252,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p><strong>24-O1</strong>
+</p>
+<p>Ms Sea Su-An</p>
+<p></p>
+<p><strong>24-O2</strong>
+</p>
+<p>Ms Emeline Choo</p>
+<p></p>
+<p><strong>24-O3</strong>
+</p>
+<p>Ms Cham Bei Qing</p>
+<p></p>
+<p><strong>24-O4</strong>
+</p>
+<p>Mrs Charlotte Lee</p>
+<p></p>
+<p><strong>24-O5</strong>
+</p>
+<p>Ms Chen Lili</p>
+<p></p>
+<p><strong>24-O6</strong>
+</p>
+<p>Mr Lee Wei Ming Allen</p>
+<p>Mr Chen Jinquan</p>
 <p></p>
 <p></p>
 </td>
@@ -214,7 +306,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p><strong>24-U1</strong>
+</p>
+<p>Mr Cavell Chee</p>
 <p></p>
+<p><strong>24-U2</strong>
+</p>
+<p>Mr Alex Teo</p>
+<p></p>
+<p><strong>24-U3</strong>
+</p>
+<p>Mr Sun Xiaojun</p>
+<p></p>
+<p><strong>24-U4</strong>
+</p>
+<p>Mr Tan Zhen Yong</p>
+<p>Mr Kang You Jin</p>
+<p></p>
+<p><strong>24-U5</strong>
+</p>
+<p>Mr Tan Khoon Han</p>
+<p></p>
+<p><strong>24-U6</strong>
+</p>
+<p>Ms Lim Yen Chui</p>
 <p></p>
 </td>
 </tr>
