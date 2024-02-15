@@ -57,10 +57,7 @@ variant: tiptap
 <p></p><a class="isomer-image-wrapper" href="/about/staff/ict/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Dept11_ICTMRL.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Dept12_SD.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/about/staff/sd/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Dept12_SD.png"></a>
 <p></p>
 </td>
 </tr>
