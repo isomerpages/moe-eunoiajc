@@ -14,9 +14,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/arts/mr-justin-lee/" rel="noopener noreferrer nofollow" target="_blank">Mr Justin Lee</a></strong>
+<p><strong><a href="/about/staff/arts/mr-justin-lee/" rel="noopener noreferrer nofollow" target="_blank">Mr Justin Lee</a></strong> 
 <br>HOD (Arts)</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -26,7 +25,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/arts/mr-jared-goh/" rel="noopener noreferrer nofollow" target="_blank">Mr Jared Goh</a></strong>
+<p><strong><a href="/about/staff/arts/mr-jared-goh/" rel="noopener noreferrer nofollow" target="_blank">Mr Jared Goh</a></strong> 
 <br>Dean (JC2)</p>
 </td>
 </tr>
@@ -37,7 +36,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/arts/mr-fred-ong/" rel="noopener noreferrer nofollow" target="_blank">Mr Fred Ong</a></strong>
+<p><strong><a href="/about/staff/arts/mr-fred-ong/" rel="noopener noreferrer nofollow" target="_blank">Mr Fred Ong</a></strong> 
 <br>Deputy Head (Geography)</p>
 </td>
 </tr>
@@ -48,7 +47,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/arts/dr-gooi-tah-choe/" rel="noopener noreferrer nofollow" target="_blank">Dr Gooi Tah Choe</a></strong>
+<p><strong><a href="/about/staff/arts/dr-gooi-tah-choe/" rel="noopener noreferrer nofollow" target="_blank">Dr Gooi Tah Choe</a></strong> 
 <br>Deputy Head (Aesthetics)</p>
 </td>
 </tr>
@@ -61,7 +60,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="/about/staff/arts/mr-alson-yong/" rel="noopener noreferrer nofollow" target="_blank">Mr Alson Yong</a></strong> 
 <br>Deputy Head (Student Leadership)</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -72,7 +70,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/about/staff/arts/mr-mahmood-fahmi-ahamed/" rel="noopener noreferrer nofollow" target="_blank">Mr Mahmood Fahmi Ahamed</a></strong> 
-<br>Deputy Head (Talent Development &amp; Eunoia Humanities Programme)</p>
+<br>Deputy Head (Talent Development &amp; EHP)</p>
 </td>
 </tr>
 <tr>
