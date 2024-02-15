@@ -58,7 +58,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Joanne Lee </strong>
+<p><strong><a href="/about/staff/pw/mrs-joanne-lee/" rel="noopener noreferrer nofollow" target="_blank">Mrs Joanne Lee</a></strong>
 <br>Teacher (Project Work)</p>
 </td>
 </tr>
