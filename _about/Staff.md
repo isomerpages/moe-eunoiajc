@@ -57,10 +57,7 @@ variant: tiptap
 <p></p><a class="isomer-image-wrapper" href="/about/staff/ict/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Dept11_ICTMRL.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Dept12_SD.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/about/staff/sd/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Dept12_SD.png"></a>
 <p></p>
 </td>
 </tr>
@@ -115,7 +112,8 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong>24-A4</strong> 
-<br>Mr Lim Teck Seng</p>
+<br><a href="/about/staff/science/mr-lim-teck-seng/" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Teck Seng</a>
+</p>
 <p></p>
 <p><strong>24-A5</strong> 
 <br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/pw/ms-ng-lee-siah/" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Lee Siah</a> 

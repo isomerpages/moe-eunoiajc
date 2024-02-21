@@ -1,5 +1,5 @@
 ---
-title: Economics
+title: Economics Department
 permalink: /about/staff/econs/
 description: ""
 third_nav_title: Economics

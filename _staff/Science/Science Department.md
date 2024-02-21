@@ -296,6 +296,17 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Suellen_Goh_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/science/ms-suellen-goh/" rel="noopener noreferrer nofollow" target="_blank">Ms Suellen Goh</a></strong>
+<br>Teacher (Chemistry)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Tay-Li-Kim_s.jpg">
 </div>
 </td>

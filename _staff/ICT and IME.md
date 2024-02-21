@@ -7,21 +7,13 @@ variant: tiptap
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Koh-Siong-Yang_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/mr-koh-siong-yang/" rel="noopener noreferrer nofollow" target="_blank">Mr Koh Siong Yang</a></strong>
+<p><strong><a href="/about/staff/science/mr-koh-siong-yang/" rel="noopener noreferrer nofollow" target="_blank">Mr Koh Siong Yang</a></strong> 
 <br>HOD (ICT&amp;IME)</p>
 </td>
 </tr>
@@ -32,7 +24,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/pw/ms-rachel-yau/" rel="noopener noreferrer nofollow" target="_blank">Ms Rachel Yau</a></strong>
+<p><strong><a href="/about/staff/pw/ms-rachel-yau/" rel="noopener noreferrer nofollow" target="_blank">Ms Rachel Yau</a></strong> 
 <br>Deputy Head (ICT)</p>
 </td>
 </tr>
@@ -54,7 +46,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/maths/mr-chen-jinquan/" rel="noopener noreferrer nofollow" target="_blank">Mr Chen Jinquan</a></strong>
+<p><strong><a href="/about/staff/maths/mr-chen-jinquan/" rel="noopener noreferrer nofollow" target="_blank">Mr Chen Jinquan</a></strong> 
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
