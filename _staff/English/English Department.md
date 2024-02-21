@@ -252,11 +252,55 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL_Alethea_Ellingsen.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Alethea Ellingsen</strong> 
+<br>Teacher (General Paper)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Esther_Chiam.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Esther Chiam</strong> 
+<br>Teacher (General Paper)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Joey-Tan_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mrs Joey Tan</strong> 
+<br>Teacher (General Paper)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL_Joyce_Yeo.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Joyce Chua</strong> 
+<br>Teacher (Literature in English)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Masnidah_Masnawi.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Masnidah Masnawi</strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
@@ -274,56 +318,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Staff-Profile.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Esther Chiam</strong> 
-<br>Teacher (General Paper)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Staff-Profile.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Masnidah Masnawi</strong> 
-<br>Teacher (General Paper)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL_Alethea_Ellingsen.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Alethea Ellingsen</strong> 
-<br>Teacher (General Paper)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL_Wendy_Lau.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Wendy Lau</strong> 
 <br>Teacher (General Paper)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL_Joyce_Yeo.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Joyce Yeo</strong> 
-<br>Teacher (Literature in English)</p>
 </td>
 </tr>
 <tr>
