@@ -300,7 +300,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/ms-suellen-goh/" rel="noopener noreferrer nofollow" target="_blank">Ms Suellen Goh</a></strong>
+<p><strong><a href="/about/staff/science/ms-suellen-goh/" rel="noopener noreferrer nofollow" target="_blank">Ms Suellen Goh</a></strong> 
 <br>Teacher (Chemistry)</p>
 </td>
 </tr>
@@ -323,6 +323,17 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/about/staff/science/mrs-chin-tan-wei-lin/" rel="noopener noreferrer nofollow" target="_blank">Mrs Chin-Tan Wei Lin</a></strong> 
+<br>Teacher (Physics)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Helen Ng</strong>
 <br>Teacher (Physics)</p>
 </td>
 </tr>
