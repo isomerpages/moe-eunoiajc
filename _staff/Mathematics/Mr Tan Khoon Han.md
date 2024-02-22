@@ -3,10 +3,8 @@ title: Mr Tan Khoon Han
 permalink: /about/staff/maths/mr-tan-khoon-han/
 description: ""
 third_nav_title: Mathematics
+variant: markdown
 ---
-
-
-
 I studied Applied Mathematics at the National University of Singapore and graduated with a Bachelor of Science (Honours). I also pursued a Master of Science in Mathematics at the same school. Having a strong interest in Mathematics led me to join the teaching service and share my passion with others. I graduated from the National Institute of Education with a Postgraduate Diploma in Education.
 
 I started my teaching career at a junior college, teaching H1 and H2 Mathematics for six years. One of the highlights during my time at the school was that I initiated the Mathematics Enrichment Programme and explored the beauty of Mathematics with a group of students who were also enthusiastic about the subject. To gain more experience in teaching, I spent another six years in another institution offering the Integrated Programme, teaching H2 Mathematics and H2 Further Mathematics. To further enrich my teaching career, I had the opportunity to be part of the Mathematics Enrichment Programme at the school, guiding and preparing students for competitions in Mathematics.
