@@ -15,11 +15,11 @@ sections:
           description: Follow Us
           url: https://www.instagram.com/eunoiajc
         - title: A-Level Results
-          description: Class of 2022
-          url: /news/2023/results
-        - title: JAE appeals
-          description: 1 - 7 Feb 2024
-          url: https://www.eunoiajc.moe.edu.sg/news/2024/appeals/
+          description: Class of 2023
+          url: /news/2024/results
+        - title: "#WhyEJ"
+          description: Join Us
+          url: https://www.eunoiajc.moe.edu.sg/whyej/grace/
         - title: oheunoia.com
           description: Online Showcase
           url: https://www.oheunoia.com
