@@ -20,7 +20,7 @@ sections:
         - title: "#WhyEJ"
           description: Join Us
           url: https://www.eunoiajc.moe.edu.sg/whyej/grace/
-        - title: oheunoia.com
+        - title: OH EUNOIA
           description: Online Showcase
           url: https://www.oheunoia.com
       background: /images/Home_Banner2.png
