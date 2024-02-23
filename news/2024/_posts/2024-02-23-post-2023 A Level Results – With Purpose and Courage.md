@@ -11,12 +11,16 @@ variant: tiptap
 achievements at the 2023 Singapore-Cambridge GCE A-Level Examination. Striving
 through the pandemic measures and thriving , the Class of 2023 displayed
 purpose, heart and courage throughout their journey in Eunoia.</p>
-<p>The college is proud of all XXX Eunoians who sat the 2023 GCE A-Level
+<p>The college is proud of all 654 Eunoians who sat the 2023 GCE A-Level
 Examination. The cohort achieved a median University Admission Score (UAS)
-of 85 rank points and a mean UAS of X rank points. X in 10 students garnered
-85 rank points or more.&nbsp;<em> </em>X in 10 Eunoians scored at least
+of 85 rank points and a mean UAS of 82.6 rank points. Over 5 in 10 students
+garnered 85 rank points or more.<em> </em>4 in 10 Eunoians scored at least
 3 H2 distinctions.</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2023_Results_Infographic.png">
+</div>
 <p></p>
 <p>Mr Jared Goh, Dean for the Class of 2023, shares his message to the cohort,
 ‘Congratulations Class of 2023! As you graduate from Eunoia, remember that
