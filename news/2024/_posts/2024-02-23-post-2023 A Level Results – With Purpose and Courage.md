@@ -16,9 +16,9 @@ Examination. The cohort achieved a median University Admission Score (UAS)
 of 85 rank points and a mean UAS of 82.6 rank points. Over 5 in 10 students
 garnered 85 rank points or more.<em> </em>4 in 10 Eunoians scored at least
 3 H2 distinctions.</p>
-<p>Moreover, the cohort did themselves proud in the National School Games
-and the Singapore Youth Festival Arts Presentation in their first and second
-years, while making a positive impact on the community and the environment.</p>
+<p>The cohort did themselves proud at the National School Games and the Singapore
+Youth Festival Arts Presentation in 2022 and 2023, while making a positive
+impact on the community and the environment.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2023_Results_Infographic.png">
@@ -33,7 +33,6 @@ you've nurtured, and the challenges you've overcome in EJ have moulded
 you to become the person that you are today. I genuinely hope that you
 stay humble, embrace who you are as a unique individual and harness your
 strengths to make a positive difference to the larger community.’</p>
-<p></p>
 <p></p>
 <p>The growth and achievements of our Eunoians would not be possible without
 the dedication and support of teachers, non-teaching staff, parents, alumni,
