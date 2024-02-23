@@ -42,7 +42,7 @@ You have been a spirited, talented and lovely batch. My colleagues and
 I feel so blessed to have been a part of your journey. You had an amazing
 two years and your A-Level results are part of the journey. Many of you
 were elated. It was wonderful to hear the many shouts of euphoria and the
-teachers of joy – I couldn’t help but feel how much this moment must mean
+tears of joy – I couldn’t help but feel how much this moment must mean
 to you!</p>
 <p>My heart goes out to those who were disappointed today if your results
 were not quite what you were expecting. Be in this moment, experience the
