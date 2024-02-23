@@ -11,15 +11,15 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Instagram
-          description: Follow Us
-          url: https://www.instagram.com/eunoiajc
         - title: A-Level Results
           description: Class of 2023
           url: /news/2024/results
         - title: "#WhyEJ"
           description: Join Us
-          url: https://www.eunoiajc.moe.edu.sg/whyej/grace/
+          url: "https://www.eunoiajc.moe.edu.sg/whyej/grace/ "
+        - title: Instagram
+          description: Follow Us
+          url: https://www.instagram.com/eunoiajc
         - title: OH EUNOIA
           description: Online Showcase
           url: https://www.oheunoia.com
