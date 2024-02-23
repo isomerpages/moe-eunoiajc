@@ -11,6 +11,6 @@ I started my teaching career at a junior college, teaching H1 and H2 Mathematics
 
 I believe in constructivism when it comes to teaching, tapping on students’ prior knowledge to build new ones. It is essential for students to experience the derivation of mathematical formulas to understand the concepts more deeply, rather than just receiving them passively. Having an interest in and motivation to learn mathematics are also vital. Thus, I like to incorporate beautiful mathematical results and interesting applications of mathematics during my lessons to engage my students. There is a Chinese saying, ‘it takes ten years to grow a tree, but it takes a hundred years to nurture one person’. I am glad that I am able to leave an impact and inspire the students during their two short but meaningful years at junior college, guiding them in pursuing their dreams.
 
-My vision as a teacher is aligned with the school’s belief in ‘beautiful thinking, goodwill to all'. I am excited to join the Eunoia family and look forward to working with my colleagues in the college
+My vision as a teacher is aligned with the school’s belief in ‘beautiful thinking, goodwill to all'. I am excited to join the Eunoia family and look forward to working with my colleagues in the college.
 
  [tan.khoon.han@ejc.edu.sg](mailto:tan.khoon.han@ejc.edu.sg)
