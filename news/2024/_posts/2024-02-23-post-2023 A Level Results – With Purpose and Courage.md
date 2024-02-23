@@ -9,8 +9,8 @@ variant: tiptap
 ---
 <p>Eunoia Junior College congratulates our Class of 2023 for their holistic
 achievements at the 2023 Singapore-Cambridge GCE A-Level Examination. Striving
-through the pandemic measures and thriving , the Class of 2023 displayed
-purpose, heart and courage throughout their journey in Eunoia.</p>
+through the pandemic measures and thriving in transition, the Class of
+2023 displayed purpose, heart and courage during their journey in Eunoia.</p>
 <p>The college is proud of all 654 Eunoians who sat the 2023 GCE A-Level
 Examination. The cohort achieved a median University Admission Score (UAS)
 of 85 rank points and a mean UAS of 82.6 rank points. Over 5 in 10 students
