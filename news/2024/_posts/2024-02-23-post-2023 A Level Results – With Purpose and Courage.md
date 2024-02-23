@@ -34,6 +34,10 @@ you to become the person that you are today. I genuinely hope that you
 stay humble, embrace who you are as a unique individual and harness your
 strengths to make a positive difference to the larger community.’</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2023_Results_Photo2.jpg">
+</div>
 <p>The growth and achievements of our Eunoians would not be possible without
 the dedication and support of teachers, non-teaching staff, parents, alumni,
 College Advisory Committee, our Joint Integrated Programme partner schools
