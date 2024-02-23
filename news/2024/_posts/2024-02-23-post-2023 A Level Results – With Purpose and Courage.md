@@ -37,6 +37,6 @@ strengths to make a positive difference to the larger community.’</p>
 <p>The growth and achievements of our Eunoians would not be possible without
 the dedication and support of teachers, non-teaching staff, parents, alumni,
 College Advisory Committee, our Joint Integrated Programme partner schools
-and other partners. To the Class of 2023, we wish you Eunoia. As your dreams
-take flight, may you continue to shine your goodwill and beautiful thinking
-on all around you.</p>
+and our other partners. To the Class of 2023, we wish you Eunoia. As your
+dreams take flight, may you continue to shine your goodwill and beautiful
+thinking on all around you.</p>
