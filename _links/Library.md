@@ -4,4 +4,69 @@ permalink: /library/
 description: ""
 variant: tiptap
 ---
-<table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:100px;" height="auto" width="100%" src="/images/Library-Spydus-150x150.png"></div></td><td rowspan="1" colspan="1"><p><strong><a href="https://schoolibrary.moe.edu.sg/eunoiajc" rel="noopener noreferrer nofollow" target="_blank">EJC Library Catalogue</a> <br></strong>An online catalogue of books and resources available in EJC Library.</p></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:100px;" height="auto" width="100%" src="/images/SERR.png"></div></td><td rowspan="1" colspan="1"><p><strong><a href="https://schoolibrary.moe.edu.sg/eresourcesjc/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">School eResource Repository</a> <br></strong>Resources for reading and learning.</p></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:100px;" height="auto" width="100%" src="/images/Library-NLB-150x150.jpg"></div></td><td rowspan="1" colspan="1"><p><strong><a href="https://catalogue.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">NLB Catalogue</a> <br></strong>An online catalogue to access resources found in our public libraries.</p></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:100px;" height="auto" width="100%" src="/images/Library-NYT-150x150.png"></div></td><td rowspan="1" colspan="1"><p><strong><a href="https://www.nytimes.com/" rel="noopener noreferrer nofollow" target="_blank">New York Times</a></strong> <br>The online platform of The New York Times to access world news, opinion, photos and videos.</p></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:100px;" height="auto" width="100%" src="/images/Library-Newslink-150x150.png"></div></td><td rowspan="1" colspan="1"><p><strong><a href="https://sites.google.com/ejc.edu.sg/ejcnewslink/home" rel="noopener noreferrer nofollow" target="_blank">Newslink</a></strong> <br>An archive of newspapers published by Singapore Press Holdings and Asia News Network.</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100px;" height="auto" width="100%" src="/images/Library-Spydus-150x150.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://schoolibrary.moe.edu.sg/eunoiajc" rel="noopener noreferrer nofollow" target="_blank">EJC Library Catalogue</a> <br></strong>An
+online catalogue of books and resources available in EJC Library.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100px;" height="auto" width="100%" src="/images/SERR.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://schoolibrary.moe.edu.sg/eresourcesjc/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">School eResource Repository</a> <br></strong>Resources
+for reading and learning.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100px;" height="auto" width="100%" src="/images/Library-NLB-150x150.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://catalogue.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">NLB Catalogue</a> <br></strong>An
+online catalogue to access resources found in our public libraries.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100px;" height="auto" width="100%" src="/images/Library-NYT-150x150.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.nytimes.com/" rel="noopener noreferrer nofollow" target="_blank">New York Times</a></strong> 
+<br>The online platform of The New York Times to access world news, opinion,
+photos and videos.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
