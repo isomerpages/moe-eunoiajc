@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Library1.md
       - Links.md
       - Library.md
       - Style Guide/Style Guide.md
