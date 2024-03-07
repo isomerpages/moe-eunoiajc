@@ -8,7 +8,6 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Library-Spydus-150x150.png">
 </div>
@@ -20,7 +19,6 @@ online catalogue of books and resources available in EJC Library.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SERR.png">
 </div>
@@ -32,7 +30,6 @@ for reading and learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Library-NLB-150x150.jpg">
 </div>
@@ -44,7 +41,6 @@ online catalogue to access resources found in our public libraries.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Library-NYT-150x150.png">
 </div>
@@ -57,7 +53,6 @@ photos and videos.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024/Libby.png">
 </div>
