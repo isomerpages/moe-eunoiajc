@@ -1,0 +1,52 @@
+collections:
+  culture:
+    output: true
+    order:
+      - Student Culture.md
+      - CCA/.keep
+      - CCA/CCAs.md
+      - CCA/Badminton.md
+      - CCA/Basketball.md
+      - CCA/Floorball.md
+      - CCA/Hockey.md
+      - CCA/Netball.md
+      - CCA/Softball.md
+      - CCA/Squash.md
+      - CCA/Table Tennis.md
+      - CCA/Taekwondo.md
+      - CCA/Tennis.md
+      - CCA/Track and Field.md
+      - CCA/Ultimate Frisbee.md
+      - CCA/Volleyball.md
+      - CCA/Chamber Strings.md
+      - CCA/Chinese Orchestra.md
+      - CCA/Choir.md
+      - CCA/Dance.md
+      - CCA/Drama.md
+      - CCA/Rock Band.md
+      - CCA/Street Dance.md
+      - CCA/Symphonic Band.md
+      - CCA/Computing & Robotics.md
+      - CCA/Debate.md
+      - CCA/Environment Club.md
+      - CCA/Health & Fitness.md
+      - CCA/Library Club.md
+      - CCA/Media.md
+      - CCA/Mind Sports.md
+      - CCA/Outdoor Adventure Club (ODAC).md
+      - CCA/Press.md
+      - CCA/Service Learning.md
+      - CCA/Visual Arts.md
+      - CCA/Student Council.md
+      - Student Council.md
+      - House System/.keep
+      - House System/House System.md
+      - House System/Akila.md
+      - House System/Eder.md
+      - House System/Isami.md
+      - House System/Ora.md
+      - House System/Uzuri.md
+      - Aesthetics Programme.md
+      - Community Outreach.md
+      - Internships & Externships.md
+      - Physical Education.md

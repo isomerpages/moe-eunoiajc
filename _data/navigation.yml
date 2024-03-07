@@ -1,0 +1,63 @@
+logo: /images/EJC_wordmark.png
+links:
+  - title: About
+    collection: about
+  - title: Admissions
+    collection: admissions
+  - title: Curriculum
+    url: /curriculum
+    sublinks:
+      - title: T&L Philosophy
+        url: /teaching-and-learning-philosophy
+      - title: Academic Subjects
+        url: /subjects/
+      - title: Subject Combinations
+        url: /subject-combinations/
+      - title: Flagship Programmes
+        url: /flagship-programmes/
+      - title: Special Programmes
+        url: /special-programmes/
+      - title: Student Development
+        url: /student-development/
+      - title: Student Showcase
+        url: https://ejceudaimonia.wordpress.com/
+  - title: Culture
+    url: /culture/
+    sublinks:
+      - title: Co-Curricular Activities
+        url: /culture/cca/
+      - title: Student Council
+        url: /culture/student-council/
+      - title: House System
+        url: /culture/house/
+      - title: Aesthetics Programme
+        url: /culture/aesthetics/
+      - title: Community Outreach
+        url: /culture/community-outreach/
+      - title: Internships and Externships
+        url: /culture/internships/
+      - title: Physical Education
+        url: /culture/pe/
+      - title: Student Press
+        url: https://eunoiapress.wordpress.com/
+  - title: Links
+    url: /links/
+    sublinks:
+      - title: Photos
+        url: https://www.flickr.com/photos/eunoiajc
+      - title: Videos
+        url: https://vimeo.com/eunoiajc
+      - title: Publications
+        url: https://www.issuu.com/eunoiajc
+      - title: Student Handbook
+        url: https://sites.google.com/ejc.edu.sg/ejc-student-handbook/
+      - title: Style Guide
+        url: /style-guide/
+      - title: EJC Library
+        url: /library
+      - title: EJC CSH
+        url: https://sites.google.com/ejc.edu.sg/cshineunoia/
+      - title: EJC Portal
+        url: https://portal.ejc.edu.sg/
+      - title: EJC QuickStart
+        url: https://sites.google.com/ejc.edu.sg/start/home
