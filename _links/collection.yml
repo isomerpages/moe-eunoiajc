@@ -4,7 +4,6 @@ collections:
     order:
       - Links.md
       - Library 1.md
-      - Library.md
       - Style Guide/.keep
       - Style Guide/Style Guide.md
       - Style Guide/Visual Identity.md
