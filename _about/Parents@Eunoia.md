@@ -30,8 +30,7 @@ alongside their teenage sons and daughters.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Parents_Eunoia_Group_6.jpg">
 </div>
-<p>(<em>From left to right</em>) Clifford Lew, Angie Yeo, Joerynn Susie Lim,
-Ng Hei-Di</p>
+<p>(<em>From left to right</em>) Clifford Lew, Joerynn Susie Lim, Ng Hei-Di</p>
 <p>We aim to:</p>
 <ul data-tight="true" class="tight">
 <li>
