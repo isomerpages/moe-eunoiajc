@@ -65,9 +65,9 @@ Lastly, remember to have fun! Yes JC is stressful, but that isn’t all there is
 <br><br>
 
 
-### Kenzo Wong
+### Wong Kenzo
 
-**Wong Kenzo (22-E3)** was crowned Prom King last year and he was no less majestic for his humility and service to Eunoia and his fellow Eunoians. As a dancer, ambassador and all-round student, Kenzo brought care and charisma to everything he did and everything he hopes his juniors in Eunoia will do.
+**Kenzo (22-E3)** was crowned Prom King last year and he was no less majestic for his humility and service to Eunoia and his fellow Eunoians. As a dancer, ambassador and all-round student, Kenzo brought care and charisma to everything he did and everything he hopes his juniors in Eunoia will do.
 
 ###### WHAT WAS THE MOST MEANINGFUL PART OF YOUR JOURNEY IN EJC?
 
