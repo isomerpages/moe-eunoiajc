@@ -7,13 +7,13 @@ description: ""
 image: ""
 variant: markdown
 ---
-The Class of 2023 ... 
+ 
 
 Read more stories about the Class of 2023 in&nbsp;[Vol 2](https://eunoiajc.moe.edu.sg/news/2024/class2/),&nbsp;[Vol 3](https://eunoiajc.moe.edu.sg/news/2024/class3/)&nbsp;and&nbsp;[Vol 4](https://eunoiajc.moe.edu.sg/news/2024/class4/).
 
 <br>
 
-[insert image]
+
 ### Christie Callia Sardjono
 
 Student Council President, Humanities Scholar, H3 Literature student, leader, organiser, ardent dancer, emcee and friend — **Christie Callia Sardjono (22-U1)** from the Class of 2023 can shine in any role but her kindness, passion and dedication are what all of us in Eunoia know her for. She shares with us some of her precious memories and words of wisdom.
@@ -33,7 +33,7 @@ To the Class of 2024 and beyond, keep the spirit of Eunoia alive and embrace eve
 
 <br><br>
 
-[insert image]
+
 ### Fang Lingyun
 
 
@@ -59,3 +59,40 @@ Lastly, remember to have fun! Yes JC is stressful, but that isn’t all there is
 
 <br><br>
 
+
+### Kenzo Wong
+
+**Wong Kenzo (22-E3)** was crowned Prom King last year and he was no less majestic for his humility and service to Eunoia and his fellow Eunoians. As a dancer, ambassador and all-round student, Kenzo brought care and charisma to everything he did and everything he hopes his juniors in Eunoia will do.
+
+###### WHAT WAS THE MOST MEANINGFUL PART OF YOUR JOURNEY IN EJC?
+
+The most meaningful part of my journey in Eunoia undoubtedly revolves around the honour of being crowned Prom King. However, the true significance lies not in the title or the glory but in the profound support I received from my classmates and CCA. It was only with their unwavering encouragement that moved me to take the leap of faith and run for Prom King in the first place. Without the backing of my 'campaign team,' I might never have considered vying for the title, making the glory theirs to share as well. The sense of trust, camaraderie, and unity that emerged from this experience has been instrumental in my personal growth. It boosted my confidence, taught me the value of genuine connections, and deepened my sense of belonging within the Eunoia community. This not only left me with cherished memories but has also exemplified the importance of shared support and trust in making meaningful strides in life.
+
+###### WHAT IS ONE EXPERIENCE, FEELING OR IDEA FROM YOUR TIME IN EJ YOU WOULD LIKE TO KEEP WITH YOU, OR ARE GRATEFUL FOR?
+
+Leaving Eunoia, a term as novel as the school itself, encompasses more than simply a departure; it signifies the transition to new chapters in our lives. What I will cherish are not just the lessons learned and exams conquered but a profound sense of eunoia — a beautiful mind cultivated through the unique experiences of camaraderie, compassion, and comfort. Within my CCA, Dance, the collective pursuit of excellence and the shared triumphs forged bonds that are more than simple friendships. Witnessing genuine compassion among friends has fostered a new perspective that I carry into the future. And amidst academic rigours and personal challenges, Eunoia provided a comforting sanctuary, nurturing holistic development and fostering a sense of shared responsibility in cultivating an inclusive community. As I embark on new adventures beyond the school gates, these three pillars of eunoia—camaraderie, compassion, and comfort—remain unwavering constants. They are intangible treasures, anchoring me to the essence of my Eunoia experience.
+
+###### WHAT WOULD YOU LIKE TO SAY TO THE CLASS OF 2023 AND YOUR JUNIORS?
+
+To my juniors, take every opportunity you can. Take every leap of faith and trust in yourself. You will never know when an opportunity will be presented in front of you again. Leave Eunoia having new experiences, instead of new regrets over missed opportunities!
+
+<br><br>
+
+
+### Kenzo Wong
+
+Wong Kenzo (22-E3) was crowned Prom King last year and he was no less majestic for his humility and service to Eunoia and his fellow Eunoians. As a dancer, ambassador and all-round student, Kenzo brought care and charisma to everything he did and everything he hopes his juniors in Eunoia will do.
+
+###### WHAT WAS THE MOST MEANINGFUL PART OF YOUR JOURNEY IN EJC?
+
+
+
+###### WHAT IS ONE EXPERIENCE, FEELING OR IDEA FROM YOUR TIME IN EJ YOU WOULD LIKE TO KEEP WITH YOU, OR ARE GRATEFUL FOR?
+
+
+
+###### WHAT WOULD YOU LIKE TO SAY TO THE CLASS OF 2023 AND YOUR JUNIORS?
+
+
+
+<br><br>
