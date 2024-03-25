@@ -41,7 +41,7 @@ To my batchmates: We did it! I cannot believe how far we have all come since the
 
 <br><br>
 
-### Tan Kian Wee Isaac
+### Tan Kian Swee Isaac
 
 **Isaac Tan (22-E6)** leapt, stepped, and bounded over his triple jump competitors as well as academic challenges during his time in EJC. He shares his appreciation for those who helped him achieve his goals and offers some words of encouragement for his juniors.
 
