@@ -7,8 +7,6 @@ description: ""
 image: ""
 variant: markdown
 ---
- 
-
 Read more stories about the Class of 2023 in&nbsp;[Vol 2](https://eunoiajc.moe.edu.sg/news/2024/class2/),&nbsp;[Vol 3](https://eunoiajc.moe.edu.sg/news/2024/class3/)&nbsp;and&nbsp;[Vol 4](https://eunoiajc.moe.edu.sg/news/2024/class4/).
 
 <br>
@@ -79,20 +77,21 @@ To my juniors, take every opportunity you can. Take every leap of faith and trus
 <br><br>
 
 
-### Kenzo Wong
+### Wong En-Si
 
-Wong Kenzo (22-E3) was crowned Prom King last year and he was no less majestic for his humility and service to Eunoia and his fellow Eunoians. As a dancer, ambassador and all-round student, Kenzo brought care and charisma to everything he did and everything he hopes his juniors in Eunoia will do.
+**Wong En-Si (22-O4)** was a Class Chairperson with a heart for her peers and a member of Service Learning Club who went the extra mile to volunteer at many beneficiaries. All of her tutors see in her a true thinker with heart embodying beautiful thinking, goodwill to all.
 
 ###### WHAT WAS THE MOST MEANINGFUL PART OF YOUR JOURNEY IN EJC?
 
-
+The most meaningful part of my journey would be the sense of togetherness I’ve experienced with my classmates. Coming from the JAE pathway, I initially struggled during JC1 Orientation as I felt isolated and distant. However, the worry that I would take a long time to settle proved to be unfounded. Very quickly, my classmates became one of my strongest support pillars throughout this JC journey. The silly jokes we’d spill to relieve stress, the quiet study sessions we’d have during breaks, and the daily class lunches we’d make time for, all built a palpable sense of community and mutual help. Things weren’t always easy and there were times of tension within ourselves too. Nonetheless, I thank God for all these experiences that my classmates and I had while plodding through JC life together as they have helped me to grow so much. It is the memories of these experiences, much more than all the studying, that will remain firmly etched in my mind.
 
 ###### WHAT IS ONE EXPERIENCE, FEELING OR IDEA FROM YOUR TIME IN EJ YOU WOULD LIKE TO KEEP WITH YOU, OR ARE GRATEFUL FOR?
 
-
+I really appreciate the sense of support that I’ve experienced from my teachers in EJ. Though it was tough at times, the knowledge that my teachers were ever willing to help was comforting. I am especially thankful for the Life Coaching programme. Through it, I’ve been able to verbalise my confusion, hear different perspectives, and receive highly personal and applicable advice. Beyond merely providing career guidance or coping techniques, my life coach sought to listen to whatever was on my mind, before slowly working out concrete action plans with me. Our ideas and values are not identical. Yet, simply having someone willing to talk me through the various issues was in itself a huge support as it enabled me to navigate JC in a clearer light. As such, I’m thankful to my life coach, Ms Rachel Yau, for taking the time off her extremely busy schedule countless times to meet me. Her ready help, alongside those of all my other teachers, has immensely contributed to the support I’ve experienced throughout these two years and I am very grateful for it.
 
 ###### WHAT WOULD YOU LIKE TO SAY TO THE CLASS OF 2023 AND YOUR JUNIORS?
 
-
+To the Class of 2023, congratulations on completing the short but arduous journey! To the juniors, all the best as you trod through!<br>
+Whatever phase we are at, there will be difficulties – both within the academic realm and beyond. Don’t be afraid to reach out for support! There are so many people around us in Eunoia keen to help us but there is only so much they can do if we are not open to it. So book consults, have life coaching sessions, speak to teachers or friends with whom you are comfortable, and share your life with your family! And when you’ve benefited from their support, remember to reciprocate, supporting others in return. There are difficulties others face that we do not see on the surface, and sometimes all they need is to know that someone cares. If we would all support each other a little more and seek support a little more, both JC and the world beyond would become more meaningful.
 
 <br><br>
