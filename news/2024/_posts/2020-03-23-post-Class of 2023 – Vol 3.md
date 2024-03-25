@@ -46,7 +46,7 @@ Lastly to the current J2s, do not forget to let yourself breathe every once in a
 
 <br><br>
 
-### Elysa Wu
+### Elysa Wu Le Xin
 
 Amidst the stress of academic pursuits and other expectations, **Elysa (22-E2)**'s journey of resilience and growth provides inspiration and points to the power of gratitude.
 
