@@ -11,7 +11,7 @@ Read more stories about the Class of 2023 in&nbsp;[Vol 1](https://eunoiajc.moe.e
 
 <br>
 
-### Gisele Lee
+### Gisele Lee Yuning
 
 **Gisele Lee (22-I1)** marvelously juggled leading the Hockey team into the National School Games as Vice-Captain with taking on a leading role at the much anticipated annual Literature Festival that brings texts to life. In doing so, she leaves Eunoia with a rich, fulfilling experience, and she shares some tips for how other Eunoians could do the same. 
 
@@ -51,7 +51,7 @@ The greatest sources of motivation in sports my motivation came from the unwaver
 
 ###### WHAT WOULD YOU LIKE TO SAY TO THE CLASS OF 2023 AND YOUR JUNIORS?
 
-To my juniors, I’d say, do try to appreciate the small interactions you have with your friends each day. It’s the friendships that will help you find meaning in the journey, and amidst endless study sessions. JC life is incredible fast paced, but certainly worthwhile.
+To my juniors, I’d say, do try to appreciate the small interactions you have with your friends each day. It’s the friendships that will help you find meaning in the journey, and amidst endless study sessions. JC life is incredibly fast-paced, but certainly worthwhile.
 
 <br><br>
 
