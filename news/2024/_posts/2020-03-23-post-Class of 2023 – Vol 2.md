@@ -15,7 +15,7 @@ Read more stories about the Class of 2023 in&nbsp;[Vol 1](https://eunoiajc.moe.e
 
 **Gisele Lee (22-I1)** marvelously juggled leading the Hockey team into the National School Games as Vice-Captain with taking on a leading role at the much anticipated annual Literature Festival that brings texts to life. In doing so, she leaves Eunoia with a rich, fulfilling experience, and she shares some tips for how other Eunoians could do the same. 
 
-###### WHAT OR WHO WERE YOUR GREATEST SOURCES OF MOTIVATION DURING YOUR TIME IN EUNOIA? hOW DID YOU MANAGE TO BALANCE ALL YOUR COMMITMENTS?
+###### WHAT OR WHO WERE YOUR GREATEST SOURCES OF MOTIVATION DURING YOUR TIME IN EUNOIA? HOW DID YOU MANAGE TO BALANCE ALL YOUR COMMITMENTS?
 
 If you were to ask me how I managed to balance all my commitments, the short answer is that it's a matter of sacrifice. I’m not a perfect person and I definitely had a hard time balancing my time between Hockey training sessions, keeping up with schoolwork, and participating in all the various school events and activities. There were times when I was frustrated with myself for being unable to handle everything that was on my plate, and fell behind in my studies. However, I’m incredibly lucky and privileged to be studying subjects that I’m interested in and passionate about, and this motivated me to stay engaged in class and catch up with my lectures.<br>
 
