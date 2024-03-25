@@ -11,7 +11,6 @@ Read more stories about the Class of 2023 in&nbsp;[Vol 2](https://eunoiajc.moe.e
 
 <br>
 
-
 ### Christie Callia Sardjono
 
 Student Council President, Humanities Scholar, H3 Literature student, leader, organiser, ardent dancer, emcee and friend — **Christie Callia Sardjono (22-U1)** from the Class of 2023 can shine in any role but her kindness, passion and dedication are what all of us in Eunoia know her for. She shares with us some of her precious memories and words of wisdom.
