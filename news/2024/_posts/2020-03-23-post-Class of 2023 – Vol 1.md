@@ -34,7 +34,7 @@ To the Class of 2024 and beyond, keep the spirit of Eunoia alive and embrace eve
 
 ### Fang Lingyun
 
-
+**Lingyun (22-U2)** has shown resilience and determination, positively influencing her peers.
 
 ###### WHAT IS ONE STRUGGLE OR CHALLENGE THAT YOU FACED, AND HOW DID YOU TRY TO OVERCOME IT?
 
