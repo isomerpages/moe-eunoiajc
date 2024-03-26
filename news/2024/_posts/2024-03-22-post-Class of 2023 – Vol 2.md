@@ -12,7 +12,7 @@ variant: tiptap
 </div>
 <h3><strong>Charlotte Lee </strong>(22-I2)</h3>
 <p>An outstanding Netball captain who continually strove for improvement,
-Charlotte Lee led by example both within and outside the classroom.</p>
+Charlotte Lee led by example both in and outside the classroom.</p>
 <p></p>
 <p><strong>Who or what were your great sources of motivation? How did you manage to balance your commitments?</strong>
 </p>
@@ -66,8 +66,10 @@ once in a while, and enjoy this final year in Eunoia. Even though A levels
 may seem daunting and scary, be brave, stay consistent and remember to
 rest! To quote EJ Netball’s team motto, keep striving and giving it your
 all “to the end”. EU-GOT THIS!</p>
-<p></p>
-<p></p>
+<p>
+<br>
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2023_Gisele.jpg">
 </div>
