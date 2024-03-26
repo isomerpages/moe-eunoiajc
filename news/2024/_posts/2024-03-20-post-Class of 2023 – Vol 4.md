@@ -106,6 +106,7 @@ give you a good enough excuse to not do it. Push through A levels with
 confidence!</p>
 <p>
 <br>
+<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2023_Zhishan.jpg">
