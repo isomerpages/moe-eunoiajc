@@ -7,6 +7,70 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2023_Charlotte.jpg">
+</div>
+<h3><strong>Charlotte Lee </strong>(22-I2)</h3>
+<p>An outstanding Netball captain who continually strove for improvement,
+Charlotte Lee led by example both within and outside the classroom.</p>
+<p></p>
+<p><strong>Who or what were your great sources of motivation? How did you manage to balance your commitments?</strong>
+</p>
+<p>“Home is where the people are.” I guess coming into EJ, I could finally
+understand this quote and truly relate to it. Eunoia is my second home.
+Through EJ, I have gotten the chance to cross paths with some of the most
+amazing people, be it my peers or my tutors. These people have been my
+pillars of support throughout these two years, being the reason I could
+stay motivated and keep going. It was not simply the “Jiayou(s)” and small
+encouragement snacks that gave me a boost; it was the feeling of camaraderie
+and trust with them that allowed me to know I was not alone. At the hardest
+times when I felt defeated or when I almost wanted to give up, the faith
+that my tutors and peers had in me gave me strength to persevere. They
+gave me a reason to smile and tell myself that it was not the end!</p>
+<p>Taking up multiple commitments in EJ, I had a busy time, but it was truly
+exhilarating. Looking back, I have no regrets and, certainly, enjoying
+what I was doing really helped give me motivation to carry on! I found
+reasons to love and appreciate, like the strength of journeying together
+as a team, or bonding with a community of incredible individuals in my
+house (Isami!). Hence, alongside practising time management and maintaining
+consistency in order to juggle my responsibilities, I think viewing these
+responsibilities as wonderful memorable experiences I had the opportunity
+to journey through made them a source of joy instead of a burden.</p>
+<h6><strong>What is one experience, feeling or idea from your time in Eunoia are you grateful for?</strong></h6>
+<p>I am wholeheartedly grateful to Eunoia, for allowing me to experience
+the true beauty of “work hard, play hard”. This idea is not one that was
+new or foreign to me before, but I never really got to experience it at
+such a deep level until I came to EJ.</p>
+<p>Through Eunoia, I was given the chance to feel the highest ‘highs’ despite
+the stressful journey. Each school event brought me euphoria and I was
+enjoying each moment to the fullest, with my heart feeling warm and full
+after! Being gifted with such times of relief made it much easier to spend
+time with our heads in the books. It helped me manage stress much more
+easily while coping with my commitments and academics. Stepping out of
+EJ, this feeling of fulfilment and achievement is one that grants me the
+ability to say that I have no regrets. I am grateful for each and every
+individual I have met here, and every opportunity I was given to live my
+Eunoian life to the fullest. Thank you EJ, for letting my dreams take flight!</p>
+<h6><strong>What would you like to say to the Class of 2023 and your juniors?</strong></h6>
+<p>To my batchmates, I want to say Congratulations! We made it! Two years
+ago, when we first entered Eunoia, some of us could never have pictured
+how the next two years of our lives would play out. Now that it’s over,
+we can look back on the memories we have made, friendships forged, and
+challenges we’ve overcome, using them as our sources of motivation for
+the journey ahead of us.</p>
+<p>To the new J1s, I hope you will make this EJ experience uniquely yours!
+Take risks and try new things, meet new people and form networks, and make
+every moment count.</p>
+<p>Lastly to the current J2s, do not forget to let yourself breathe every
+once in a while, and enjoy this final year in Eunoia. Even though A levels
+may seem daunting and scary, be brave, stay consistent and remember to
+rest! To quote EJ Netball’s team motto, keep striving and giving it your
+all “to the end”. EU-GOT THIS!</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2023_Gisele.jpg">
+</div>
 <h3><strong>Gisele Lee</strong> (22-I1)</h3>
 <p>Gisele marvelously juggled leading the Hockey team into the National School
 Games as Vice-Captain with taking on a leading role at the much anticipated
@@ -75,6 +139,9 @@ best in your future endeavours!</p>
 <br>
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2023_Valerie.jpg">
+</div>
 <h3><strong>Valerie Ang </strong>(22-I6)</h3>
 <p>A national figure-skater, Valerie spent hours making her incredible routines
 in the rink look effortless, and channeled this same determination, purpose,
