@@ -7,9 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Read more stories about the Class of 2023 in&nbsp;<a href="https://eunoiajc.moe.edu.sg/news/2024/class1/" rel="noopener noreferrer nofollow" target="_blank">Vol 1</a>,&nbsp;
-<a href="https://eunoiajc.moe.edu.sg/news/2024/class2/" rel="noopener noreferrer nofollow" target="_blank">Vol 2</a>&nbsp;and&nbsp;<a href="https://eunoiajc.moe.edu.sg/news/2024/class3/" rel="noopener noreferrer nofollow" target="_blank">Vol 3</a>.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2023_Keana.jpg">
 </div>
