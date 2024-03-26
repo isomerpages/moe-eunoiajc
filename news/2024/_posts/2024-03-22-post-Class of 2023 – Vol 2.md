@@ -12,7 +12,7 @@ variant: tiptap
 </div>
 <h3><strong>Charlotte Lee </strong>(22-I2)</h3>
 <p>An outstanding Netball captain who continually strove for improvement,
-Charlotte Lee led by example both in and outside the classroom.</p>
+Charlotte led by example both in and outside the classroom.</p>
 <p></p>
 <p><strong>Who or what were your great sources of motivation? How did you manage to balance your commitments?</strong>
 </p>
