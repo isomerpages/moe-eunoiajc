@@ -14,8 +14,7 @@ variant: tiptap
 <p>An outstanding Netball captain who continually strove for improvement,
 Charlotte led by example both in and outside the classroom.</p>
 <p></p>
-<p><strong>Who or what were your great sources of motivation? How did you manage to balance your commitments?</strong>
-</p>
+<h6><strong>What was the most meaningful part of your journey in EJC?</strong></h6>
 <p>“Home is where the people are.” I guess coming into EJ, I could finally
 understand this quote and truly relate to it. Eunoia is my second home.
 Through EJ, I have gotten the chance to cross paths with some of the most
