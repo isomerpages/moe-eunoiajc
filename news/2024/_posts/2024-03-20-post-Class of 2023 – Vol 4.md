@@ -8,6 +8,66 @@ image: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2023_Eleanor.jpg">
+</div>
+<h3><strong>Eleanor Cheak</strong> (22-A5)</h3>
+<p>Eleanor<strong> </strong>demonstrated unwavering commitment and strength
+in her roles as Student Councillor and Vice-Captain of Akila house, embodying
+servant leadership.</p>
+<p></p>
+<h6><strong>Who or what were your great sources of motivation? How did you manage to balance your commitments?</strong></h6>
+<p>I have come to realise truly no one is a self made man, and in a school
+with such a vibrant community, it is hard to pinpoint a specific person
+or thing that fueled me over the last 2 years. However without a shadow
+of doubt, given the different commitments piled high on my plate, if it
+were not for them, I would not have made it here today. From my captains
+Jing Bhin and Denzel who braved Akila's highest highs and lowest lows with
+me, to Welfare, Euphoria and Council Camp committees with their support
+and laughs while persevering through our various events, and my subject
+and council teachers’ endless encouragement and consultation sessions -
+these were just a few members of that vibrant community.</p>
+<p>So I would say that the cliched tactics of time management, prioritising
+and having passion for your commitments are indeed useful but they cannot
+be compared to the kind of motivation and drive that stems from the people
+around you. Canteen vendors piling food high during exam periods; long
+rants with friends and teachers on the symposia floor; it was the reassurance
+that we were all on this journey together, taking things one day at a time,
+that motivated me to push through the 2 years.</p>
+<p><strong>What is one experience, feeling or idea from your time in Eunoia you are grateful for?</strong>
+</p>
+<p>I will always be grateful that EJ gave us a space that allowed us to feel
+safe in taking risks. Be it in the unwavering support from teachers, roars
+of encouragement from peers, or the soft smiles along the corridors and
+shoulders to cry on. In moments when I felt all had been lost because something
+went wrong, the people around me reassured my efforts, never judged me
+and made me feel so loved. Even though the world we are entering is not
+nearly as forgiving, the little bit of kindness I experienced everyday
+for 2 years made me brave enough to jump into the unknowns of student council,
+captaincy and far-fetched opportunities and friendships, which makes saying
+goodbye to my years of formal education almost easier, because I can leave
+without any regrets. Thank you EJ, for teaching me what it means to have
+strength in my vulnerabilities and to give so freely without expecting
+anything in return. It was not an easy journey, but that made it all the
+more incredible.</p>
+<h6><strong>What would you like to say to the Class of 2023 and your juniors?</strong></h6>
+<p>To the Class of 2023, we made it! Whether I cried on your shoulder after
+Spartan or we’ve only exchanged a quick smile in the canteen, thank you
+for being a part of the community that gave me so much peace and comfort
+throughout these 2 years. With this day marking the end of our long arduous
+A Level journey, I hope that your rank points do not define your JC journey.
+Having seen each of us grow from the clueless J1s we were sleeping in lectures
+to the people we are today, there is so much more to us and our journey
+that a grade on a piece of paper cannot encapsulate. The fact that we are
+standing here today is more than enough to be incredibly proud of.</p>
+<p>To my juniors, write your own story. These 2 years will fly by so take
+risks, allow yourself to grow and learn and do not let the expectations
+placed upon you limit you. You each have so much to offer so define your
+own yardstick of success and allow yourself to leave EJ without any regrets.</p>
+<p>
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2023_Keana.jpg">
 </div>
 <h3><strong>Ng Tian Xin Keana </strong>(22-O5)</h3>
@@ -158,68 +218,6 @@ it asking for more consults or reaching out for extra guidance. It may
 not be easy but it is definitely worth it. No step taken is ever too small,
 so be proud of whatever you have set out to accomplish and ALL THE BEST
 in achieving them! Jiayou! You can do it!</p>
-<p>
-<br>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2023_Eleanor.jpg">
-</div>
-<h3><strong>Eleanor Cheak</strong> (22-A5)</h3>
-<p>Eleanor<strong> </strong>demonstrated unwavering commitment and strength
-in her roles as Student Councillor and Vice-Captain of House Akila, embodying
-servant-hearted leadership.</p>
-<p></p>
-<h6><strong>Who or what were your great sources of motivation? How did you manage to balance your commitments?</strong></h6>
-<p>I have come to realise truly no one is a self made man, and in a school
-with such a vibrant community, it is hard to pinpoint a specific person
-or thing that fueled me over the last 2 years. However without a shadow
-of doubt, given the different commitments piled high on my plate, if it
-were not for them, I would not have made it here today. From my captains
-Jing Bhin and Denzel who braved Akila's highest highs and lowest lows with
-me, to Welfare, Euphoria and Council Camp committees with their support
-and laughs while persevering through our various events, and my subject
-and council teachers’ endless encouragement and consultation sessions -
-these were just a few members of that vibrant community.
-<br>
-</p>
-<p>So I would say that the cliched tactics of time management, prioritising
-and having passion for your commitments are indeed useful but they cannot
-be compared to the kind of motivation and drive that stems from the people
-around you. Canteen vendors piling food high during exam periods; long
-rants with friends and teachers on the symposia floor; it was the reassurance
-that we were all on this journey together, taking things one day at a time,
-that motivated me to push through the 2 years.</p>
-<p><strong>What is one experience, feeling or idea from your time in Eunoia are you grateful for?</strong>
-</p>
-<p>I will always be grateful that EJ gave us a space that allowed us to feel
-safe in taking risks. Be it in the unwavering support from teachers, roars
-of encouragement from peers, or the soft smiles along the corridors and
-shoulders to cry on. In moments when I felt all had been lost because something
-went wrong, the people around me reassured my efforts, never judged me
-and made me feel so loved. Even though the world we are entering is not
-nearly as forgiving, the little bit of kindness I experienced everyday
-for 2 years made me brave enough to jump into the unknowns of student council,
-captaincy and far-fetched opportunities and friendships, which makes saying
-goodbye to my years of formal education almost easier, because I can leave
-without any regrets. Thank you EJ, for teaching me what it means to have
-strength in my vulnerabilities and to give so freely without expecting
-anything in return. It was not an easy journey, but that made it all the
-more incredible.</p>
-<h6><strong>What would you like to say to the Class of 2023 and your juniors?</strong></h6>
-<p>To the Class of 2023, we made it! Whether I cried on your shoulder after
-Spartan or we’ve only exchanged a quick smile in the canteen, thank you
-for being a part of the community that gave me so much peace and comfort
-throughout these 2 years. With this day marking the end of our long arduous
-A Level journey, I hope that your rank points do not define your JC journey.
-Having seen each of us grow from the clueless J1s we were sleeping in lectures
-to the people we are today, there is so much more to us and our journey
-that a grade on a piece of paper cannot encapsulate. The fact that we are
-standing here today is more than enough to be incredibly proud of.</p>
-<p>To my juniors, write your own story. These 2 years will fly by so take
-risks, allow yourself to grow and learn and do not let the expectations
-placed upon you limit you. You each have so much to offer so define your
-own yardstick of success and allow yourself to leave EJ without any regrets.</p>
 <p>
 <br>
 <br>
