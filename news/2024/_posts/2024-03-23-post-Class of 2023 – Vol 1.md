@@ -43,9 +43,10 @@ towards.
 every chance you get to discover something new. The Eunoia community is
 incredibly special, so treasure each moment you have with your friends
 and teachers, and always remember to be there for one another!</p>
-<p></p>
-<p></p>
-<p></p>
+<p>
+<br>
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2023_Kenzo.jpg">
 </div>
