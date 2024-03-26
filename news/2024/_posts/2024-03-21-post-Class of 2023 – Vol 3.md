@@ -8,68 +8,6 @@ image: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2023_Charlotte.jpg">
-</div>
-<h3><strong>Charlotte  Lee </strong>(22-I2)</h3>
-<p>An outstanding Netball captain who continually strove for improvement,
-Charlotte Lee led by example both within and outside the classroom.</p>
-<p></p>
-<p><strong>Who or what were your great sources of motivation? How did you manage to balance your commitments?</strong>
-</p>
-<p>“Home is where the people are.” I guess coming into EJ, I could finally
-understand this quote and truly relate to it. Eunoia is my second home.
-Through EJ, I have gotten the chance to cross paths with some of the most
-amazing people, be it my peers or my tutors. These people have been my
-pillars of support throughout these two years, being the reason I could
-stay motivated and keep going. It was not simply the “Jiayou(s)” and small
-encouragement snacks that gave me a boost; it was the feeling of camaraderie
-and trust with them that allowed me to know I was not alone. At the hardest
-times when I felt defeated or when I almost wanted to give up, the faith
-that my tutors and peers had in me gave me strength to persevere. They
-gave me a reason to smile and tell myself that it was not the end!</p>
-<p>Taking up multiple commitments in EJ, I had a busy time, but it was truly
-exhilarating. Looking back, I have no regrets and, certainly, enjoying
-what I was doing really helped give me motivation to carry on! I found
-reasons to love and appreciate, like the strength of journeying together
-as a team, or bonding with a community of incredible individuals in my
-house (Isami!). Hence, alongside practising time management and maintaining
-consistency in order to juggle my responsibilities, I think viewing these
-responsibilities as wonderful memorable experiences I had the opportunity
-to journey through made them a source of joy instead of a burden.</p>
-<h6><strong>What is one experience, feeling or idea from your time in Eunoia are you grateful for?</strong></h6>
-<p>I am wholeheartedly grateful to Eunoia, for allowing me to experience
-the true beauty of “work hard, play hard”. This idea is not one that was
-new or foreign to me before, but I never really got to experience it at
-such a deep level until I came to EJ.</p>
-<p>Through Eunoia, I was given the chance to feel the highest ‘highs’ despite
-the stressful journey. Each school event brought me euphoria and I was
-enjoying each moment to the fullest, with my heart feeling warm and full
-after! Being gifted with such times of relief made it much easier to spend
-time with our heads in the books. It helped me manage stress much more
-easily while coping with my commitments and academics. Stepping out of
-EJ, this feeling of fulfilment and achievement is one that grants me the
-ability to say that I have no regrets. I am grateful for each and every
-individual I have met here, and every opportunity I was given to live my
-Eunoian life to the fullest. Thank you EJ, for letting my dreams take flight!</p>
-<h6><strong>What would you like to say to the Class of 2023 and your juniors?</strong></h6>
-<p>To my batchmates, I want to say Congratulations! We made it! Two years
-ago, when we first entered Eunoia, some of us could never have pictured
-how the next two years of our lives would play out. Now that it’s over,
-we can look back on the memories we have made, friendships forged, and
-challenges we’ve overcome, using them as our sources of motivation for
-the journey ahead of us.</p>
-<p>To the new J1s, I hope you will make this EJ experience uniquely yours!
-Take risks and try new things, meet new people and form networks, and make
-every moment count.</p>
-<p>Lastly to the current J2s, do not forget to let yourself breathe every
-once in a while, and enjoy this final year in Eunoia. Even though A levels
-may seem daunting and scary, be brave, stay consistent and remember to
-rest! To quote EJ Netball’s team motto, keep striving and giving it your
-all “to the end”. EU-GOT THIS!</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2023_Elysa.jpg">
 </div>
 <h3><strong>Elysa Wu </strong>(22-E2)</h3>
@@ -97,8 +35,8 @@ studying for the day and it is time to rest; I would remind myself that
 I’m not defined by my grades; and I would seek out friends who can accept
 me for who I am. These were some self-care steps I practised to better
 manage my emotions as a worrywart.</p>
-<h6><strong>What is one experience, feeling or idea from your time in Eunoia are you grateful for?</strong></h6>
-<h6>I would always keep with me a sense of appreciation and gratitude towards my EJ teachers and friends who had shown such love and care to me, especially during my lowest moments. </h6>
+<h6><strong>What is one experience, feeling or idea from your time in Eunoia you are grateful for?</strong></h6>
+<h6>I would always keep with me a sense of appreciation and gratitude towards my EJ teachers and friends who had shown such love and care to me, especially during my lowest moments.</h6>
 <p>I am grateful that my EJ teachers care more about who I am than what I
 can achieve. My form teacher, Mr Ng Boon Hong, had never failed to reach
 out and check in on me. He supported and believed in me. I also want to
@@ -149,7 +87,7 @@ was important to me. After that, putting in that time and effort into what
 I cared about while cutting back from things that were not as significant
 came more naturally. It truly is all about prioritising and learning how
 to say ‘No, thank you’!</p>
-<h6><strong>What is one experience, feeling or idea from your time in Eunoia are you grateful for?</strong></h6>
+<h6><strong>What is one experience, feeling or idea from your time in Eunoia you are grateful for?</strong></h6>
 <p>I am definitely grateful for the autonomy that I was entrusted with as
 a leader. I came into Student Council expecting more rigid and formal operating
 procedures. When I realised how much our teachers trusted us and gave us
@@ -174,7 +112,72 @@ not make it into my secondary school’s Student Council, but I grew from
 that as a person and leader, eventually succeeding in leadership later
 on. Our failures can be difficult and scary, but the only way forward is
 to have hope in a brighter future.</p>
-<p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2023_Lingyun.jpg">
+</div>
+<h3><strong>Fang Lingyun </strong>(22-U2)</h3>
+<p>Lingyun throughout her time in Eunoia showed resilience and determination,
+positively influencing her peers and demonstrating a deep passion for Art.</p>
+<p></p>
+<h6><strong>What is one struggle that you faced, and how did you overcome it?</strong></h6>
+<p>One struggle that ended up heavily impacting my JC life is my ADHD. I
+was diagnosed with ADHD at the end of my first year of JC in 2021. It came
+as a surprise to a lot of people as I have always done quite well in school,
+coming from the Gifted Education Program and doing decently well academically
+in both primary and secondary school, but I had been feeling the effects
+of my condition for a good part of the year, and it was the cause of my
+eventual retaining.</p>
+<p>I maintained a positive attitude about my newly diagnosed neurodivergence,
+having already suspected the condition and researched it myself beforehand.
+It was not the end of the world and I was not lesser for it, I simply needed
+to figure out how to work with it. I spent a long time learning more about
+the condition and looking for ways that would help me and work with my
+brain rather than against it, as typical methods for studying and keeping
+on top of things simply did not work for me no matter how hard I tried.
+Over the course of the next two years at EJC, I picked up coping mechanisms
+for myself as well as got support from my friends, family and teachers.
+I also learnt from my mistakes in my first year, paced myself better and
+prioritised my mental health more.</p>
+<p>In the end, things did not magically become perfect. But I did see noticeable
+personal growth on my end, as well as a greater understanding and acceptance
+of myself. I even made it the focus of my A level final project for Art,
+in the hopes of sharing my experience with others.</p>
+<h6><strong>What is one experience, feeling or idea from your time in Eunoia you would like to keep with you?</strong></h6>
+<h6>I think one thing I would like to keep from my time in EJ are the relationships I made with my peers from both my first and second cohort, my juniors and my teachers.&nbsp;</h6>
+<h6>When I first retained one thing I was worried about was losing my friends who were now going to graduate earlier than me, and being able to make new ones because of my situation. But in the end that wasn’t a problem at all. People are kinder than you think and I am so grateful to the people that have supported me and took time to understand me, and that I was not treated differently. I’m thankful for the friendships and memories I’ve made at EJ.</h6>
+<h6>I am also grateful for the support and encouragement of my teachers. Thank you for keeping an open mind and accommodating me, while still encouraging me to do well and improve. I would especially like to thank my art teachers, who encouraged me to put my experiences into my art coursework and share it as a part of me to be proud of and accept. I would also like to thank my co-form teacher for checking up on me to see how I was doing and offering help when I needed it.</h6>
+<h6><strong>What would you like to say to the Class of 2023 and your juniors?</strong></h6>
+<p>To the Class of 2023: We made it! I’m so proud of us for pushing through
+these last few years and I wish us all the best for the future.</p>
+<p>To my juniors: JC life will be stressful, and the jump from secondary
+school to junior college can be tough to navigate. It is hard to keep up,
+especially because JC is a lot more self directed than secondary school.
+But I promise that it is not the end of the world if you fail a test. Academics
+is important, but it isn’t everything. Please take care of your mental
+and physical health. I know it sounds cheesy but as someone who spent way
+too many late nights desperately trying and failing to keep up with my
+work in the first year, I found that prioritising my sleep more in my second
+year helped a lot, both with managing my ADHD symptoms and just my quality
+of school life.</p>
+<p>You also should reach out for help if you need it. I struggled to ask
+for help because I felt like I could tough it out, and before getting my
+diagnosis and understanding why exactly I was struggling so much I was
+perhaps a little embarrassed too. But my teachers have been incredibly
+understanding and supportive of me. They want their students to pass as
+much as you do, and they’re willing to help or give you a bit more time
+if you just ask. If consulting a teacher alone is too scary, arrange a
+group consult with your friends. As my teacher once told me: “Don’t suffer
+in silence.”</p>
+<p>Lastly, remember to have fun! Yes JC is stressful, but that isn’t all
+there is to it. There are so many fun events to look forward to at EJC
+and you should enjoy them! And I mean really enjoy them. I know it’s easy
+to continue stressing about school even as you take time off, lamenting
+all the work you still have to do once this is over. But you’re still using
+energy to worry about all that while to take your supposed “break”. That’s
+not really resting now is it? Work hard, play hard. Your studies are important
+but make sure to take time to enjoy these two (or more!) years at EJ.
 <br>
 <br>
 </p>
