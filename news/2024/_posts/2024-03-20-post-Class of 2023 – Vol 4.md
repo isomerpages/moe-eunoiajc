@@ -17,7 +17,7 @@ servant leadership as she pursued her passion in Science and Technology
 as part of the DSTA-JC Scholarship. Eleanor has been offered a conditional
 Public Service Commission scholarship.</p>
 <p></p>
-<p><strong>Who or what were your great sources of motivation? How did you manage to balance your commitments?</strong>
+<p><em>Who or what were your great sources of motivation? How did you manage to balance your commitments?</em>
 </p>
 <p>I have come to realise truly no one is a self made man, and in a school
 with such a vibrant community, it is hard to pinpoint a specific person
@@ -36,7 +36,7 @@ around you. Canteen vendors piling food high during exam periods; long
 rants with friends and teachers on the symposia floor; it was the reassurance
 that we were all on this journey together, taking things one day at a time,
 that motivated me to push through the 2 years.</p>
-<p><strong>What is one experience, feeling or idea from your time in Eunoia you are grateful for?</strong>
+<p><em>What is one experience, feeling or idea from your time in Eunoia you are grateful for?</em>
 </p>
 <p>I will always be grateful that EJ gave us a space that allowed us to feel
 safe in taking risks. Be it in the unwavering support from teachers, roars
@@ -52,7 +52,7 @@ without any regrets. Thank you EJ, for teaching me what it means to have
 strength in my vulnerabilities and to give so freely without expecting
 anything in return. It was not an easy journey, but that made it all the
 more incredible.</p>
-<p><strong>What would you like to say to the Class of 2023 and your juniors?</strong>
+<p><em>What would you like to say to the Class of 2023 and your juniors?</em>
 </p>
 <p>To the Class of 2023, we made it! Whether I cried on your shoulder after
 Spartan or we’ve only exchanged a quick smile in the canteen, thank you
@@ -79,7 +79,7 @@ own yardstick of success and allow yourself to leave EJ without any regrets.</p>
 for Chinese language and culture, serving as President of the Bicultural
 Studies Programme (BSP), and being a competitive boxer.</p>
 <p></p>
-<p><strong>Who or what were your great sources of motivation? How did you manage to balance your commitments?</strong>
+<p><em>Who or what were your great sources of motivation? How did you manage to balance your commitments?</em>
 </p>
 <p>My greatest source of motivation is definitely my close friends who were
 there for me during my most stressful times in JC. Everyone has multiple
@@ -88,7 +88,7 @@ as an athlete, and leading as BSP President. I am extremely grateful for
 the support I have received from my peers. Emotional support from my friends
 kept me on an even keel, and practical guidance when I was facing difficulties
 helped see me through JC.</p>
-<p><strong>What is one experience, feeling or idea from your time in Eunoia you would like to keep with you?</strong>
+<p><em>What is one experience, feeling or idea from your time in Eunoia you would like to keep with you?</em>
 </p>
 <p>I am grateful for the endless opportunities EJ gave us to allow us to
 explore our interests and develop ourselves to our fullest potential. From
@@ -98,7 +98,7 @@ received in the course of 2 years is proof of the hard work of teachers
 and staff who put in time and effort to collate information for us, so
 that we never run out of resources. I really appreciate the encouragement
 given to all of us, to push us to excel in our own unique ways.</p>
-<p><strong>What would you like to say to the Class of 2023 and your juniors?</strong>
+<p><em>What would you like to say to the Class of 2023 and your juniors?</em>
 </p>
 <p>Study hard, of course, but also enjoy your time in EJ as much as possible.
 Keep on exploring - you will realise that the world is much bigger than
@@ -118,7 +118,7 @@ success. Remember to trust yourself; all the best!</p>
 Programme, attaining excellence while sharing the joy of music with others
 and helping others develop their musical talents.</p>
 <p></p>
-<p><strong>Who or what were your great sources of motivation? How did you manage to balance your commitments?</strong>
+<p><em>Who or what were your great sources of motivation? How did you manage to balance your commitments?</em>
 </p>
 <p>As music is a subject I care deeply about, the music teachers in Eunoia
 have always been amazing role models I look up to. The amount of wisdom
@@ -139,7 +139,7 @@ that I deeply care about.</p>
 <p>Although I am now a graduate from Eunoia, I still regularly come back
 to meet them for another quick bite, and every time they will teach me
 more things that bring me back to my student days in EJ.</p>
-<p><strong>What is one experience, feeling or idea from your time in Eunoia you would like to keep with you?</strong>
+<p><em>What is one experience, feeling or idea from your time in Eunoia you would like to keep with you?</em>
 </p>
 <p>The time I spent revising with my friends during our little group study
 sessions will always be an experience I am grateful for.</p>
@@ -156,15 +156,13 @@ also going through tough times together. In the face of hardship, my friends
 and I have made the most out of a stressful situation, and I think that
 my time in EJ will probably be the only time that I get to go through such
 a thing, which is why this is an experience I would like to keep with me.</p>
-<p><strong>What would you like to say to the Class of 2023 and your juniors?</strong>
+<p><em>What would you like to say to the Class of 2023 and your juniors?</em>
 </p>
 <p>The time I have spent on the Arts taught me that the idea of “perfection”
 really doesn’t exist. It is something we all strive for, but something
 impossible to achieve. There will always be something that we find not
 up to our standards. It is a cold hard fact that we all should come to
-terms with, but most of us are not fully ready to accept it, myself included.
-<br>
-</p>
+terms with, but most of us are not fully ready to accept it, myself included.</p>
 <p>From this, I also realised that there exists a difference between striving
 for perfection, and fearing imperfection. Just as there is a difference
 between thinking your creation isn’t as good as it can be, and thinking
@@ -184,7 +182,7 @@ confidence!</p>
 <p>Zhi Shan was a stellar student and member of the Eunoia Humanities Programme
 who has done the college proud!</p>
 <p></p>
-<p><strong>Who or what were your great sources of motivation? How did you manage to balance your commitments?</strong>
+<p><em>Who or what were your great sources of motivation? How did you manage to balance your commitments?</em>
 </p>
 <p>What kept me going throughout these 2 years were undeniably my friends
 and teachers. On days when I felt like giving up, seeing the hard work
@@ -212,7 +210,7 @@ peers rejoiced in the highs and weathered the storms together. I continue
 to cherish this feeling in my heart and am forever grateful that life has
 given me the opportunity to cross paths with some of the kindest, funniest,
 and sweetest people I know today.</p>
-<p><strong>What would you like to say to the Class of 2023 and your juniors?</strong>
+<p><em>What would you like to say to the Class of 2023 and your juniors?</em>
 </p>
 <p>To my batch, we have done a REALLY good job! We are truly amazing for
 having persevered through these two years in JC and we should all be proud
