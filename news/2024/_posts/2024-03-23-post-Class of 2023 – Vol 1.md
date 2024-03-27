@@ -17,7 +17,7 @@ Class of 2023 can shine in any role but her kindness, passion and dedication
 are what all of us in Eunoia know her for. She shares with us some of her
 precious memories and words of wisdom.</p>
 <p></p>
-<p><strong>What was the most meaningful part of your journey in EJC?</strong>
+<p><em>What was the most meaningful part of your journey in EJC?</em>
 </p>
 <p>The people I met in EJC are the reasons why my time here has been so special.
 Over the past two years, I’ve been blessed to cross paths with the most
@@ -27,13 +27,13 @@ Council preparing for our events, the consultations my teachers have given
 me (on both academics and life) to the passing conversations along the
 corridors, Eunoia’s community is what has made this place my second home,
 and gifted me with friendships which I believe can last a lifetime.</p>
-<p><strong>What is one experience, feeling or idea from your time in Eunoia you would like to keep with you?</strong>
+<p><em>What is one experience, feeling or idea from your time in Eunoia you would like to keep with you?</em>
 </p>
 <p>The feeling of adrenaline that comes the moment a college dance song plays
 never gets old. I will always treasure the camaraderie and energy coursing
 through the Eunoia community whenever we come together, no matter where
 we are or who we are standing next to.</p>
-<p><strong>What would you like to say to the Class of 2023 and your juniors?</strong>
+<p><em>What would you like to say to the Class of 2023 and your juniors?</em>
 </p>
 <p>I hope we can bring the spirit of Eunoia with us wherever we go, daring
 to dream big, and always taking the courage to turn those dreams into reality.
@@ -58,7 +58,7 @@ his humility and service to Eunoia and his fellow Eunoians. As a dancer,
 ambassador and all-round student, Kenzo brought care and charisma to everything
 he did and everything he hopes his juniors in Eunoia will do.</p>
 <p></p>
-<p><strong>What was the most meaningful part of your journey in EJC?</strong>
+<p><em>What was the most meaningful part of your journey in EJC?</em>
 </p>
 <p>The most meaningful part of my journey in Eunoia undoubtedly revolves
 around the honour of being crowned Prom King. However, the true significance
@@ -73,7 +73,7 @@ me the value of genuine connections, and deepened my sense of belonging
 within the Eunoia community. This not only left me with cherished memories
 but has also exemplified the importance of shared support and trust in
 making meaningful strides in life.</p>
-<p><strong>What is one experience, feeling or idea from your time in Eunoia you would like to keep with you?</strong>
+<p><em>What is one experience, feeling or idea from your time in Eunoia you would like to keep with you?</em>
 </p>
 <p>Leaving Eunoia, a term as novel as the school itself, encompasses more
 than simply a departure; it signifies the transition to new chapters in
@@ -90,7 +90,7 @@ community. As I embark on new adventures beyond the school gates, these
 three pillars of eunoia—camaraderie, compassion, and comfort—remain unwavering
 constants. They are intangible treasures, anchoring me to the essence of
 my Eunoia experience.</p>
-<p><strong>What would you like to say to the Class of 2023 and your juniors?</strong>
+<p><em>What would you like to say to the Class of 2023 and your juniors?</em>
 </p>
 <p>To my juniors, take every opportunity you can. Take every leap of faith
 and trust in yourself. You will never know when an opportunity will be
@@ -109,7 +109,7 @@ and a member of Service Learning Club who went the extra mile to volunteer
 at many beneficiaries. All of her tutors see in her a true thinker with
 heart embodying beautiful thinking, goodwill to all.</p>
 <p></p>
-<p><strong>What was the most meaningful part of your journey in EJC?</strong>
+<p><em>What was the most meaningful part of your journey in EJC?</em>
 </p>
 <p>The most meaningful part of my journey would be the sense of togetherness
 I’ve experienced with my classmates. Coming from the JAE pathway, I initially
@@ -124,7 +124,7 @@ ourselves too. Nonetheless, I thank God for all these experiences that
 my classmates and I had while plodding through JC life together as they
 have helped me to grow so much. It is the memories of these experiences,
 much more than all the studying, that will remain firmly etched in my mind.</p>
-<p><strong>What is one experience, feeling or idea from your time in Eunoia you are grateful for?</strong>
+<p><em>What is one experience, feeling or idea from your time in Eunoia you are grateful for?</em>
 </p>
 <p>I really appreciate the sense of support that I’ve experienced from my
 teachers in EJ. Though it was tough at times, the knowledge that my teachers
@@ -141,7 +141,7 @@ for taking the time off her extremely busy schedule countless times to
 meet me. Her ready help, alongside those of all my other teachers, has
 immensely contributed to the support I’ve experienced throughout these
 two years and I am very grateful for it.</p>
-<p><strong>What would you like to say to the Class of 2023 and your juniors?</strong>
+<p><em>What would you like to say to the Class of 2023 and your juniors?</em>
 </p>
 <p>To the Class of 2023, congratulations on completing the short but arduous
 journey! To the juniors, all the best as you trod through!</p>
