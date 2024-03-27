@@ -145,9 +145,23 @@ personal growth on my end, as well as a greater understanding and acceptance
 of myself. I even made it the focus of my A level final project for Art,
 in the hopes of sharing my experience with others.</p>
 <h6><strong>What is one experience, feeling or idea from your time in Eunoia you would like to keep with you?</strong></h6>
-<h6>I think one thing I would like to keep from my time in EJ are the relationships I made with my peers from both my first and second cohort, my juniors and my teachers.&nbsp;</h6>
-<h6>When I first retained one thing I was worried about was losing my friends who were now going to graduate earlier than me, and being able to make new ones because of my situation. But in the end that wasn’t a problem at all. People are kinder than you think and I am so grateful to the people that have supported me and took time to understand me, and that I was not treated differently. I’m thankful for the friendships and memories I’ve made at EJ.</h6>
-<h6>I am also grateful for the support and encouragement of my teachers. Thank you for keeping an open mind and accommodating me, while still encouraging me to do well and improve. I would especially like to thank my art teachers, who encouraged me to put my experiences into my art coursework and share it as a part of me to be proud of and accept. I would also like to thank my co-form teacher for checking up on me to see how I was doing and offering help when I needed it.</h6>
+<p>I think one thing I would like to keep from my time in EJ are the relationships
+I made with my peers from both my first and second cohort, my juniors and
+my teachers.&nbsp;</p>
+<p>When I first retained one thing I was worried about was losing my friends
+who were now going to graduate earlier than me, and being able to make
+new ones because of my situation. But in the end that wasn’t a problem
+at all. People are kinder than you think and I am so grateful to the people
+that have supported me and took time to understand me, and that I was not
+treated differently. I’m thankful for the friendships and memories I’ve
+made at EJ.</p>
+<p>I am also grateful for the support and encouragement of my teachers. Thank
+you for keeping an open mind and accommodating me, while still encouraging
+me to do well and improve. I would especially like to thank my art teachers,
+who encouraged me to put my experiences into my art coursework and share
+it as a part of me to be proud of and accept. I would also like to thank
+my co-form teacher for checking up on me to see how I was doing and offering
+help when I needed it.</p>
 <h6><strong>What would you like to say to the Class of 2023 and your juniors?</strong></h6>
 <p>To the Class of 2023: We made it! I’m so proud of us for pushing through
 these last few years and I wish us all the best for the future.</p>
