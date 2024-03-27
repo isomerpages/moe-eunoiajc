@@ -13,4 +13,4 @@ I am grateful and excited to join the Eunoia community and to play a role in gui
 
 In my free time, I can be found cleaning the dust bunnies off my board games, chipping away at my pile of unread books or boisterously kicking a football.
 
-[cavell.chee@ejc.edu.sg](mailto:cavell.chee@ejc.edu.sg)
+[chee.cavell.jiahe@ejc.edu.sg](mailto:chee.cavell.jiahe@ejc.edu.sg)
