@@ -13,7 +13,9 @@ variant: tiptap
 <h3><strong>Eleanor Cheak</strong> (22-A5)</h3>
 <p>Eleanor<strong> </strong>demonstrated unwavering commitment and strength
 in her roles as Student Councillor and Vice-Captain of Akila house, embodying
-servant leadership.</p>
+servant leadership as she pursued her passion in Science and Technology
+as part of the DSTA-JC Scholarship. Eleanor has been offered a conditional
+Public Service Commission scholarship.</p>
 <p></p>
 <p><strong>Who or what were your great sources of motivation? How did you manage to balance your commitments?</strong>
 </p>
