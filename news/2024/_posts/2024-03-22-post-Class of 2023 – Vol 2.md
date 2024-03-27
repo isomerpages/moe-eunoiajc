@@ -14,7 +14,8 @@ variant: tiptap
 <p>An outstanding Netball captain who continually strove for improvement,
 Charlotte led by example both in and outside the classroom.</p>
 <p></p>
-<h6><strong>What was the most meaningful part of your journey in EJC?</strong></h6>
+<p><em>What was the most meaningful part of your journey in EJC?</em>
+</p>
 <p>“Home is where the people are.” I guess coming into EJ, I could finally
 understand this quote and truly relate to it. Eunoia is my second home.
 Through EJ, I have gotten the chance to cross paths with some of the most
@@ -35,7 +36,8 @@ house (Isami!). Hence, alongside practising time management and maintaining
 consistency in order to juggle my responsibilities, I think viewing these
 responsibilities as wonderful memorable experiences I had the opportunity
 to journey through made them a source of joy instead of a burden.</p>
-<h6><strong>What is one experience, feeling or idea from your time in Eunoia you are grateful for?</strong></h6>
+<p><em>What is one experience, feeling or idea from your time in Eunoia you are grateful for?</em>
+</p>
 <p>I am wholeheartedly grateful to Eunoia, for allowing me to experience
 the true beauty of “work hard, play hard”. This idea is not one that was
 new or foreign to me before, but I never really got to experience it at
@@ -50,7 +52,8 @@ EJ, this feeling of fulfilment and achievement is one that grants me the
 ability to say that I have no regrets. I am grateful for each and every
 individual I have met here, and every opportunity I was given to live my
 Eunoian life to the fullest. Thank you EJ, for letting my dreams take flight!</p>
-<h6><strong>What would you like to say to the Class of 2023 and your juniors?</strong></h6>
+<p><em>What would you like to say to the Class of 2023 and your juniors?</em>
+</p>
 <p>To my batchmates, I want to say Congratulations! We made it! Two years
 ago, when we first entered Eunoia, some of us could never have pictured
 how the next two years of our lives would play out. Now that it’s over,
@@ -73,12 +76,14 @@ all “to the end”. EU-GOT THIS!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2023_Gisele.jpg">
 </div>
 <h3><strong>Gisele Lee</strong> (22-I1)</h3>
-<p>Gisele marvelously juggled leading the Hockey team into the National School
-Games as Vice-Captain with taking on a leading role at the much anticipated
-annual Literature Festival that brings texts to life. In doing so, she
-leaves Eunoia with a rich, fulfilling experience, and she shares some tips
-for how other Eunoians could do the same.</p>
-<h6><strong>Who or what were your great sources of motivation? How did you manage to balance your commitments?</strong></h6>
+<p>Gisele marvellously juggled leading the Hockey team into the National
+School Games as Vice-Captain with taking on a leading role at the much
+anticipated annual Literature Festival that brings texts to life. In doing
+so, she leaves Eunoia with a rich, fulfilling experience, and she shares
+some tips for how other Eunoians could do the same.</p>
+<p></p>
+<p><em>Who or what were your great sources of motivation? How did you manage to balance your commitments?</em>
+</p>
 <p>If you were to ask me how I managed to balance all my commitments, the
 short answer is that it's a matter of sacrifice. I’m not a perfect person
 and I definitely had a hard time balancing my time between Hockey training
@@ -101,7 +106,8 @@ for being one of the biggest pillars of support. She journeyed with me,
 watching me grow both as a person and as a leader. Thank you for pushing
 me to be my best, and to never be afraid to call out my areas of weaknesses
 to help better myself, I don’t know how I could have done it without you.</p>
-<h6><strong>What is one experience, feeling or idea from your time in Eunoia you would like to keep with you?</strong></h6>
+<p><em>What is one experience, feeling or idea from your time in Eunoia you would like to keep with you?</em>
+</p>
 <p>One thing that really stands out about EJ for me is the opportunities
 and avenues that the school has that allows students to express themselves
 and to just have fun. One memorable experience was when I impulsively signed
@@ -113,7 +119,8 @@ teaching me not to take JC life too seriously and spurred me to sign up
 for more school activities despite any second thoughts. This experience
 certainly shaped me into becoming a more daring person who is not afraid
 of trying new things, and expressing myself in new and creative ways.</p>
-<h6><strong>What would you like to say to the Class of 2023 and your juniors?</strong></h6>
+<p><em>What would you like to say to the Class of 2023 and your juniors?</em>
+</p>
 <p>Looking back on my time in EJ, I’m surprised that the things I miss most
 are the little, everyday things. Simple things like squishing into the
 lift in the morning to avoid being late, setting up the metal boards around
@@ -148,7 +155,9 @@ best in your future endeavours!</p>
 in the rink look effortless, and channeled this same determination, purpose,
 and passion into her academic and leadership endeavours in EJC. Here, she
 shares what kept her going and some words of encouragement.</p>
-<h6><strong>Who or what were your great sources of motivation? How did you manage to balance your commitments?</strong></h6>
+<p></p>
+<p><em>Who or what were your great sources of motivation? How did you manage to balance your commitments?</em>
+</p>
 <p>Eunoia has been an unforgettable journey but it definitely hasn’t been
 easy. My greatest source of motivation in my time in Eunoia was my very
 supportive friends and teachers who were always there to guide and encourage
@@ -161,7 +170,8 @@ Instead I looked forward to and was excited for training daily, and it
 has honestly been the biggest motivation of it all for me to work harder
 in school, or finish my assignments before I leave school so that I have
 a clear mind going into training!</p>
-<h6><strong>What is one experience, feeling or idea from your time in Eunoia you would like to keep with you?</strong></h6>
+<p><em>What is one experience, feeling or idea from your time in Eunoia you would like to keep with you?</em>
+</p>
 <p>Cosmos 2023 has got to be my greatest #whyej for sure and i am so very
 grateful for having the opportunity to be a part of such an amazing orientation
 exco, and also our amazing orientation team as a whole. Being able to work
@@ -173,7 +183,8 @@ eunoians’ faces illuminated by genuine smiles and infectious happiness
 is truly a moment I'll never forget. It was in that moment that I thought
 to myself: this exact moment is what made the past four months of hard
 work all worth it.</p>
-<h6><strong>What would you like to say to the Class of 2023 and your juniors?</strong></h6>
+<p><em>What would you like to say to the Class of 2023 and your juniors?</em>
+</p>
 <p>These two years are short, slow down and enjoy life a little before it
 all passes by in a flash. Create memories, unforgettable friendships, and
 be in the present!</p>
