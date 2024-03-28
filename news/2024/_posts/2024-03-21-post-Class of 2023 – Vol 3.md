@@ -15,7 +15,8 @@ variant: tiptap
 journey of resilience and growth provides inspiration and points to the
 power of gratitude.</p>
 <p></p>
-<h6><strong>What is one struggle that you faced, and how did you overcome it?</strong></h6>
+<p><em>What is one struggle that you faced, and how did you overcome it?</em>
+</p>
 <p>One struggle I faced consistently throughout my JC journey was my battle
 with anxiety. I have always been very hard on myself, striving to achieve
 stellar grades that could live up to my own expectations. In my own eyes,
@@ -35,7 +36,8 @@ studying for the day and it is time to rest; I would remind myself that
 I’m not defined by my grades; and I would seek out friends who can accept
 me for who I am. These were some self-care steps I practised to better
 manage my emotions as a worrywart.</p>
-<h6><strong>What is one experience, feeling or idea from your time in Eunoia you are grateful for?</strong></h6>
+<p><em>What is one experience, feeling or idea from your time in Eunoia you are grateful for?</em>
+</p>
 <h6>I would always keep with me a sense of appreciation and gratitude towards my EJ teachers and friends who had shown such love and care to me, especially during my lowest moments.</h6>
 <p>I am grateful that my EJ teachers care more about who I am than what I
 can achieve. My form teacher, Mr Ng Boon Hong, had never failed to reach
@@ -47,7 +49,8 @@ cared about my well-being. They did not judge me when I shared with them
 my personal struggles but respected me and stood up for me all the time.
 They were there to listen to my deepest worries and helped bear my burdens.</p>
 <p>The greatest lesson I took away from my time in Eunoia is gratitude.</p>
-<h6><strong>What would you like to say to the Class of 2023 and your juniors?</strong></h6>
+<p><em>What would you like to say to the Class of 2023 and your juniors?</em>
+</p>
 <p>To my fellow batchmates: all the best for your university endeavours and
 future career! May you treasure all the wonderful memories you have made
 in EJ and be able to apply the lessons you have learnt to whatever you
@@ -72,7 +75,8 @@ of the Student Council and also received the President’s Scout Award. He
 shares some of his highlights of his time in Eunoia and advice for current
 Eunoians.</p>
 <p></p>
-<h6><strong>Who were your great sources of motivation? How did you manage to balance your commitments?</strong></h6>
+<p><em>Who were your great sources of motivation? How did you manage to balance your commitments?</em>
+</p>
 <p>Without a doubt, the community of friends and family that I had in Eunoia
 played a big role in keeping me going. Everywhere I turned, be it in Council,
 class or Scouts, I had an incredibly supportive community that believed
@@ -87,7 +91,8 @@ was important to me. After that, putting in that time and effort into what
 I cared about while cutting back from things that were not as significant
 came more naturally. It truly is all about prioritising and learning how
 to say ‘No, thank you’!</p>
-<h6><strong>What is one experience, feeling or idea from your time in Eunoia you are grateful for?</strong></h6>
+<p><em>What is one experience, feeling or idea from your time in Eunoia you are grateful for?</em>
+</p>
 <p>I am definitely grateful for the autonomy that I was entrusted with as
 a leader. I came into Student Council expecting more rigid and formal operating
 procedures. When I realised how much our teachers trusted us and gave us
@@ -99,7 +104,8 @@ teachers stood by me all the time, supporting me to transform missteps
 into stepping stones towards achievements. I am thus thankful for the teachers
 who never gave up on me, who instead continued to have faith and genuinely
 cared for me every step of the way.</p>
-<h6><strong>What would you like to say to the Class of 2023 and your juniors?</strong></h6>
+<p><em>What would you like to say to the Class of 2023 and your juniors?</em>
+</p>
 <p>To my batchmates, as we all move to different stages of our lives, I hope
 that we will be able to look back and reflect on who we were when we first
 entered Eunoia, and regardless of our grades, we will be able to acknowledge
@@ -121,7 +127,8 @@ to have hope in a brighter future.</p>
 <p>Lingyun throughout her time in Eunoia showed resilience and determination,
 positively influencing her peers and demonstrating a deep passion for Art.</p>
 <p></p>
-<h6><strong>What is one struggle that you faced, and how did you overcome it?</strong></h6>
+<p><em>What is one struggle that you faced, and how did you overcome it?</em>
+</p>
 <p>One struggle that ended up heavily impacting my JC life is my ADHD. I
 was diagnosed with ADHD at the end of my first year of JC in 2021. It came
 as a surprise to a lot of people as I have always done quite well in school,
@@ -144,7 +151,8 @@ prioritised my mental health more.</p>
 personal growth on my end, as well as a greater understanding and acceptance
 of myself. I even made it the focus of my A level final project for Art,
 in the hopes of sharing my experience with others.</p>
-<h6><strong>What is one experience, feeling or idea from your time in Eunoia you would like to keep with you?</strong></h6>
+<p><em>What is one experience, feeling or idea from your time in Eunoia you would like to keep with you?</em>
+</p>
 <p>I think one thing I would like to keep from my time in EJ are the relationships
 I made with my peers from both my first and second cohort, my juniors and
 my teachers.&nbsp;</p>
@@ -162,7 +170,8 @@ who encouraged me to put my experiences into my art coursework and share
 it as a part of me to be proud of and accept. I would also like to thank
 my co-form teacher for checking up on me to see how I was doing and offering
 help when I needed it.</p>
-<h6><strong>What would you like to say to the Class of 2023 and your juniors?</strong></h6>
+<p><em>What would you like to say to the Class of 2023 and your juniors?</em>
+</p>
 <p>To the Class of 2023: We made it! I’m so proud of us for pushing through
 these last few years and I wish us all the best for the future.</p>
 <p>To my juniors: JC life will be stressful, and the jump from secondary
