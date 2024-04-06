@@ -234,7 +234,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Evelyn Soh</strong> 
+<p><strong>Ms Evelyn Yong</strong> 
 <br>Teacher (Chemistry)</p>
 </td>
 </tr>
@@ -333,7 +333,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Helen Ng</strong>
+<p><strong>Ms Helen Ng</strong> 
 <br>Teacher (Physics)</p>
 </td>
 </tr>
