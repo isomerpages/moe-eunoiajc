@@ -98,43 +98,50 @@ Additional preparation of documents for the respective categories are required a
 
 (2) For **Performing Arts CCA** and **Music Elective Programme (MEP)** applicants, please provide the link to a Google Drive folder (set to public access) in the DSA application form, containing the following:
 
-**Performing Arts CCA:**
+**Performing Arts CCA:**<br>
+**a.** SYF certificate(s) <br>
+**b.** A video recording of solo or small group/ensemble or dance performance that best represents applicant's current standard (see video requirements below) <br>
+**c.** Certificate(s) of achievement/awards in international/regional/national competitions (if any) <br>
+**d.** Other qualification certificate(s) for solo instrument (including voice), music theory or dance (e.g. ABRSM) (if any) 
 
-a. SYF certificate(s) 
-b. A video recording of solo or small group/ensemble or dance performance that best represents applicant's current standard (see video requirements below) 
-c. Certificate(s) of achievement/awards in international/regional/national competitions (if any) 
-d. Other qualification certificate(s) for solo instrument (including voice), music theory or dance (e.g. ABRSM) (if any) 
+**Music Elective Programme (MEP):**<br>
+**a.** A video recording of two contrasting pieces with a total duration of 5-10 minutes (see video requirements below) <br>
+**b.** A composition or arrangement with a duration of 2-5 minutes - For acoustic composition/arrangement, submit a score (PDF format) with the exported demo audio track (either in MP3 or WAV format) - For composition/arrangement created in Digital Audio Workstation (DAW), submit only the exported audio track (either in MP3 or WAV format) 
 
-Music Elective Programme (MEP): 
-a. A video recording of two contrasting pieces with a total duration of 5-10 minutes (see video requirements below) 
-b. A composition or arrangement with a duration of 2-5 minutes - For acoustic composition/arrangement, submit a score (PDF format) with the exported demo audio track (either in MP3 or WAV format) - For composition/arrangement created in Digital Audio Workstation (DAW), submit only the exported audio track (either in MP3 or WAV format) 
-Video Requirements for application: 
-a.  The video must be recorded within the last two years. 
-b.  Applicant’s face, hands and full body (in the case of dance) must be visible in the shot. 
-c. No additional editing, audio enhancement or visual effect are allowed.
-(3) For Bilingualism, Humanities Programme and Leadership applicants, please provide the link to a Google Drive folder (set to public access) in the DSA application form, containing the following: 
-Bilingualism: 
-a.  Two samples of writing: one in English; one in Chinese - school essays can be included
-b.  Submit a 2-min video in mandarin on how I can contribute as a DSA Bilingualism student.
-Humanities Programme: 
-a.  Two samples of original written work: school essays may be included.
-b.  Critical thinking essay: keep within 600 words.
-EITHER 
-Based on your own experiences, why are the humanities important for you and for society, and what have you done so far to spark interest in the humanities among those around you?
-OR
+**Video Requirements for application:**<br>
+**a.**  The video must be recorded within the last two years. <br>
+**b.**  Applicant’s face, hands and full body (in the case of dance) must be visible in the shot. <br>
+**c.** No additional editing, audio enhancement or visual effect are allowed.
+
+(3) For **Bilingualism, Humanities Programme and Leadership** applicants, please provide the link to a Google Drive folder (set to public access) in the DSA application form, containing the following: 
+
+**Bilingualism:**<br> 
+**a.**  Two samples of writing: one in English; one in Chinese - school essays can be included <br>
+**b.**  Submit a 2-min video in mandarin on how I can contribute as a DSA Bilingualism student.
+
+
+**Humanities Programme:**<br>
+**a.**  Two samples of original written work: school essays may be included.<br>
+**b.**  Critical thinking essay: keep within 600 words.<br>
+<br>
+EITHER<br><br> 
+Based on your own experiences, why are the humanities important for you and for society, and what have you done so far to spark interest in the humanities among those around you?<br><br>
+OR<br><br>
 What is your own insight into a recent and significant local or international event that you feel shows the enduring value of the humanities?
 
+**Leadership:**<br>
+**a.**  2.5 minutes video containing a self-introduction and what leadership means to you, or how you would like to lead at EJC.  - Submit Google Drive link via DSA application form.<br>
+**b.**  Submission of this [form](https://forms.moe.edu.sg/forms/vryYbM) by a teacher referee. - Failure to do so will nullify your application.
 
-(2) For applicants who are applying for Leadership, MEP, Bilingualism and Humanities Programme, please **ZIP** up all the requested documents and email [EunoiaDSA@ejc.edu.sg](mailto:EunoiaDSA@ejc.edu.sg) with your Name, School and Programme you are applying for for clearly stated in the email Subject line. E.g. Eu Know Ya_Eunoia Secondary School_LeadershipDSA
 
-Shortlisted applicants will be notified by email/phone for Trials/Selection at a later given date and time. 
-Applicants who are not shortlisted will receive an email notification by **29 July 2023**.
+(4) Shortlisted applicants will be notified by email/phone for Trials/Selection at a later given date and time. 
+Applicants who are not shortlisted will receive an email notification by **2 August 2024**.
 
-Applicants who have cleared the Trials/Selection Exercise will be required to attend a Panel Interview with the College Admissions Committee comprising the Dean of Eunoia Junior College. Candidates will be notified by phone.
+(5) Applicants who have cleared the Trials/Selection Exercise will be required to attend a Panel Interview with the College Admissions Committee comprising the Dean of Eunoia Junior College. Candidates will be notified by phone.
 
-Successful applicants will receive a Letter of Offer latest by **10 August 2023**. Applicants who have been placed on the waiting list will be notified via phone. Applications who are not offered a place in the DSA-JC exercise will be notified via email.
+(6) Successful applicants will receive a Letter of Offer latest by **11 August 2024**. Applicants who have been placed on the waiting list will be notified via phone. Applications who are not offered a place in the DSA-JC exercise will be notified via email.
 
-Successful applicants* are required to accept our offer by **15 August 2023, 3pm**. Applicants on the waiting list will be informed of their final application outcome by **15 August 2023**.
+(7) Successful applicants* are required to accept our offer by **14 August 2024, 3pm**. Applicants on the waiting list will be informed of their final application outcome by **14 August 2024**.
 
 *Successful applicants are guaranteed a place in the college, provided they meet eligibility criteria for admission to a JC after the release of their Singapore-Cambridge GCE O-Level results. 
 - Successful DSA-JC students will NOT be allowed to take part in the Joint Admissions Exercise as places have already been reserved for them in the DSA-JC schools.
