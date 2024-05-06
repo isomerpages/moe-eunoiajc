@@ -2,11 +2,12 @@
 title: Direct School Admission
 permalink: /admissions/dsa/
 description: ""
+variant: markdown
 ---
 The Direct School Admission (DSA-JC) provides students with the opportunity to seek admission to a Junior College (JC), based on a diverse range of academic and non-academic achievements and talents that they can demonstrate beyond the GCE ‘O’ Level examination. It is an annual exercise that takes place from May to August.
 
 
-The 2023 Direct School Admission (DSA-JC) exercise opens on 3 May 2023. Interested students should fill in the [online application form](https://form.gov.sg/6451f961c7e8e30012db26cf) which must reach us by 25 June 2023*.
+The 2024 Direct School Admission (DSA-JC) exercise opens on 7 May 2024. Interested students should fill in the [online application form](https://form.gov.sg/6451f961c7e8e30012db26cf) which must reach us by 24 June 2024*.
 
 **For all applicants to note:**
 
