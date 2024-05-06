@@ -25,7 +25,7 @@ The 2024 Direct School Admission (DSA-JC) exercise for admission into JC1 in 202
 | Track &amp; Field (Boys &amp; Girls)    |      |    |
 | Volleyball (Boys &amp; Girls)    |      |     |
 
-Interested students should fill in the [online application form](https://form.gov.sg/6451f961c7e8e30012db26cf) and it must reach us by 24 June 2024.
+Interested students should fill in the [online application form](https://form.gov.sg/66330909a52421f608014f27) and it must reach us by 24 June 2024.
 
 #### **Eligibility**
 
@@ -77,7 +77,7 @@ Applicants who successfully cleared the Trials/ Selection Exercise will be requi
 Applicants must be current Secondary 4 students in local schools and confident of handling the rigour of the A-Level Curriculum at Eunoia Junior College. They must show passion in their area of application, as well as knowledge of the requirements of a JC Education. **They should also be aware of the subject combinations that the school offers and if it is suitable for them.**
 
 **Application Process**<br>
-Interested students should fill in the [online application form](https://form.gov.sg/6451f961c7e8e30012db26cf) which must reach us by 24 June 2024.
+Interested students should fill in the [online application form](https://form.gov.sg/66330909a52421f608014f27) which must reach us by 24 June 2024.
 Additional preparation of documents for the respective categories are required and **you are to provide the link to a Google Drive folder (set to public access) in the DSA application form:**
 
 <br>
@@ -94,7 +94,7 @@ Additional preparation of documents for the respective categories are required a
 
 **For all applicants to note:**
 
-(1)  Fill in the [online DSA Application form](https://form.gov.sg/6451f961c7e8e30012db26cf) 
+(1)  Fill in the [online DSA Application form](https://form.gov.sg/66330909a52421f608014f27) 
 
 (2) For **Performing Arts CCA** and **Music Elective Programme (MEP)** applicants, please provide the link to a Google Drive folder (set to public access) in the DSA application form, containing the following:
 
