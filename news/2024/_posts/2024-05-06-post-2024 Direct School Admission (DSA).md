@@ -69,16 +69,16 @@ Application will go through two selection phases.
 
 Applicants who successfully cleared the Shortlisting phase will be required to attend a physical trial/selection exercise. You will be contacted by the CCA teacher in charge of the category that you are applying for. Interviews will be conducted in June/July 2024 and exact details will be emailed/SMSed to successful applicants.
 
-##### **Phase 3: Panel e-Interview / Physical Interview with the College Admissions Committee**
+##### **Phase 3: Physical Interview with the College Admissions Committee**
 
 Applicants who successfully cleared the Trials/ Selection Exercise will be required to attend a final Interview with the College Admissions Committee comprising of the Deans/Heads of Department of Eunoia Junior College to assess their suitability and readiness to take their A-Levels at Eunoia Junior College.
 
 **Admission Criteria**<br>
-Applicants must be current Secondary 4 students in local schools and confident of handling the rigour of the A-Level Curriculum at Eunoia Junior College. They must show passion in their area of application, as well as knowledge of the requirements of a JC Education. They should also be aware of the subject combinations that the school offers and if it is suitable for them.
+Applicants must be current Secondary 4 students in local schools and confident of handling the rigour of the A-Level Curriculum at Eunoia Junior College. They must show passion in their area of application, as well as knowledge of the requirements of a JC Education. **They should also be aware of the subject combinations that the school offers and if it is suitable for them.**
 
 **Application Process**<br>
-Interested students should fill in the [online application form](https://form.gov.sg/6451f961c7e8e30012db26cf) which must reach us by 25 June 2023.
-Additional preparation for the respective categories are required and the requested documents should be sent to [EunoiaDSA@ejc.edu.sg](mailto:EunoiaDSA@ejc.edu.sg) with your Name, School and Programme you are applying for clearly reflected in your email Subject line:
+Interested students should fill in the [online application form](https://form.gov.sg/6451f961c7e8e30012db26cf) which must reach us by 24 June 2024.
+Additional preparation of documents for the respective categories are required and **you are to provide the link to a Google Drive folder (set to public access) in the DSA application form:**
 
 <br>
 
