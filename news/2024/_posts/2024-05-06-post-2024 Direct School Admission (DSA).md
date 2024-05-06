@@ -147,4 +147,4 @@ Applicants who are not shortlisted will receive an email notification by **2 Aug
 
 For more information, please refer to the [Ministry of Education DSA-JC website](https://www.moe.gov.sg/post-secondary/admissions/dsa).
 
-For further enquiries on the EJC DSA-JC exercise, please email EunoiaDSA@ejc.edu.sg.
+For further enquiries on the EJC DSA-JC exercise, please email [EunoiaDSA@ejc.edu.sg](mailto:EunoiaDSA@ejc.edu.sg)
