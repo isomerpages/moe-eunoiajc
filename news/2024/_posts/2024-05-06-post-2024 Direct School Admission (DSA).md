@@ -61,13 +61,13 @@ Application will go through two selection phases.
 
 **College Vision**
 
-- Leader with Courage: one with the moral courage to do what is right, the confidence to speak up for others, the integrity to do right by the community
-- Youth with Purpose: one with the passion and the conviction to lead in various capacity (in social causes, student leadership bodies, school population and the community)
-- Thinker with Heart: one with the heart to serve by inspiring and influencing others with initiative, dedication and empathy
+- **Leader with Courage**: one with the moral courage to do what is right, the confidence to speak up for others, the integrity to do right by the community
+- **Youth with Purpose**: one with the passion and the conviction to lead in various capacity (in social causes, student leadership bodies, school population and the community)
+- **Thinker with Heart**: one with the heart to serve by inspiring and influencing others with initiative, dedication and empathy
 
 ##### **Phase 2: Physical Trials / Selection Exercise**
 
-Applicants who successfully cleared the Shortlisting phase will be required to attend a physical trial/selection exercise. You will be contacted by the CCA teacher in charge of the category that you are applying for. Interviews will be conducted in June/July 2023, exact details will be emailed/SMSed to successful applicants.
+Applicants who successfully cleared the Shortlisting phase will be required to attend a physical trial/selection exercise. You will be contacted by the CCA teacher in charge of the category that you are applying for. Interviews will be conducted in June/July 2024 and exact details will be emailed/SMSed to successful applicants.
 
 ##### **Phase 3: Panel e-Interview / Physical Interview with the College Admissions Committee**
 
