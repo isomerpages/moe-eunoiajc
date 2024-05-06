@@ -96,6 +96,35 @@ Additional preparation of documents for the respective categories are required a
 
 (1)  Fill in the [online DSA Application form](https://form.gov.sg/6451f961c7e8e30012db26cf) 
 
+(2) For **Performing Arts CCA** and **Music Elective Programme (MEP)** applicants, please provide the link to a Google Drive folder (set to public access) in the DSA application form, containing the following:
+
+**Performing Arts CCA:**
+
+a. SYF certificate(s) 
+b. A video recording of solo or small group/ensemble or dance performance that best represents applicant's current standard (see video requirements below) 
+c. Certificate(s) of achievement/awards in international/regional/national competitions (if any) 
+d. Other qualification certificate(s) for solo instrument (including voice), music theory or dance (e.g. ABRSM) (if any) 
+
+Music Elective Programme (MEP): 
+a. A video recording of two contrasting pieces with a total duration of 5-10 minutes (see video requirements below) 
+b. A composition or arrangement with a duration of 2-5 minutes - For acoustic composition/arrangement, submit a score (PDF format) with the exported demo audio track (either in MP3 or WAV format) - For composition/arrangement created in Digital Audio Workstation (DAW), submit only the exported audio track (either in MP3 or WAV format) 
+Video Requirements for application: 
+a.  The video must be recorded within the last two years. 
+b.  Applicant’s face, hands and full body (in the case of dance) must be visible in the shot. 
+c. No additional editing, audio enhancement or visual effect are allowed.
+(3) For Bilingualism, Humanities Programme and Leadership applicants, please provide the link to a Google Drive folder (set to public access) in the DSA application form, containing the following: 
+Bilingualism: 
+a.  Two samples of writing: one in English; one in Chinese - school essays can be included
+b.  Submit a 2-min video in mandarin on how I can contribute as a DSA Bilingualism student.
+Humanities Programme: 
+a.  Two samples of original written work: school essays may be included.
+b.  Critical thinking essay: keep within 600 words.
+EITHER 
+Based on your own experiences, why are the humanities important for you and for society, and what have you done so far to spark interest in the humanities among those around you?
+OR
+What is your own insight into a recent and significant local or international event that you feel shows the enduring value of the humanities?
+
+
 (2) For applicants who are applying for Leadership, MEP, Bilingualism and Humanities Programme, please **ZIP** up all the requested documents and email [EunoiaDSA@ejc.edu.sg](mailto:EunoiaDSA@ejc.edu.sg) with your Name, School and Programme you are applying for for clearly stated in the email Subject line. E.g. Eu Know Ya_Eunoia Secondary School_LeadershipDSA
 
 Shortlisted applicants will be notified by email/phone for Trials/Selection at a later given date and time. 
