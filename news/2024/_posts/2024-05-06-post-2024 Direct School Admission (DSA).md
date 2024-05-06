@@ -123,15 +123,12 @@ Additional preparation of documents for the respective categories are required a
 **Humanities Programme:**<br>
 **a.**  Two samples of original written work: school essays may be included.<br>
 **b.**  Critical thinking essay: keep within 600 words.<br>
-<br>
-EITHER<br><br> 
-Based on your own experiences, why are the humanities important for you and for society, and what have you done so far to spark interest in the humanities among those around you?<br><br>
-OR<br><br>
-What is your own insight into a recent and significant local or international event that you feel shows the enduring value of the humanities?
+EITHER<br> Based on your own experiences, why are the humanities important for you and for society, and what have you done so far to spark interest in the humanities among those around you?<br>
+OR<br>What is your own insight into a recent and significant local or international event that you feel shows the enduring value of the humanities?
 
 **Leadership:**<br>
 **a.**  2.5 minutes video containing a self-introduction and what leadership means to you, or how you would like to lead at EJC.  - Submit Google Drive link via DSA application form.<br>
-**b.**  Submission of this [form](https://forms.moe.edu.sg/forms/vryYbM) by a teacher referee. - Failure to do so will nullify your application.
+**b.**  Submission of this [form](https://forms.moe.edu.sg/forms/vryYbM) by a teacher referee. Failure to do so will nullify your application.
 
 
 (4) Shortlisted applicants will be notified by email/phone for Trials/Selection at a later given date and time. 
