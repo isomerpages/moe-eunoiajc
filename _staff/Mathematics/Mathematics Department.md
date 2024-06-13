@@ -200,7 +200,9 @@ Head (Mathematics)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Staff-Profile.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/about/staff/maths/mr-ong-jun-jie" rel="noopener noreferrer nofollow" target="_blank">Mr Ong Jun Jie</a></strong>
