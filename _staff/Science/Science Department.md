@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Science
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -257,6 +261,17 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/about/staff/science/mr-justin-lim/" rel="noopener noreferrer nofollow" target="_blank">Mr Justin Lim</a></strong> 
+<br>Teacher (Chemistry)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Staff-Profile.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/science/ms-kan-ximin/" rel="noopener noreferrer nofollow" target="_blank">Ms Kan Ximin</a></strong>
 <br>Teacher (Chemistry)</p>
 </td>
 </tr>
