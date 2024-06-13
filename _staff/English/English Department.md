@@ -5,7 +5,11 @@ description: ""
 third_nav_title: English
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -164,6 +168,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Staff-Profile.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/english/ms-dionne-menez" rel="noopener noreferrer nofollow" target="_blank">Ms Dionne Menez</a></strong>
+<br>Teacher (General Paper)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Joshua-Ng_s.jpg">
 </div>
 </td>
@@ -191,6 +206,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/about/staff/english/ms-karol-ann-tan/" rel="noopener noreferrer nofollow" target="_blank">Ms Karol Ann Tan</a></strong> 
+<br>Teacher (General Paper)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Staff-Profile.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/english/mr-kang-you-jin" rel="noopener noreferrer nofollow" target="_blank">Mr Kang You-Jin</a></strong>
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
