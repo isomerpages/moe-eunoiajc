@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Mathematics
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -190,7 +194,16 @@ Head (Mathematics)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/mrs-ng-phoon-lai-yong/" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng-Phoon Lai Yong</a></strong> 
+<p><strong><a href="/about/staff/maths/mrs-ng-phoon-lai-yong/" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng-Phoon Lai Yong</a></strong> 
+<br>Teacher (Mathematics)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/maths/mr-ong-jun-jie" rel="noopener noreferrer nofollow" target="_blank">Mr Ong Jun Jie</a></strong>
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
