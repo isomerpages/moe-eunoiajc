@@ -4,7 +4,11 @@ permalink: /about/staff/eas/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -95,12 +99,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/eas-cheongsiewkheun.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Cheong Siew Kheun</strong> 
+<p><strong>Mr A Rajagopal</strong>
 <br>Operations Support Officer</p>
 </td>
 </tr>
@@ -123,6 +125,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Sim Puay Hee</strong> 
+<br>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Siva Sanga s/o Sundarum</strong>
 <br>Operations Support Officer</p>
 </td>
 </tr>
@@ -200,7 +211,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Koh Hui Min</strong> 
-<br>Technical Support Officer (SLT)</p>
+<br>STEM Instructor (Laboratory)</p>
 </td>
 </tr>
 <tr>
@@ -211,7 +222,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Iffah Suraya Binte Salleh</strong> 
-<br>Technical Support Officer (SLT)</p>
+<br>STEM Instructor (Laboratory)</p>
 </td>
 </tr>
 <tr>
@@ -222,7 +233,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Miza Hamizah Binte Roslan</strong> 
-<br>Technical&nbsp;Support Officer (SLT)</p>
+<br>STEM Instructor (Laboratory)</p>
 </td>
 </tr>
 <tr>
@@ -233,7 +244,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Tan Lay Hwa</strong> 
-<br>Technical&nbsp;Support Officer (SLT)</p>
+<br>STEM Instructor (Laboratory)</p>
 </td>
 </tr>
 <tr>
