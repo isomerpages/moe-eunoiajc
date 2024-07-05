@@ -99,7 +99,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff/EAS_Rajagopal.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr A Rajagopal</strong>
@@ -130,7 +132,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff/EAS_Siva.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Siva Sanga s/o Sundarum</strong>
@@ -257,6 +261,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
