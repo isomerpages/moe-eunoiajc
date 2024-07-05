@@ -205,7 +205,7 @@ Head (Mathematics)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/maths/mr-ong-jun-jie" rel="noopener noreferrer nofollow" target="_blank">Mr Ong Jun Jie</a></strong>
+<p><strong><a href="/about/staff/maths/mr-ong-junjie" rel="noopener noreferrer nofollow" target="_blank">Mr Ong Junjie</a></strong>
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
