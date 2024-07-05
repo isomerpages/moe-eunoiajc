@@ -159,15 +159,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/about/staff/econs/mr-mike-tan" rel="noopener noreferrer nofollow" target="_blank">Mr Mike Tan</a></strong>
-</p>
-<p>Teacher (Economics)</p>
+<br>Teacher (Economics)</p>
 </td>
 </tr>
 <tr>
