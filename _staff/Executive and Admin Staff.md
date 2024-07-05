@@ -204,7 +204,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Francis Tan</strong> 
-<br>Technical Support Officer (SLT)</p>
+<br>STEM Instructor (Laboratory)</p>
 </td>
 </tr>
 <tr>
