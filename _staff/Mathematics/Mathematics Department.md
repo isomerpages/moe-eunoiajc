@@ -201,7 +201,7 @@ Head (Mathematics)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Staff-Profile.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Maths_Ong_Junjie.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">

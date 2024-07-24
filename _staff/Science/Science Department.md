@@ -267,7 +267,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Staff-Profile.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Kan_Ximin.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
