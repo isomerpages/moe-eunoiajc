@@ -46,9 +46,6 @@ Winners where everyone matters.</p>
 <br>U-ZU-RI U-U-ZURI AH WOO (x2)
 <br>GOOO UZURI!</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2024_Uzuri_for_website.jpg">
-</div>
 <h4><strong>Committee</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
