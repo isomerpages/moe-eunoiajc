@@ -106,8 +106,8 @@ the skies!</p>
 <br>Yeo Yu Chen (19-A3)
 <br>Lim Tian Le (20-A2)
 <br>Chia Shao Jun (21-A5)
-<br>Phoon Jing Bhin (22-A4)</p>
-<p>Anya Ng Rei-Tong (23-A1)</p>
+<br>Phoon Jing Bhin (22-A4)
+<br>Anya Ng Rei-Tong (23-A1)</p>
 <p></p>
 <p><strong>PAST HOUSE MASTERS</strong>
 <br>Ms Bernice Yeo
@@ -130,8 +130,8 @@ the skies!</p>
 <br>Shanice Yeo Kai Ting (21-A1)
 <br>Avril Lim Si-Ying (21-A1)
 <br>Denzel Tan (22-A3)
-<br>Eleanor Cheak Yu Xin (22-A5)</p>
-<p>Esther Loh Xin Qi (23-A1)
+<br>Eleanor Cheak Yu Xin (22-A5)
+<br>Esther Loh Xin Qi (23-A1)
 <br>Jung Sumin (23-A2)</p>
 <p></p>
 </td>
