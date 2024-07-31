@@ -43,9 +43,6 @@ always got your back!</p>
 <br>ISAMI!
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2024_Isami_for_website.jpg">
-</div>
 <h4><strong>Committee</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -62,11 +59,11 @@ always got your back!</p>
 <br>Ms Elizabeth Chin
 <br>
 <br><strong>HOUSE CAPTAIN</strong> 
-<br>Choi Jaewon
+<br>Choi Jaewon (24-I2)
 <br>
 <br><strong>HOUSE VICE-CAPTAINS</strong> 
-<br>Claire Chew Le Shuen
-<br>Shawn Liu Chen Yu</p>
+<br>Claire Chew Le Shuen (24-I3)
+<br>Shawn Liu Chen Yu (24-I5)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>HOUSE REPRESENTATIVES</strong> 
