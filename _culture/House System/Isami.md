@@ -43,6 +43,9 @@ always got your back!</p>
 <br>ISAMI!
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2024_Isami_for_website.jpg">
+</div>
 <h4><strong>Committee</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
