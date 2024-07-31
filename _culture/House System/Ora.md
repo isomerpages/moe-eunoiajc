@@ -42,13 +42,7 @@ in Eunoia. Unity! One with the Herd!</p>
 <br>Ora ohana Ora ohana Ora ohana Ora ohana
 <br>KAMATE KAMATE HOO
 <br>KAMATE KAMATE HAA</p>
-<p>
-<br>
-</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Ora_2024.jpg">
-</div>
 <h4><strong>Committee</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
