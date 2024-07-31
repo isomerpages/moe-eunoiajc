@@ -76,17 +76,17 @@ the skies!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>HOUSE REPRESENTATIVES</strong>
-<br>Caroline Tan Siew Zhen (24-A1)</p>
-<p>Lim Jun Cheng Charlton (24-A1)</p>
-<p>Julianne Yeo Minn Yu (24-A2)</p>
-<p>Lim En Qi Hannah (24-A2)</p>
-<p>Amara Khin (24-A3)</p>
-<p>Isabelle Loh Yu Zhen (24-A3)</p>
-<p>Stephanie Poh Xin Hui (24-A4)</p>
-<p>Gisele Soh Wen Xuan (24-A4)</p>
-<p>Ang Ye Han (24-A5)</p>
-<p>Shafika Gurung (24-A5)</p>
-<p>Rebecca Kui (24-A6)
+<br>Caroline Tan Siew Zhen (24-A1)
+<br>Lim Jun Cheng Charlton (24-A1)
+<br>Julianne Yeo Minn Yu (24-A2)
+<br>Lim En Qi Hannah (24-A2)
+<br>Amara Khin (24-A3)
+<br>Isabelle Loh Yu Zhen (24-A3)
+<br>Stephanie Poh Xin Hui (24-A4)
+<br>Gisele Soh Wen Xuan (24-A4)
+<br>Ang Ye Han (24-A5)
+<br>Shafika Gurung (24-A5)
+<br>Rebecca Kui (24-A6)
 <br>Wong Xi Lei Celeste (24-A6)</p>
 </td>
 </tr>
