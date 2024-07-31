@@ -80,8 +80,8 @@ in Eunoia. Unity! One with the Herd!</p>
 <br>Ariel Grace Cheah Po Yi (24-O3)
 <br>Chloe Lim Chin Ngee (24-O3)
 <br>Low Hsuen Rui Joshua (24-O4)
-<br>Marven Ong Shao Ying (24-O4)</p>
-<p>Chloe Sin Kaye (24-O5)
+<br>Marven Ong Shao Ying (24-O4)
+<br>Chloe Sin Kaye (24-O5)
 <br>Thant Sithu Aung (24-O5)
 <br>Jenelle Tan See Suen (24-O6)
 <br>Tiu Jia Dong (24-O6)</p>
