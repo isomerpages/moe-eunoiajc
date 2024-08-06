@@ -44,10 +44,14 @@ always got your back!</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Isami_2024_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2024_Isami_for_website.jpg">
 </div>
 <h4><strong>Committee</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -58,28 +62,26 @@ always got your back!</p>
 <br>Ms Elizabeth Chin
 <br>
 <br><strong>HOUSE CAPTAIN</strong> 
-<br>Nathan Neo (23-I4)
+<br>Choi Jaewon (24-I2)
 <br>
 <br><strong>HOUSE VICE-CAPTAINS</strong> 
-<br>Alina Sudarman (23-I6)
-<br>Charlotte Koh Hui Ting (23-I3)
-<br>
-</p>
+<br>Claire Chew Le Shuen (24-I3)
+<br>Shawn Liu Chen Yu (24-I5)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>HOUSE REPRESENTATIVES</strong> 
-<br>Donovan Tng (23-I1)
-<br>Law Jing Xuan Jermaine (23-I1)
-<br>Reann Oh Xin Yu (23-I2)
-<br>Chia Chern Yee (23-I2)
-<br>Ng Xuan Xin Jermaine (23-I3)
-<br>Siar Xin En (23-I3)
-<br>Anton Yan Ng Johansson (23-I4)
-<br>Toh Jing Wen Venice (23-I4)
-<br>Chai Yong An (23-I5)
-<br>Chen Jun Xi Thaddeus (23-I5)
-<br>Low Hao Ren Lucas (23-I6)
-<br>Lee Shi Qi, Valencia (23-I6)
+<br>Emili Fam Min-En (24-I1)
+<br>Izaac Tse Tang Ue (24-I1)
+<br>Sarah Koh (24-I2)
+<br>Shwetha Ravi (24-I2)
+<br>Lee Ler En Cherelle (24-I3)
+<br>Ong Yu Tong Hailey (24-I3)
+<br>Risdon Toh Zen Yeow (24-I4)
+<br>Chloe Lily Impens (24-I4)
+<br>Jayden Lim Seng Ann (24-I5)
+<br>Looi Yan Ning Samantha (24-I5)
+<br>Chong Min Rei (24-I6)
+<br>Sherlyn Tan (24-i6)
 <br>
 </p>
 </td>
@@ -87,7 +89,11 @@ always got your back!</p>
 </tbody>
 </table>
 <h4><strong>History</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -97,7 +103,8 @@ always got your back!</p>
 <br>Julia Ng (19-I3)
 <br>Andre Koh (20-I5)
 <br>Clarianne Effendi (21-I6)
-<br>Ng Xuan Jie (22-I2)</p>
+<br>Ng Xuan Jie (22-I2)
+<br>Nathan Neo (23-I4)</p>
 <p></p>
 <p><strong>PAST HOUSE MASTERS</strong> 
 <br>Mr Chuah Jun Jie
@@ -122,7 +129,9 @@ always got your back!</p>
 <br>Kaslyn Neo Kai Xin (21-I2)
 <br>Lee Xin Ning (21-I4)
 <br>Clayton Rokson Lau (22-I4)
-<br>Fung Ho Yeung Paxson (22-I5)</p>
+<br>Fung Ho Yeung Paxson (22-I5)
+<br>Alina Sudarman (23-I6)
+<br>Charlotte Koh Hui Ting (23-I3)</p>
 </td>
 </tr>
 </tbody>
@@ -130,7 +139,14 @@ always got your back!</p>
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">

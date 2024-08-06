@@ -47,10 +47,14 @@ Winners where everyone matters.</p>
 <br>GOOO UZURI!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Uzuri_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2024_Uzuri_for_website.jpg">
 </div>
 <h4><strong>Committee</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -61,32 +65,36 @@ Winners where everyone matters.</p>
 <br>Mr Alex Teo
 <br>
 <br><strong>HOUSE CAPTAIN</strong>
-<br>Caleb Seow (23-U6)
+<br>Dominic Tang Chin Wai (24-U2)
 <br>
 <br><strong>HOUSE VICE-CAPTAINS</strong>
-<br>Kate Tan Yin Xi (23-U1)
-<br>Natasha Tan Say Jee (23-U4)</p>
+<br>Yang Xin Tong (24-U6)
+<br>Angel Lim Yu Xin (24-U6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>HOUSE REPRESENTATIVES</strong>
-<br>Phang Jing Xi Chloe (23-U1)
-<br>Katriel Lee Xuan (23-U1)
-<br>Mai Phuong Hoang Nguyen (23-U2)
-<br>Wong Yi Jian (23-U2)
-<br>Titus Tan E-jay (23-U3)
-<br>Kaiser Tan Kai Zhe (23-U3)
-<br>Anliora Leong Jiayun (23-U4)
-<br>Richelle Lee Ke Xin (23-U4)
-<br>Lee Qin En Bryan (23-U5)
-<br>Phang Wei Yan Jolyn (23-U5)
-<br>Chua Le Ning Kellene (23-U6)
-<br>Teo Zhe Wei, Zen (23-U6)</p>
+<br>Josh Ashton Chu (24-U1)
+<br>Bethany Grace Eng (24-U1)
+<br>Tan Shi Yi Ameryllis (24-U2)
+<br>Wong Kai Li Kylie (24-U2)
+<br>Heather Chia Rui Ying (24-U3)
+<br>Evan Quek Jun Zhi (24-U3)
+<br>Joshua Lui Cheng Ze (24-U4)
+<br>Xu Kaibin (24-U4)
+<br>Ananya Kiran (24-U5)
+<br>Leo Yu Jie, Javin (24-U5)
+<br>Tan Hui Xin Chloe (24-U6)
+<br>Arunachalam Ananya (24-U6)</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4><strong>History</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -97,6 +105,7 @@ Winners where everyone matters.</p>
 <br>Alden Ng (20-U4)
 <br>Isaac Chia Le (21-U6)
 <br>Jazelle Neo Jiaqi (22-U1)
+<br>Caleb Seow (23-U6)
 <br>
 </p>
 <p><strong>PAST HOUSE MASTERS</strong>
@@ -123,7 +132,9 @@ Winners where everyone matters.</p>
 <br>Lydia Yong Yen-Pin (21-U3)
 <br>Bernice Sim Kai Tong (21-U5)
 <br>Joy Wong Xinyi (22-U1)
-<br>Helena Grace Ding Xing You (22-U3)</p>
+<br>Helena Grace Ding Xing You (22-U3)
+<br>Kate Tan Yin Xi (23-U1)
+<br>Natasha Tan Say Jee (23-U4)</p>
 </td>
 </tr>
 </tbody>
@@ -131,7 +142,14 @@ Winners where everyone matters.</p>
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">

@@ -44,10 +44,14 @@ every Eder knight will come through to fulfil our calling.</p>
 <br>Eder out!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Eder_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2024_Eder_for_website.jpg">
 </div>
 <h4><strong>Committee</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -58,28 +62,28 @@ every Eder knight will come through to fulfil our calling.</p>
 <br>Ms Clarice Chan
 <br>
 <br><strong>HOUSE CAPTAIN</strong> 
-<br>Tay Jun Yong (23-E5)
+<br>Valerie Koh Han Ning (24-E2)
 <br>
 <br><strong>HOUSE VICE-CAPTAINS</strong> 
-<br>Tan Jing Ren, Sarah (23-E4)
-<br>Matthew Hoo Haoming (23-E3)
+<br>Jayden Goh Yi En (24-E5)
+<br>Alastair Chua Haw Chong (24-E1)
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>HOUSE REPRESENTATIVES</strong> 
-<br>Ariana Binte Iskandar Meirza (23-E1)
-<br>Tan Li Ning Valerie (23-E1)
-<br>Chin Yun Qing Shennon (23-E2)
-<br>Cai Jing’en Aspen (23-E2)
-<br>Ramit Rahman (23-E3)
-<br>Rachel Yvonne Malcolm (23-E3)
-<br>Javier Sim Chee Hian (23-E4)
-<br>Huang Tao (23-E4)
-<br>Chen Young Woo, Shaun (23-E5)
-<br>Tan Jia Hui (23-E5)
-<br>Ang Jia Wei Erin (23-E6)
-<br>Sim Xin Kai Felicia (23-E6)
+<br>Alena Sim En Xi (24-E1)
+<br>Sarah Wong Shi Hui (24-E1)
+<br>Josianne Yanyun Pan (24-E2)
+<br>Renee Wong Yun Xuan (24-E2)
+<br>Maygane Ava Lew (24-E3)
+<br>Deenah Aliah Binte Razali (24-E3)
+<br>Nathanael Aditya Wirawan (24-E4)
+<br>Liu Yue Heng (24-E4)
+<br>Lim Shi Xuan (24-E5)
+<br>Seow Ee Jed (24-E5)
+<br>Clare Bernadette Wong En Ning (24-E6)
+<br>Choo En Rui Reanna (24-E6)
 <br>
 </p>
 </td>
@@ -87,7 +91,11 @@ every Eder knight will come through to fulfil our calling.</p>
 </tbody>
 </table>
 <h4><strong>History</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -97,7 +105,8 @@ every Eder knight will come through to fulfil our calling.</p>
 <br>Eric Lu (19-E2)
 <br>Brandon Auyong (20-E4)
 <br>Ashley Toh Kai Lun (21-E4)
-<br>Goh Wei An (22-E5)</p>
+<br>Goh Wei An (22-E5)
+<br>Tay Jun Yong (23-E5)</p>
 <p></p>
 <p><strong>PAST HOUSE MASTERS</strong> 
 <br>Mrs Elaine Toh-Tan
@@ -120,7 +129,9 @@ every Eder knight will come through to fulfil our calling.</p>
 <br>Vincent Lee Zang Di Xuan (21-E4)
 <br>Naomi Olivia Png (21-E6)
 <br>Keara Kuar Wei Xuan (22-E3)
-<br>Wong Feng Yi (22-E6)</p>
+<br>Wong Feng Yi (22-E6)
+<br>Tan Jing Ren, Sarah (23-E4)
+<br>Matthew Hoo Haoming (23-E3)</p>
 </td>
 </tr>
 </tbody>
@@ -128,7 +139,14 @@ every Eder knight will come through to fulfil our calling.</p>
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
