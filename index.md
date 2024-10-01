@@ -20,7 +20,7 @@ sections:
         - title: Instagram
           description: Follow Us
           url: https://www.instagram.com/eunoiajc
-        - title: OH EUNOIA
+        - title: OPEN HOUSE
           description: 11 Jan 2025
           url: https://eunoiajc.moe.edu.sg/oh
       background: /images/Home_Banner2.png
