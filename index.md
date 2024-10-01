@@ -23,7 +23,7 @@ sections:
         - title: OPEN HOUSE
           description: 11 Jan 2025
           url: https://eunoiajc.moe.edu.sg/oh
-      background: /images/Home_Banner2.png
+      background: /images/Home_Banner3.jpg
       title: We Are Eunoia
       subtitle: Beautiful Thinking, Goodwill to All
   - resources:
