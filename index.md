@@ -16,14 +16,14 @@ sections:
           url: /news/2024/results
         - title: "#WhyEJ"
           description: Join Us
-          url: "https://www.eunoiajc.moe.edu.sg/whyej/grace/ "
+          url: https://www.eunoiajc.moe.edu.sg/whyej/grace/
         - title: Instagram
           description: Follow Us
           url: https://www.instagram.com/eunoiajc
-        - title: OH EUNOIA
-          description: Online Showcase
-          url: https://www.oheunoia.com
-      background: /images/Home_Banner2.png
+        - title: OPEN HOUSE
+          description: 11 Jan 2025
+          url: https://eunoiajc.moe.edu.sg/oh
+      background: /images/Home_Banner3.jpg
       title: We Are Eunoia
       subtitle: Beautiful Thinking, Goodwill to All
   - resources:

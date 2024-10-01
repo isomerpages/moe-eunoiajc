@@ -1,6 +1,6 @@
 ---
 title: OH EUNOIA! on 12 Jan 2024
-permalink: /oh/
+permalink: /oh2024/
 date: 2024-01-01
 layout: post
 description: ""
