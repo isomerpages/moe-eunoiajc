@@ -5,5 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: English
 ---
-<p><a href="mailto:kang.you.jin@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kang.you.jin@ejc.edu.sg</a>
+<p><a href="mailto:kang.you-jin@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kang.you-jin@ejc.edu.sg</a>
 </p>
