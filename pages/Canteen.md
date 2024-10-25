@@ -8,7 +8,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Halal Cuisine (Noodle/Rice) | 30 Sep 2024 | Halal Nasi Padang and Noodles - Mee Rebus, Mee Siam, Mee Goreng, Lontong, Nasi Lemak etc |
+| Chinese Mixed Rice | 15 Nov 2024 | Interest applicants to take note that the stall operation will start in 2025 |
 
 
 ### **Application Procedure**
