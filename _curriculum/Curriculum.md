@@ -22,8 +22,7 @@ to the curious.</p>
 <p>We want our students to inspire and be inspired. An inspired person finds
 it easy to accomplish the difficult; an uninspired person finds it difficult
 to even accomplish easy tasks.</p>
-<p>Our flagship <strong><a href="/flagship-programmes/tdp/" rel="noopener noreferrer nofollow" target="_blank">Talent Development Programme (GLIDE)</a></strong>,
-supported by our <strong><a href="/special-programmes/bsp/" rel="noopener noreferrer nofollow" target="_blank">Bicultural Studies Programme (Chinese)</a></strong>, <strong><a href="/special-programmes/hsp/" rel="noopener noreferrer nofollow" target="_blank">Humanities Scholarship and Programme</a></strong>, <strong><a href="/special-programmes/mep/" rel="noopener noreferrer nofollow" target="_blank">Music Elective Programme</a></strong>,
+<p>Our <strong><a href="/special-programmes/bsp/" rel="noopener noreferrer nofollow" target="_blank">Bicultural Studies Programme (Chinese)</a></strong>, <strong><a href="/special-programmes/hsp/" rel="noopener noreferrer nofollow" target="_blank">Humanities Scholarship and Programme</a></strong>, <strong><a href="/special-programmes/mep/" rel="noopener noreferrer nofollow" target="_blank">Music Elective Programme</a></strong>,
 Programme <strong><a href="/special-programmes/altitude/" rel="noopener noreferrer nofollow" target="_blank">ALTITUDE</a></strong>, <strong><a href="/special-programmes/latitude/" rel="noopener noreferrer nofollow" target="_blank">LATITUDE</a></strong> and <strong><a href="/special-programmes/magnitude/" rel="noopener noreferrer nofollow" target="_blank">MAGNITUDE</a></strong>,
 and the <strong><a href="/special-programmes/stem/" rel="noopener noreferrer nofollow" target="_blank">STEM Research Programme</a></strong>,
 are platforms to inspire students to pursue their dreams, and opportunities
@@ -35,7 +34,7 @@ intrapersonal intelligence. High intrapersonal intelligence enables one
 to discover one’s values, beliefs and passion. It also allows one to draw
 the most valuable lessons from one’s experiences. We cultivate intrapersonal
 intelligence in our students through meaningful introspection and by cultivating
-their personal voice. Our <strong><a href="/flagship-programmes/lcp/" rel="noopener noreferrer nofollow" target="_blank">Life Coaching Programme</a>, <a href="/student-development/leadership/" rel="noopener noreferrer nofollow" target="_blank">Leadership Academy</a>, <a href="/student-development/cce/" rel="noopener noreferrer nofollow" target="_blank">Character &amp; Citizenship Education</a></strong> and <strong><a href="/culture/cca/" rel="noopener noreferrer nofollow" target="_blank">Co-Curricular Activities</a></strong> are
+their personal voice. Our <strong><a href="/student-development/leadership/" rel="noopener noreferrer nofollow" target="_blank">Leadership Academy</a>, <a href="/student-development/cce/" rel="noopener noreferrer nofollow" target="_blank">Character &amp; Citizenship Education</a></strong> and <strong><a href="/culture/cca/" rel="noopener noreferrer nofollow" target="_blank">Co-Curricular Activities</a></strong> are
 designed to encourage and impart the important skill of introspection.</p>
 <h5><strong>Invigorate</strong></h5>
 <p>Passion is focussed energy. We want our students to be in love with life
