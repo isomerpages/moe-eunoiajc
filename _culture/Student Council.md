@@ -1,7 +1,8 @@
 ---
 title: Student Council
-permalink: /culture/student-council/
+permalink: /council/
 description: ""
+variant: tiptap
 ---
 #### **Lead to Inspire**
 

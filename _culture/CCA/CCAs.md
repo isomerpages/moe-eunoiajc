@@ -1,6 +1,6 @@
 ---
 title: CCAs
-permalink: /culture/cca/
+permalink: /cca/
 description: ""
 third_nav_title: CCA
 variant: tiptap

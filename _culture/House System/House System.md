@@ -1,8 +1,9 @@
 ---
 title: House System
-permalink: /culture/house/
+permalink: /house/
 description: ""
 third_nav_title: House System
+variant: tiptap
 ---
 #### **Five Houses, One Eunoia**
 
