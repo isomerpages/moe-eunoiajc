@@ -12,38 +12,40 @@ H1 and H3 subjects carry 1 unit each.</p>
 <p>Students admitted via the&nbsp;<strong>Joint Admissions Exercise (JAE)</strong>&nbsp;must
 propose subject combinations in the stream (Arts or Science) to which they
 are posted.</p>
-<p>The&nbsp;<strong><a href="/files/EJC_SCOPE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">EJC Subject Combination Proposal Exercise (SCOPE)</a></strong>&nbsp;information
+<p>The&nbsp;<strong><a href="/files/EJC_SCOPE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">EJC Subject Combination Proposal Exercis</a></strong>
+<a href="/files/EJC_SCOPE_2025.pdf" rel="noopener nofollow" target="_blank">file</a><strong><a href="/files/EJC_SCOPE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">e (SCOPE)</a></strong>&nbsp;information
 booklet can be downloaded in&nbsp;<strong><a href="/files/EJC_SCOPE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF</a></strong>&nbsp;format.
 All students may propose their&nbsp;<strong>preferred subject combination</strong>&nbsp;if
 it is not featured in the list of subject combinations, subject to approval.</p>
-<p></p><a class="isomer-image-wrapper" href="/files/EJC_SCOPE_2024.pdf"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Download.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/files/EJC_SCOPE_2025.pdf"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Download.png"></a>
 <p></p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Arts - A1 to A4" src="/images/2024/EJC_SCOPE_2024_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Arts.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Arts - A5 to A8" src="/images/2024/EJC_SCOPE_2024_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Science1.png">
 </div>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Science - S1 to S2" src="/images/2024/EJC_SCOPE_2024_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Science2.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Science - S3 to S5" src="/images/2024/EJC_SCOPE_2024_4.jpg">
-</div>
-</td>
+</th>
 </tr>
 </tbody>
 </table>
@@ -59,9 +61,9 @@ for Science students. These subjects are offered at the Ministry of Education
 Language Centre (MOELC).</p>
 <h6><strong>HYBRID COMBINATIONS</strong></h6>
 <p>Students intending to offer 2 Mathematics and Sciences subjects and 2
-Humanities and the Arts subjects may refer to page 7 of the&nbsp;<strong><a href="/files/EJC_SCOPE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">information booklet</a></strong>.&nbsp;The
-college offers 12 ‘hybrid’ subject combinations in the&nbsp;<strong>Science</strong>&nbsp;stream:
-S4-1 to S4-6, and S5-1 to S5-6.</p>
+Humanities and the Arts subjects may refer to page 6 of the&nbsp;<strong><a href="/files/EJC_SCOPE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">information booklet</a></strong>.&nbsp;The
+college offers hybrid subject combinations in the&nbsp;<strong>Science</strong>&nbsp;stream:
+S4-1 to S4-4, and S5-1 to S5-4.</p>
 <h6><strong>CONTRASTING SUBJECT</strong></h6>
 <p>Students must offer a contrasting subject as one of the four content-based
 subjects.</p>
@@ -108,14 +110,18 @@ Additional Mathematics at the GCE O-Level Examination or equivalent.</p>
 <h6><strong>SPECIAL PROGRAMMES</strong></h6>
 <p><strong><a href="/special-programmes/bsp/" rel="noopener noreferrer nofollow" target="_blank">Bicultural Studies Programme</a></strong>&nbsp;[BSP(C)]&nbsp;scholars
 must offer&nbsp;<strong><a href="subjects/csc/" rel="noopener noreferrer nofollow" target="_blank">H2 China Studies in Chinese</a></strong>.</p>
-<p><strong>Engineering and Tech Programme Scholarship</strong> (ETPS) students
-must offer&nbsp;<a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u" rel="noopener noreferrer nofollow" target="_blank">subject combinations</a> prescribed
+<p><strong><a href="https://eunoiajc.moe.edu.sg/special-programmes/etps/" rel="noopener nofollow" target="_blank">Engineering and Tech Programme Scholarship</a> </strong>(ETPS)
+students must offer&nbsp;<a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u" rel="noopener noreferrer nofollow" target="_blank">subject combinations</a> prescribed
 by the Ministry of Education, which will include&nbsp;<strong><a href="/subjects/maths/" rel="noopener noreferrer nofollow" target="_blank">H2 Mathematics</a></strong>.</p>
 <p><strong><a href="/special-programmes/hsp/" rel="noopener noreferrer nofollow" target="_blank">Humanities Scholarship and Programme</a></strong>&nbsp;(HSP)
 students must offer&nbsp;<a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u" rel="noopener noreferrer nofollow" target="_blank">subject combinations</a> prescribed
 by the Ministry of Education, which will include&nbsp;<strong><a href="/subjects/lit/" rel="noopener noreferrer nofollow" target="_blank">H2 Literature in English</a></strong>.</p>
 <p><strong><a href="/special-programmes/mep/" rel="noopener noreferrer nofollow" target="_blank">Music Elective Programme</a></strong>&nbsp;(MEP)
 students must offer&nbsp;<strong><a href="/subjects/music/" rel="noopener noreferrer nofollow" target="_blank">H2 Music</a></strong>.</p>
+<p><strong>Foreign Language Elective</strong> scholars must offer their respective
+foreign language subjects at H2 level.</p>
+<p><strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u/national-elective-tamil-language-programme-scholarship" rel="noopener nofollow" target="_blank">National Elective Tamil Language Programme Scholarship</a> </strong>(NETPS)<strong> </strong>students
+must offer H2 Tamil Language and Literature.</p>
 <h6><strong>UNIVERSITY COURSE PRE-REQUISITES</strong></h6>
 <p>Your future career may require you to undertake certain degrees and/or
 courses at the&nbsp;undergraduate level. In turn, these undergraduate courses
