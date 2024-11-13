@@ -4,7 +4,11 @@ permalink: /about/staff/sd/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -15,10 +19,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/SD-Joanna-Lee_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:ecg.counsellor@ejc.edu.sg"><img style="width:50%" height="auto" width="100%" src="/images/Staff/SD-Joanna-Lee_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:ecg.counsellor@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joanna Lee</a></strong> 
@@ -26,10 +27,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/SD-Jasmine-Ng_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:ej.counsellor@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/SD-Jasmine-Ng_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:ej.counsellor@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jasmine Ng</a></strong> 
@@ -39,11 +37,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Arts-Jared-Goh_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/MTL-Yang-Shu-Hung_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/arts/mr-jared-goh/" rel="noopener noreferrer nofollow" target="_blank">Mr Jared Goh</a></strong> 
+<p><strong><a href="/about/staff/mtl/ms-yang-shu-hung/" rel="noopener noreferrer nofollow" target="_blank">Ms Yang Shu Hung</a></strong> 
 <br>Dean (JC1)</p>
 </td>
 </tr>
@@ -61,23 +59,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/MTL-Yang-Shu-Hung_s.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/mtl/ms-yang-shu-hung/" rel="noopener noreferrer nofollow" target="_blank">Ms Yang Shu Hung</a></strong> 
-<br>Dean (JC2)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Michelle-Chiang_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/about/staff/econs/ms-michelle-chiang/" rel="noopener noreferrer nofollow" target="_blank">Ms Michelle Chiang</a></strong> 
-<br>Deputy Dean (JC2)</p>
+<br>Dean (JC2)</p>
 </td>
 </tr>
 <tr>
