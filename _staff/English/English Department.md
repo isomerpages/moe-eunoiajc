@@ -36,11 +36,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL_ElenaTan_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Cham-Bei-Qing_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/ms-elena-tan/" rel="noopener noreferrer nofollow" target="_blank">Ms Elena Tan</a></strong> 
+<p><strong><a href="/about/staff/english/ms-cham-bei-qing/" rel="noopener noreferrer nofollow" target="_blank">Ms Cham Bei Qing</a></strong> 
 <br>Deputy Head (General Paper)</p>
 </td>
 </tr>
@@ -119,17 +119,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="/about/staff/english/mr-cavell-chee/" rel="noopener noreferrer nofollow" target="_blank">Mr Cavell Chee</a></strong> 
 <br>Teacher (Literature in English)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Cham-Bei-Qing_s.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/ms-cham-bei-qing/" rel="noopener noreferrer nofollow" target="_blank">Ms Cham Bei Qing</a></strong> 
-<br>Teacher (General Paper)</p>
 </td>
 </tr>
 <tr>
@@ -349,17 +338,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Wendy Lau</strong> 
-<br>Teacher (General Paper)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Staff-Profile.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Foo Xiang Kai</strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
