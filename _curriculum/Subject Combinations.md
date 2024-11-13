@@ -9,13 +9,12 @@ variant: tiptap
 offering&nbsp;<strong>10 to 12 units of study</strong>&nbsp;including <strong><a href="/academic-subjects/Knowledge-Skills/general-paper/" rel="noopener noreferrer nofollow" target="_blank">H1 General Paper</a></strong>, <strong><a href="/academic-subjects/Languages/mother-tongue-languages/" rel="noopener noreferrer nofollow" target="_blank">H1 Mother Tongue</a></strong> and
 four content-based subjects. Each H2 subject carries 2 academic units.
 H1 and H3 subjects carry 1 unit each.</p>
-<p>Students admitted via the&nbsp;<strong>Joint Admissions Exercise (JAE)</strong>&nbsp;must
-propose subject combinations in the stream (Arts or Science) to which they
-are posted.</p>
-<p>The&nbsp;<strong><a href="/files/EJC_SCOPE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">EJC Subject Combination Proposal Exercis</a></strong>
-<a href="/files/EJC_SCOPE_2025.pdf" rel="noopener nofollow" target="_blank">file</a><strong><a href="/files/EJC_SCOPE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">e (SCOPE)</a></strong>&nbsp;information
-booklet can be downloaded in&nbsp;<strong><a href="/files/EJC_SCOPE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF</a></strong>&nbsp;format.
-All students may propose their&nbsp;<strong>preferred subject combination</strong>&nbsp;if
+<p>Students admitted via the&nbsp;<strong>Joint Admissions Exercise (JAE)</strong>&nbsp;<u>must</u> propose
+subject combinations in the stream (Arts or Science) to which they are
+posted.</p>
+<p>The&nbsp;<strong><a href="/files/EJC_SCOPE_2025.pdf" rel="noopener nofollow" target="_blank">EJC Subject Combination Proposal Exercise</a></strong>&nbsp;(SCOPE)
+information booklet can be downloaded and viewed below. All students may
+propose their&nbsp;<strong>preferred subject combination</strong>&nbsp;if
 it is not featured in the list of subject combinations, subject to approval.</p>
 <p></p><a class="isomer-image-wrapper" href="/files/EJC_SCOPE_2025.pdf"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Download.png"></a>
 <p></p>
