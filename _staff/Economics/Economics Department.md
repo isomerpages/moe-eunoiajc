@@ -12,25 +12,11 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Benjamin-Liang_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:yvonne.ho@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Econs_Yvonne_Ho.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/econs/mr-benjamin-liang/" rel="noopener noreferrer nofollow" target="_blank">Mr Benjamin Liang</a></strong> 
+<p><strong><a href="mailto:yvonne.ho@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Yvonne Ho</a></strong>
 <br>HOD (Economics)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs_KevinTan_s.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/econs/mr-kevin-tan/" rel="noopener noreferrer nofollow" target="_blank">Mr Kevin Tan</a></strong> 
-<br>School Staff Developer</p>
 </td>
 </tr>
 <tr>
@@ -45,24 +31,26 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Loh-Xin-Min_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:michelle.chiang@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Michelle-Chiang_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/econs/ms-loh-xin-min/" rel="noopener noreferrer nofollow" target="_blank">Ms Loh Xin Min</a></strong> 
+<p><strong><a href="mailto:michelle.chiang@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Michelle Chiang</a></strong> 
+<br>Dean (JC2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:loh.xin.min@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Loh-Xin-Min_s.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:loh.xin.min@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Loh Xin Min</a></strong> 
 <br>Lead Teacher (Economics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Tan-Liu-Yin_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:tan.liu.yin@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Tan-Liu-Yin_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/econs/ms-tan-liu-yin/" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Liu Yin</a></strong> 
+<p><strong><a href="mailto:tan.liu.yin@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Liu Yin</a></strong> 
 <br>Deputy Head (Economics)</p>
 <p></p>
 <p></p>
@@ -70,123 +58,82 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Michelle-Chiang_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:chuah.jun.jie@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/econs-chuah-jj_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/econs/ms-michelle-chiang" rel="noopener noreferrer nofollow" target="_blank">Ms Michelle Chiang</a></strong> 
-<br>Deputy Dean (JC2)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/econs-chuah-jj_s.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/econs/mr-chuah-jun-jie/" rel="noopener noreferrer nofollow" target="_blank">Mr Chuah Jun Jie</a></strong> 
+<p><strong><a href="mailto:chuah.jun.jie@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chuah Jun Jie</a></strong> 
 <br>Teacher (Economics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Elizabeth-Chin_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:elizabeth.chin@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Elizabeth-Chin_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/econs/ms-elizabeth-chin/" rel="noopener noreferrer nofollow" target="_blank">Ms Elizabeth Chin</a></strong> 
+<p><strong><a href="mailto:elizabeth.chin@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Elizabeth Chin</a></strong> 
 <br>Teacher (Economics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/econs-juliana-wong_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:juliana.wong@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/econs-juliana-wong_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/econs/ms-juliana-wong/" rel="noopener noreferrer nofollow" target="_blank">Ms Juliana Wong</a></strong> 
+<p><strong><a href="mailto:juliana.wong@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Juliana Wong</a></strong> 
 <br>Teacher (Economics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs_KelvinTeo_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:kelvin.teo@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs_KelvinTeo_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/econs/mr-kelvin-teo/" rel="noopener noreferrer nofollow" target="_blank">Mr Kelvin Teo</a></strong> 
+<p><strong><a href="mailto:kelvin.teo@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kelvin Teo</a></strong> 
 <br>Teacher (Economics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs_Kenny_Tan.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:kenny.tan@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs_Kenny_Tan.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/econs/mr-kenny-tan/" rel="noopener noreferrer nofollow" target="_blank">Mr Kenny Tan</a></strong> 
+<p><strong><a href="mailto:kenny.tan@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kenny Tan</a></strong> 
 <br>Teacher (Economics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs_Lim_LynNa_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:lim.lyn.na@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs_Lim_LynNa_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/econs/ms-lim-lyn-na/" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Lyn Na</a></strong> 
+<p><strong><a href="mailto:lim.lyn.na@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Lyn Na</a></strong> 
 <br>Teacher (Economics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Mingwei_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:ma.mingwei@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Mingwei_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/econs/mr-ma-mingwei/" rel="noopener noreferrer nofollow" target="_blank">Mr Ma Mingwei</a></strong> 
+<p><strong><a href="mailto:ma.mingwei@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ma Mingwei</a></strong> 
 <br>Teacher (Economics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Econs_MikeTan.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:mike.tan@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Econs_MikeTan.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/econs/mr-mike-tan" rel="noopener noreferrer nofollow" target="_blank">Mr Mike Tan</a></strong>
+<p><strong><a href="mailto:mike.tan@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mike Tan</a></strong>
 <br>Teacher (Economics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Serene-Tan_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:serene.tan@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Serene-Tan_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/econs/ms-serene-tan/" rel="noopener noreferrer nofollow" target="_blank">Ms Serene Tan</a></strong> 
+<p><strong><a href="mailto:serene.tan@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Serene Tan</a></strong> 
 <br>Teacher (Economics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Chen-Jinqi_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:wee.chen.jinqi@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Chen-Jinqi_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/econs/mrs-wee-chen-jinqi/" rel="noopener noreferrer nofollow" target="_blank">Mrs Wee-Chen Jinqi</a></strong> 
+<p><strong><a href="mailto:wee.chen.jinqi@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Wee-Chen Jinqi</a></strong> 
 <br>Teacher (Economics)</p>
 </td>
 </tr>
