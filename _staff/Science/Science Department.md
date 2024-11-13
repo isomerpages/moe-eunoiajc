@@ -102,6 +102,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Gabriel-Woon_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/science/mr-gabriel-woon/" rel="noopener noreferrer nofollow" target="_blank">Mr Gabriel Woon</a></strong> 
+<br>Deputy Head (Student Well-being)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Jacintha-Huang_s.jpg">
 </div>
 </td>
@@ -119,17 +130,6 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/about/staff/science/ms-zulaiha-said/" rel="noopener noreferrer nofollow" target="_blank">Ms Zulaiha Said</a></strong> 
 <br>Deputy Head (Character &amp; Citizenship Education)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Gabriel-Woon_s.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/mr-gabriel-woon/" rel="noopener noreferrer nofollow" target="_blank">Mr Gabriel Woon</a></strong> 
-<br>Deputy Head (Student Well-being)</p>
 </td>
 </tr>
 <tr>
@@ -173,17 +173,6 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/about/staff/science/ms-emeline-choo/" rel="noopener noreferrer nofollow" target="_blank">Ms Emeline Choo</a></strong> 
-<br>Teacher (Biology)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Staff-Profile.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/ms-lu-huiping/" rel="noopener noreferrer nofollow" target="_blank">Ms Lu Huiping</a></strong> 
 <br>Teacher (Biology)</p>
 </td>
 </tr>
@@ -416,14 +405,6 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/about/staff/science/dr-wang-guangquan/" rel="noopener noreferrer nofollow" target="_blank">Dr Wang Guangquan</a></strong> 
 <br>Teacher (Physics)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
