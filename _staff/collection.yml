@@ -2,6 +2,7 @@ collections:
   staff:
     output: true
     order:
+      - Economics Department.md
       - Arts Department.md
       - College Management Committee.md
       - College Management Committee/.keep
