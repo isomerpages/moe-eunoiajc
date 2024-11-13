@@ -2,21 +2,21 @@ collections:
   staff:
     output: true
     order:
-      - PE Department.md
-      - Science Department.md
-      - MTL Department.md
-      - PW Department.md
-      - Mathematics Department.md
+      - College Management Committee.md
+      - Executive and Admin Staff.md
+      - Arts Department.md
       - English Department.md
       - Economics Department.md
-      - Arts Department.md
-      - College Management Committee.md
+      - MTL Department.md
+      - Mathematics Department.md
+      - PE Department.md
+      - PW Department.md
+      - Science Department.md
       - College Management Committee/.keep
       - College Management Committee/Mr Andrew Tan.md
       - College Management Committee/Ms New Yi Cheen.md
       - College Management Committee/Mdm Phua Kia Ling.md
       - College Management Committee/Mr Mohamad Amran Shah.md
-      - Executive and Admin Staff.md
       - Arts/.keep
       - Arts/Mr Justin Lee.md
       - Arts/Mr Jared Goh.md
