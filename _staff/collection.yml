@@ -2,6 +2,7 @@ collections:
   staff:
     output: true
     order:
+      - Mathematics Department.md
       - English Department.md
       - Economics Department.md
       - Arts Department.md
