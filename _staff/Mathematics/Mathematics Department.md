@@ -47,6 +47,17 @@ Head (Mathematics)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Chen-Jinquan_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/mr-chen-jinquan/" rel="noopener noreferrer nofollow" target="_blank">Mr Chen Jinquan</a> </strong>
+<br>Deputy Head (IME)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Maths-Alex-Teo_s.jpg">
 </div>
 </td>
@@ -63,17 +74,6 @@ Head (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/mr-chang-meng-pat/" rel="noopener noreferrer nofollow" target="_blank">Mr Chang Meng Pat</a></strong> 
-<br>Teacher (Mathematics)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Chen-Jinquan_s.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/mr-chen-jinquan/" rel="noopener noreferrer nofollow" target="_blank">Mr Chen Jinquan</a> </strong>
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
