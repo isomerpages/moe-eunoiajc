@@ -82,7 +82,7 @@ as the fourth H2 subject.</p>
 </li>
 </ul>
 <h6><strong>SUBJECT RE-OPTIMISATION</strong></h6>
-<p>Students offering 4 H2 content-based subjects may re-optimise one H2 content-based
+<p>Students offering 4 H2 content-based subjects may revise one H2 content-based
 subject to H1 Level at appropriate points in the course.</p>
 <h6><strong>H3 SUBJECTS</strong></h6>
 <p>Designed for outstanding students, H3 subjects are offered in&nbsp;<strong>JC2</strong>&nbsp;together
