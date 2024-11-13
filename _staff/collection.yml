@@ -2,6 +2,7 @@ collections:
   staff:
     output: true
     order:
+      - PW Department.md
       - Mathematics Department.md
       - English Department.md
       - Economics Department.md
