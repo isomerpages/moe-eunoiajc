@@ -17,7 +17,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/mr-alvin-toh/" rel="noopener noreferrer nofollow" target="_blank">Mr Alvin Toh</a> <br></strong>HOD
+<p><strong><a href="mailto:alvin.toh@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Alvin Toh</a> <br></strong>HOD
 (Mathematics)</p>
 </td>
 </tr>
@@ -28,7 +28,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/mr-barry-chia/" rel="noopener noreferrer nofollow" target="_blank">Mr Barry Chia</a> <br></strong>Deputy
+<p><strong><a href="mailto:barry.chia@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Barry Chia</a> <br></strong>Deputy
 Head (Mathematics)</p>
 </td>
 </tr>
@@ -39,7 +39,7 @@ Head (Mathematics)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/mr-lim-yin/" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Yin</a> </strong>
+<p><strong><a href="mailto:lim.yin@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Yin</a> </strong>
 <br>Deputy Head (Mathematics)</p>
 </td>
 </tr>
@@ -50,7 +50,7 @@ Head (Mathematics)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/mr-chen-jinquan/" rel="noopener noreferrer nofollow" target="_blank">Mr Chen Jinquan</a> </strong>
+<p><strong><a href="mailto:chen.jinquan@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chen Jinquan</a> </strong>
 <br>Deputy Head (IME)</p>
 </td>
 </tr>
@@ -61,7 +61,7 @@ Head (Mathematics)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/mr-alex-teo/" rel="noopener noreferrer nofollow" target="_blank">Mr Alex Teo</a> </strong>
+<p><strong><a href="mailto:alex.teo@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Alex Teo</a> </strong>
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
@@ -72,7 +72,7 @@ Head (Mathematics)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/mr-chang-meng-pat/" rel="noopener noreferrer nofollow" target="_blank">Mr Chang Meng Pat</a></strong> 
+<p><strong><a href="mailto:chang.meng.pat@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chang Meng Pat</a></strong> 
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
@@ -83,7 +83,7 @@ Head (Mathematics)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/mr-chng-xian-yi/" rel="noopener noreferrer nofollow" target="_blank">Mr Chng Xian Yi</a></strong> 
+<p><strong><a href="mailto:chng.xian.yi@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chng Xian Yi</a></strong> 
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
@@ -216,17 +216,6 @@ Head (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/mr-tan-khoon-han/" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Khoon Han</a></strong> 
-<br>Teacher (Mathematics)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Berner-Poh_s.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Berner Poh </strong>
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
