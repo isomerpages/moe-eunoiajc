@@ -11,7 +11,11 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:alvin.toh@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/HOD-Alvin-Toh_s.jpg"></a>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/HOD-Alvin-Toh_s.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:alvin.toh@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Alvin Toh</a> <br></strong>HOD
@@ -131,18 +135,19 @@ Head (Mathematics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:ng.yixin@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Ng-Yixin_s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ng.yixin@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Yixin</a></strong> 
-<br>Teacher (Mathematics)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:phoon.lai.yong@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Ng-Phoon-Lai-Yong_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:phoon.lai.yong@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng-Phoon Lai Yong</a></strong> 
+<br>Teacher (Mathematics)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="mailto:ng.yixin@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Ng-Yixin_s.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:ng.yixin@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Yixin</a></strong> 
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
