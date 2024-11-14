@@ -35,19 +35,19 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:nadiah.razali@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Nadiah-Razali-s.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:nadiah.razali@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nadiah Razali</a></strong> 
+<br>Deputy Head (General Paper)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:edson.ng@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Eng-Edson-Ng_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:edson.ng@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Edson Ng</a></strong> 
 <br>Deputy Head (Literature in English)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:nadiah.razali@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Nadiah-Razali-s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:nadiah.razali@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nadiah Razali</a></strong> 
-<br>Deputy Head (General Paper)</p>
 </td>
 </tr>
 <tr>
