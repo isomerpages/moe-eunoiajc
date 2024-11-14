@@ -19,14 +19,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:azhar.amin@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Arts-Azhar_s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:azhar.amin@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Azhar Amin</a></strong> 
-<br>Senior Teacher (History)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:fred.ong@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Fred-Ong-s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
@@ -40,6 +32,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:gooi.tah.choe@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Gooi Tah Choe</a></strong> 
 <br>Deputy Head (Aesthetics)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:azhar.amin@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Arts-Azhar_s.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:azhar.amin@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Azhar Amin</a></strong> 
+<br>Senior Teacher (History)</p>
 </td>
 </tr>
 <tr>
