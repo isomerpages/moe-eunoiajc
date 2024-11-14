@@ -35,13 +35,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/SL-Md-Amran-Shah_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:amran.shah@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/SL-Md-Amran-Shah_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/cmc/mr-mohamad-amran-shah/" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamad Amran Shah</a></strong> 
+<p><strong><a href="mailto:amran.shah@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamad Amran Shah</a></strong> 
 <br>Vice-Principal (Administration)</p>
 </td>
 </tr>
@@ -126,10 +123,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL-Stephanie-Hua_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:stephanie.hua@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL-Stephanie-Hua_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:stephanie.hua@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Stephanie Hua</a></strong> 
@@ -137,10 +131,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/HOD-Tay-Theng-Hwee_s2.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:tay.theng.hwee@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/HOD-Tay-Theng-Hwee_s2.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:tay.theng.hwee@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tay Theng Hwee</a></strong> 
@@ -164,13 +155,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/MTL-Yang-Shu-Hung_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:yang.shu.hung@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/MTL-Yang-Shu-Hung_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/mtl/ms-yang-shu-hung/" rel="noopener noreferrer nofollow" target="_blank">Ms Yang Shu Hung</a></strong> 
+<p><strong><a href="mailto:yang.shu.hung@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yang Shu Hung</a></strong> 
 <br>Dean (JC1)</p>
 </td>
 </tr>
