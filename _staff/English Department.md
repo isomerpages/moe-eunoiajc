@@ -123,11 +123,27 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:joey.leow@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL-Joey-Tan_s.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:joey.leow@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mrs Joey Tan</a> </strong>
+<br>Teacher (General Paper)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:joshua.ng@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Joshua-Ng_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:joshua.ng@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Joshua Ng</a></strong> 
 <br>Teacher (General Paper)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:joyce.chua@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL_Joyce_Yeo.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:joyce.chua@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Joyce Chua</a></strong>
+<br>Teacher (Literature in English)</p>
 </td>
 </tr>
 <tr>
@@ -187,6 +203,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:vivien.yeo@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL-Vivien-Yeo_s.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:vivien.yeo@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mrs Vivien Yeo</a> </strong>
+<br>Teacher (General Paper)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:xu.xiuwen@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/el-xu-xiuwen_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
@@ -219,44 +243,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Joey-Tan_s.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Joey Tan</strong> 
-<br>Teacher (General Paper)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL_Joyce_Yeo.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Joyce Chua</strong> 
-<br>Teacher (Literature in English)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Masnidah_Masnawi.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Masnidah Masnawi</strong> 
-<br>Teacher (General Paper)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Vivien-Yeo_s.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Vivien Yeo</strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
