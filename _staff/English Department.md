@@ -91,145 +91,106 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Charlotte-Tan_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:charlotte.lee@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Charlotte-Tan_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/mrs-charlotte-lee/" rel="noopener noreferrer nofollow" target="_blank">Mrs Charlotte Lee</a></strong> 
+<p><strong><a href="mailto:charlotte.lee@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Charlotte Lee</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL_CrispinRodrigues_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:crispin.rodrigues@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL_CrispinRodrigues_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/mr-crispin-rodrigues/" rel="noopener noreferrer nofollow" target="_blank">Mr Crispin Rodrigues</a></strong> 
+<p><strong><a href="mailto:crispin.rodrigues@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Crispin Rodrigues</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Darren-Chong_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:darren.chong@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Darren-Chong_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/mr-darren-chong/" rel="noopener noreferrer nofollow" target="_blank">Mr Darren Chong</a></strong> 
+<p><strong><a href="mailto:darren.chong@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Darren Chong</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL_Dionne_Menez.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:dionne.menez@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL_Dionne_Menez.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/ms-dionne-menez" rel="noopener noreferrer nofollow" target="_blank">Ms Dionne Menez</a></strong>
+<p><strong><a href="mailto:dionne.menez@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Dionne Menez</a></strong>
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Joshua-Ng_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:joshua.ng@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Joshua-Ng_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/mr-joshua-ng/" rel="noopener noreferrer nofollow" target="_blank">Mr Joshua Ng</a></strong> 
+<p><strong><a href="mailto:joshua.ng@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Joshua Ng</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Kajal-Kaur_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:kajal.kaur.khaira@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Kajal-Kaur_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/ms-kajal-kaur-khaira/" rel="noopener noreferrer nofollow" target="_blank">Ms Kajal Kaur Khaira</a></strong> 
+<p><strong><a href="mailto:kajal.kaur.khaira@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Kajal Kaur Khaira</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL_Kang_Youjin.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:kang.you-jin@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL_Kang_Youjin.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/mr-kang-you-jin" rel="noopener noreferrer nofollow" target="_blank">Mr Kang You-Jin</a></strong>
+<p><strong><a href="mailto:kang.you-jin@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kang You-Jin</a></strong>
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Eng-KarolTan_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:karol.ann.tan@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Eng-KarolTan_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/ms-karol-ann-tan/" rel="noopener noreferrer nofollow" target="_blank">Ms Karol Ann Tan</a></strong> 
+<p><strong><a href="mailto:karol.ann.tan@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Karol Ann Tan</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL_NgHuiQi_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:ng.hui.qi@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL_NgHuiQi_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/ms-ng-hui-qi/" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Hui Qi</a></strong> 
+<p><strong><a href="mailto:ng.hui.qi@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Hui Qi</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Priyah-Hari_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:priyahdharshini@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Priyah-Hari_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/ms-priya-haritheertham/" rel="noopener noreferrer nofollow" target="_blank">Ms Priya Haritheertham</a></strong> 
+<p><strong><a href="mailto:priyahdharshini@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Priya Haritheertham</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Renuka-Satianathan_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:renuka.satianathan@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Renuka-Satianathan_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/ms-renuka-satianathan/" rel="noopener noreferrer nofollow" target="_blank">Ms Renuka Satianathan</a></strong> 
+<p><strong><a href="mailto:renuka.satianathan@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Renuka Satianathan</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Samuel-Wong_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:samuel.wong@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Samuel-Wong_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/mr-samuel-wong/" rel="noopener noreferrer nofollow" target="_blank">Mr Samuel Wong</a></strong> 
+<p><strong><a href="mailto:samuel.wong@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Samuel Wong</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/el-xu-xiuwen_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:xu.xiuwen@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/el-xu-xiuwen_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/ms-xu-xiuwen/" rel="noopener noreferrer nofollow" target="_blank">Ms Xu Xiuwen</a></strong> 
+<p><strong><a href="mailto:xu.xiuwen@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Xu Xiuwen</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
