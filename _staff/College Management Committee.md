@@ -132,6 +132,28 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/EL-Stephanie-Hua_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:stephanie.hua@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Stephanie Hua</a></strong> 
+<br>HOD (English)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/HOD-Tay-Theng-Hwee_s2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:tay.theng.hwee@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tay Theng Hwee</a></strong> 
+<br>HOD (Mother Tongue Languages &amp; BSP)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:michelle.chiang@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Michelle-Chiang_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
@@ -145,22 +167,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:rachel.yau@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Rachel Yau</a></strong> 
 <br>School Staff Developer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:stephanie.hua@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Stephanie-Hua_s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:stephanie.hua@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Stephanie Hua</a></strong> 
-<br>HOD(English)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:tay.theng.hwee@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/HOD-Tay-Theng-Hwee_s2.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tay.theng.hwee@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tay Theng Hwee</a></strong> 
-<br>HOD (Mother Tongue Languages &amp; BSP)</p>
 </td>
 </tr>
 <tr>
