@@ -155,68 +155,50 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Chia-Xin-Hui_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:chia.xin.hui@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Chia-Xin-Hui_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/ms-chia-xin-hui/" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Xin Hui</a></strong> 
+<p><strong><a href="mailto:chia.xin.hui@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Xin Hui</a></strong> 
 <br>Teacher (Chemistry)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Evelyn_Yong.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:evelyn.yong@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Evelyn_Yong.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Evelyn Yong</strong> 
+<p><strong><a href="mailto:evelyn.yong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Evelyn Yong</a></strong>
 <br>Teacher (Chemistry)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Jeannie_Oh.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:jeannie.oh@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Jeannie_Oh.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Jeannie Oh</strong> 
+<p><strong><a href="mailto:jeannie.oh@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Jeannie Oh</a></strong>
 <br>Teacher (Chemistry)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Justin_Lim.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:justin.lim@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Justin_Lim.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/mr-justin-lim/" rel="noopener noreferrer nofollow" target="_blank">Mr Justin Lim</a></strong> 
+<p><strong><a href="mailto:justin.lim@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Justin Lim</a></strong> 
 <br>Teacher (Chemistry)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Kan_Ximin.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:kan.ximin@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Kan_Ximin.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/ms-kan-ximin/" rel="noopener noreferrer nofollow" target="_blank">Ms Kan Ximin</a></strong>
+<p><strong><a href="mailto:kan.ximin@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Kan Ximin</a></strong>
 <br>Teacher (Chemistry)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Liu-Shuyu_s-1.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:liu.shuyu@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Liu-Shuyu_s-1.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/mdm-liu-shuyu/" rel="noopener noreferrer nofollow" target="_blank">Mdm Liu Shuyu</a></strong> 
+<p><strong><a href="mailto:liu.shuyu@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Liu Shuyu</a></strong> 
 <br>Teacher (Chemistry)</p>
 </td>
 </tr>
@@ -232,46 +214,34 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Ong-Wee-Yong_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:ong.wee.yong@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Ong-Wee-Yong_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/mr-ong-wee-yong/" rel="noopener noreferrer nofollow" target="_blank">Mr Ong Wee Yong</a></strong> 
+<p><strong><a href="mailto:ong.wee.yong@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ong Wee Yong</a></strong> 
 <br>Teacher (Chemistry)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Suellen_Goh_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:suellen.goh@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Suellen_Goh_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/ms-suellen-goh/" rel="noopener noreferrer nofollow" target="_blank">Ms Suellen Goh</a></strong> 
+<p><strong><a href="mailto:suellen.goh@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Suellen Goh</a></strong> 
 <br>Teacher (Chemistry)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Tay-Li-Kim_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:tay.li.kim@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Tay-Li-Kim_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/mrs-yew-li-kim/" rel="noopener noreferrer nofollow" target="_blank">Mrs Yew-Tay Li Kim</a></strong> 
+<p><strong><a href="mailto:tay.li.kim@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Yew-Tay Li Kim</a></strong> 
 <br>Teacher (Chemistry)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Staff/Sci-Chin-Tan-Wei-Lin_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:tan.wei.lin@ejc.edu.sg"><img style="width: 50%;" height="auto" width="100%" src="/images/Staff/Sci-Chin-Tan-Wei-Lin_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/mrs-chin-tan-wei-lin/" rel="noopener noreferrer nofollow" target="_blank">Mrs Chin-Tan Wei Lin</a></strong> 
+<p><strong><a href="mailto:tan.wei.lin@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Chin-Tan Wei Lin</a></strong> 
 <br>Teacher (Physics)</p>
 </td>
 </tr>
@@ -287,68 +257,50 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Staff/Sci-Ho-Hon-Wing_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:ho.hon.wing@ejc.edu.sg"><img style="width: 50%;" height="auto" width="100%" src="/images/Staff/Sci-Ho-Hon-Wing_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/mr-ho-hon-wing/" rel="noopener noreferrer nofollow" target="_blank">Mr Ho Hon Wing</a> </strong>
+<p><strong><a href="mailto:ho.hon.wing@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ho Hon Wing</a> </strong>
 <br>Teacher (Physics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Staff/Lim-Teck-Seng-s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:lim.teck.seng@ejc.edu.sg"><img style="width: 50%;" height="auto" width="100%" src="/images/Staff/Lim-Teck-Seng-s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/mr-lim-teck-seng/" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Teck Seng</a></strong> 
+<p><strong><a href="mailto:lim.teck.seng@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Teck Seng</a></strong> 
 <br>Teacher (Physics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Ong-Eng-Yee-Wen_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:eng.yee.wen@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Ong-Eng-Yee-Wen_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/mrs-ong-yee-wen/" rel="noopener noreferrer nofollow" target="_blank">Mrs Ong-Eng Yee Wen</a></strong> 
+<p><strong><a href="mailto:eng.yee.wen@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ong-Eng Yee Wen</a></strong> 
 <br>Teacher (Physics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/sci-soopuiwah_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:soo.pui.wah@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/sci-soopuiwah_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/mr-soo-pui-wah/" rel="noopener noreferrer nofollow" target="_blank">Mr Soo Pui Wah</a></strong> 
+<p><strong><a href="mailto:soo.pui.wah@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Soo Pui Wah</a></strong> 
 <br>Teacher (Physics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Tan-Zheng-Yong_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:tan.zhen.yong@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Tan-Zheng-Yong_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/mr-tan-zhen-yong/" rel="noopener noreferrer nofollow" target="_blank">Mr Keith Tan Zhen Yong</a></strong> 
+<p><strong><a href="mailto:tan.zhen.yong@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Keith Tan Zhen Yong</a></strong> 
 <br>Teacher (Physics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Wang-Guangquan-s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:wang.guangquan@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Wang-Guangquan-s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/dr-wang-guangquan/" rel="noopener noreferrer nofollow" target="_blank">Dr Wang Guangquan</a></strong> 
+<p><strong><a href="mailto:wang.guangquan@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Wang Guangquan</a></strong> 
 <br>Teacher (Physics)</p>
 </td>
 </tr>
