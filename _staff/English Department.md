@@ -46,23 +46,23 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Eng-Edson-Ng_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/english/dr-edson-ng/" rel="noopener noreferrer nofollow" target="_blank">Dr Edson Ng</a></strong> 
+<br>Deputy Head (Literature in English)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Nadiah-Razali-s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/about/staff/english/ms-nadiah-razali/" rel="noopener noreferrer nofollow" target="_blank">Ms Nadiah Razali</a></strong> 
 <br>Deputy Head (General Paper)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Eng-Edson-Ng_s.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/dr-edson-ng/" rel="noopener noreferrer nofollow" target="_blank">Dr Edson Ng</a></strong> 
-<br>Deputy Head (Literature in English)</p>
 </td>
 </tr>
 <tr>
@@ -189,22 +189,22 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Eng-KarolTan_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL_Kang_Youjin.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/ms-karol-ann-tan/" rel="noopener noreferrer nofollow" target="_blank">Ms Karol Ann Tan</a></strong> 
+<p><strong><a href="/about/staff/english/mr-kang-you-jin" rel="noopener noreferrer nofollow" target="_blank">Mr Kang You-Jin</a></strong>
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL_Kang_Youjin.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Eng-KarolTan_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/mr-kang-you-jin" rel="noopener noreferrer nofollow" target="_blank">Mr Kang You-Jin</a></strong>
+<p><strong><a href="/about/staff/english/ms-karol-ann-tan/" rel="noopener noreferrer nofollow" target="_blank">Ms Karol Ann Tan</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
