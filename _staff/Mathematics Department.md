@@ -94,7 +94,7 @@ Head (Mathematics)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/mr-chu-wee-yong/" rel="noopener noreferrer nofollow" target="_blank">Mr Chu Wee Yong</a> </strong>
+<p><strong><a href="mailto:chu.wee.yong@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chu Wee Yong</a> </strong>
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
@@ -105,7 +105,7 @@ Head (Mathematics)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/mr-chua-jian-rong/" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Jian Rong</a> </strong>
+<p><strong><a href="mailto:chua.jian.rong@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Jian Rong</a> </strong>
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
@@ -116,7 +116,7 @@ Head (Mathematics)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/ms-clarice-chan/" rel="noopener noreferrer nofollow" target="_blank">Ms Clarice Chan</a> </strong>
+<p><strong><a href="mailto:clarice.chan@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Clarice Chan</a> </strong>
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
@@ -127,7 +127,7 @@ Head (Mathematics)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/mr-kuang-kim-chun/" rel="noopener noreferrer nofollow" target="_blank">Mr Kuang Kim Chun</a> </strong>
+<p><strong><a href="mailto:kuang.kim.chun@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kuang Kim Chun</a> </strong>
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
@@ -138,7 +138,7 @@ Head (Mathematics)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/mr-lee-boon-ann/" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Boon Ann</a> </strong>
+<p><strong><a href="mailto:lee.boon.ann@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Boon Ann</a> </strong>
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
@@ -149,7 +149,7 @@ Head (Mathematics)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/ms-lee-ngern-sim/" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Ngern Sim</a> </strong>
+<p><strong><a href="mailto:lee.ngern.sim@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Ngern Sim</a> </strong>
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
@@ -160,7 +160,7 @@ Head (Mathematics)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/ms-lim-yen-chui/" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Yen Chui</a> </strong>
+<p><strong><a href="mailto:lim.yen.chui@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Yen Chui</a> </strong>
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
@@ -171,7 +171,7 @@ Head (Mathematics)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="(https://eunoiajc.moe.edu.sg/about/staff/maths/mr-lim-yoke-kuang/" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Yoke Kuang</a></strong> 
+<p><strong><a href="mailto:lim.yoke.kuang@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Yoke Kuang</a></strong> 
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
@@ -182,7 +182,7 @@ Head (Mathematics)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/ms-ng-yixin/" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Yixin</a></strong> 
+<p><strong><a href="mailto:ng.yixin@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Yixin</a></strong> 
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
@@ -193,7 +193,7 @@ Head (Mathematics)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/maths/mrs-ng-phoon-lai-yong/" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng-Phoon Lai Yong</a></strong> 
+<p><strong><a href="mailto:phoon.lai.yong@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng-Phoon Lai Yong</a></strong> 
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
@@ -204,7 +204,7 @@ Head (Mathematics)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/maths/mr-ong-junjie" rel="noopener noreferrer nofollow" target="_blank">Mr Ong Junjie</a></strong>
+<p><strong><a href="mailto:ong.junjie@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ong Junjie</a></strong>
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
@@ -215,7 +215,7 @@ Head (Mathematics)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://eunoiajc.moe.edu.sg/about/staff/maths/mr-tan-khoon-han/" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Khoon Han</a></strong> 
+<p><strong><a href="mailto:tan.khoon.han@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Khoon Han</a></strong> 
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
