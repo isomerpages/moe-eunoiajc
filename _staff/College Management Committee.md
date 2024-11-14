@@ -11,13 +11,10 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/SL-Andrew-Tan_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:andrew.tan@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/SL-Andrew-Tan_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/cmc/mr-andrew-tan/" rel="noopener noreferrer nofollow" target="_blank">Mr Andrew Tan</a> </strong>
+<p><strong><a href="mailto:andrew.tan@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Andrew Tan</a> </strong>
 <br>Principal</p>
 </td>
 </tr>
