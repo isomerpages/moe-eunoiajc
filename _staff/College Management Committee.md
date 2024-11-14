@@ -27,13 +27,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/SL_Phua_Kia_Ling.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:phua.kia.ling@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/SL_Phua_Kia_Ling.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/cmc/mdm-phua-kia-ling/" rel="noopener noreferrer nofollow" target="_blank">Mdm Phua Kia Ling</a> </strong>
+<p><strong><a href="mailto:phua.kia.ling@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Phua Kia Ling</a> </strong>
 <br>Vice-Principal</p>
 </td>
 </tr>
