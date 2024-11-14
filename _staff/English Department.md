@@ -11,112 +11,82 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Stephanie-Hua_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:stephanie.hua@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Stephanie-Hua_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/ms-stephanie-hua/" rel="noopener noreferrer nofollow" target="_blank">Ms Stephanie Hua</a></strong> 
+<p><strong><a href="mailto:stephanie.hua@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Stephanie Hua</a></strong> 
 <br>HOD (English)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/HOD-Marc-Kenji-Lim_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:marc.kenji.lim@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/HOD-Marc-Kenji-Lim_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/mr-marc-kenji-lim/" rel="noopener noreferrer nofollow" target="_blank">Mr Marc Kenji Lim</a></strong> 
+<p><strong><a href="mailto:marc.kenji.lim@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Marc Kenji Lim</a></strong> 
 <br>HOD (Corporate Communications &amp; Partnerships)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Cham-Bei-Qing_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:cham.bei.qing@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Cham-Bei-Qing_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/ms-cham-bei-qing/" rel="noopener noreferrer nofollow" target="_blank">Ms Cham Bei Qing</a></strong> 
+<p><strong><a href="mailto:cham.bei.qing@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cham Bei Qing</a></strong> 
 <br>Deputy Head (General Paper)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Eng-Edson-Ng_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:edson.ng@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Eng-Edson-Ng_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/dr-edson-ng/" rel="noopener noreferrer nofollow" target="_blank">Dr Edson Ng</a></strong> 
+<p><strong><a href="mailto:edson.ng@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Edson Ng</a></strong> 
 <br>Deputy Head (Literature in English)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Nadiah-Razali-s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:nadiah.razali@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Nadiah-Razali-s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/ms-nadiah-razali/" rel="noopener noreferrer nofollow" target="_blank">Ms Nadiah Razali</a></strong> 
+<p><strong><a href="mailto:nadiah.razali@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nadiah Razali</a></strong> 
 <br>Deputy Head (General Paper)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Heon-Mak_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:heon.mak@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Heon-Mak_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/ms-heon-mak/" rel="noopener noreferrer nofollow" target="_blank">Ms Heon Mak</a></strong> 
+<p><strong><a href="mailto:heon.mak@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Heon Mak</a></strong> 
 <br>Deputy Head (Partnerships)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/English-Danielle-M-Low_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:danielle.low@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/English-Danielle-M-Low_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/mrs-danielle-marie-low/" rel="noopener noreferrer nofollow" target="_blank">Mrs Danielle Low</a></strong> 
+<p><strong><a href="mailto:danielle.low@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Danielle Low</a></strong> 
 <br>Senior Teacher (General Paper)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Eng-Perrin_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:perrin.singarayar@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Eng-Perrin_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/mr-perrin-singarayar/" rel="noopener noreferrer nofollow" target="_blank">Mr Perrin Singarayar</a></strong> 
+<p><strong><a href="mailto:perrin.singarayar@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Perrin Singarayar</a></strong> 
 <br>Senior Teacher (General Paper)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Benjamin-Chew_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:benjamin.chew@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Benjamin-Chew_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/mr-benjamin-chew/" rel="noopener noreferrer nofollow" target="_blank">Mr Benjamin Chew</a></strong> 
+<p><strong><a href="mailto:benjamin.chew@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benjamin Chew</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/eng-cavell-chee_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:chee.cavell.jiahe@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/eng-cavell-chee_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/english/mr-cavell-chee/" rel="noopener noreferrer nofollow" target="_blank">Mr Cavell Chee</a></strong> 
+<p><strong><a href="mailto:chee.cavell.jiahe@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Cavell Chee</a></strong> 
 <br>Teacher (Literature in English)</p>
 </td>
 </tr>
