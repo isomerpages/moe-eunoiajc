@@ -43,22 +43,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:azhar.amin@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Arts-Azhar_s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:azhar.amin@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Azhar Amin</a></strong> 
-<br>Senior Teacher (History)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:low.sok.hui@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Arts-Low-Sok-Hui_s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:low.sok.hui@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Low Sok Hui</a></strong> 
-<br>Senior Teacher (Art)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:alson.yong@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Arts_AlsonYong_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,6 +56,22 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:mahmood.fahmi@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mahmood Fahmi Ahamed</a></strong> 
 <br>Deputy Head (Talent Development &amp; EHP)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:azhar.amin@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Arts-Azhar_s.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:azhar.amin@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Azhar Amin</a></strong> 
+<br>Senior Teacher (History)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:low.sok.hui@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Arts-Low-Sok-Hui_s.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:low.sok.hui@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Low Sok Hui</a></strong> 
+<br>Senior Teacher (Art)</p>
 </td>
 </tr>
 <tr>
