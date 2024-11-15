@@ -51,24 +51,18 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/rohaya_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:rohaya.zainal.abidin@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/rohaya_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Rohaya Zainal Abidin</strong> 
+<p><strong><a href="mailto:rohaya.zainal.abidin@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mdm Rohaya Zainal Abidin</a></strong>
 <br>Librarian</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/zalina_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:zalina.abdullah@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/zalina_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Zalina Bte Abdullah</strong> 
+<p><a href="mailto:zalina.abdullah@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mdm Zalina Bte Abdullah</a> 
 <br>Librarian Assistant</p>
 </td>
 </tr>
