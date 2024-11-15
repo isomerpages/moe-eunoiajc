@@ -20,18 +20,15 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:https://staging-lite.d1gf1sfpu0ms1k.amplifyapp.com/about/staff/mtl/mdm-elavarasi/elavarasi.sundararaju@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/mtl-elavarasi_s.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:elavarasi.sundararaju@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/mtl-elavarasi_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:https://staging-lite.d1gf1sfpu0ms1k.amplifyapp.com/about/staff/mtl/mdm-elavarasi/elavarasi.sundararaju@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Elavarasi Sundararaju</a></strong>  <strong>இளவரசி காந்தி</strong> 
+<p><strong><a href="mailto:elavarasi.sundararaju@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Elavarasi Sundararaju</a></strong>  <strong>இளவரசி காந்தி</strong> 
 <br>HOD (Character &amp; Citizenship Education)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/MTL-Yang-Shu-Hung_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:yang.shu.hung@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/MTL-Yang-Shu-Hung_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:yang.shu.hung@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yang Shu Hung</a></strong>  <strong>杨淑闳&nbsp; </strong>
