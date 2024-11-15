@@ -32,7 +32,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:yang.shu.hung@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yang Shu Hung</a></strong>  <strong>杨淑闳&nbsp; </strong>
-<br>Dean (JC2)</p>
+<br>Dean (JC1)</p>
 </td>
 </tr>
 <tr>
