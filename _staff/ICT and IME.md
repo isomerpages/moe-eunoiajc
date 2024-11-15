@@ -35,7 +35,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:chen.jinquan@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Jothi_s.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:jothi.raj@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Jothi_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:jothi.raj@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Jothi Raj Karuppiah</a></strong>
@@ -62,7 +62,7 @@ variant: tiptap
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:zalina.abdullah@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/zalina_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zalina.abdullah@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mdm Zalina Bte Abdullah</a> 
+<p><strong><a href="mailto:zalina.abdullah@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mdm Zalina Bte Abdullah</a></strong> 
 <br>Librarian Assistant</p>
 </td>
 </tr>
