@@ -11,27 +11,36 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:ecg.counsellor@ejc.edu.sg"><img style="width:50%" height="auto" width="100%" src="/images/Staff/SD-Joanna-Lee_s.jpg"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/pe-charles-cheak_s.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ecg.counsellor@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joanna Lee</a></strong> 
-<br>ECG Counsellor</p>
+<p><strong><a href="/about/staff/pe/mr-charles-cheak/" rel="noopener noreferrer nofollow" target="_blank">Mr Charles Cheak</a></strong> 
+<br>HOD (PE &amp; CCA)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:ej.counsellor@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/SD-Jasmine-Ng_s.jpg"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/mtl-elavarasi_s.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ej.counsellor@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jasmine Ng</a></strong> 
-<br>School Counsellor</p>
+<p><strong><a href="/about/staff/mtl/mdm-elavarasi/" rel="noopener noreferrer nofollow" target="_blank">Mdm Elavarasi Sundararaju</a> </strong>
+<br>HOD (Character &amp; Citizenship Education)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Econs_KohHanYun_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/econs/ms-koh-han-yun/" rel="noopener noreferrer nofollow" target="_blank">Ms Koh Han Yun</a></strong> 
+<br>HOD (Student Leadership &amp; Talent Development)</p>
 </td>
 </tr>
 <tr>
@@ -48,6 +57,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Econs-Michelle-Chiang_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/econs/ms-michelle-chiang/" rel="noopener noreferrer nofollow" target="_blank">Ms Michelle Chiang</a></strong> 
+<br>Dean (JC2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/PE-Karine-Teo_s.jpg">
 </div>
 </td>
@@ -59,12 +79,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Econs-Michelle-Chiang_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Arts_AlsonYong_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/econs/ms-michelle-chiang/" rel="noopener noreferrer nofollow" target="_blank">Ms Michelle Chiang</a></strong> 
-<br>Dean (JC2)</p>
+<p><strong><a href="/about/staff/arts/mr-alson-yong/" rel="noopener noreferrer nofollow" target="_blank">Mr Alson Yong</a></strong> 
+<br>Deputy Head (Student Leadership)</p>
 </td>
 </tr>
 <tr>
@@ -81,12 +101,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/mtl-elavarasi_s.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/PE-George-Danapal_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/mtl/mdm-elavarasi/" rel="noopener noreferrer nofollow" target="_blank">Mdm Elavarasi Sundararaju</a> </strong>
-<br>HOD (Character &amp; Citizenship Education)</p>
+<p><strong><a href="/about/staff/pe/mr-george-danapal/" rel="noopener noreferrer nofollow" target="_blank">Mr George Danapal Danaraj</a></strong> 
+<br>Deputy Head (CCA)</p>
 </td>
 </tr>
 <tr>
@@ -97,17 +117,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/about/staff/pw/ms-iris-lee/" rel="noopener noreferrer nofollow" target="_blank">Ms Iris Lee</a></strong> 
-<br>Deputy Head (Character &amp; Citizenship Education)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci-Zulaiha-Said_s.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/ms-zulaiha-said/" rel="noopener noreferrer nofollow" target="_blank">Ms Zulaiha Said</a></strong> 
 <br>Deputy Head (Character &amp; Citizenship Education)</p>
 </td>
 </tr>
@@ -125,56 +134,39 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/pe-charles-cheak_s.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/pe/mr-charles-cheak/" rel="noopener noreferrer nofollow" target="_blank">Mr Charles Cheak</a></strong> 
-<br>HOD (PE &amp; CCA)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/PE-George-Danapal_s.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/pe/mr-george-danapal/" rel="noopener noreferrer nofollow" target="_blank">Mr George Danapal Danaraj</a></strong> 
-<br>Deputy Head (CCA)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Econs_KohHanYun_s.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/econs/ms-koh-han-yun/" rel="noopener noreferrer nofollow" target="_blank">Ms Koh Han Yun</a></strong> 
-<br>HOD (Student Leadership &amp; Talent Development)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Arts_AlsonYong_s.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/arts/mr-alson-yong/" rel="noopener noreferrer nofollow" target="_blank">Mr Alson Yong</a></strong> 
-<br>Deputy Head (Student Leadership)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Arts-Mahmood-Fahmi_s.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/about/staff/arts/mr-mahmood-fahmi/" rel="noopener noreferrer nofollow" target="_blank">Mr Mahmood Fahmi Ahamed</a></strong> 
 <br>Deputy Head (Eunoia Humanities Programme &amp; Talent Development)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci-Zulaiha-Said_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/about/staff/science/ms-zulaiha-said/" rel="noopener noreferrer nofollow" target="_blank">Ms Zulaiha Said</a></strong> 
+<br>Deputy Head (Character &amp; Citizenship Education)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:ecg.counsellor@ejc.edu.sg"><img style="width:50%" height="auto" width="100%" src="/images/Staff/SD-Joanna-Lee_s.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:ecg.counsellor@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joanna Lee</a></strong> 
+<br>ECG Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:ej.counsellor@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/SD-Jasmine-Ng_s.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:ej.counsellor@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jasmine Ng</a></strong> 
+<br>School Counsellor</p>
 </td>
 </tr>
 </tbody>
