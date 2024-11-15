@@ -11,7 +11,7 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:charles.cheak@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/pe-charles-cheak_s.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:charles.cheak@ejc.edu.sg"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff/pe-charles-cheak_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:charles.cheak@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Charles Cheak</a></strong>
