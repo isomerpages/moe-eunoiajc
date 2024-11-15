@@ -83,46 +83,34 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/PW-Iris-Lee_s-2.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:iris.lee@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/PW-Iris-Lee_s-2.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/pw/ms-iris-lee/" rel="noopener noreferrer nofollow" target="_blank">Ms Iris Lee</a></strong> 
+<p><strong><a href="mailto:iris.lee@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Iris Lee</a></strong> 
 <br>Deputy Head (Character &amp; Citizenship Education)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci-Jacintha-Huang_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:jacintha.huang@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci-Jacintha-Huang_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/ms-jacintha-huang/" rel="noopener noreferrer nofollow" target="_blank">Ms Jacintha Huang</a></strong> 
+<p><strong><a href="mailto:jacintha.huang@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jacintha Huang</a></strong> 
 <br>Deputy Head (Careers, Scholarships &amp; Higher Education)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Arts-Mahmood-Fahmi_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:mahmood.fahmi@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Arts-Mahmood-Fahmi_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/arts/mr-mahmood-fahmi/" rel="noopener noreferrer nofollow" target="_blank">Mr Mahmood Fahmi Ahamed</a></strong> 
+<p><strong><a href="mailto:mahmood.fahmi@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mahmood Fahmi Ahamed</a></strong> 
 <br>Deputy Head (Eunoia Humanities Programme &amp; Talent Development)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci-Zulaiha-Said_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:zulaiha.said@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci-Zulaiha-Said_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/science/ms-zulaiha-said/" rel="noopener noreferrer nofollow" target="_blank">Ms Zulaiha Said</a></strong> 
+<p><strong><a href="mailto:zulaiha.said@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Zulaiha Said</a></strong> 
 <br>Deputy Head (Character &amp; Citizenship Education)</p>
 </td>
 </tr>
