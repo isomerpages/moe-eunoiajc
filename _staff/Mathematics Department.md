@@ -71,14 +71,6 @@ Head (Mathematics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:chu.wee.yong@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Chu-Wee-Yong_s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chu.wee.yong@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chu Wee Yong</a> </strong>
-<br>Teacher (Mathematics)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:chua.jian.rong@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Chua-Jian-Rong_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
