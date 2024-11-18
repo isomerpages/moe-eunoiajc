@@ -11,7 +11,7 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:alvin.toh@ejc.edu.sg"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff/HOD-Alvin-Toh_s.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:alvin.toh@ejc.edu.sg"><img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/HOD-Alvin-Toh_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:alvin.toh@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Alvin Toh</a> <br></strong>HOD
@@ -19,7 +19,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:barry.chia@ejc.edu.sg"><img style="width: 50%;" height="auto" width="100%" src="/images/Staff/Maths-Barry-Chia_s.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:barry.chia@ejc.edu.sg"><img style="width: 45%;" height="auto" width="100%" src="/images/Staff/Maths-Barry-Chia_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:barry.chia@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Barry Chia</a> <br></strong>Deputy
@@ -27,7 +27,7 @@ Head (Mathematics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:lim.yin@ejc.edu.sg"><img style="width: 50%;" height="auto" width="100%" src="/images/Staff/Maths-Lim-Yin_s.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:lim.yin@ejc.edu.sg"><img style="width: 45%;" height="auto" width="100%" src="/images/Staff/Maths-Lim-Yin_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:lim.yin@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Yin</a> </strong>
@@ -35,7 +35,7 @@ Head (Mathematics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:chen.jinquan@ejc.edu.sg"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Chen-Jinquan_s.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:chen.jinquan@ejc.edu.sg"><img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Chen-Jinquan_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:chen.jinquan@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chen Jinquan</a> </strong>
@@ -43,7 +43,7 @@ Head (Mathematics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:alex.teo@ejc.edu.sg"><img style="width: 50%;" height="auto" width="100%" src="/images/Staff/Maths-Alex-Teo_s.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:alex.teo@ejc.edu.sg"><img style="width: 45%;" height="auto" width="100%" src="/images/Staff/Maths-Alex-Teo_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:alex.teo@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Alex Teo</a> </strong>
@@ -51,7 +51,7 @@ Head (Mathematics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:chang.meng.pat@ejc.edu.sg"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff/maths-chang-meng-pat_s.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:chang.meng.pat@ejc.edu.sg"><img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/maths-chang-meng-pat_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:chang.meng.pat@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chang Meng Pat</a></strong> 
@@ -59,7 +59,7 @@ Head (Mathematics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:chng.xian.yi@ejc.edu.sg"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Chng-Xian-Yi_s.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:chng.xian.yi@ejc.edu.sg"><img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Chng-Xian-Yi_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:chng.xian.yi@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chng Xian Yi</a></strong> 
@@ -67,7 +67,7 @@ Head (Mathematics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:chua.jian.rong@ejc.edu.sg"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Chua-Jian-Rong_s.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:chua.jian.rong@ejc.edu.sg"><img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Chua-Jian-Rong_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:chua.jian.rong@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Jian Rong</a> </strong>
@@ -75,7 +75,7 @@ Head (Mathematics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:clarice.chan@ejc.edu.sg"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Clarice-Chan_s.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:clarice.chan@ejc.edu.sg"><img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Clarice-Chan_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:clarice.chan@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Clarice Chan</a> </strong>
@@ -83,7 +83,7 @@ Head (Mathematics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:kuang.kim.chun@ejc.edu.sg"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff/Kuang-Kim-Chun_s.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:kuang.kim.chun@ejc.edu.sg"><img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/Kuang-Kim-Chun_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:kuang.kim.chun@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kuang Kim Chun</a> </strong>
@@ -91,7 +91,7 @@ Head (Mathematics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:lee.boon.ann@ejc.edu.sg"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Lee-Boon-Ann_s.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:lee.boon.ann@ejc.edu.sg"><img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Lee-Boon-Ann_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:lee.boon.ann@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Boon Ann</a> </strong>
@@ -99,7 +99,7 @@ Head (Mathematics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:lee.ngern.sim@ejc.edu.sg"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Lee-Ngern-Sim_s.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:lee.ngern.sim@ejc.edu.sg"><img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Lee-Ngern-Sim_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:lee.ngern.sim@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Ngern Sim</a> </strong>
@@ -107,7 +107,7 @@ Head (Mathematics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:lim.yen.chui@ejc.edu.sg"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Lim-Yen-Chui_s.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:lim.yen.chui@ejc.edu.sg"><img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Lim-Yen-Chui_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:lim.yen.chui@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Yen Chui</a> </strong>
@@ -115,7 +115,7 @@ Head (Mathematics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:lim.yoke.kuang@ejc.edu.sg"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff/maths-lim-yoke-kuang_s.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:lim.yoke.kuang@ejc.edu.sg"><img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/maths-lim-yoke-kuang_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:lim.yoke.kuang@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Yoke Kuang</a></strong> 
@@ -123,7 +123,7 @@ Head (Mathematics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:phoon.lai.yong@ejc.edu.sg"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Ng-Phoon-Lai-Yong_s.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:phoon.lai.yong@ejc.edu.sg"><img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Ng-Phoon-Lai-Yong_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:phoon.lai.yong@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng-Phoon Lai Yong</a></strong> 
@@ -131,7 +131,7 @@ Head (Mathematics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:ng.yixin@ejc.edu.sg"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Ng-Yixin_s.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:ng.yixin@ejc.edu.sg"><img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Ng-Yixin_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:ng.yixin@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Yixin</a></strong> 
@@ -139,7 +139,7 @@ Head (Mathematics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:ong.junjie@ejc.edu.sg"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff/Maths_Ong_Junjie.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:ong.junjie@ejc.edu.sg"><img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/Maths_Ong_Junjie.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:ong.junjie@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ong Junjie</a></strong>
