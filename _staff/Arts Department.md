@@ -2,7 +2,6 @@
 title: Arts Department
 permalink: /about/staff/arts/
 description: ""
-third_nav_title: Arts
 variant: tiptap
 ---
 <table style="minWidth: 50px">
@@ -20,13 +19,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Arts-Jared-Goh_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:jared.goh@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Arts-Jared-Goh_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/arts/mr-jared-goh/" rel="noopener noreferrer nofollow" target="_blank">Mr Jared Goh</a></strong> 
+<p><strong><a href="mailto:jared.goh@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jared Goh</a></strong> 
 <br>Dean (JC1)</p>
 </td>
 </tr>
@@ -63,7 +59,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:azhar.amin@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Arts-Azhar_s.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:azhar.amin@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Arts-Azhar_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:azhar.amin@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Azhar Amin</a></strong> 
@@ -71,7 +67,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:low.sok.hui@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Arts-Low-Sok-Hui_s.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:low.sok.hui@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Arts-Low-Sok-Hui_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:low.sok.hui@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Low Sok Hui</a></strong> 
@@ -111,13 +107,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Arts-Lee-Ji-Heng_s.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:lee.ji.heng@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Arts-Lee-Ji-Heng_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/about/staff/arts/mr-lee-ji-heng/" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Ji Heng</a></strong> 
+<p><strong><a href="mailto:lee.ji.heng@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Ji Heng</a></strong> 
 <br>Teacher (Music)</p>
 </td>
 </tr>
