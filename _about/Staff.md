@@ -105,9 +105,8 @@ variant: tiptap
 <br><strong>25-A5</strong> 
 <br>
 </p>
-<p></p>
-<p></p>
-<p><strong>25-A6</strong>
+<p>
+<br><strong>25-A6</strong>
 </p>
 <p></p>
 </td>
