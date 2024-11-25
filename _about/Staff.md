@@ -106,7 +106,7 @@ variant: tiptap
 <br>
 </p>
 <p></p>
-<p><strong>25-A6</strong> 
+<p><strong>25-A6</strong>
 </p>
 <p></p>
 </td>
@@ -232,7 +232,7 @@ variant: tiptap
 <p></p>
 <p><strong>24-I4</strong> 
 <br><a href="mailto:dionne.menez@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Dionne Menez</a>
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/science/ms-chia-xin-hui/" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Xin Hui</a> 
+<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/science/ms-chia-xin-hui/" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Xin Hui</a>
 </p>
 <p></p>
 <p><strong>24-I5</strong> 
@@ -241,6 +241,7 @@ variant: tiptap
 <p></p>
 <p><strong>24-I6</strong> 
 <br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/maths/mrs-ng-phoon-lai-yong/" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng-Phoon Lai Yong</a>
+<br><a href="mailto:rachel.lim@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Rachel Lim</a>
 </p>
 </td>
 </tr>
@@ -251,7 +252,7 @@ variant: tiptap
 <br>
 </p>
 <p>
-<br><strong>25-O2</strong> 
+<br><strong>25-O2</strong>
 </p>
 <p></p>
 <p>
@@ -291,12 +292,12 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong>24-O5</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/science/dr-chan-kim-seng/" rel="noopener noreferrer nofollow" target="_blank">Dr Chan Kim Seng</a> 
+<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/science/dr-chan-kim-seng/" rel="noopener noreferrer nofollow" target="_blank">Dr Chan Kim Seng</a>
 </p>
 <p></p>
 <p><strong>24-O6</strong> 
 <br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/pe/mr-allen-lee/" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Wei Ming Allen</a> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/english/mr-joshua-ng/" rel="noopener noreferrer nofollow" target="_blank">Mr Joshua Ng</a> 
+<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/english/mr-joshua-ng/" rel="noopener noreferrer nofollow" target="_blank">Mr Joshua Ng</a>
 </p>
 <p></p>
 </td>
@@ -350,7 +351,7 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong>24-U6</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/english/mr-samuel-wong/" rel="noopener noreferrer nofollow" target="_blank">Mr Samuel Wong</a> 
+<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/english/mr-samuel-wong/" rel="noopener noreferrer nofollow" target="_blank">Mr Samuel Wong</a>
 </p>
 <p></p>
 </td>
