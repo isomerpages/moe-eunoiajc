@@ -16,38 +16,9 @@ posted.</p>
 information booklet can be downloaded and viewed below. All students may
 propose their&nbsp;<strong>preferred subject combination</strong>&nbsp;if
 it is not featured in the list of subject combinations, subject to approval.</p>
-<p></p><a class="isomer-image-wrapper" href="/files/EJC_SCOPE_2025.pdf"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Download.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/files/EJC_SCOPE_2025.pdf"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Download.png"></a>
 <p></p>
 <p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Arts.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Science1.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Science2.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <h6><strong>KNOWLEDGE SKILLS</strong></h6>
 <p>All students offer&nbsp;<strong><a href="/subjects/gp/" rel="noopener noreferrer nofollow" target="_blank">H1 General Paper</a></strong>.
 In their first year, students must offer&nbsp;<strong><a href="/subjects/pw/" rel="noopener noreferrer nofollow" target="_blank">Project Work</a></strong>.</p>
