@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Departments</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -66,37 +70,45 @@ variant: tiptap
 <p></p>
 <h4><strong>Civics Tutors</strong></h4>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>JC2 Civics Tutors</p>
+<p>JC1 Civics Tutors</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>JC1 Civics Tutors</p>
+<p>JC2 Civics Tutors</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>23-A1</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/pw/mr-daniel-kwan/" rel="noopener noreferrer nofollow" target="_blank">Mr Daniel Kwan</a> 
-<br>
-<br><strong>23-A2</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/english/ms-ng-hui-qi/" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Hui Qi </a>
-<br>
-<br><strong>23-A3</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/science/ms-ng-siow-ying/" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Siow Ying</a> 
-<br>
-<br><strong>23-A4</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/econs/mrchuahjunjie/" rel="noopener noreferrer nofollow" target="_blank">Mr Chuah Jun Jie</a> 
-<br>
-<br><strong>23-A5</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/science/mr-ong-wee-yong/" rel="noopener noreferrer nofollow" target="_blank">Mr Ong Wee Yong</a> 
+<p><strong>25-A1</strong> 
 <br>
 </p>
-<p><strong>23-A6</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/pe/mr-trevor-tay/" rel="noopener noreferrer nofollow" target="_blank">Mr Trevor Tay</a>
+<p>
+<br><strong>25-A2</strong> 
+<br>
 </p>
+<p>
+<br><strong>25-A3</strong> 
+<br>
+</p>
+<p>
+<br><strong>25-A4</strong> 
+<br>
+</p>
+<p>
+<br><strong>25-A5</strong> 
+<br>
+</p>
+<p></p>
+<p><strong>25-A6</strong> 
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>24-A1</strong> 
@@ -116,8 +128,8 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong>24-A5</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/pw/ms-ng-lee-siah/" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Lee Siah</a> 
-<br>Mr Mike Tan</p>
+<br><a href="mailto:mike.tan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Mike Tan</a>
+</p>
 <p></p>
 <p><strong>24-A6</strong> 
 <br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/econs/mr-ma-mingwei/" rel="noopener noreferrer nofollow" target="_blank">Mr Ma Mingwei</a>
@@ -127,38 +139,43 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong>23-E1</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/econs/mrs-wee-chen-jinqi/" rel="noopener noreferrer nofollow" target="_blank">Mrs Wee-Chen Jinqi</a> 
+<p><strong>25-E1</strong> 
 <br>
-<br><strong>23-E2</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/science/ms-chia-xin-hui/" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Xin Hui</a> 
+</p>
+<p>
+<br><strong>25-E2</strong> 
 <br>
-<br><strong>23-E3 </strong>
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/maths/mr-chng-xian-yi/" rel="noopener noreferrer nofollow" target="_blank">Mr Chng Xian Yi</a> 
 <br>
-<br><strong>23-E4 </strong>
-<br><a href="https://www.eunoiajc.moe.edu.sg/staff/mathematics/mr-chang-meng-pat/" rel="noopener noreferrer nofollow" target="_blank">Mr Chang Meng Pat</a> 
+<br><strong>25-E3 </strong>
 <br>
-<br><strong>23-E5 </strong>
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/maths/mr-chua-jian-rong/" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Jian Rong</a> 
+</p>
+<p>
+<br><strong>25-E4 </strong>
 <br>
-<br><strong>23-E6 </strong>
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/science/dr-chan-kim-seng/" rel="noopener noreferrer nofollow" target="_blank">Dr Chan Kim Seng</a> 
+</p>
+<p>
+<br><strong>25-E5 </strong>
+<br>
+</p>
+<p>
+<br><strong>25-E6 </strong>
+<br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <p><strong>24-E1</strong> 
+<br><a href="mailto:matthew.ooi@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Matthew Ooi</a>
 <br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/arts/ms-quek-jia-qi/" rel="noopener noreferrer nofollow" target="_blank">Ms Quek Jia Qi</a>
 </p>
 <p></p>
 <p><strong>24-E2</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/science/ms-lu-huiping/" rel="noopener noreferrer nofollow" target="_blank">Ms Lu Huiping</a>
+<br><a href="mailto:ong.junjie@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Ong Junjie</a>
 </p>
 <p></p>
 <p><strong>24-E3</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/pe/mr-ng-boon-hong/" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Boon Hong</a>
+<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/maths/ms-lim-yen-chui/" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Yen Chui</a>
 </p>
 <p></p>
 <p><strong>24-E4</strong> 
@@ -177,22 +194,25 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong>23-I1</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/english/ms-renuka-satianathan/" rel="noopener noreferrer nofollow" target="_blank">Ms Renuka Satianathan</a> 
+<p><strong>25-I1</strong> 
 <br>
-<br><strong>23-I2</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/maths/ms-lee-ngern-sim/" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Ngern Sim</a> 
-<br>
-<br><strong>23-I3<br></strong><a href="https://www.eunoiajc.moe.edu.sg/about/staff/english/mr-samuel-wong/" rel="noopener noreferrer nofollow" target="_blank">Mr Samuel Wong</a> 
-<br>
-<br><strong>23-I4<br></strong><a href="https://www.eunoiajc.moe.edu.sg/about/staff/econs/ms-juliana-wong/" rel="noopener noreferrer nofollow" target="_blank">Ms Julianna Wong</a> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/english/mr-darren-chong/" rel="noopener noreferrer nofollow" target="_blank">Mr Darren Chong</a> 
-<br>
-<br><strong>23-I5<br></strong><a href="https://www.eunoiajc.moe.edu.sg/about/staff/science/ms-chan-xin-yu/" rel="noopener noreferrer nofollow" target="_blank">Ms Chan Xin Yu</a> 
-<br>
-<br><strong>23-I6</strong>
 </p>
-<p><a href="https://www.eunoiajc.moe.edu.sg/about/staff/pe/ms-loh-kai-suan/" rel="noopener noreferrer nofollow" target="_blank">Ms Anna Loh</a> 
+<p>
+<br><strong>25-I2</strong> 
+<br>
+</p>
+<p>
+<br><strong>25-I3<br></strong>
+<br>
+<br><strong>25-I4<br></strong>
+</p>
+<p>
+<br><strong>25-I5<br></strong>
+</p>
+<p>
+<br><strong>25-I6</strong>
+</p>
+<p>
 <br>
 </p>
 </td>
@@ -211,7 +231,8 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong>24-I4</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/mtl/ms-nadira-mohamed-sedik/" rel="noopener noreferrer nofollow" target="_blank">Ms Nadira Sedik</a>
+<br><a href="mailto:dionne.menez@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Dionne Menez</a>
+<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/science/ms-chia-xin-hui/" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Xin Hui</a> 
 </p>
 <p></p>
 <p><strong>24-I5</strong> 
@@ -226,25 +247,28 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong>23-O1</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/arts/ms-rachel-lim/" rel="noopener noreferrer nofollow" target="_blank">Ms Rachel Lim</a> 
+<p><strong>25-O1</strong> 
 <br>
-<br><strong>23-O2</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/english/ms-priyah-haritheertham/" rel="noopener noreferrer nofollow" target="_blank">Ms Priya Haritheertham</a> 
+</p>
+<p>
+<br><strong>25-O2</strong> 
+</p>
+<p></p>
+<p>
+<br><strong>25-O3</strong> 
 <br>
-<br><strong>23-O3</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/econs/ms-serene-tan/" rel="noopener noreferrer nofollow" target="_blank">Ms Serene Tan</a> 
+</p>
+<p>
+<br><strong>25-O4</strong> 
 <br>
-<br><strong>23-O4</strong> 
-<br><a href="benjamin.chew@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benjamin Chew</a> 
+</p>
+<p>
+<br><strong>25-O5</strong> 
 <br>
-<br><strong>23-O5</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/arts/mr-lee-ji-heng/" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Ji Heng</a> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/maths/ms-clarice-chan/" rel="noopener noreferrer nofollow" target="_blank">Ms Clarice Chan</a> 
+</p>
+<p>
+<br><strong>25-O6</strong> 
 <br>
-<br><strong>23-O6</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/econs/ms-lim-lyn-na/" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Lyn Na</a> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/science/dr-wang-guangquan/" rel="noopener noreferrer nofollow" target="_blank">Dr Wang Guangquan</a> 
 <br>
 </p>
 </td>
@@ -258,8 +282,8 @@ variant: tiptap
 <br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/science/ms-emeline-choo/" rel="noopener noreferrer nofollow" target="_blank">Ms Emeline Choo</a>
 </p>
 <p></p>
-<p><strong>24-O3</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/english/ms-cham-bei-qing/" rel="noopener noreferrer nofollow" target="_blank">Ms Cham Bei Qing</a>
+<p><strong>24-O3</strong>
+<br><a href="mailto:chuah.jun.jie@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Chuah Jun Jie</a>
 </p>
 <p></p>
 <p><strong>24-O4</strong> 
@@ -267,39 +291,38 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong>24-O5</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/mtl/mdm-chen-lili/" rel="noopener noreferrer nofollow" target="_blank">Ms Chen Lili</a>
+<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/science/dr-chan-kim-seng/" rel="noopener noreferrer nofollow" target="_blank">Dr Chan Kim Seng</a> 
 </p>
 <p></p>
 <p><strong>24-O6</strong> 
 <br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/pe/mr-allen-lee/" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Wei Ming Allen</a> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/maths/mr-chen-jinquan/" rel="noopener noreferrer nofollow" target="_blank">Mr Chen Jinquan</a>
+<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/english/mr-joshua-ng/" rel="noopener noreferrer nofollow" target="_blank">Mr Joshua Ng</a> 
 </p>
-<p></p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong>23-U1</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/english/mr-crispin-rodrigues/" rel="noopener noreferrer nofollow" target="_blank">Mr Crispin Rodrigues</a> 
+<p><strong>25-U1</strong> 
 <br>
-<br><strong>23-U2</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/english/mr-joshua-ng/" rel="noopener noreferrer nofollow" target="_blank">Mr Joshua Ng</a> 
 <br>
-<br><strong>23-U3</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/science/mdm-liu-shuyu/" rel="noopener noreferrer nofollow" target="_blank">Mdm Liu Shuyu</a> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/staff/english/ms-xu-xiuwen/" rel="noopener noreferrer nofollow" target="_blank">Ms Xu Xiuwen</a> 
+<br><strong>25-U2</strong> 
 <br>
-<br><strong>23-U4</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/maths/mr-kuang-kim-chun/" rel="noopener noreferrer nofollow" target="_blank">Mr Kuang Kim Chun</a> 
+</p>
+<p>
+<br><strong>25-U3</strong> 
 <br>
-<br><strong>23-U5</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/pe/mr-bryan-chan/" rel="noopener noreferrer nofollow" target="_blank">Mr Bryan Chan</a> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/mtl/mdm-pan-qun/" rel="noopener noreferrer nofollow" target="_blank">Mdm Pan Qun</a> 
 <br>
-<br><strong>23-U6</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/english/ms-kajal-kaur-khaira/" rel="noopener noreferrer nofollow" target="_blank">Ms Kajal Kaur Khaira</a>
+<br><strong>25-U4</strong> 
+<br>
+</p>
+<p>
+<br><strong>25-U5</strong> 
+<br>
+<br>
+<br><strong>25-U6</strong> 
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -315,17 +338,19 @@ variant: tiptap
 <p><strong>24-U3</strong> 
 <br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/mtl/mr-sun-xiaojun/" rel="noopener noreferrer nofollow" target="_blank">Mr Sun Xiaojun</a>
 </p>
+<p><a href="mailto:suellen.goh@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Suellen Goh</a>
+</p>
 <p></p>
 <p><strong>24-U4</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/science/mr-tan-zhen-yong/" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Zhen Yong</a> 
-<br>Mr Kang You Jin</p>
+<br><a href="https://www.eunoiajc.moe.edu.sg/staff/english/ms-xu-xiuwen/" rel="noopener noreferrer nofollow" target="_blank">Ms Xu Xiuwen</a>
+</p>
 <p></p>
 <p><strong>24-U5</strong> 
 <br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/maths/mr-tan-khoon-han/" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Khoon Han</a>
 </p>
 <p></p>
 <p><strong>24-U6</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/maths/ms-lim-yen-chui/" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Yen Chui</a>
+<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/english/mr-samuel-wong/" rel="noopener noreferrer nofollow" target="_blank">Mr Samuel Wong</a> 
 </p>
 <p></p>
 </td>
