@@ -22,7 +22,7 @@ you have always wondered about.</p>
 learn more about what knowledge is and what constitutes knowledge. You
 will also need to be able to work independently to satisfy your curiosity.
 KI students at Eunoia JC are handpicked from a selection test administered
-at the start ofJC1. Lessons, in an all-tutorial form, offer endless opportunities
+at the start of JC1. Lessons, in an all-tutorial form, offer endless opportunities
 for rich and in-depth discussion. With an independent study essay, you
 can be assured of a strong focus on independent research skills, to prepare
 you for active participation as a young member of the academic community.</p>
