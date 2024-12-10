@@ -163,6 +163,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:yvonne.ho@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Econs_Yvonne_Ho.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:yvonne.ho@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Yvonne Ho</a></strong>
+<br>HOD (Economics)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:erni.suriyani@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/cmc-erni-suriyani_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
