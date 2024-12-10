@@ -1,8 +1,0 @@
----
-title: Mr Kenny Tan
-permalink: /about/staff/economics/mr-kenny-tan/
-variant: tiptap
-description: ""
-third_nav_title: Economics
----
-<p>I graduated from the National University of Singapore with a Bachelor of Social Sciences in Economics (Second Upper Honours).</p><p>My teaching career started in a junior college where I taught H1 and H2 Economics. I enjoy discussing news articles with students in class for them to better understand how Economics could be applied to these contemporary and complex real-life issues. One of the most memorable experiences in my teaching journey was an overseas Values-In-Action (VIA) trip to Chiang Mai, where students taught English and Science to a group of underprivileged children in a village school. It allowed me to see how students grew out of their comfort zones and sharpen their collaboration and communication skills. Before joining Eunoia Junior College, I also had a stint in Curriculum Planning and Development Division (CPDD) as a Curriculum Resource Development Officer, where I curate learning material for Economics teachers and students.&nbsp;</p><p>My favorite quote is ‘Stay hungry, stay foolish’ by Steve Jobs. It encapsulates the importance of having a growth mindset to thrive in this volatile, uncertain, complex, and ambiguous (VUCA) world. This not only apply for students but for teachers as well.</p><p>Outside of teaching, I enjoy café hopping and trying different cups of coffee. My dream is to open a café one day.</p><p><a href="mailto:kenny.tan@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kenny.tan@ejc.edu.sg</a></p>
