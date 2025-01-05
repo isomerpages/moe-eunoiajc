@@ -8,7 +8,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Mixed Rice | 15 Nov 2024 | Interest applicants to take note that the stall operation will start in 2025 |
+| Chinese Mixed Rice | 15 Nov 2024 | Interested applicants to note that  stall operation will start in 2025 |
 
 
 ### **Application Procedure**
