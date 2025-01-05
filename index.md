@@ -11,6 +11,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: OPEN HOUSE
+          description: 11 Jan 2025
+          url: https://eunoiajc.moe.edu.sg/oh
         - title: A-Level Results
           description: Class of 2023
           url: /news/2024/results
@@ -20,9 +23,6 @@ sections:
         - title: Instagram
           description: Follow Us
           url: https://www.instagram.com/eunoiajc
-        - title: OPEN HOUSE
-          description: 11 Jan 2025
-          url: https://eunoiajc.moe.edu.sg/oh
       background: /images/Home_Banner3.jpg
       title: We Are Eunoia
       subtitle: Beautiful Thinking, Goodwill to All
