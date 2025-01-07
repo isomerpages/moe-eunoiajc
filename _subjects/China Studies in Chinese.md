@@ -32,5 +32,5 @@ have learned. Or make your voice heard by presenting your research paper
 to a notable audience. You too can be part of the exciting story taking
 place in China today.</p>
 <h4><strong>Syllabus Documents</strong></h4>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9629_y25_sy08e9833720e842d18ddc6d7e8cd48068.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 China Studies in Chinese</a>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9629_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 China Studies in Chinese</a>
 </p>
