@@ -179,7 +179,7 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong>24-E4</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/mtl/ms-lu-jing/" rel="noopener noreferrer nofollow" target="_blank">Ms Lu Jing</a>
+<br><a href="mailto:dionne.menez@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Dionne Menez</a>
 </p>
 <p></p>
 <p><strong>24-E5</strong> 
@@ -231,7 +231,6 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong>24-I4</strong> 
-<br><a href="mailto:dionne.menez@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Dionne Menez</a>
 <br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/science/ms-chia-xin-hui/" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Xin Hui</a>
 </p>
 <p></p>
