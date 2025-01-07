@@ -130,6 +130,8 @@ variant: tiptap
 <p><strong>24-A5</strong> 
 <br><a href="mailto:mike.tan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Mike Tan</a>
 </p>
+<p><a href="mailto:renuka.satianathan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Renuka Satianathan</a>
+</p>
 <p></p>
 <p><strong>24-A6</strong> 
 <br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/econs/mr-ma-mingwei/" rel="noopener noreferrer nofollow" target="_blank">Mr Ma Mingwei</a>
@@ -291,7 +293,7 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong>24-O5</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/science/dr-chan-kim-seng/" rel="noopener noreferrer nofollow" target="_blank">Dr Chan Kim Seng</a>
+<br><a href="mailto:chan.xin.yu@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Chan Xin Yu</a>
 </p>
 <p></p>
 <p><strong>24-O6</strong> 
