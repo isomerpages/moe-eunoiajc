@@ -16,11 +16,11 @@ administered by MOELC.</p>
 contrasting subject for students in the Science stream, and as one of three
 Humanities and the Arts subjects in the Arts stream.</p>
 <h4><strong>Syllabus Documents</strong></h4>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9735_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 French</a>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9735_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 French</a>
 </p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9736_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 German</a>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9736_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 German</a>
 </p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9737_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Japanese</a>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9737_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Japanese</a>
 </p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9578_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Spanish</a>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9578_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Spanish</a>
 </p>
