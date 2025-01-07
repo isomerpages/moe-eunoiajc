@@ -34,5 +34,5 @@ expertise. Beyond the college, you will be encouraged to take part in university
 enrichment programmes. We endeavour to strive, to seek and to find more,
 not less.</p>
 <h4><strong>Syllabus Documents</strong></h4>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9759_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Knowledge and Inquiry</a>
+<p><a href="https://www.seab.gov.sg/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2026/#:~:text=Knowledge%20and%20Inquiry" rel="noopener noreferrer nofollow" target="_blank">H2 Knowledge and Inquiry</a>
 </p>
