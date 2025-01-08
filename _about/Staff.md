@@ -129,6 +129,7 @@ variant: tiptap
 <p></p>
 <p><strong>24-A5</strong> 
 <br><a href="mailto:mike.tan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Mike Tan</a>
+<br><a href="mailto:renuka.satianathan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Renuka Satianathan</a>
 </p>
 <p></p>
 <p><strong>24-A6</strong> 
@@ -179,7 +180,7 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong>24-E4</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/mtl/ms-lu-jing/" rel="noopener noreferrer nofollow" target="_blank">Ms Lu Jing</a>
+<br><a href="mailto:dionne.menez@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Dionne Menez</a>
 </p>
 <p></p>
 <p><strong>24-E5</strong> 
@@ -231,7 +232,6 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong>24-I4</strong> 
-<br><a href="mailto:dionne.menez@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Dionne Menez</a>
 <br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/science/ms-chia-xin-hui/" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Xin Hui</a>
 </p>
 <p></p>
@@ -292,7 +292,7 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong>24-O5</strong> 
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/science/dr-chan-kim-seng/" rel="noopener noreferrer nofollow" target="_blank">Dr Chan Kim Seng</a>
+<br><a href="mailto:chan.xin.yu@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Chan Xin Yu</a>
 </p>
 <p></p>
 <p><strong>24-O6</strong> 
@@ -338,8 +338,7 @@ variant: tiptap
 <p></p>
 <p><strong>24-U3</strong> 
 <br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/mtl/mr-sun-xiaojun/" rel="noopener noreferrer nofollow" target="_blank">Mr Sun Xiaojun</a>
-</p>
-<p><a href="mailto:suellen.goh@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Suellen Goh</a>
+<br><a href="mailto:suellen.goh@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Suellen Goh</a>
 </p>
 <p></p>
 <p><strong>24-U4</strong> 

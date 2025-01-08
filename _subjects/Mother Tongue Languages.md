@@ -34,15 +34,15 @@ from experts in the various linguistic fields. You will be involved in
 celebrating our biculturalism and bilingualism through the Eunoia MTL Fortnight,
 together with our extended community.</p>
 <h4><strong>Syllabus Documents</strong></h4>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8655_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Chinese Language</a>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8655_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Chinese Language</a>
 </p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8611_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Language B</a>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8611_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Language B</a>
 </p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8656_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Malay Language</a>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8656_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Malay Language</a>
 </p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8613_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay Language B</a>
+<p><a href="https://www.seab.gov.sg/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2026/#:~:text=%2D-,Malay%20B,-Malay" rel="noopener noreferrer nofollow" target="_blank">Malay Language B</a>
 </p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8614_y24_sy.pdf?sfvrsn=535d8874_2" rel="noopener noreferrer nofollow" target="_blank">H1 Tamil Language</a>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8657_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Tamil Language</a>
 </p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8614_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Language B</a>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8614_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Language B</a>
 </p>

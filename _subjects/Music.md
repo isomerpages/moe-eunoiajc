@@ -30,7 +30,7 @@ broaden your perspectives on music. Or choose to go local — share your
 talent with the college community, our neighbourhood or anywhere in Singapore
 through specially organised concerts.</p>
 <h4><strong>Syllabus Documents</strong></h4>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9753_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Music</a>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9753_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Music</a>
 </p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9819_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Music</a>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9819_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Music</a>
 </p>
