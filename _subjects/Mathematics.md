@@ -23,7 +23,7 @@ to evaluate and reflect on your work. Perhaps there is a winning formula
 after all! EJC students in the Arts stream may offer Mathematics as a contrasting
 subject at H1 or H2 level. If you have an enduring passion for Mathematics
 and wish to acquire a wider range of mathematical concepts and skills,
-you can offer&nbsp;<strong><a href="https://eunoiajc.moe.edu.sg/curriculum/academic-subjects/further-mathematics/" rel="noopener noreferrer nofollow" target="_blank">H2 Further Mathematics</a></strong> as
+you can offer&nbsp;<strong><a href="https://www.eunoiajc.moe.edu.sg/subjects/fmaths/" rel="noopener noreferrer nofollow" target="_blank">H2 Further Mathematics</a></strong> as
 a student in the Science stream.</p>
 <h4><strong>Our Enrichment</strong></h4>
 <p>The EJC Mathematics Talent Development Programme aims to groom a pool
@@ -36,9 +36,9 @@ knowledge. To us, Mathematics is a language that can be acquired and appreciated
 with ideas that transcend disciplines. There’s certainly truth in how Mathematics
 is said to be the language in which the universe was written.</p>
 <h4><strong>Syllabus Documents</strong></h4>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8865_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Mathematics</a>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8865_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Mathematics</a>
 </p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9758_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Mathematics</a>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9758_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Mathematics</a>
 </p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9820_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Mathematics</a>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9820_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Mathematics</a>
 </p>

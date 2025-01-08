@@ -40,7 +40,7 @@ together with our extended community.</p>
 </p>
 <p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8656_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Malay Language</a>
 </p>
-<p><a href="https://www.seab.gov.sg/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2026/#:~:text=%2D-,Malay%20B,-Malay" rel="noopener noreferrer nofollow" target="_blank">Malay Language B</a>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8613_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay Language B</a>
 </p>
 <p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8657_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Tamil Language</a>
 </p>

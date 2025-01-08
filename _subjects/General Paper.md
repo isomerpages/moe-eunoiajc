@@ -33,5 +33,5 @@ to use your knowledge to benefit the community around you – for example,
 you can be part of student-led lectures or create podcasts to initiate
 discussions about issues of local, regional and global significance!</p>
 <h4><strong>Syllabus Documents</strong></h4>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8881_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 General Paper</a>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8881_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 General Paper</a>
 </p>
