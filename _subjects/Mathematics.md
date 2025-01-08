@@ -36,9 +36,9 @@ knowledge. To us, Mathematics is a language that can be acquired and appreciated
 with ideas that transcend disciplines. There’s certainly truth in how Mathematics
 is said to be the language in which the universe was written.</p>
 <h4><strong>Syllabus Documents</strong></h4>
-<p><a href="https://www.seab.gov.sg/files/A Level Syllabus Sch Cddts/2025/8865_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Mathematics</a>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8865_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Mathematics</a>
 </p>
-<p><a href="https://www.seab.gov.sg/files/A Level Syllabus Sch Cddts/2025/9758_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Mathematics</a>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9758_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Mathematics</a>
 </p>
-<p><a href="https://www.seab.gov.sg/files/A Level Syllabus Sch Cddts/2025/9820_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Mathematics</a>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9820_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Mathematics</a>
 </p>
