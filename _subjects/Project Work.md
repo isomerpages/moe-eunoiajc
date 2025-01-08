@@ -30,5 +30,5 @@ Conversations’, there will be something for everybody to come out of Project
 Work a better person, better placed to make your community, Singapore and
 the world a better place for everyone.</p>
 <h4><strong>Syllabus Documents</strong></h4>
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8882_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Project Work (Revised)</a>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8882_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Project Work</a>
 </p>
