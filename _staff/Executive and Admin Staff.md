@@ -111,6 +111,19 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Bill Tan Keng Hwee</strong>
+</p>
+<p>Operations Support Officer</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/Staff/eas-jaumengjuam.jpg">
 </div>
 </td>
@@ -150,6 +163,18 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Suriyati Binte Midi</strong> 
 <br>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Vendamarai d/o Sokanathan</strong>
+<br>Operations Support Officer</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -204,17 +229,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Francis Tan</strong> 
-<br>STEM Instructor (Laboratory)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Staff/EAS-Koh-Hui-Min_s.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Koh Hui Min</strong> 
 <br>STEM Instructor (Laboratory)</p>
 </td>
 </tr>
