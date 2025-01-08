@@ -36,7 +36,7 @@ customised training for Science Olympiads. For budding professors, engage
 in university-style literature reviews and presentations. At EJC, we bond
 rigour and discovery.</p>
 <h4><strong>Syllabus Documents</strong></h4>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9744_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Biology</a>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9477_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Biology</a>
 </p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9816_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Biology</a>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9816_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Biology</a>
 </p>
