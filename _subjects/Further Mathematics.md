@@ -25,7 +25,7 @@ knowledge. To us, Mathematics is a language that can be acquired and appreciated
 with ideas that transcend disciplines. There’s certainly truth in how Mathematics
 is said to be the language in which the universe was written.</p>
 <h4><strong>Syllabus Documents</strong></h4>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9649_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Further Mathematics</a>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9649_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Further Mathematics</a>
 </p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9820_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Mathematics</a>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9820_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Mathematics</a>
 </p>
