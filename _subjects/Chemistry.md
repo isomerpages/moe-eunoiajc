@@ -36,7 +36,8 @@ and delve into the ethical dilemmas of research. Our Chemistry lessons
 balance hands-on and intellectually stimulating experiences, where you
 will always be the reactive element.</p>
 <h4><strong>Syllabus Documents</strong></h4>
-<p>H1 Chemistry</p>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8873_y26_sy.pdf" rel="noopener nofollow" target="_blank">H1 Chemistry</a>
+</p>
 <p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9476_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Chemistry</a>
 </p>
 <p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9813_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Chemistry</a>

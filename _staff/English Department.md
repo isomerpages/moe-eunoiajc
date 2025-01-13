@@ -221,6 +221,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/profile.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:elmer.loh@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Elmer Loh</a></strong>
+<br>Teacher (General Paper)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL_Alethea_Ellingsen.jpg">
 </div>
 </td>
