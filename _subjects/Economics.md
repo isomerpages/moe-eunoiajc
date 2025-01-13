@@ -40,5 +40,4 @@ With knowledge of the economy, you have the ability to advance the world.</p>
 </p>
 <p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9570_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Economics</a>
 </p>
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9809_y26_sy.pdf" rel="noopener nofollow" target="_blank">H3 Economics</a>
-</p>
+<p></p>
