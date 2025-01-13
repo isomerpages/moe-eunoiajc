@@ -140,7 +140,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="bernice.lee@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Bernice Lee</a></strong>
+<p><strong><a href="mailto:bernice.lee@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Bernice Lee</a></strong>
 <br>Teacher (Economics)</p>
 </td>
 </tr>
