@@ -133,6 +133,15 @@ variant: tiptap
 <br>Teacher (Economics)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="bernice.lee@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Bernice Lee</a></strong>
+<br>Teacher (Economics)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
