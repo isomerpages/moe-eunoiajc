@@ -135,7 +135,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/profile.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="bernice.lee@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Bernice Lee</a></strong>
