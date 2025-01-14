@@ -23,3 +23,6 @@ variant: tiptap
 <p><strong>Mrs Yew-Tay Li Kim</strong>
 <br><a href="mailto:tay.li.kim@ejc.edu.sg" rel="noopener nofollow" target="_blank">tay.li.kim@ejc.edu.sg</a>
 </p>
+<p><strong>Mr Matthew Ooi</strong>
+<br><a href="mailto:matthew.ooi@ejc.edu.sg" rel="noopener nofollow" target="_blank">matthew.ooi@ejc.edu.sg</a>
+</p>
