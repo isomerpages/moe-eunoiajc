@@ -23,9 +23,6 @@ variant: tiptap
 <p><strong>Mr George Danapal</strong>
 <br><a href="mailto:george.danapal@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">george.danapal@ejc.edu.sg</a>
 </p>
-<p><strong>Mr Cavell Chee</strong>
-<br><a href="mailto:cavell.chee@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cavell.chee@ejc.edu.sg</a>
-</p>
 <p><strong>Mr Ong Junjie</strong>
 <br><a href="mailto:ong.junjie@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong.junjie@ejc.edu.sg</a>
 <br>
