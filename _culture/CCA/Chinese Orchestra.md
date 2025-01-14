@@ -24,3 +24,6 @@ variant: tiptap
 <p><strong>Mr Kang You-Jin</strong>
 <br><a href="mailto:kang.you-jin@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kang.you-jin@ejc.edu.sg</a>
 </p>
+<p><strong>Ms Karol Ann Tan</strong>
+<br><a href="mailto:karol.ann.tan@ejc.edu.sg" rel="noopener nofollow" target="_blank">karol.ann.tan@ejc.edu.sg</a>
+</p>
