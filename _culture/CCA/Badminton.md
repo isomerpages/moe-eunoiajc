@@ -22,6 +22,4 @@ variant: tiptap
 <p><strong>Mr Allen Lee </strong>
 <br><a href="mailto:allen.lee@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">allen.lee@ejc.edu.sg</a>
 </p>
-<p><strong>Dr Chan Kim Seng</strong>
-<br><a href="mailto:chan.kim.seng@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan.kim.seng@ejc.edu.sg</a>
-</p>
+<p></p>
