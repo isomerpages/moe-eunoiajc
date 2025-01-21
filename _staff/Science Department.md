@@ -139,6 +139,17 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:low.pei.xuan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Low Pei Xuan</a></strong>
+<br>Teacher (Biology)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:chan.xin.yu@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Chan-Xin-Yu-s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
@@ -155,18 +166,13 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:evelyn.yong@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Evelyn_Yong.jpg"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:evelyn.yong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Evelyn Yong</a></strong>
-<br>Teacher (Chemistry)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:jeannie.oh@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Jeannie_Oh.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:jeannie.oh@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Jeannie Oh</a></strong>
+<p><strong><a href="mailto:jeffrey.ang@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Jeffrey Ang</a></strong>
 <br>Teacher (Chemistry)</p>
 </td>
 </tr>
@@ -201,7 +207,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Luke Lau</strong> 
+<p><strong><a href="mailto:luke.lau@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Luke Lau</a></strong>
 <br>Teacher (Chemistry)</p>
 </td>
 </tr>
@@ -230,10 +236,13 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:tan.wei.lin@ejc.edu.sg"><img style="width: 50%;" height="auto" width="100%" src="/images/Staff/Sci-Chin-Tan-Wei-Lin_s.jpg"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan.wei.lin@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Chin-Tan Wei Lin</a></strong> 
+<p><strong><a href="mailto:helen.ng@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Helen Ng</a></strong>
 <br>Teacher (Physics)</p>
 </td>
 </tr>
@@ -244,7 +253,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Helen Ng</strong> 
+<p><strong><a href="mailto:loo.wee.ping@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Loo Wee Ping</a></strong>
 <br>Teacher (Physics)</p>
 </td>
 </tr>
@@ -269,14 +278,6 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:eng.yee.wen@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ong-Eng Yee Wen</a></strong> 
-<br>Teacher (Physics)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:soo.pui.wah@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/sci-soopuiwah_s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:soo.pui.wah@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Soo Pui Wah</a></strong> 
 <br>Teacher (Physics)</p>
 </td>
 </tr>
