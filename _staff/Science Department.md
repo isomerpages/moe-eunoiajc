@@ -258,7 +258,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:ho.hon.wing@ejc.edu.sg"><img style="width: 50%;" height="auto" width="100%" src="/images/Staff/Sci-Ho-Hon-Wing_s.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:ho.hon.wing@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Ho-Hon-Wing_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:ho.hon.wing@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ho Hon Wing</a> </strong>
@@ -266,7 +266,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:lim.teck.seng@ejc.edu.sg"><img style="width: 50%;" height="auto" width="100%" src="/images/Staff/Lim-Teck-Seng-s.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:lim.teck.seng@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Lim-Teck-Seng-s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:lim.teck.seng@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Teck Seng</a></strong> 
