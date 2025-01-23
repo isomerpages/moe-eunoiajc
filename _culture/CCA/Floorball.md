@@ -12,8 +12,8 @@ variant: tiptap
 <p><strong>Thursday</strong>
 <br>4.30 - 7.30pm
 <br>Indoor Sports Hall</p>
-<p><em>For Term 2</em>
-<br><strong>Saturday </strong>
+<p>
+<br><strong>Saturday (Term 2 Week 1 onwards)</strong>
 <br>10.30 - 1.00pm
 <br>Indoor Sports Hall</p>
 <h3><strong>Teachers-in-charge</strong></h3>
