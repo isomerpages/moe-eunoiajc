@@ -7,12 +7,12 @@ variant: tiptap
 ---
 <h4><strong>CCA Schedule</strong></h4>
 <p><strong>Tuesday</strong>
-<br>(Odd Week) 2.00&nbsp;- 4.30pm
-<br>(Even Week) 4.30 - 7.00pm
-<br>Performing Arts Studio 1-2</p>
+<br>(Odd Week) 2.00&nbsp;- 5.00pm
+<br>(Even Week) 4.30 - 7.30pm
+<br>Performing Arts Studio 1 &amp; 2</p>
 <p><strong>Wednesday</strong>
-<br>3.30&nbsp;- 6.00pm
-<br>Performing Arts Studio 1-2</p>
+<br>4.00&nbsp;- 7.00pm
+<br>Performing Arts Studio 1 &amp; 2</p>
 <p></p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <p><strong>Ms Juliana Wong</strong>
