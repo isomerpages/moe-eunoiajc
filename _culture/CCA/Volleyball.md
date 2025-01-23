@@ -11,9 +11,9 @@ variant: tiptap
 <br>Multi-Purpose&nbsp;Hall</p>
 <p><strong>Thursday</strong>
 <br>5.00 - 7.30pm
-<br>Multi-Purpose&nbsp;Hall</p>
-<p><em>Term 2</em>
-<br><strong>Saturday </strong>
+<br>Multi-Purpose&nbsp;Hall
+<br>
+<br><strong>Saturday (Peak Season before NSG) </strong>
 <br>8.00 - 12.00pm
 <br>Multi-Purpose Hall</p>
 <p></p>
