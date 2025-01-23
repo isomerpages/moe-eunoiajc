@@ -8,10 +8,10 @@ variant: tiptap
 <h4><strong>CCA Schedule</strong></h4>
 <p><strong>Wednesday</strong>
 <br>3.30&nbsp;- 6.00pm
-<br>Com Lab 1-2</p>
+<br>Computer Lab 1 &amp; 2</p>
 <p><strong>Friday</strong>
 <br>3.30 - 6.00pm
-<br>Com Lab 1-2</p>
+<br>Computer Lab 1 &amp; 2</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <p><strong>Mr Ma Mingwei</strong>
 <br><a href="mailto:ma.mingwei@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ma.mingwei@ejc.edu.sg</a>
