@@ -32,4 +32,5 @@ the power to inspire people. So do you.</p>
 <h4><strong>Syllabus Documents</strong></h4>
 <p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9750_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Art</a>
 </p>
-<p>H3 Art</p>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9818_y26_sy.pdf" rel="noopener nofollow" target="_blank">H3 Art</a>
+</p>
