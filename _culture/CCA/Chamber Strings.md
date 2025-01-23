@@ -6,9 +6,9 @@ third_nav_title: CCA
 variant: tiptap
 ---
 <h4><strong>CCA Schedule</strong></h4>
-<p><strong>Monday</strong>
-<br>4.00&nbsp;- 6.30pm
-<br>MEP Studio 2 / MEP Practice Studio</p>
+<p><strong>Wednesday</strong>
+<br>4.00&nbsp;- 7.00pm
+<br>MEP Studio 1 / MEP Practice Studio</p>
 <p></p>
 <h4><strong>Teacher-in-charge</strong></h4>
 <p><strong>Mr Kang You-Jin</strong>
