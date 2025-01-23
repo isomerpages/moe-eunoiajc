@@ -6,7 +6,7 @@ third_nav_title: CCA
 variant: tiptap
 ---
 <h3><strong>CCA Schedule</strong></h3>
-<p><strong>Monday</strong>
+<p><strong>Monday (only during competition season)</strong>
 <br>4.30 - 7.30pm
 <br>Field</p>
 <p><strong>Wednesday</strong>
