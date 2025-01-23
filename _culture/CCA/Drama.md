@@ -8,10 +8,10 @@ variant: tiptap
 <h4><strong>CCA Schedule</strong></h4>
 <p><strong>Wednesday</strong>
 <br>4.00 - 7.00pm
-<br>Auditorium / Performing Arts Studio 1-2</p>
+<br>Auditorium</p>
 <p><strong>Friday</strong>
 <br>4.00 - 7.00pm
-<br>Auditorium / Performing Arts Studio 1-2</p>
+<br>Auditorium</p>
 <p></p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <p><strong>Ms Xu Xiuwen</strong>
