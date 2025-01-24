@@ -7,14 +7,19 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>Dear Eunoians,</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Lumina.jpg">
+</div>
+<p></p>
+<p>Dear Eunoians,</p>
 <p>Hello and a warm welcome to Eunoia Junior College! You will embark on
 your journey as an incoming JC1 student, forming new friendships, forging
-new memories and fostering new familiarities. The JC1 Orientation, <em>Eutopia, </em>marks
-the beginning of our myriad of programmes that have been specially curated
-for you to explore your passions and pursuits in your next two years in
-EJC. &nbsp;As one Eunoia, may our minds ignite, our hearts unite and together,
-our dreams take flight!</p>
+new memories and fostering new familiarities. Your Orientation into the
+college, themed <em>Lumina, </em>marks the beginning of our myriad of programmes
+that have been specially curated for you to shine your light in your next
+two years in EJC. &nbsp;As one Eunoia, may our minds ignite, our hearts
+unite and together, our dreams take flight! #EunoiaShining</p>
 <p></p>
 <p><strong>Ms Yang Shu Hung<br></strong>Dean (JC1)</p>
 <p></p>
@@ -37,9 +42,8 @@ Diagnostic test. Please refer to the table below for the details and <strong>reg
 <a href="https://forms.gle/BAQEHb1mNLCxaDTr8" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2025_Selection_Tests.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2025_selectiontests.png">
 </div>
-<p></p>
 <p></p>
 <h4><strong>Uniform Purchase</strong></h4>
 <p>The uniform vendor will be in the college for students to purchase their
