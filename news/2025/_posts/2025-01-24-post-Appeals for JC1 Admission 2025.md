@@ -16,6 +16,7 @@ for transfer to Eunoia Junior College will be based on merit. Students
 who wish to appeal on other grounds are unlikely to be successful if they
 have not met the course Cut-Off Point (COP) for the year and do not present
 extenuating circumstances to merit a transfer.</p>
+<p>The 2025 COP of the Science and Arts courses will be updated on 4 Feb.</p>
 <p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/eunoiajcjaeappeals2025"><img style="width: 25%;" height="auto" width="100%" alt="Online Form" src="/images/Form.png"></a>
 <p></p>
 <h4><strong>Instructions</strong></h4>
