@@ -16,15 +16,12 @@ for transfer to Eunoia Junior College will be based on merit. Students
 who wish to appeal on other grounds are unlikely to be successful if they
 have not met the course Cut-Off Point (COP) for the year and do not present
 extenuating circumstances to merit a transfer.</p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/65a9db9b4c2f3e0012a76c9b"><img style="width: 25%;" height="auto" width="100%" alt="Online Form" src="/images/Form.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/eunoiajcjaeappeals2025"><img style="width: 25%;" height="auto" width="100%" alt="Online Form" src="/images/Form.png"></a>
 <p></p>
 <h4><strong>Instructions</strong></h4>
-<p><strong><a href="https://form.gov.sg/65a9db9b4c2f3e0012a76c9b" rel="noopener noreferrer nofollow" target="_blank">Complete the online form</a></strong>.&nbsp;<strong>You are required to upload the following documents</strong> as
+<p><strong><a href="https://go.gov.sg/eunoiajcjaeappeals2025" rel="noopener noreferrer nofollow" target="_blank">Complete the online form</a></strong>.&nbsp;<strong>You are required to upload the following documents</strong> as
 part of your appeal submission:</p>
 <ul data-tight="true" class="tight">
-<li>
-<p>Form A</p>
-</li>
 <li>
 <p>Verification slip for choice of JC / Poly courses&nbsp;</p>
 </li>
@@ -52,11 +49,6 @@ the application outcome via email.</p>
 <p>The decision of the Admissions Committee is final. No further appeals
 will be considered.</p>
 <h4><strong>Annexes</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/JAE-Annex-A-784x1024.jpeg">
-</div>
-<p><em>Sample Form</em>
-</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:65%" height="auto" width="100%" src="/images/JAE-Annex-B-853x1024.jpeg">
