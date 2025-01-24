@@ -7,14 +7,14 @@ variant: tiptap
 ---
 <h3>CCA Schedule</h3>
 <p><strong>Tuesday</strong>
-<br>5.00 - 7.30pm
+<br>5.00 - 7.30pm (8.00 - 11.00am for HBL weeks)
 <br>Hockey D</p>
 <p><strong>Thursday</strong>
 <br>5.00 - 7.30pm
 <br>Hockey D</p>
-<p><strong>Saturday (School Teams)</strong>
-<br>8.00 - 11.00am
-<br>Hockey D / Field</p>
+<p><strong>Saturday (Peak Season before NSG)</strong>
+<br>8.00 - 11.00am / 3.00 - 5.00pm
+<br>Hockey D and Field / Evans Rd hockey pitch</p>
 <h3>Teachers-in-charge</h3>
 <p><strong>Ms Loh Kai Suan</strong>
 <br><a href="mailto:loh.kai.suan@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh.kai.suan@ejc.edu.sg</a>

@@ -6,9 +6,12 @@ third_nav_title: CCA
 variant: tiptap
 ---
 <h4><strong>CCA Schedule</strong></h4>
+<p><strong>Wednesday</strong>
+<br>4.00&nbsp;- 7.30pm
+<br>Band room / Tutorial rooms</p>
 <p><strong>Thursday</strong>
-<br>4.00&nbsp;- 6.30pm
-<br>Performing Arts Studio 2 / MEP Studio 2</p>
+<br>4.00&nbsp;- 7.30pm
+<br>Band room / Auditorium / Lecture Theatre 1</p>
 <p></p>
 <h4><strong>Teacher-in-charge</strong></h4>
 <p><strong>Mr Matthew Ooi</strong>

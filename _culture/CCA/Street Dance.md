@@ -6,15 +6,10 @@ third_nav_title: CCA
 variant: tiptap
 ---
 <h4><strong>CCA Schedule</strong></h4>
-<p><em>Semester 1</em>
-<br><strong>Monday</strong>
-<br>4.00&nbsp;- 6.30pm
-<br>Performing Arts Studio 1-2</p>
-<p></p>
-<p><em>Semester 2</em>
+<p>
 <br><strong>Friday</strong>
-<br>3.30 - 5.30pm
-<br>Performing Arts Studio 2</p>
+<br>4.00 - 7.30pm
+<br>Performing Arts Studio 1 &amp; 2</p>
 <p></p>
 <h4><strong>Teacher-in-charge</strong></h4>
 <p><strong>Ms Lee Ngern Sim</strong>

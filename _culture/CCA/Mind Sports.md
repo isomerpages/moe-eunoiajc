@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4><strong>CCA Schedule</strong></h4>
 <p><strong>Wednesday</strong>
-<br>4.00 - 6.00pm
+<br>3.30 - 6.00pm
 <br>TR6-09 / 10 / 11</p>
 <p></p>
 <h4><strong>Teachers-in-charge</strong></h4>

@@ -11,9 +11,9 @@ variant: tiptap
 <br>Indoor Sports Hall</p>
 <p><strong>Thursday</strong>
 <br>4.30 - 7.30pm
-<br>Indoor Sports Hall</p>
-<p><em>For Term 2</em>
-<br><strong>Saturday </strong>
+<br>Indoor Sports Hall
+<br>
+<br><strong>Saturday (Peak Season before NSG)</strong>
 <br>10.30 - 1.00pm
 <br>Indoor Sports Hall</p>
 <h3><strong>Teachers-in-charge</strong></h3>
