@@ -57,7 +57,7 @@ ones.</p>
 </ul>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
-<h3><strong>Overview of Eunoia Junior College's Sexuality Education Programme for 2024</strong></h3>
+<h3><strong>Overview of Eunoia Junior College's Sexuality Education Programme for 2025</strong></h3>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -70,7 +70,7 @@ in the school curriculum.</p>
 relationships. Specifically, the JC/CI package covers Interpersonal Relationships,
 with themes of Human Development, Sexual Health, Sexual Behaviour, and
 Culture, Society and Law woven into the main focus on relationships.</p>
-<p><strong>At Eunoia Junior College, the following lessons from the Growing Years Programme will be taught in&nbsp;<u>2024</u>:</strong>
+<p><strong>At Eunoia Junior College, the following lessons from the Growing Years Programme will be taught in&nbsp;<u>2025</u>:</strong>
 </p>
 <h3><strong>JC1</strong></h3>
 <table style="minWidth: 100px">
@@ -293,7 +293,7 @@ that the impact of STI/HIV extends beyond themselves and involves their
 family. Abstinence and upholding family values are the key messages. The
 desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students
 are empowered to make wise, informed and sensible decisions.</p>
-<p><strong>At Eunoia Junior College, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
+<p><strong>At Eunoia Junior College, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
