@@ -73,7 +73,13 @@ Culture, Society and Law woven into the main focus on relationships.</p>
 <p><strong>At Eunoia Junior College, the following lessons from the Growing Years Programme will be taught in&nbsp;<u>2024</u>:</strong>
 </p>
 <h3><strong>JC1</strong></h3>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -176,7 +182,13 @@ on being a source of support for others who may be pregnant or have STIs.</p>
 </tbody>
 </table>
 <h3><strong>JC2</strong></h3>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -283,7 +295,12 @@ desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students
 are empowered to make wise, informed and sensible decisions.</p>
 <p><strong>At Eunoia Junior College, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -330,12 +347,12 @@ programmes by MOE-approved external providers.</p>
 opt their children out of the Sexuality Education lessons need to complete
 an opt-out form. This form will be communicated to parents at the start
 of the year and is also downloadable <strong><a href="/files/SEd_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>.
-The completed form is to be submitted by 01/03/2024.</p>
+The completed form is to be submitted by 28/02/2025.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
 the year and is also downloadable <strong><a href="/files/SEd_eTeens_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>.The
-completed form is to be submitted by 01/03/2024.</p>
+completed form is to be submitted by 28/02/2025.</p>
 <p>11. &nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at<strong> <a rel="noopener noreferrer nofollow" target="_blank">eunoiajc@moe.edu.sg</a></strong> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
