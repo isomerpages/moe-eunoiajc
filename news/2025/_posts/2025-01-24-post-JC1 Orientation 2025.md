@@ -21,14 +21,14 @@ that have been specially curated for you to shine your light in your next
 two years in EJC. &nbsp;As one Eunoia, may our minds ignite, our hearts
 unite and together, our dreams take flight! #EunoiaShining</p>
 <p></p>
-<p><strong>Ms Yang Shu Hung<br></strong>Dean (JC1)</p>
+<p><strong>Ms Yang Shu Hung</strong>
+<br>Dean (JC1)</p>
 <p></p>
 <h4><strong>Reporting Details</strong></h4>
-<p>Date: <strong>5 Feb 2024 (Wed) </strong>
-<br>Time: <strong>7.55 am </strong>
-<br>Venue: <strong>Multi Purpose Hall (MPH)</strong> 
-<br>Attire: <strong>Secondary School PE T-shirt and bottoms </strong>(skirt
-/ pants)</p>
+<p>Date: 5 Feb 2024 (Wed)
+<br>Time: 7.55 am
+<br>Venue: Multi Purpose Hall (MPH)
+<br>Attire: Secondary School PE T-shirt and bottoms (skirt / pants)</p>
 <p></p>
 <p>The purchase of uniforms as well as selection / diagnostic tests for selected
 subjects will take place after 2pm. You will be added to a WhatsApp group
