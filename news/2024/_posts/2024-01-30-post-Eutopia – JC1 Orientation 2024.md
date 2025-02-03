@@ -1,6 +1,6 @@
 ---
 title: Eutopia – JC1 Orientation 2024
-permalink: /news/2024/orientation/
+permalink: /2024/orientation/
 date: 2024-01-30
 layout: post
 description: ""

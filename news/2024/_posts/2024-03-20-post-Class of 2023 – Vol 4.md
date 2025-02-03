@@ -1,6 +1,6 @@
 ---
 title: Class of 2023 – Vol 4
-permalink: /news/2024/class4/
+permalink: /2024/class4/
 date: 2024-03-20
 layout: post
 description: ""

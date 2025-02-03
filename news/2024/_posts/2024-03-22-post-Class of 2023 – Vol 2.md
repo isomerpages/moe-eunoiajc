@@ -1,6 +1,6 @@
 ---
 title: Class of 2023 – Vol 2
-permalink: /news/2024/class2/
+permalink: /2024/class2/
 date: 2024-03-22
 layout: post
 description: ""
