@@ -21,7 +21,9 @@ successful if they have not met the course Cut-Off Point for the year and
 do not present extenuating circumstances to merit a transfer.</p>
 <p>The 2025 Cut-Off Point for the Science course is <strong>5</strong> and
 the Arts course is <strong>6</strong>.</p>
+<p></p>
 <p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/eunoiajcjaeappeals2025"><img style="width: 25%;" height="auto" width="100%" alt="Online Form" src="/images/Form.png"></a>
+<p></p>
 <p></p>
 <h4><strong>Instructions</strong></h4>
 <p><strong><a href="https://go.gov.sg/eunoiajcjaeappeals2025" rel="noopener noreferrer nofollow" target="_blank">Complete the online form</a></strong>.&nbsp;You
