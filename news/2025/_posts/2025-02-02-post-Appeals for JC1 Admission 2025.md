@@ -14,7 +14,7 @@ variant: tiptap
 have not been posted to Eunoia Junior College (EJC) under the JAE Posting
 Exercise. Students admitted to other institutions via Direct School Admission
 (DSA-JC) are not eligible for this exercise.</p>
-<p>The&nbsp;official appeal period for JAE is from&nbsp;<u>4 Feb</u> to <u>10 Feb 2025 </u>(1700
+<p>The&nbsp;official appeal period for JAE is from&nbsp;<u>4 Feb 2025</u> to <u>10 Feb 2025</u> (1700
 hours). Appeals for transfer to Eunoia Junior College will be based on
 merit. Students who wish to appeal on other grounds are unlikely to be
 successful if they have not met the course Cut-Off Point for the year and
@@ -47,7 +47,7 @@ the <strong>email</strong>  <strong>subject</strong> titled,&nbsp;<strong>"Docum
 <p><strong>All appeals must reach the college by 10 Feb 2025 (1700 hours).</strong>
 </p>
 <p>Please refer to and understand the&nbsp;<strong><a href="/subject-combinations/" rel="noopener noreferrer nofollow" target="_blank">subject combinations</a></strong>&nbsp;available
-in the college before starting the application.&nbsp;</p>
+in the college before starting the application.</p>
 <p>Incomplete / Late applications will not be considered.</p>
 <p><strong>Only successful applicants will be notified by 11 Feb 2025 </strong>on
 the application outcome via email.</p>
