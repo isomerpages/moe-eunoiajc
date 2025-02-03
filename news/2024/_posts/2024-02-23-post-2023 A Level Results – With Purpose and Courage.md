@@ -1,6 +1,6 @@
 ---
 title: 2023 A Level Results – With Purpose and Courage
-permalink: /news/2024/results/
+permalink: /2024/results/
 date: 2024-02-23
 layout: post
 description: ""

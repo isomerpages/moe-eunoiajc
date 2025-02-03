@@ -1,6 +1,6 @@
 ---
 title: Appeals for JC1 Admission 2024
-permalink: /news/2024/appeals/
+permalink: /2024/appeals/
 date: 2024-01-30
 layout: post
 description: ""
