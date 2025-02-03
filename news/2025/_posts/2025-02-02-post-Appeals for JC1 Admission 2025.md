@@ -7,6 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025/Chibis.png">
+</div>
 <p>The Joint Admissions Exercise (JAE) Appeal Exercise is for students who
 have not been posted to Eunoia Junior College (EJC) under the JAE Posting
 Exercise. Students admitted to other institutions via Direct School Admission
