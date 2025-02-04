@@ -31,7 +31,7 @@ unite and together, our dreams take flight! #EunoiaShining</p>
 <br>Attire: Secondary School uniform</p>
 <p></p>
 <p>Selection / diagnostic tests for selected subjects will take place after
-1.30pm. You will be added to a WhatsApp group by your OGLs where they will
+1 pm. You will be added to a WhatsApp group by your OGLs where they will
 be disseminating information relating to Orientation. In the meantime,
 do follow the EJC Orientation Instagram account <strong><a href="https://www.instagram.com/ejc.orientation" rel="noopener noreferrer nofollow" target="_blank">@ejc.orientation</a></strong>!</p>
 <p></p>
