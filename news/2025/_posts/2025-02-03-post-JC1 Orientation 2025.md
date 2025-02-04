@@ -30,10 +30,10 @@ unite and together, our dreams take flight! #EunoiaShining</p>
 <br>Venue: Multi Purpose Hall (MPH)
 <br>Attire: Secondary School uniform</p>
 <p></p>
-<p>Selection / diagnostic tests for selected subjects will take place <strong>after 2pm.</strong> You
-will be added to a WhatsApp group by your OGLs where they will be disseminating
-information relating to Orientation. In the meantime, do follow the EJC
-Orientation Instagram account <strong><a href="https://www.instagram.com/ejc.orientation" rel="noopener noreferrer nofollow" target="_blank">@ejc.orientation</a></strong>!</p>
+<p>Selection / diagnostic tests for selected subjects will take place after
+1.30pm. You will be added to a WhatsApp group by your OGLs where they will
+be disseminating information relating to Orientation. In the meantime,
+do follow the EJC Orientation Instagram account <strong><a href="https://www.instagram.com/ejc.orientation" rel="noopener noreferrer nofollow" target="_blank">@ejc.orientation</a></strong>!</p>
 <p></p>
 <h4><strong>Selection Tests</strong></h4>
 <p>For students intending to offer <strong>H2 KI, H2 Music, H2 Art, H2 Further Mathematics, H2 Translation (Chinese)</strong> as
