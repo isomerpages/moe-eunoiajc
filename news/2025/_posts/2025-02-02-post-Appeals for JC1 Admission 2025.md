@@ -14,15 +14,16 @@ variant: tiptap
 have not been posted to Eunoia Junior College (EJC) under the JAE Posting
 Exercise. Students admitted to other institutions via Direct School Admission
 (DSA-JC) are not eligible for this exercise.</p>
-<p>The&nbsp;official appeal period for JAE is from&nbsp;<u>4 Feb 2025</u> to <u>10 Feb 2025</u> (1700
+<p>The&nbsp;official appeal period for JAE is from&nbsp;<strong>4 Feb 2025</strong> to <strong>10 Feb 2025</strong> (1700
 hours). Appeals for transfer to Eunoia Junior College will be based on
-merit. Students who wish to appeal on other grounds are unlikely to be
-successful if they have not met the course Cut-Off Point for the year and
-do not present extenuating circumstances to merit a transfer.</p>
+merit. Students who wish to appeal for transfer to Eunoia Junior College
+will need to meet the college’s course cut-off point (COP) in 2025, which
+is subject to the availability of vacancies and the fulfilment of the college’s
+admission requirements.</p>
 <p>The 2025 Cut-Off Point for the Science course is <strong>5</strong> and
 the Arts course is <strong>6</strong>.</p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/eunoiajcjaeappeals2025"><img style="width: 25%;" height="auto" width="100%" alt="Online Form" src="/images/Form.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/eunoiajcjaeappeals2025"><img style="width: 40%;" height="auto" width="100%" alt="Online Form" src="/images/Form.png"></a>
 <p></p>
 <p></p>
 <h4><strong>Instructions</strong></h4>
