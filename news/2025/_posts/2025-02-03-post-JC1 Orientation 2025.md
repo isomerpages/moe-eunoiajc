@@ -28,18 +28,17 @@ unite and together, our dreams take flight! #EunoiaShining</p>
 <p>Date: 5 Feb 2024 (Wed)
 <br>Time: 7.55 am
 <br>Venue: Multi Purpose Hall (MPH)
-<br>Attire: Secondary School PE T-shirt and bottoms (skirt / pants)</p>
+<br>Attire: Secondary School uniform</p>
 <p></p>
 <p>Selection / diagnostic tests for selected subjects will take place after
-2pm. You will be added to a WhatsApp group by your OGLs where they will
+1 pm. You will be added to a WhatsApp group by your OGLs where they will
 be disseminating information relating to Orientation. In the meantime,
 do follow the EJC Orientation Instagram account <strong><a href="https://www.instagram.com/ejc.orientation" rel="noopener noreferrer nofollow" target="_blank">@ejc.orientation</a></strong>!</p>
 <p></p>
 <h4><strong>Selection Tests</strong></h4>
 <p>For students intending to offer <strong>H2 KI, H2 Music, H2 Art, H2 Further Mathematics, H2 Translation (Chinese)</strong> as
 part of your subject combinations, you would need to pass a Selection /
-Diagnostic test. Please refer to the table below for the details and <strong>register your interest via this </strong>
-<a href="https://forms.gle/BAQEHb1mNLCxaDTr8" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
+Diagnostic test. Please refer to the table below for the details and <strong>register your interest via this <a href="https://forms.gle/eYWsoSNKaPX57q766" rel="noopener noreferrer nofollow" target="_blank">form</a></strong>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2025_selectiontests.png">
