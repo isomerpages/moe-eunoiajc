@@ -27,7 +27,7 @@ unite and together, our dreams take flight! #EunoiaShining</p>
 <h4><strong>Reporting Details</strong></h4>
 <p>Date: 5 Feb 2024 (Wed)
 <br>Time: 7.55 am
-<br>Venue: Multi Purpose Hall (MPH)
+<br>Venue: Auditorium
 <br>Attire: Secondary School uniform</p>
 <p></p>
 <p>Selection / diagnostic tests for selected subjects will take place after
