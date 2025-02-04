@@ -28,7 +28,7 @@ unite and together, our dreams take flight! #EunoiaShining</p>
 <p>Date: 5 Feb 2024 (Wed)
 <br>Time: 7.55 am
 <br>Venue: Multi Purpose Hall (MPH)
-<br>Attire: Secondary School PE T-shirt and bottoms (skirt / pants)</p>
+<br>Attire: Secondary School uniform</p>
 <p></p>
 <p>Selection / diagnostic tests for selected subjects will take place after
 2pm. You will be added to a WhatsApp group by your OGLs where they will
