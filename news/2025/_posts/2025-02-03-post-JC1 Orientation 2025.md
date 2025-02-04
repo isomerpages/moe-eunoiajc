@@ -38,8 +38,7 @@ do follow the EJC Orientation Instagram account <strong><a href="https://www.ins
 <h4><strong>Selection Tests</strong></h4>
 <p>For students intending to offer <strong>H2 KI, H2 Music, H2 Art, H2 Further Mathematics, H2 Translation (Chinese)</strong> as
 part of your subject combinations, you would need to pass a Selection /
-Diagnostic test. Please refer to the table below for the details and <strong>register your interest via this </strong>
-<a href="https://forms.gle/BAQEHb1mNLCxaDTr8" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
+Diagnostic test. Please refer to the table below for the details and <strong>register your interest via this <a href="https://forms.gle/eYWsoSNKaPX57q766" rel="noopener noreferrer nofollow" target="_blank">form</a></strong>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2025_selectiontests.png">
