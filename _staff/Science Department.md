@@ -145,7 +145,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:low.pei.xuan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Low Pei Xuan</a></strong>
+<p><strong><a href="mailto:liow.pei.xuan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Liow Pei Xuan</a></strong>
 <br>Teacher (Biology)</p>
 </td>
 </tr>
