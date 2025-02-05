@@ -41,7 +41,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:sharon.lim@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sharon Lim</a></strong> 
+<p><strong><a href="mailto:sharon.lim@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sharon Lim</a></strong> 
 <br>Vice-Principal (Administration)</p>
 </td>
 </tr>
