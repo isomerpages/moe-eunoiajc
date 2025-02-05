@@ -54,6 +54,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/profile.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:bernice.lee@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Bernice Lee</a></strong>
+<br>Teacher (Economics)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:chuah.jun.jie@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/econs-chuah-jj_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
@@ -140,7 +151,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:bernice.lee@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Bernice Lee</a></strong>
+<p><strong><a href="mailto:tan.kay.song@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Tan Kay Song</a></strong>
 <br>Teacher (Economics)</p>
 </td>
 </tr>
