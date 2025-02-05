@@ -31,7 +31,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:karine.teo@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Karine Teo</a></strong>
-<br>Deputy Dean (JC1)</p>
+<br>Deputy Dean (JC2)</p>
 </td>
 </tr>
 <tr>
@@ -79,6 +79,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:trevor.tay@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Trevor Tay</a></strong>
+<br>Teacher (Physical Education)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:whelan.chen@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Whelan Chen</a></strong>
 <br>Teacher (Physical Education)</p>
 </td>
 </tr>
