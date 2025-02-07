@@ -141,11 +141,11 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_LiowHuiXian.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:liow.pei.xuan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Liow Pei Xuan</a></strong>
+<p><strong><a href="mailto:liow.pei.xian@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Liow Pei Xian</a></strong>
 <br>Teacher (Biology)</p>
 </td>
 </tr>
@@ -168,7 +168,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_JeffreyAng.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
