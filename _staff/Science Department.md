@@ -141,11 +141,11 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_LiowHuiXian.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:low.pei.xuan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Low Pei Xuan</a></strong>
+<p><strong><a href="mailto:liow.pei.xian@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Liow Pei Xian</a></strong>
 <br>Teacher (Biology)</p>
 </td>
 </tr>
@@ -168,7 +168,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_JeffreyAng.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -233,28 +233,6 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:tay.li.kim@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Yew-Tay Li Kim</a></strong> 
 <br>Teacher (Chemistry)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:helen.ng@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Helen Ng</a></strong>
-<br>Teacher (Physics)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:loo.wee.ping@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Loo Wee Ping</a></strong>
-<br>Teacher (Physics)</p>
 </td>
 </tr>
 <tr>
