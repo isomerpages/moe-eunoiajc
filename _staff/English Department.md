@@ -221,7 +221,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/profile.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL_Elmer_Loh.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -236,7 +236,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Alethea Ellingsen</strong> 
+<p><strong><a href="mailto:alethea.ellingsen@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Alethea Ellingsen</a> </strong>
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
@@ -247,7 +247,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Esther Chiam</strong> 
+<p><strong><a href="mailto:esther.chiam@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Esther Chiam</a></strong>
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
@@ -258,7 +258,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Masnidah Masnawi</strong> 
+<p><strong><a href="mailto:masnidah.masnawi@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Masnidah Masnawi</a></strong>
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
@@ -269,7 +269,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Wendy Lau</strong> 
+<p><strong><a href="mailto:wendy.lau@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Wendy Lau</a></strong>
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
