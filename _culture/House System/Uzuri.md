@@ -59,10 +59,10 @@ Winners where everyone matters.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>HOUSE MASTER</strong>
-<br>Mr Azhar Amin
+<br>Mr Alex Teo
 <br>
 <br><strong>ASSISTANT HOUSE MASTER</strong>
-<br>Mr Alex Teo
+<br>Mr Alson Yong
 <br>
 <br><strong>HOUSE CAPTAIN</strong>
 <br>Dominic Tang Chin Wai (24-U2)
