@@ -99,14 +99,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:crispin.rodrigues@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL_CrispinRodrigues_s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:crispin.rodrigues@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Crispin Rodrigues</a></strong> 
-<br>Teacher (General Paper)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:darren.chong@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Darren-Chong_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
