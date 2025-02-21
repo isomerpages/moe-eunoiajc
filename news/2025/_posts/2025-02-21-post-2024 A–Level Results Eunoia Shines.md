@@ -55,6 +55,6 @@ Thinking, Goodwill to all around you!"</p>
 <p>The growth and achievements of our Eunoians would not be possible without
 the dedication and support of teachers, non-teaching staff, parents, alumni,
 College Advisory Committee, our Joint Integrated Programme partner schools
-and our other partners. To the Class of 2023, we wish you Eunoia. As your
-dreams take flight, may you continue to shine your goodwill and beautiful
-thinking on all around you.</p>
+and our many industry and community partners. To the Class of 2024, may
+your dreams take flight and may you continue to shine in years and decades
+to come.</p>
