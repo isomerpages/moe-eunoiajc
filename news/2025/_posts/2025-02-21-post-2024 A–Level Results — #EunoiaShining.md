@@ -48,13 +48,14 @@ same fields, and eaten at the same tables—they will tell you no different.
 They continue to have amazing adventures! You’ve done it. Regardless of
 your results, you will keep doing it. Nothing is going to stop you. Beautiful
 Thinking, Goodwill to all around you!"</p>
-<p>Ms Yang Shu Hung, Dean for the Class of 2024, added, "</p>
-<p></p>
-<p></p>
+<p>Ms Yang Shu Hung, Dean for the Class of 2024, added, "You have worked
+tirelessly, strove fearlessly and lived vividly throughout your 2 years
+in Eunoia, and have every reason to be proud of how far you have come.
+I am privileged to have journeyed with the Class of 2024, and may you continue
+to shine on through to the next stage of your life.'</p>
 <p></p>
 <p>The growth and achievements of our Eunoians would not be possible without
 the dedication and support of teachers, non-teaching staff, parents, alumni,
 College Advisory Committee, our Joint Integrated Programme partner schools
-and our many industry and community partners. To the Class of 2024, may
-your dreams take flight and may you continue to shine in years and decades
-to come.</p>
+and our many industry and community partners. To the Class of 2024, define
+your glory and may your dreams take flight!</p>
