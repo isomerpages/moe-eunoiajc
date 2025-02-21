@@ -15,8 +15,8 @@ sections:
           description: 11 Jan 2025
           url: https://eunoiajc.moe.edu.sg/oh
         - title: A-Level Results
-          description: Class of 2023
-          url: /news/2024/results
+          description: Class of 2024
+          url: /2025/results
         - title: "#WhyEJ"
           description: Join Us
           url: https://www.eunoiajc.moe.edu.sg/whyej/grace/
