@@ -27,7 +27,7 @@ the college years may get, bears have one another's backs.</p>
 <p>We don’t just play like winners, but we are a family. Uzuri, A Home of
 Winners where everyone matters.</p>
 <p><strong>Your House Masters</strong>
-<br>Mr Darren Chong and Mr Alex Teo</p>
+<br>Mr Azhar Amin and Mr Alex Teo</p>
 <h4><strong>Identity</strong></h4>
 <p><strong>HOUSE EMBLEM</strong>
 <br>The bear is a symbol of wisdom, strength and courage.
@@ -59,10 +59,10 @@ Winners where everyone matters.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>HOUSE MASTER</strong>
-<br>Mr Azhar Amin
+<br>Mr Alex Teo
 <br>
 <br><strong>ASSISTANT HOUSE MASTER</strong>
-<br>Mr Alex Teo
+<br>Mr Alson Yong
 <br>
 <br><strong>HOUSE CAPTAIN</strong>
 <br>Dominic Tang Chin Wai (24-U2)

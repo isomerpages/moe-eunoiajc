@@ -85,7 +85,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/PE_Whelan_Chen.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
