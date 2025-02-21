@@ -7,15 +7,20 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/ALevel2025_1.jpg">
+</div>
 <p>Eunoia Junior College congratulates our Class of 2024 for their holistic
 achievements at the 2024 Singapore-Cambridge GCE A-Level Examination. The
 college is proud of all 715 Eunoians, having done themselves proud at the
 National School Games and the Singapore Youth Festival Arts Presentation
 in 2023 and 2024, making a positive impact on the community and the environment
-with school-based and self-initiated projects, and making the college one
-of beautiful thinking.</p>
+with school-based and self-initiated projects, and always showing beautiful
+thinking, goodwill to all.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/ALevel2025_2.jpg">
+</div>
 <p></p>
 <p>Mr Andrew Tan, our Principal, shared his message to the Class of 2024:
 "Congratulations on your A-level results and completing this chapter of
@@ -36,6 +41,10 @@ place in the world and make it a more beautiful and magical place. Youth
 with Purpose. Thinker with Heart, Leader with Courage—every one of you.
 That’s what you signed up for, and that’s what we, your teachers, signed
 up for.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/ALevel2025_4.jpg">
+</div>
 <p>You have done amazing as a cohort. Your track record over the past two
 years—in sports, sciences, humanities, service to others, and more—speaks
 volumes about the incredible individuals you are. The mark you’ve left
@@ -54,6 +63,9 @@ in Eunoia, and have every reason to be proud of how far you have come.
 I am privileged to have journeyed with the Class of 2024, and may you continue
 to shine on through to the next stage of your life.'</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/ALevel2025_3.jpg">
+</div>
 <p>The growth and achievements of our Eunoians would not be possible without
 the dedication and support of teachers, non-teaching staff, parents, alumni,
 College Advisory Committee, our Joint Integrated Programme partner schools
