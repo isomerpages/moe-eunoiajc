@@ -227,23 +227,17 @@ variant: tiptap
 <p></p>
 <p><strong>25-O1</strong> 
 <br>Mrs Wee-Chen Jinqi</p>
-<p>
-<br><strong>25-O2</strong>
-</p>
-<p>Ms Priya Haritheertham</p>
-<p>
-<br><strong>25-O3</strong> 
+<p><strong>25-O2</strong>
+<br>Ms Priya Haritheertham</p>
+<p><strong>25-O3</strong> 
 <br>Mdm Chen Lili</p>
-<p>
-<br><strong>25-O4</strong> 
+<p><strong>25-O4</strong> 
 <br>Mr Chng Xian Yi
 <br>Mr Kang You-Jin</p>
-<p>
-<br><strong>25-O5</strong> 
+<p><strong>25-O5</strong> 
 <br>Mdm Pan Qun
 <br>Ms Seetoh Huixia</p>
-<p>
-<br><strong>25-O6</strong> 
+<p><strong>25-O6</strong> 
 <br>Ms Kajal Kaur Khaira
 <br>
 </p>
