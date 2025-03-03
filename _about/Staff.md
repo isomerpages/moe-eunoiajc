@@ -88,21 +88,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>25-A1</strong> 
 <br>Ms Cao Xinxin</p>
-<p>
-<br><strong>25-A2</strong> 
+<p><strong>25-A2</strong> 
 <br>Mr Chua Jianrong</p>
-<p>
-<br><strong>25-A3</strong> 
+<p><strong>25-A3</strong> 
 <br>Ms Kan Ximin</p>
-<p>
-<br><strong>25-A4</strong> 
+<p><strong>25-A4</strong> 
 <br>Dr Wang Guangquan</p>
-<p>
-<br><strong>25-A5</strong> 
+<p><strong>25-A5</strong> 
 <br>Mdm Liu Shuyu
 <br>Ms Nadira Sedik</p>
-<p>
-<br><strong>25-A6</strong>
+<p><strong>25-A6</strong>
 </p>
 <p>Ms Anna Loh</p>
 </td>
@@ -138,21 +133,16 @@ variant: tiptap
 <p></p>
 <p><strong>25-E1</strong> 
 <br>Ms Serene Tan</p>
-<p>
-<br><strong>25-E2</strong> 
-<br>Ms Lim Lyn Na
-<br>
-<br><strong>25-E3 </strong>
+<p><strong>25-E2</strong> 
+<br>Ms Lim Lyn Na</p>
+<p><strong>25-E3 </strong>
 <br>Mr Trevor Tay
 <br>Ms Teres Lim</p>
-<p>
-<br><strong>25-E4 </strong>
+<p><strong>25-E4 </strong>
 <br>Ms Lu Jing</p>
-<p>
-<br><strong>25-E5 </strong>
+<p><strong>25-E5 </strong>
 <br>Mr Tan Zhen Yong Keith</p>
-<p>
-<br><strong>25-E6 </strong>
+<p><strong>25-E6 </strong>
 <br>Mr Chang Meng Pat
 <br>
 </p>
@@ -191,21 +181,16 @@ variant: tiptap
 <p><strong>25-I1</strong> 
 <br>Ms Ng Hui Qi
 <br>Mdm Gunaselvi</p>
-<p>
-<br><strong>25-I2</strong> 
+<p></p>
+<p><strong>25-I2</strong> 
 <br>Ms Ng Siow Ying
 <br>Mr Ng Boon Hong</p>
-<p>
-<br><strong>25-I3<br></strong>Mr Benjamin Chew
-<br>
-<br><strong>25-I4<br></strong>Mr Ong Wee Yong</p>
-<p>
-<br><strong>25-I5<br></strong>Mr Darren Chong
+<p><strong>25-I3<br></strong>Mr Benjamin Chew</p>
+<p><strong>25-I4<br></strong>Mr Ong Wee Yong</p>
+<p><strong>25-I5<br></strong>Mr Darren Chong
 <br>Mr Lionel Lim</p>
-<p>
-<br><strong>25-I6</strong>
-</p>
-<p>Ms Juliana Wong
+<p><strong>25-I6</strong>
+<br>Ms Juliana Wong
 <br>
 </p>
 </td>
@@ -296,22 +281,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <p><strong>25-U1</strong> 
-<br>Ms Ng Lee Siah
-<br>
-<br><strong>25-U2</strong> 
+<br>Ms Ng Lee Siah</p>
+<p><strong>25-U2</strong> 
 <br>Ms Clarice Chan</p>
-<p>
-<br><strong>25-U3</strong> 
-<br>Ms Lee Ngern Sim
-<br>
-<br><strong>25-U4</strong> 
+<p><strong>25-U3</strong> 
+<br>Ms Lee Ngern Sim</p>
+<p><strong>25-U4</strong> 
 <br>Mr Bryan Chan</p>
-<p>
-<br><strong>25-U5</strong> 
+<p><strong>25-U5</strong> 
 <br>Mr Kuang Kim Chun
-<br>Ms Bernice Lee
-<br>
-<br><strong>25-U6</strong> 
+<br>Ms Bernice Lee</p>
+<p><strong>25-U6</strong> 
 <br>Mr Daniel Kwan</p>
 </td>
 <td rowspan="1" colspan="1">
