@@ -87,28 +87,24 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>25-A1</strong> 
-<br>
-</p>
+<br>Ms Cao Xinxin</p>
 <p>
 <br><strong>25-A2</strong> 
-<br>
-</p>
+<br>Mr Chua Jianrong</p>
 <p>
 <br><strong>25-A3</strong> 
-<br>
-</p>
+<br>Ms Kan Ximin</p>
 <p>
 <br><strong>25-A4</strong> 
-<br>
-</p>
+<br>Dr Wang Guangquan</p>
 <p>
 <br><strong>25-A5</strong> 
-<br>
-</p>
+<br>Mdm Liu Shuyu
+<br>Ms Nadira Sedik</p>
 <p>
 <br><strong>25-A6</strong>
 </p>
-<p></p>
+<p>Ms Anna Loh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>24-A1</strong> 
@@ -141,26 +137,23 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <p><strong>25-E1</strong> 
-<br>
-</p>
+<br>Ms Serene Tan</p>
 <p>
 <br><strong>25-E2</strong> 
-<br>
+<br>Ms Lim Lyn Na
 <br>
 <br><strong>25-E3 </strong>
-<br>
-</p>
+<br>Mr Trevor Tay
+<br>Ms Teres Lim</p>
 <p>
 <br><strong>25-E4 </strong>
-<br>
-</p>
+<br>Ms Lu Jing</p>
 <p>
 <br><strong>25-E5 </strong>
-<br>
-</p>
+<br>Mr Tan Zhen Yong Keith</p>
 <p>
 <br><strong>25-E6 </strong>
-<br>
+<br>Mr Chang Meng Pat
 <br>
 </p>
 </td>
@@ -196,24 +189,23 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <p><strong>25-I1</strong> 
-<br>
-</p>
+<br>Ms Ng Hui Qi
+<br>Mdm Gunaselvi</p>
 <p>
 <br><strong>25-I2</strong> 
-<br>
-</p>
+<br>Ms Ng Siow Ying
+<br>Mr Ng Boon Hong</p>
 <p>
-<br><strong>25-I3<br></strong>
+<br><strong>25-I3<br></strong>Mr Benjamin Chew
 <br>
-<br><strong>25-I4<br></strong>
-</p>
+<br><strong>25-I4<br></strong>Mr Ong Wee Yong</p>
 <p>
-<br><strong>25-I5<br></strong>
-</p>
+<br><strong>25-I5<br></strong>Mr Darren Chong
+<br>Mr Lionel Lim</p>
 <p>
 <br><strong>25-I6</strong>
 </p>
-<p>
+<p>Ms Juliana Wong
 <br>
 </p>
 </td>
@@ -249,27 +241,25 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <p><strong>25-O1</strong> 
-<br>
-</p>
+<br>Mrs Wee-Chen Jinqi</p>
 <p>
 <br><strong>25-O2</strong>
 </p>
-<p></p>
+<p>Ms Priya Haritheertham</p>
 <p>
 <br><strong>25-O3</strong> 
-<br>
-</p>
+<br>Mdm Chen Lili</p>
 <p>
 <br><strong>25-O4</strong> 
-<br>
-</p>
+<br>Mr Chng Xian Yi
+<br>Mr Kang You-Jin</p>
 <p>
 <br><strong>25-O5</strong> 
-<br>
-</p>
+<br>Mdm Pan Qun
+<br>Ms Seetoh Huixia</p>
 <p>
 <br><strong>25-O6</strong> 
-<br>
+<br>Ms Kajal Kaur Khaira
 <br>
 </p>
 </td>
@@ -306,25 +296,23 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <p><strong>25-U1</strong> 
-<br>
+<br>Ms Ng Lee Siah
 <br>
 <br><strong>25-U2</strong> 
-<br>
-</p>
+<br>Ms Clarice Chan</p>
 <p>
 <br><strong>25-U3</strong> 
-<br>
+<br>Ms Lee Ngern Sim
 <br>
 <br><strong>25-U4</strong> 
-<br>
-</p>
+<br>Mr Bryan Chan</p>
 <p>
 <br><strong>25-U5</strong> 
-<br>
+<br>Mr Kuang Kim Chun
+<br>Ms Bernice Lee
 <br>
 <br><strong>25-U6</strong> 
-<br>
-</p>
+<br>Mr Daniel Kwan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
