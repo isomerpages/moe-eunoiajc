@@ -87,19 +87,24 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>25-A1</strong> 
-<br>Ms Cao Xinxin</p>
-<p><strong>25-A2</strong> 
-<br>Mr Chua Jianrong</p>
-<p><strong>25-A3</strong> 
-<br>Ms Kan Ximin</p>
-<p><strong>25-A4</strong> 
-<br>Dr Wang Guangquan</p>
-<p><strong>25-A5</strong> 
-<br>Mdm Liu Shuyu
-<br>Ms Nadira Sedik</p>
-<p><strong>25-A6</strong>
+<br><a href="mailto:cao.xinxin@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Cao Xinxin</a>
 </p>
-<p>Ms Anna Loh</p>
+<p><strong>25-A2</strong> 
+<br><a href="mailto:chua.jianrong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Chua Jianrong</a>
+</p>
+<p><strong>25-A3</strong> 
+<br><a href="mailto:kan.ximin@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Kan Ximin</a>
+</p>
+<p><strong>25-A4</strong> 
+<br><a href="mailto:wang.guangquan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Dr Wang Guangquan</a>
+</p>
+<p><strong>25-A5</strong> 
+<br><a href="mailto:liu.shuyu@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mdm Liu Shuyu </a>
+<br><a href="mailto:nadira.md.sedik@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Nadira Sedik</a>
+</p>
+<p><strong>25-A6</strong>
+<br><a href="mailto:anna.loh@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Anna Loh</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>24-A1</strong> 
@@ -132,18 +137,22 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <p><strong>25-E1</strong> 
-<br>Ms Serene Tan</p>
+<br><a href="mailto:serene.tan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Serene Tan</a>
+</p>
 <p><strong>25-E2</strong> 
-<br>Ms Lim Lyn Na</p>
+<br><a href="mailto:lim.lyn.na@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Lyn Na</a>
+</p>
 <p><strong>25-E3 </strong>
-<br>Mr Trevor Tay
-<br>Ms Teres Lim</p>
+<br><a href="mailto:trevor.tay@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Trevor Tay </a>
+</p>
 <p><strong>25-E4 </strong>
-<br>Ms Lu Jing</p>
+<br><a href="mailto:lu.jing@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Lu Jing</a>
+</p>
 <p><strong>25-E5 </strong>
-<br>Mr Tan Zhen Yong Keith</p>
+<br><a href="mailto:tan.zhen.yong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Tan Zhen Yong Keith</a>
+</p>
 <p><strong>25-E6 </strong>
-<br>Mr Chang Meng Pat
+<br><a href="mailto:chang.meng.pat@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Chang Meng Pat </a>
 <br>
 </p>
 </td>
@@ -179,18 +188,21 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <p><strong>25-I1</strong> 
-<br>Ms Ng Hui Qi
+<br><a href="mailto:ng.hui.qi@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Ng Hui Qi </a>
 <br>Mdm Gunaselvi</p>
 <p></p>
 <p><strong>25-I2</strong> 
-<br>Ms Ng Siow Ying
-<br>Mr Ng Boon Hong</p>
-<p><strong>25-I3<br></strong>Mr Benjamin Chew</p>
-<p><strong>25-I4<br></strong>Mr Ong Wee Yong</p>
-<p><strong>25-I5<br></strong>Mr Darren Chong
-<br>Mr Lionel Lim</p>
+<br><a href="mailto:ng.siow.ying@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Ng Siow Ying</a>
+<br><a href="mailto:ng.boon.hong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Ng Boon Hong</a>
+</p>
+<p><strong>25-I3<br></strong><a href="mailto:benjamin.chew@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Benjamin Chew</a>
+</p>
+<p><strong>25-I4<br></strong><a href="mailto:ong.wee.yong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Ong Wee Yong</a>
+</p>
+<p><strong>25-I5<br></strong><a href="mailto:darren.chong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Darren Chong</a>
+</p>
 <p><strong>25-I6</strong>
-<br>Ms Juliana Wong
+<br><a href="mailto:juliana.wong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Juliana Wong </a>
 <br>
 </p>
 </td>
