@@ -294,16 +294,21 @@ variant: tiptap
 <br><a href="mailto:ng.lee.siah@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Ng Lee Siah</a>
 </p>
 <p><strong>25-U2</strong> 
-<br>Ms Clarice Chan</p>
+<br><a href="mailto:clarice.chan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Clarice Chan</a>
+</p>
 <p><strong>25-U3</strong> 
-<br>Ms Lee Ngern Sim</p>
+<br><a href="mailto:lee.ngern.sim@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Lee Ngern Sim</a>
+</p>
 <p><strong>25-U4</strong> 
-<br>Mr Bryan Chan</p>
+<br><a href="mailto:bryan.chan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Bryan Chan</a>
+</p>
 <p><strong>25-U5</strong> 
-<br>Mr Kuang Kim Chun
-<br>Ms Bernice Lee</p>
+<br><a href="mailto:kuang.kim.chun@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Kuang Kim Chun </a>
+<br><a href="mailto:bernice.lee@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Bernice Lee</a>
+</p>
 <p><strong>25-U6</strong> 
-<br>Mr Daniel Kwan</p>
+<br><a href="mailto:daniel.kwan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Daniel Kwan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
