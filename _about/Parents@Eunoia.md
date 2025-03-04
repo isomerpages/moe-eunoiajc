@@ -55,5 +55,5 @@ to the school.</p>
 <br>
 </p>
 <p>Cheers,
-<br>P@E Executive Committee 2024
+<br>P@E Executive Committee 2025
 <br>(Say Hi when you see us! We’ll love to chat with you!)</p>
