@@ -8,25 +8,8 @@ variant: tiptap
 <p>Welcome to <strong>Parents@Eunoia</strong> (P@E), the Parent Support Group
 (PSG) at Eunoia Junior College (EJC). We are a group of devoted parent
 volunteers, committed to helping other EJC parents navigate the JC years
-alongside their teenage sons and daughters.</p>
-<p>We aim to share knowledge and build a sense of community amongst the parents.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Parents_Eunoia_Group_2.jpg">
-</div>
-<h4><strong>Executive Committee 2025</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Ms. Joerynn Susie Lim - Chairperson</p>
-</li>
-<li>
-<p>Ms. Ng Hei-Di - Secretary &amp; Communications</p>
-</li>
-<li>
-<p>Mr. Clifford Lew - Design and IT Specialist</p>
-</li>
-</ul>
-<p></p>
+alongside their teenage sons and daughters. We hope to share knowledge
+and build a sense of community amongst the parents.</p>
 <p>We aim to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -44,6 +27,20 @@ concerns and wisdom.</p>
 to the school.</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Parents_Eunoia_Group_2.jpg">
+</div>
+<h4><strong>2025 Representatives </strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Oh Guat Hwee</p>
+</li>
+<li>
+<p>Ms Fiona Sim</p>
+</li>
+</ul>
+<p></p>
 <h4><strong>Contact Us</strong></h4>
 <p>We will love to hear your feedback. You can reach us at: <a href="mailto:ejparents@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ejparents@ejc.edu.sg</a>
 </p>
