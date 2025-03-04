@@ -143,8 +143,8 @@ variant: tiptap
 <br><a href="mailto:lim.lyn.na@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Lyn Na</a>
 </p>
 <p><strong>25-E3 </strong>
-<br><a href="mailto:trevor.tay@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Trevor Tay </a>
-</p>
+<br><a href="mailto:trevor.tay@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Trevor Tay</a>
+<br>Ms Teres Lim</p>
 <p><strong>25-E4 </strong>
 <br><a href="mailto:lu.jing@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Lu Jing</a>
 </p>
@@ -238,19 +238,23 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <p><strong>25-O1</strong> 
-<br>Mrs Wee-Chen Jinqi</p>
+<br><a href="mailto:wee.chen.jinqi@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mrs Wee-Chen Jinqi</a>
+</p>
 <p><strong>25-O2</strong>
-<br>Ms Priya Haritheertham</p>
+<br><a href="mailto:priyahdharshini@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Priya Haritheertham</a>
+</p>
 <p><strong>25-O3</strong> 
-<br>Mdm Chen Lili</p>
+<br><a href="mailto:chen.lili@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chen Lili</a>
+</p>
 <p><strong>25-O4</strong> 
-<br>Mr Chng Xian Yi
-<br>Mr Kang You-Jin</p>
+<br><a href="mailto:chng.xian.yi@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Chng Xian Yi </a>
+<br><a href="mailto:kang.you-jin@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Kang You-Jin</a>
+</p>
 <p><strong>25-O5</strong> 
-<br>Mdm Pan Qun
+<br><a href="mailto:pan.qun@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mdm Pan Qun</a>
 <br>Ms Seetoh Huixia</p>
 <p><strong>25-O6</strong> 
-<br>Ms Kajal Kaur Khaira
+<br><a href="mailto:kajal.kaur.khaira@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Kajal Kaur Khaira </a>
 <br>
 </p>
 </td>
@@ -287,7 +291,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <p><strong>25-U1</strong> 
-<br>Ms Ng Lee Siah</p>
+<br><a href="mailto:ng.lee.siah@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Ng Lee Siah</a>
+</p>
 <p><strong>25-U2</strong> 
 <br>Ms Clarice Chan</p>
 <p><strong>25-U3</strong> 
