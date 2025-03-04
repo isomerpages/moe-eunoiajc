@@ -14,7 +14,7 @@ alongside their teenage sons and daughters.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Parents_Eunoia_Group_2.jpg">
 </div>
-<h4><strong>Executive Committee 2024</strong></h4>
+<h4><strong>Executive Committee 2025</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms. Joerynn Susie Lim - Chairperson</p>
@@ -27,10 +27,6 @@ alongside their teenage sons and daughters.</p>
 </li>
 </ul>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Parents_Eunoia_Group_6.jpg">
-</div>
-<p>(<em>From left to right</em>) Clifford Lew, Joerynn Susie Lim, Ng Hei-Di</p>
 <p>We aim to:</p>
 <ul data-tight="true" class="tight">
 <li>
