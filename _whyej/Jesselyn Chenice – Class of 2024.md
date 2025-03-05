@@ -1,6 +1,6 @@
 ---
-title: "Jesselyn's #WhyEJ"
-permalink: /jesselyn/
+title: Jesselyn Chenice – Class of 2024
+permalink: /whyej/jesselyn/
 variant: tiptap
 description: ""
 ---

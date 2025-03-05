@@ -87,28 +87,24 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>25-A1</strong> 
-<br>
+<br><a href="mailto:cao.xinxin@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Cao Xinxin</a>
 </p>
-<p>
-<br><strong>25-A2</strong> 
-<br>
+<p><strong>25-A2</strong> 
+<br><a href="mailto:chua.jianrong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Chua Jianrong</a>
 </p>
-<p>
-<br><strong>25-A3</strong> 
-<br>
+<p><strong>25-A3</strong> 
+<br><a href="mailto:kan.ximin@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Kan Ximin</a>
 </p>
-<p>
-<br><strong>25-A4</strong> 
-<br>
+<p><strong>25-A4</strong> 
+<br><a href="mailto:wang.guangquan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Dr Wang Guangquan</a>
 </p>
-<p>
-<br><strong>25-A5</strong> 
-<br>
+<p><strong>25-A5</strong> 
+<br><a href="mailto:liu.shuyu@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mdm Liu Shuyu </a>
+<br><a href="mailto:nadira.md.sedik@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Nadira Sedik</a>
 </p>
-<p>
-<br><strong>25-A6</strong>
+<p><strong>25-A6</strong>
+<br><a href="mailto:anna.loh@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Anna Loh</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>24-A1</strong> 
@@ -141,26 +137,22 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <p><strong>25-E1</strong> 
-<br>
+<br><a href="mailto:serene.tan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Serene Tan</a>
 </p>
-<p>
-<br><strong>25-E2</strong> 
-<br>
-<br>
-<br><strong>25-E3 </strong>
-<br>
+<p><strong>25-E2</strong> 
+<br><a href="mailto:lim.lyn.na@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Lyn Na</a>
 </p>
-<p>
-<br><strong>25-E4 </strong>
-<br>
+<p><strong>25-E3 </strong>
+<br><a href="mailto:trevor.tay@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Trevor Tay</a>
+<br>Ms Teres Lim</p>
+<p><strong>25-E4 </strong>
+<br><a href="mailto:lu.jing@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Lu Jing</a>
 </p>
-<p>
-<br><strong>25-E5 </strong>
-<br>
+<p><strong>25-E5 </strong>
+<br><a href="mailto:tan.zhen.yong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Tan Zhen Yong Keith</a>
 </p>
-<p>
-<br><strong>25-E6 </strong>
-<br>
+<p><strong>25-E6 </strong>
+<br><a href="mailto:chang.meng.pat@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Chang Meng Pat </a>
 <br>
 </p>
 </td>
@@ -196,24 +188,21 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <p><strong>25-I1</strong> 
-<br>
+<br><a href="mailto:ng.hui.qi@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Ng Hui Qi </a>
+<br>Mdm Gunaselvi</p>
+<p></p>
+<p><strong>25-I2</strong> 
+<br><a href="mailto:ng.siow.ying@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Ng Siow Ying</a>
+<br><a href="mailto:ng.boon.hong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Ng Boon Hong</a>
 </p>
-<p>
-<br><strong>25-I2</strong> 
-<br>
+<p><strong>25-I3<br></strong><a href="mailto:benjamin.chew@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Benjamin Chew</a>
 </p>
-<p>
-<br><strong>25-I3<br></strong>
-<br>
-<br><strong>25-I4<br></strong>
+<p><strong>25-I4<br></strong><a href="mailto:ong.wee.yong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Ong Wee Yong</a>
 </p>
-<p>
-<br><strong>25-I5<br></strong>
-</p>
-<p>
-<br><strong>25-I6</strong>
-</p>
-<p>
+<p><strong>25-I5<br></strong><a href="mailto:darren.chong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Darren Chong</a>
+<br>Mr Lionel Lim</p>
+<p><strong>25-I6</strong>
+<br><a href="mailto:juliana.wong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Juliana Wong </a>
 <br>
 </p>
 </td>
@@ -249,27 +238,23 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <p><strong>25-O1</strong> 
-<br>
+<br><a href="mailto:wee.chen.jinqi@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mrs Wee-Chen Jinqi</a>
 </p>
-<p>
-<br><strong>25-O2</strong>
+<p><strong>25-O2</strong>
+<br><a href="mailto:priyahdharshini@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Priya Haritheertham</a>
 </p>
-<p></p>
-<p>
-<br><strong>25-O3</strong> 
-<br>
+<p><strong>25-O3</strong> 
+<br><a href="mailto:chen.lili@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chen Lili</a>
 </p>
-<p>
-<br><strong>25-O4</strong> 
-<br>
+<p><strong>25-O4</strong> 
+<br><a href="mailto:chng.xian.yi@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Chng Xian Yi </a>
+<br><a href="mailto:kang.you-jin@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Kang You-Jin</a>
 </p>
-<p>
-<br><strong>25-O5</strong> 
-<br>
-</p>
-<p>
-<br><strong>25-O6</strong> 
-<br>
+<p><strong>25-O5</strong> 
+<br><a href="mailto:pan.qun@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mdm Pan Qun</a>
+<br>Ms Seetoh Huixia</p>
+<p><strong>25-O6</strong> 
+<br><a href="mailto:kajal.kaur.khaira@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Kajal Kaur Khaira </a>
 <br>
 </p>
 </td>
@@ -306,24 +291,23 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <p><strong>25-U1</strong> 
-<br>
-<br>
-<br><strong>25-U2</strong> 
-<br>
+<br><a href="mailto:ng.lee.siah@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Ng Lee Siah</a>
 </p>
-<p>
-<br><strong>25-U3</strong> 
-<br>
-<br>
-<br><strong>25-U4</strong> 
-<br>
+<p><strong>25-U2</strong> 
+<br><a href="mailto:clarice.chan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Clarice Chan</a>
 </p>
-<p>
-<br><strong>25-U5</strong> 
-<br>
-<br>
-<br><strong>25-U6</strong> 
-<br>
+<p><strong>25-U3</strong> 
+<br><a href="mailto:lee.ngern.sim@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Lee Ngern Sim</a>
+</p>
+<p><strong>25-U4</strong> 
+<br><a href="mailto:bryan.chan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Bryan Chan</a>
+</p>
+<p><strong>25-U5</strong> 
+<br><a href="mailto:kuang.kim.chun@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Kuang Kim Chun </a>
+<br><a href="mailto:bernice.lee@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Bernice Lee</a>
+</p>
+<p><strong>25-U6</strong> 
+<br><a href="mailto:daniel.kwan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Daniel Kwan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

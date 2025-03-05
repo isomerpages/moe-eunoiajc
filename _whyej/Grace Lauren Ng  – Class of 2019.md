@@ -1,5 +1,5 @@
 ---
-title: "Grace's #WhyEJ"
+title: Grace Lauren Ng  – Class of 2019
 permalink: /whyej/grace/
 variant: tiptap
 description: ""

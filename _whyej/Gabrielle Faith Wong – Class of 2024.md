@@ -1,6 +1,6 @@
 ---
-title: "Gabrielle's #WhyEJ"
-permalink: /gabrielle/
+title: Gabrielle Faith Wong – Class of 2024
+permalink: /whyej/gabrielle/
 variant: tiptap
 description: ""
 ---

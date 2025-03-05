@@ -1,6 +1,6 @@
 ---
-title: "Kellene's #WhyEJ"
-permalink: /kellene/
+title: Kellene Chua – Class of 2024
+permalink: /whyej/kellene/
 variant: tiptap
 description: ""
 ---
