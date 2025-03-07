@@ -36,15 +36,15 @@ sections:
         experience special.
       cards:
         - title: Belinda Chua
-          description: ""
+          description: Class of 2024
           linktext: Read more
           url: /whyej/belinda
         - title: Kellene Chua
-          description: ""
+          description: Class of 2024
           linktext: Read more
           url: whyej/kellene/
         - title: Jesselyn Chenice
-          description: ""
+          description: Class of 2024
           linktext: Read more
           url: whyej/jesselyn/
   - infopic:
