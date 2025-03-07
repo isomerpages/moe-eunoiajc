@@ -35,21 +35,18 @@ sections:
       description: Hear from our Eunoians and alumni. Discover what made their Eunoia
         experience special.
       cards:
-        - title: Gabrielle Faith Wong
-          description: "My #WhyEJ is the plethora of experiences and opportunities
-            available in EJ."
+        - title: Belinda Chua
+          description: ""
           linktext: Read more
-          url: /gabrielle/
+          url: /whyej/belinda
         - title: Kellene Chua
-          description: Taking part in the many college activities has given me a sense of
-            pride.
+          description: ""
           linktext: Read more
-          url: /kellene/
+          url: whyej/kellene/
         - title: Jesselyn Chenice
-          description: It is definitely the people here –– EJ is where I've found my
-            community.
+          description: ""
           linktext: Read more
-          url: /jesselyn/
+          url: whyej/jesselyn/
   - infopic:
       title: Admissions
       subtitle: Youth with Purpose
