@@ -47,6 +47,10 @@ sections:
           description: Class of 2024
           linktext: Read more
           url: whyej/jesselyn/
+        - title: Grace Lauren Ng
+          description: Class of 2019
+          linktext: Read more
+          url: /whyej/grace/
   - infopic:
       title: Admissions
       subtitle: Youth with Purpose
