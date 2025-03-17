@@ -179,14 +179,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:renuka.satianathan@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Renuka-Satianathan_s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:renuka.satianathan@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Renuka Satianathan</a></strong> 
-<br>Teacher (General Paper)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:samuel.wong@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Samuel-Wong_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
