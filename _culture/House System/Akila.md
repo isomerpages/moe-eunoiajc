@@ -62,7 +62,7 @@ the skies!</p>
 <br>Mr Daniel Kwan
 <br>
 <br><strong>ASSISTANT HOUSE MASTER</strong>
-<br>Mr Justin Lim
+<br>Mr Mike Tan
 <br>
 <br><strong>HOUSE CAPTAIN</strong>
 <br>Tangwanchai Takdanai (24-A3)
