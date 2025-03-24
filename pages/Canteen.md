@@ -25,13 +25,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Mixed Rice</p>
+<p>Kebab and Salad (Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 Nov 2024</p>
+<p>18 Apr 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Interested applicants to note that stall operation will start in 2025</p>
+<p>Halal wraps, sandwiches, breakfast sets, salad bowl, etc.</p>
 </td>
 </tr>
 </tbody>
