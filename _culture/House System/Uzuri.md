@@ -27,7 +27,7 @@ the college years may get, bears have one another's backs.</p>
 <p>We don’t just play like winners, but we are a family. Uzuri, A Home of
 Winners where everyone matters.</p>
 <p><strong>Your House Masters</strong>
-<br>Mr Azhar Amin and Mr Alex Teo</p>
+<br>Mr Azhar Amin and Ms Clarice Chan</p>
 <h4><strong>Identity</strong></h4>
 <p><strong>HOUSE EMBLEM</strong>
 <br>The bear is a symbol of wisdom, strength and courage.
@@ -116,8 +116,7 @@ Winners where everyone matters.</p>
 <br>Ms Koh Han Yun
 <br>Ms Karine Teo
 <br>Mr Alson Yong
-<br>
-</p>
+<br>Mr Alex Teo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>PAST HOUSE VICE-CAPTAINS</strong>

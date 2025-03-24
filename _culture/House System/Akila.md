@@ -22,7 +22,7 @@ diversity, we hope that you will unite, using our strengths to protect
 our aerie and making sure that no eagle is left behind. Together we conquer
 the skies!</p>
 <p><strong>Your House Masters</strong>
-<br>Mr Daniel Kwan and Mr Justin Lim</p>
+<br>Mr Daniel Kwan and Mr Mike Tan</p>
 <h4><strong>Identity</strong></h4>
 <p><strong>HOUSE EMBLEM</strong>
 <br>The eagle is a symbol of power, freedom and transcendence.
@@ -62,7 +62,7 @@ the skies!</p>
 <br>Mr Daniel Kwan
 <br>
 <br><strong>ASSISTANT HOUSE MASTER</strong>
-<br>Mr Justin Lim
+<br>Mr Mike Tan
 <br>
 <br><strong>HOUSE CAPTAIN</strong>
 <br>Tangwanchai Takdanai (24-A3)
@@ -112,6 +112,7 @@ the skies!</p>
 <p><strong>PAST HOUSE MASTERS</strong>
 <br>Ms Bernice Yeo
 <br>Ms Wendy Lau
+<br>Mr Justin Lim
 <br>
 <br>
 <br>
