@@ -21,7 +21,7 @@ deepest valleys.</p>
 will build a house culture and spirit that will become your home and family
 in Eunoia. Unity! One with the Herd!</p>
 <p><strong>Your House Masters</strong>
-<br>Mr Alson Yong and Mrs Charlotte Lee</p>
+<br>Mr Chuah Jun Jie and Mrs Charlotte Lee</p>
 <h4><strong>Identity</strong></h4>
 <p><strong>HOUSE EMBLEM</strong>
 <br>The bison is a symbol of agility, determination and family.
@@ -109,7 +109,8 @@ in Eunoia. Unity! One with the Herd!</p>
 <br>Ms Emeline Choo
 <br>Ms Sandra Chan
 <br>Mr Jonathan Lee
-<br>Mr Allen Lee</p>
+<br>Mr Allen Lee
+<br>Mr Alson Yong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>PAST HOUSE VICE-CAPTAINS</strong>
