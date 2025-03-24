@@ -23,7 +23,7 @@ legacy. Take courage! The journey is long and the trials are many, but
 every Eder knight will come through to fulfil our calling.</p>
 <p>The time is now. Eder, charge!</p>
 <p><strong>Your House Masters</strong> 
-<br>Mr Kelvin Teo and Ms Clarice Chan</p>
+<br>Mr Trevor Tay and Mr Alex Teo</p>
 <h4><strong>Identity</strong></h4>
 <p><strong>HOUSE EMBLEM</strong> 
 <br>The stallion is a symbol of freedom, power and endurance.
@@ -56,10 +56,10 @@ every Eder knight will come through to fulfil our calling.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>HOUSE MASTER</strong> 
-<br>Mr Kelvin Teo
+<br>Mr Trevor Tay
 <br>
 <br><strong>ASSISTANT HOUSE MASTER</strong> 
-<br>Ms Clarice Chan
+<br>Mr Alex Teo
 <br>
 <br><strong>HOUSE CAPTAIN</strong> 
 <br>Valerie Koh Han Ning (24-E2)
@@ -112,7 +112,8 @@ every Eder knight will come through to fulfil our calling.</p>
 <br>Mrs Elaine Toh-Tan
 <br>Ms Sandra Chan
 <br>Dr Edson Ng
-<br>
+<br>Mr Kelvin Teo
+<br>Ms Clarice Chan
 <br>
 </p>
 </td>
