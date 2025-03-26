@@ -199,7 +199,8 @@ variant: tiptap
 <p><strong>25-I4<br></strong><a href="mailto:ong.wee.yong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Ong Wee Yong</a>
 </p>
 <p><strong>25-I5<br></strong><a href="mailto:darren.chong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Darren Chong</a>
-<br>Mr Lionel Lim</p>
+<br><a href="mailto:lionel.lim@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Lionel Lim</a>
+</p>
 <p><strong>25-I6</strong>
 <br><a href="mailto:juliana.wong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Juliana Wong </a>
 <br>
