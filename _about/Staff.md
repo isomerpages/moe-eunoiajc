@@ -159,7 +159,6 @@ variant: tiptap
 <p></p>
 <p><strong>24-E1</strong> 
 <br><a href="mailto:matthew.ooi@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Matthew Ooi</a>
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/arts/ms-quek-jia-qi/" rel="noopener noreferrer nofollow" target="_blank">Ms Quek Jia Qi</a>
 </p>
 <p></p>
 <p><strong>24-E2</strong> 
