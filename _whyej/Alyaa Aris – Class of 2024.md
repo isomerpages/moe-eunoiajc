@@ -4,9 +4,12 @@ permalink: /whyej/alyaa/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Features/Alyaa_Aris.jpg">
+</div>
 <p>Across her various roles in Orientation, the National School Games (Basketball)
-and the Student Council, Alyaa Aris leads by example in her dedication.
-She looks back on her journey of discovering herself, embracing imperfections
+and the Student Council, Alyaa Aris led by example in her dedication. She
+looks back on her journey of discovering herself, embracing imperfections
 and uncovering the strength to take on new opportunities and challenges:</p>
 <p></p>
 <p>“Personally, I will always cherish memories from the NSG season. Undoubtedly,
