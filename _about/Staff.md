@@ -159,7 +159,6 @@ variant: tiptap
 <p></p>
 <p><strong>24-E1</strong> 
 <br><a href="mailto:matthew.ooi@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Matthew Ooi</a>
-<br><a href="https://www.eunoiajc.moe.edu.sg/about/staff/arts/ms-quek-jia-qi/" rel="noopener noreferrer nofollow" target="_blank">Ms Quek Jia Qi</a>
 </p>
 <p></p>
 <p><strong>24-E2</strong> 
@@ -199,7 +198,8 @@ variant: tiptap
 <p><strong>25-I4<br></strong><a href="mailto:ong.wee.yong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Ong Wee Yong</a>
 </p>
 <p><strong>25-I5<br></strong><a href="mailto:darren.chong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Darren Chong</a>
-<br>Mr Lionel Lim</p>
+<br><a href="mailto:lionel.lim@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Lionel Lim</a>
+</p>
 <p><strong>25-I6</strong>
 <br><a href="mailto:juliana.wong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Juliana Wong </a>
 <br>
