@@ -4,6 +4,10 @@ permalink: /whyej/rachel/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Features/Rachel_Malcolm.jpg">
+</div>
 <p>A compassionate and driven student leader, Rachel Malcolm has exemplified
 outstanding commitment to service through the Community Engagement Scholarship
 Programme. From volunteering with REACH Family Service Centre to spearheading
