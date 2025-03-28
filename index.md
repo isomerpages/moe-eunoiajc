@@ -35,22 +35,22 @@ sections:
       description: Hear from our Eunoians and alumni. Discover what made their Eunoia
         experience special.
       cards:
+        - title: Alyaa Aris
+          description: Class of 2024
+          linktext: Read more
+          url: /whyej/alyaa
         - title: Belinda Chua
           description: Class of 2024
           linktext: Read more
-          url: /whyej/belinda
-        - title: Kellene Chua
+          url: whyej/belinda/
+        - title: Damian Chia
           description: Class of 2024
           linktext: Read more
-          url: whyej/kellene/
-        - title: Jesselyn Chenice
+          url: whyej/damian/
+        - title: Glenda Sui
           description: Class of 2024
           linktext: Read more
-          url: whyej/jesselyn/
-        - title: Grace Lauren Ng
-          description: Class of 2019
-          linktext: Read more
-          url: /whyej/grace/
+          url: /whyej/glenda/
   - infopic:
       title: Admissions
       subtitle: Youth with Purpose
