@@ -11,18 +11,18 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: OPEN HOUSE
-          description: 11 Jan 2025
-          url: https://eunoiajc.moe.edu.sg/oh
         - title: A-Level Results
           description: Class of 2024
           url: /2025/results
         - title: "#WhyEJ"
           description: Our Stories
-          url: https://www.eunoiajc.moe.edu.sg/whyej/nicole//
+          url: https://www.eunoiajc.moe.edu.sg/whyej/nicole/
         - title: Instagram
           description: Follow Us
           url: https://www.instagram.com/eunoiajc
+        - title: TikTok
+          description: You Know Us
+          url: https://www.tiktok.com/@euknowitseunoia
       background: /images/Home_Banner3.jpg
       title: We Are Eunoia
       subtitle: Beautiful Thinking, Goodwill to All
