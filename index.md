@@ -32,8 +32,7 @@ sections:
   - textcards:
       title: "#WhyEJ"
       id: textcards
-      description: Hear from our Eunoians and alumni. Discover what made their Eunoia
-        experience special.
+      description: Hear from our alumni and discover what made their Eunoia journey special.
       cards:
         - title: Alyaa Aris
           description: Class of 2024
