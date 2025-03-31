@@ -11,18 +11,18 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: OPEN HOUSE
-          description: 11 Jan 2025
-          url: https://eunoiajc.moe.edu.sg/oh
         - title: A-Level Results
           description: Class of 2024
           url: /2025/results
         - title: "#WhyEJ"
-          description: Join Us
-          url: https://www.eunoiajc.moe.edu.sg/whyej/grace/
+          description: Our Stories
+          url: https://www.eunoiajc.moe.edu.sg/whyej/nicole/
         - title: Instagram
           description: Follow Us
           url: https://www.instagram.com/eunoiajc
+        - title: TikTok
+          description: You Know Us
+          url: https://www.tiktok.com/@euknowitseunoia
       background: /images/Home_Banner3.jpg
       title: We Are Eunoia
       subtitle: Beautiful Thinking, Goodwill to All
@@ -32,25 +32,24 @@ sections:
   - textcards:
       title: "#WhyEJ"
       id: textcards
-      description: Hear from our Eunoians and alumni. Discover what made their Eunoia
-        experience special.
+      description: Hear from our alumni and discover what made their Eunoia journey special.
       cards:
+        - title: Alyaa Aris
+          description: Class of 2024
+          linktext: Read more
+          url: /whyej/alyaa
         - title: Belinda Chua
           description: Class of 2024
           linktext: Read more
-          url: /whyej/belinda
-        - title: Kellene Chua
+          url: whyej/belinda/
+        - title: Damian Chia
           description: Class of 2024
           linktext: Read more
-          url: whyej/kellene/
-        - title: Jesselyn Chenice
+          url: whyej/damian/
+        - title: Glenda Sui
           description: Class of 2024
           linktext: Read more
-          url: whyej/jesselyn/
-        - title: Grace Lauren Ng
-          description: Class of 2019
-          linktext: Read more
-          url: /whyej/grace/
+          url: /whyej/glenda/
   - infopic:
       title: Admissions
       subtitle: Youth with Purpose
