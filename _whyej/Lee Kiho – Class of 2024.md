@@ -7,6 +7,12 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Features/Lee_Kiho.jpg">
 </div>
+<p>Lee Kiho (23-I4) was a Class Chairperson with outstanding leadership qualities,
+committing to being inclusive, authentic and supportive of his classmates.
+He helped the class build strong relationships with each other through
+initiatives like creating online study groups and through his sensitivity
+to the dynamics within the class. His efforts to motivate and be a role
+model for his peers were exceptional.</p>
 <p>“My two transformative years in JC helped me discover what I truly want
 for myself and others. Beyond academics, the priceless experiences, opportunities,
 and the environment shaped my goals and identity, teaching me to find confidence
