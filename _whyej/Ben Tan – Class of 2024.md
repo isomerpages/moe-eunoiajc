@@ -7,6 +7,11 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Features/Ben_Tan.jpg">
 </div>
+<p>Ben Tan (23-E1) has demonstrated great resilience on his academic and
+personal journey, transferring from another institution to the college
+in his JC2 year. Not only did he quickly adapt to his new surroundings
+and curriculum, he discovered strengths old and new and stepped up to both
+support and inspire his peers.</p>
 <p>“My appearance in Eunoia must have come as somewhat of a surprise to my
 class, 24-E1, joining as a new Eunoian at the start of JC2. Having struggled
 with my mental health in my previous school, I was grateful that EJ, the
