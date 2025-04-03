@@ -43,7 +43,7 @@ university or the legacy we want to leave in our community as we move into
 the next stage of our lives. My time in EJC equipped me with answers to
 those questions, lessons on resilience, courage to embrace the unknown,
 and the realization that the best moments happen when we go out there and
-chase our dreams. For that, I will always be grateful.</p>
+chase our dreams. For that, I will always be grateful."</p>
 <p>
 <br>
 </p>
