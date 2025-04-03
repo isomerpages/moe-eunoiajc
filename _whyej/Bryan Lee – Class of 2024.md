@@ -10,7 +10,7 @@ description: ""
 <p>Bryan Lee (23-U5) is an exemplary student who pursued Mathematics and
 Sciences with passion as an ETPS scholar and a Further Mathematics student,
 while also giving his best in his House and Badminton CCA.</p>
-<p>Heading to EJC, I was prepared to participate in what I am passionate
+<p>"Heading to EJC, I was prepared to participate in what I am passionate
 about, but really focus on my academic studies. However, the energy in
 EJC really is infectious, and I found myself investing my time into things
 I never thought I would, like House committee and CCA dinners, and enjoying
@@ -28,7 +28,7 @@ easier to continue striving and working hard.</p>
 <p>I am looking forward to further pursuing my passion in Mathematics, taking
 it as a university course. Eventually, I hope to follow in my teachers’
 footsteps, learning from their example and become a professor, to share
-my passion for the subject with like-minded people.</p>
+my passion for the subject with like-minded people."</p>
 <p>
 <br>
 </p>
