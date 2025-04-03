@@ -11,7 +11,6 @@ description: ""
 and the Student Council, Alyaa Aris led by example in her dedication. She
 looks back on her journey of discovering herself, embracing imperfections
 and uncovering the strength to take on new opportunities and challenges:</p>
-<p></p>
 <p>“Personally, I will always cherish memories from the NSG season. Undoubtedly,
 it was one of the busiest times for me, filled with relentless basketball
 games and match support carried out by the Student Council, but it was
@@ -24,16 +23,13 @@ Eunoian NSG matches to carry out match support as a Student Councillor;
 screaming my lungs out when leading the student body in cheers as we persistently
 encouraged our players regardless of a win or a loss. I might have left
 that season with a few wounds and a bad sore throat, but nonetheless, I
-gained unforgettable memories that will stay with me for a lifetime.
-<br>
-</p>
+gained unforgettable memories that will stay with me for a lifetime.</p>
 <p>Nearing our A Levels, when tensions and stress levels were high, I found
 comfort in the knowledge that my batchmates and I were all navigating the
 same challenging journey of A Levels, facing the same late-night study
 sessions and stressful exams. In the midst of it all, it was encouraging
 to know that I wasn’t alone. Through shared struggles and support, we found
 strength in each other, making the experience a little more bearable.</p>
-<p></p>
 <p>I have been very guarded by nature, and I always felt a need to put up
 a certain front to others. However, my time in EJC allowed me to open up
 and embrace vulnerability through the meaningful connections fostered with
