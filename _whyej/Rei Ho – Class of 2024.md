@@ -8,6 +8,12 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Features/Rei_Ho.jpg">
 </div>
+<p>Rei Ho (23-I2) served her class as a peer support leader whose care and
+compassion for her classmates was crystal clear to all, be it in her daily
+interactions or the thoughtful activities she organised for them. Moreover,
+Rei showed remarkable resilience as she navigated a health setback in the
+family, spending as much time with her family while balancing the rigorous
+demands of her JC2 year. Unfazed and selfless, Rei truly was exemplary.</p>
 <p>“I’ve always believed that we are all fabrics of the bits and pieces that
 we pick up from the people we cross paths with throughout our lives, and
 I owe a big part of who I am today to the people whom I love and the ones
