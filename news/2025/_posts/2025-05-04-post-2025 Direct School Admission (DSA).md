@@ -202,18 +202,18 @@ the full duration of the programme.</p>
 may be required to transfer to another school.</p>
 </li>
 </ul>
-<p>For more information, please visit the Ministry of Education <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener noreferrer nofollow" target="_blank"><u>DSA-JC website</u></a>.</p>
+<p>For more information, please visit the Ministry of Education <strong><a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener noreferrer nofollow" target="_blank"><u>DSA-JC website</u></a></strong>.</p>
 <p></p>
-<h3><strong>Application Process </strong></h3>
+<h3><strong>Application Process</strong></h3>
 <h4><strong>Submission of Supporting Documents</strong></h4>
 <p>Applicants are required to submit the necessary documents, including academic
 results and supporting materials that are required in the various categories
 as stated below in their chosen domain.&nbsp;</p>
 <p></p>
-<p>All applicants must complete the <a href="https://form.gov.sg/6814c2ee4ce70c8000c4c68b" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a> and
-submit it by 30 June 2025. They should also upload the required supporting
-documents and/or videos for their CCA or programme into a publicly accessible
-Google Drive folder and include the folder link in the form. <strong>We strongly advise applicants to carefully read the submission requirements for their selected CCA or programme (under “Criteria And Selection Process”) before filling in the online application form.</strong>
+<p>All applicants must complete the <strong><a href="https://form.gov.sg/6814c2ee4ce70c8000c4c68b" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a></strong> and
+submit it by <strong>30 June 2025.</strong> They should also upload the required
+supporting documents and/or videos for their CCA or programme into a publicly
+accessible Google Drive folder and include the folder link in the form. <strong>We strongly advise applicants to carefully read the submission requirements for their selected CCA or programme (under “Criteria And Selection Process”) before filling in the online application form.</strong>
 </p>
 <p></p>
 <h4><strong>Programme-Specific Trial/Audition/Selection Exercise</strong></h4>
@@ -266,7 +266,7 @@ DSA programme.</p>
 <p><strong>Phase 1: Shortlisting</strong>
 </p>
 <p>Applicants are required to consolidate and submit the necessary documents
-and supporting materials through a Google Drive link in the <a href="https://form.gov.sg/6814c2ee4ce70c8000c4c68b" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a>,
+and supporting materials through a Google Drive link in the<strong> <a href="https://form.gov.sg/6814c2ee4ce70c8000c4c68b" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a></strong>,
 demonstrating passion and strong ability in their niche area:</p>
 <ul>
 <li>
@@ -350,7 +350,7 @@ China Studies in Chinese, Chinese Language and Literature, or Translation.</p>
 <p><strong>Selection Exercise&nbsp;</strong>
 </p>
 <p>Applicants are required to consolidate the following items and submit
-them through a Google Drive link in the <a href="https://form.gov.sg/6814c2ee4ce70c8000c4c68b" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a><strong>:</strong>
+them through a Google Drive link in the <strong><a href="https://form.gov.sg/6814c2ee4ce70c8000c4c68b" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a>:</strong>
 </p>
 <ul>
 <li>
@@ -394,7 +394,7 @@ or national competitions or events.</p>
 <p><strong>Selection exercise through video and composition/arrangement submission</strong>
 </p>
 <p>Applicants are required to consolidate the following items and submit
-them through a Google Drive link in the <a href="https://form.gov.sg/6814c2ee4ce70c8000c4c68b" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a><strong>:</strong>
+them through a Google Drive link in the <strong><a href="https://form.gov.sg/6814c2ee4ce70c8000c4c68b" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a>:</strong>
 </p>
 <ul>
 <li>
@@ -450,7 +450,7 @@ following:</p>
 <p><strong>Selection Exercise&nbsp;</strong>
 </p>
 <p>Applicants are required to consolidate the following items and submit
-them through a Google Drive link in the <a href="https://form.gov.sg/6814c2ee4ce70c8000c4c68b" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a><strong>:</strong>
+them through a Google Drive link in the <strong><a href="https://form.gov.sg/6814c2ee4ce70c8000c4c68b" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a>:</strong>
 </p>
 <p>i) &nbsp; &nbsp; One set of Secondary 3 End-of-Year examination results
 and one set of Secondary 4 Weighted Assessment results.</p>
@@ -489,7 +489,7 @@ in our college vision:</p>
 <p><strong>Selection Exercise&nbsp;</strong>
 </p>
 <p>Applicants are required to consolidate the following items and submit
-them through a Google Drive link in the <a href="https://form.gov.sg/6814c2ee4ce70c8000c4c68b" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a><strong>:</strong>
+them through a Google Drive link in the <strong><a href="https://form.gov.sg/6814c2ee4ce70c8000c4c68b" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a>:</strong>
 </p>
 <ul>
 <li>
@@ -514,4 +514,4 @@ panel to evaluate your leadership potential, interpersonal skills, and
 alignment of qualities with EJC’s college vision.</p>
 <p></p>
 <p></p>
-<p>For further enquiries on the EJC DSA-JC exercise, please email <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener noreferrer nofollow" target="_blank"><u>EunoiaDSA@ejc.edu.sg</u></a>.</p>
+<p>For further enquiries on the EJC DSA-JC exercise, please email <strong><a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener noreferrer nofollow" target="_blank"><u>EunoiaDSA@ejc.edu.sg</u></a></strong>.</p>
