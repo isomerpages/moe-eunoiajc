@@ -6,7 +6,7 @@ variant: markdown
 ---
 The Direct School Admission (DSA-JC) provides students with the opportunity to seek admission to a Junior College (JC), based on a diverse range of academic and non-academic achievements and talents that they can demonstrate beyond the GCE ‘O’ Level examination. It is an annual exercise that takes place from May to August.
 
-The 2025 Direct School Admission (DSA-JC) exercise opens on 7 May 2025. Interested students should go to our [News](https://www.eunoiajc.moe.edu.sg/news/) Section to read the requirements before submitting the online application form which must reach us by 30 June 2025.
+The 2025 Direct School Admission (DSA-JC) exercise opens on 7 May 2025. Interested students should go to our [News](https://www.eunoiajc.moe.edu.sg/news/) section to read the requirements before submitting the online application form which must reach us by 30 June 2025.
 
 Details of the latest exercise has been published in our [News](https://www.eunoiajc.moe.edu.sg/news/) section.
 
