@@ -15,5 +15,5 @@ variant: tiptap
 <br><a href="mailto:ng.hui.qi@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.hui.qi@ejc.edu.sg</a>
 </p>
 <p><strong>Ms Priya Haritheertham</strong>
-<br><a href="mailto:priyadharshini@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">priyadharshini@ejc.edu.sg</a>
+<br><a href="mailto:priyahdharshini@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">priyahdharshini@ejc.edu.sg</a>
 </p>
