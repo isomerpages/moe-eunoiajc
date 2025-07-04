@@ -66,6 +66,15 @@ variant: tiptap
 <br>Teacher (Project Work)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Ms Teres Lim Yan Ling</a></strong> 
+<br>Teacher (Project Work)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
