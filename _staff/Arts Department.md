@@ -122,6 +122,15 @@ variant: tiptap
 <br>Teacher (Music)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Mr Gunaselvi d/o Munisamy Naidu</a></strong> 
+<br>Teacher (Geography)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
