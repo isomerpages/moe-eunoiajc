@@ -73,7 +73,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Ms Teres Lim Yan Ling</a></strong> 
+<p><strong><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Ms Teres Lim</a></strong> 
 <br>Teacher (Project Work)</p>
 </td>
 </tr>
