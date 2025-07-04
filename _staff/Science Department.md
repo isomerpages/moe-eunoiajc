@@ -270,6 +270,15 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <br>Teacher (Physics)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Ms Seetoh Huixia</a></strong>
+<br>Teacher (Physics)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
