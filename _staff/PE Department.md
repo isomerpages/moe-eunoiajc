@@ -82,17 +82,6 @@ variant: tiptap
 <br>Teacher (Physical Education)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/PE_Whelan_Chen.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:whelan.chen@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Whelan Chen</a></strong>
-<br>Teacher (Physical Education)</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>

@@ -19,14 +19,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:jared.goh@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Arts-Jared-Goh_s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:jared.goh@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jared Goh</a></strong> 
-<br>Dean (JC1)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:fred.ong@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Fred-Ong-s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,6 +112,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:matthew.ooi@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Matthew Ooi</a></strong>
 <br>Teacher (Music)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/profile.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Mdm Gunaselvi</a></strong>
+<br>Teacher (Geography)</p>
 </td>
 </tr>
 </tbody>
