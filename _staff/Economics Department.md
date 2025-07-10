@@ -147,17 +147,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Econs_TanKaySong.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan.kay.song@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Tan Kay Song</a></strong>
-<br>Teacher (Economics)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
 </div>
 </td>
