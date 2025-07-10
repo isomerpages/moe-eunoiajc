@@ -81,7 +81,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Mdm Gunaselvi</a></strong>
+<p><strong><a href="mailto:gunaselvi.munisamy@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Gunaselvi</a></strong>
 <br>Teacher (Geography)</p>
 </td>
 </tr>
