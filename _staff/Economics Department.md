@@ -162,7 +162,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Isabel Tay</strong>
+<p><strong><a href="mailto:isabel.tay@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Isabel Tay</a></strong>
 <br>Teacher (Economics)</p>
 </td>
 </tr>
