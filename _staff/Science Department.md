@@ -278,7 +278,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Ms Seetoh Huixia</a></strong>
+<p><strong><a href="mailto:seetoh.huixia@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Seetoh Huixia</a></strong>
 <br>Teacher (Physics)</p>
 </td>
 </tr>

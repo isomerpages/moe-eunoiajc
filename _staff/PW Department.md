@@ -69,11 +69,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/profile.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/PW_Teres_Lim.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Ms Teres Lim</a></strong> 
+<p><strong><a href="mailto:teres.lim@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Teres Lim</a></strong> 
 <br>Teacher (Project Work)</p>
 </td>
 </tr>

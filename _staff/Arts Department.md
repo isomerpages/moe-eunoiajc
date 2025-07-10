@@ -75,6 +75,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Arts_Gunaselvi.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:gunaselvi.munisamy@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Gunaselvi</a></strong>
+<br>Teacher (Geography)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:rachel.lim@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Arts-Rachel-Lim_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
@@ -99,30 +110,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:lee.ji.heng@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Arts-Lee-Ji-Heng_s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:lee.ji.heng@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Ji Heng</a></strong> 
-<br>Teacher (Music)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:matthew.ooi@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Arts_Matthew_Ooi.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:matthew.ooi@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Matthew Ooi</a></strong>
 <br>Teacher (Music)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/profile.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Mdm Gunaselvi</a></strong>
-<br>Teacher (Geography)</p>
 </td>
 </tr>
 </tbody>
