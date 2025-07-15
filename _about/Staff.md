@@ -125,6 +125,7 @@ variant: tiptap
 <p></p>
 <p><strong>24-A5</strong> 
 <br><a href="mailto:mike.tan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Mike Tan</a>
+<br><a href="mailto:kajal.kaur.khaira@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Kajal Kaur Khaira </a>
 </p>
 <p></p>
 <p><strong>24-A6</strong> 
@@ -253,7 +254,7 @@ variant: tiptap
 <br><a href="mailto:pan.qun@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mdm Pan Qun</a>
 <br>Ms Seetoh Huixia</p>
 <p><strong>25-O6</strong> 
-<br><a href="mailto:kajal.kaur.khaira@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Kajal Kaur Khaira </a>
+<br><a href="mailto:teres.lim@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Teres Lim</a>
 <br>
 </p>
 </td>
