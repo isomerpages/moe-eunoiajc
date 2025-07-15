@@ -125,7 +125,7 @@ variant: tiptap
 <p></p>
 <p><strong>24-A5</strong> 
 <br><a href="mailto:mike.tan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Mike Tan</a>
-<br><a href="mailto:kajal.kaur.khaira@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Kajal Kaur Khaira </a>
+<br><a href="mailto:kajal.kaur.khaira@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Kajal Kaur Khaira</a>
 </p>
 <p></p>
 <p><strong>24-A6</strong> 
