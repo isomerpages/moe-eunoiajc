@@ -59,11 +59,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:ng.boon.hong@ejc.edu.sg"><img style="width: 45%;" height="auto" width="100%" src="/images/Staff/PE-Ng-Boon-Hong_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="mailto:ng.boon.hong@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Boon Hong</a></strong>
+<br>Deputy Dean (JC1)</p>
 </td>
 </tr>
 <tr>
