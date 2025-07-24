@@ -39,7 +39,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:ng.boon.hong@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Boon Hong</a></strong>
-<br>Teacher (Physical Education)</p>
+<br>Deputy Dean (JC1)</p>
 </td>
 </tr>
 <tr>
