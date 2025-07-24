@@ -35,14 +35,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:yang.shu.hung@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/MTL-Yang-Shu-Hung_s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:yang.shu.hung@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yang Shu Hung</a></strong> 
-<br>Dean (JC1)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:michelle.chiang@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Econs-Michelle-Chiang_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
@@ -51,10 +43,26 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:yang.shu.hung@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/MTL-Yang-Shu-Hung_s.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:yang.shu.hung@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yang Shu Hung</a></strong> 
+<br>Dean (JC1)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:karine.teo@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/PE-Karine-Teo_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:karine.teo@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Karine Teo</a></strong> 
+<br>Deputy Dean (JC2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:ng.boon.hong@ejc.edu.sg"><img style="width: 45%;" height="auto" width="100%" src="/images/Staff/PE-Ng-Boon-Hong_s.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:ng.boon.hong@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Boon Hong</a></strong>
 <br>Deputy Dean (JC1)</p>
 </td>
 </tr>
@@ -104,14 +112,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:mahmood.fahmi@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mahmood Fahmi Ahamed</a></strong> 
 <br>Deputy Head (Eunoia Humanities Programme &amp; Talent Development)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:zulaiha.said@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci-Zulaiha-Said_s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:zulaiha.said@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Zulaiha Said</a></strong> 
-<br>Deputy Head (Character &amp; Citizenship Education)</p>
 </td>
 </tr>
 <tr>

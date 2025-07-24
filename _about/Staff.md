@@ -125,6 +125,7 @@ variant: tiptap
 <p></p>
 <p><strong>24-A5</strong> 
 <br><a href="mailto:mike.tan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Mike Tan</a>
+<br><a href="mailto:kajal.kaur.khaira@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Kajal Kaur Khaira</a>
 </p>
 <p></p>
 <p><strong>24-A6</strong> 
@@ -143,7 +144,7 @@ variant: tiptap
 </p>
 <p><strong>25-E3 </strong>
 <br><a href="mailto:trevor.tay@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Trevor Tay</a>
-<br>Ms Teres Lim</p>
+</p>
 <p><strong>25-E4 </strong>
 <br><a href="mailto:lu.jing@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Lu Jing</a>
 </p>
@@ -187,7 +188,8 @@ variant: tiptap
 <p></p>
 <p><strong>25-I1</strong> 
 <br><a href="mailto:ng.hui.qi@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Ng Hui Qi </a>
-<br>Mdm Gunaselvi</p>
+<br><a href="mailto:gunaselvi.munisamy@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mdm Gunaselvi</a>
+</p>
 <p></p>
 <p><strong>25-I2</strong> 
 <br><a href="mailto:ng.siow.ying@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Ng Siow Ying</a>
@@ -251,9 +253,10 @@ variant: tiptap
 </p>
 <p><strong>25-O5</strong> 
 <br><a href="mailto:pan.qun@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mdm Pan Qun</a>
-<br>Ms Seetoh Huixia</p>
+<br><a href="mailto:seetoh.huixia@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Seetoh Huixia</a>
+</p>
 <p><strong>25-O6</strong> 
-<br><a href="mailto:kajal.kaur.khaira@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Kajal Kaur Khaira </a>
+<br><a href="mailto:teres.lim@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Teres Lim</a>
 <br>
 </p>
 </td>

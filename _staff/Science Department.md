@@ -255,6 +255,18 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Sci_Seetoh_Huixia.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:seetoh.huixia@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Seetoh Huixia</a></strong>
+<br>Teacher (Physics)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:tan.zhen.yong@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Tan-Zheng-Yong_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
@@ -267,18 +279,6 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:wang.guangquan@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Wang Guangquan</a></strong> 
-<br>Teacher (Physics)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Sci_Seetoh_Huixia.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:seetoh.huixia@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Seetoh Huixia</a></strong>
 <br>Teacher (Physics)</p>
 </td>
 </tr>
