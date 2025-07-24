@@ -19,6 +19,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:quek.jia.qi@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Quek-Jia-Qi-s.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:quek.jia.qi@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Quek Jia Qi</a></strong> 
+<br>Deputy Head (ICT)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:enoch.tang@ejc.edu.sg"><img style="width: 45%;" height="auto" width="100%" src="/images/Staff/Sci-Enoch-Tang_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
