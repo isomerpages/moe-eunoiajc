@@ -2,11 +2,12 @@
 title: Links
 permalink: /links/
 description: ""
+variant: markdown
 ---
 [Photos](https://www.flickr.com)<br>
 [Video](https://www.vimeo.com)<br>
 [Publications](https://www.issuu.com/eunoiajc)<br>
-[Student Press](https://eunoiapress.wordpress.com/)<br>
+[Student Press](https://eunoiajcpress.com/)<br>
 [Student Handbook](https://sites.google.com/ejc.edu.sg/ejc-student-handbook/)<br>
 [Style Guide](/style-guide/)<br>
 [EJC Portal](https://portal.ejc.edu.sg)<br>
