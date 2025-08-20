@@ -258,7 +258,7 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Sci_Seetoh_Huixia.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Seetoh_Huixia.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
