@@ -25,24 +25,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kebab and Salad (Halal) sets, salad bowl, etc</p>
+<p>Halal Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 Aug 2025</p>
+<p>19 Sep 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Halal wraps, sandwiches, breakfast</p>
+<p>Malay Nasi Padang</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asia Cuisine (Non-Halal Japanese/Korean)</p>
+<p>Others (Halal or Non-Halal, Open to Proposal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 Aug 2025</p>
+<p>19 Sep 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Japanese and Korean food</p>
+<p>For e.g. Ban Mian, Assorted Halal Noodles (Mee Rebus, Mee Siam, Laksa,
+Mee Soto), etc</p>
 </td>
 </tr>
 </tbody>
@@ -77,7 +78,7 @@ via email or to the college's General Office.</p>
 </p>
 </li>
 <li>
-<p>Contact Person: Ms Sherilyn Ang</p>
+<p>Contact Person: Admin Manager</p>
 </li>
 </ul>
 <h3><strong>Getting Here</strong></h3>
