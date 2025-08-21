@@ -77,7 +77,7 @@ via email or to the college's General Office.</p>
 </p>
 </li>
 <li>
-<p>Contact Person: Ms Sherilyn Ang</p>
+<p>Contact Person: Admin Manager</p>
 </li>
 </ul>
 <h3><strong>Getting Here</strong></h3>
