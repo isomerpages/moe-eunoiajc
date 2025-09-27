@@ -111,19 +111,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EAS_Bill_Tan.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Bill Tan Keng Hwee</strong>
-</p>
-<p>Operations Support Officer</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/Staff/eas-jaumengjuam.jpg">
 </div>
 </td>
