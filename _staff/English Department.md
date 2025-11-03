@@ -139,14 +139,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:kajal.kaur.khaira@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Kajal-Kaur_s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:kajal.kaur.khaira@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Kajal Kaur Khaira</a></strong> 
-<br>Teacher (General Paper)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:kang.you-jin@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL_Kang_Youjin.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
@@ -171,14 +163,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:priyahdharshini@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Priyah-Hari_s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:priyahdharshini@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Priya Haritheertham</a></strong> 
-<br>Teacher (General Paper)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:samuel.wong@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Samuel-Wong_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
@@ -199,17 +183,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:xu.xiuwen@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Xu Xiuwen</a></strong> 
-<br>Teacher (General Paper)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL_Elmer_Loh.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:elmer.loh@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Elmer Loh</a></strong>
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
