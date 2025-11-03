@@ -118,7 +118,7 @@ variant: tiptap
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:joey.leow@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL-Joey-Tan_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:joey.leow@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mrs Joey Tan</a> </strong>
+<p><strong><a href="mailto:joey.leow@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Joey Leow</a> </strong>
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
