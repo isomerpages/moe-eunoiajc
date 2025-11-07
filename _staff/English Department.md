@@ -59,6 +59,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:sandra.chan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Sandra Chan</a></strong>
+<br>Deputy Head (Special Projects)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:danielle.low@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/English-Danielle-M-Low_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
@@ -107,10 +118,32 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:daphne.chua@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Daphne Chua</a></strong>
+<br>Teacher (General Paper)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:dionne.menez@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL_Dionne_Menez.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:dionne.menez@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Dionne Menez</a></strong>
+<br>Teacher (General Paper)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:felix.poon@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Felix Poon</a></strong>
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
@@ -128,14 +161,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:joshua.ng@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Joshua Ng</a></strong> 
 <br>Teacher (General Paper)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:joyce.chua@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL_Joyce_Yeo.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:joyce.chua@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Joyce Chua</a></strong>
-<br>Teacher (Literature in English)</p>
 </td>
 </tr>
 <tr>
@@ -159,7 +184,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:ng.hui.qi@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Hui Qi</a></strong> 
-<br>Teacher (General Paper)</p>
+<br>Teacher (Literature in English)</p>
 </td>
 </tr>
 <tr>
@@ -171,29 +196,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:vivien.yeo@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL-Vivien-Yeo_s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:vivien.yeo@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mrs Vivien Yeo</a> </strong>
-<br>Teacher (General Paper)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:xu.xiuwen@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/el-xu-xiuwen_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:xu.xiuwen@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Xu Xiuwen</a></strong> 
-<br>Teacher (General Paper)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL_Alethea_Ellingsen.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:alethea.ellingsen@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Alethea Ellingsen</a> </strong>
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
