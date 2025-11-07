@@ -83,6 +83,17 @@ Head (Mathematics)</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:david.lim@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr David Lim</a></strong>
+<br>Teacher (General Paper)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:kuang.kim.chun@ejc.edu.sg"><img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/Kuang-Kim-Chun_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
