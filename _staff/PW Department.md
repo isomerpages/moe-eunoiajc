@@ -43,14 +43,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:joanne.lee@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Joanne-Lee_s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:joanne.lee@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joanne Lee</a></strong>
-<br>Teacher (Project Work)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:ng.lee.siah@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/PW-Ng-Lee-Siah_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
