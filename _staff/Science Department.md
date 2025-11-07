@@ -51,6 +51,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:lim.hwee.ke@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Hwee Ke</a></strong>
+<br>Deputy Head (Physics)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:robin.soh@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Soh-Yong-Li_s-1.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
@@ -123,17 +134,6 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_LiowHuiXian.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:liow.pei.xian@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Liow Pei Xian</a></strong>
-<br>Teacher (Biology)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:chan.xin.yu@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Chan-Xin-Yu-s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,6 +146,17 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:chia.xin.hui@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Xin Hui</a></strong> 
+<br>Teacher (Chemistry)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:evelyn.yong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Evelyn Yong</a></strong>
 <br>Teacher (Chemistry)</p>
 </td>
 </tr>
@@ -196,6 +207,17 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:lye.pin.quan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Lye Pin Quan</a></strong>
+<br>Teacher (Chemistry)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:ong.wee.yong@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Ong-Wee-Yong_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
@@ -217,14 +239,6 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:tay.li.kim@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Yew-Tay Li Kim</a></strong> 
 <br>Teacher (Chemistry)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:ho.hon.wing@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Ho-Hon-Wing_s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ho.hon.wing@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ho Hon Wing</a> </strong>
-<br>Teacher (Physics)</p>
 </td>
 </tr>
 <tr>
