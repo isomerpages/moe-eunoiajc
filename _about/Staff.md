@@ -107,10 +107,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>26-A1</strong> 
+<p><strong>26-A1</strong>
 </p>
 <p></p>
-<p><strong>26-A2</strong> 
+<p><strong>26-A2</strong>
 </p>
 <p></p>
 <p><strong>26-A3</strong> 
@@ -146,7 +146,7 @@ variant: tiptap
 <br><a href="mailto:tan.zhen.yong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Tan Zhen Yong Keith</a>
 </p>
 <p><strong>25-E6 </strong>
-<br><a href="mailto:chang.meng.pat@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Chang Meng Pat </a>
+<br><a href="mailto:chang.meng.pat@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Chang Meng Pat</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -297,7 +297,7 @@ variant: tiptap
 <br><a href="mailto:bryan.chan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Bryan Chan</a>
 </p>
 <p><strong>25-U5</strong> 
-<br><a href="mailto:kuang.kim.chun@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Kuang Kim Chun </a>
+<br><a href="mailto:kuang.kim.chun@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Kuang Kim Chun</a>
 </p>
 <p><strong>25-U6</strong> 
 <br><a href="mailto:daniel.kwan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Daniel Kwan</a>
