@@ -4,7 +4,7 @@ permalink: /about/staff/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Departments</strong></h4>
+<h3><strong>Departments</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -68,7 +68,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h4><strong>Civics Tutors</strong></h4>
+<h3><strong>Civics Tutors</strong></h3>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -78,10 +78,10 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>JC2 Civics Tutors</p>
+<h4><strong>JC2 Civics Tutors</strong></h4>
 </th>
 <th rowspan="1" colspan="1">
-<p>JC1 Civics Tutors</p>
+<h4><strong>JC1 Civics Tutors</strong></h4>
 </th>
 </tr>
 <tr>
