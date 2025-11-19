@@ -90,7 +90,7 @@ Head (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:david.lim@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr David Lim</a></strong>
-<br>Teacher (General Paper)</p>
+<br>Teacher (Mathematics)</p>
 </td>
 </tr>
 <tr>
