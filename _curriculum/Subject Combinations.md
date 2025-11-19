@@ -11,11 +11,10 @@ four content-based subjects. Each H2 subject carries 2 academic units.
 H1 and H3 subjects carry 1 unit each.</p>
 <p>Students posted to the <strong>Arts</strong> course via the Joint Admissions
 Exercise (JAE) may propose subject combinations in the <strong>Arts</strong> (A1
-to A5) or <strong>Hybrid</strong> (Y1 to Y2) groups.</p>
-<p>Students posted to the <strong>Science</strong> course via the Joint Admissions
-Exercise (JAE) may propose subject combinations in the <strong>Science</strong> (S1
-to S3) or <strong>Hybrid</strong> (Y1 to Y2) groups.</p>
-<p>Students may propose their&nbsp;<strong>preferred subject combination</strong>&nbsp;if
+to A5) or <strong>Hybrid</strong> (Y1 to Y2) groups. Students posted to the <strong>Science</strong> course
+via the Joint Admissions Exercise (JAE) may propose subject combinations
+in the <strong>Science</strong> (S1 to S3) or <strong>Hybrid</strong> (Y1 to
+Y2) groups. Students may propose their&nbsp;<strong>preferred subject combination</strong>&nbsp;if
 it is not featured in the list of subject combinations, subject to approval.</p>
 <p>The<strong>&nbsp;<a href="/files/EJC_SCOPE_2026.pdf" rel="noopener nofollow" target="_blank">EJC Subject Combination Proposal Exercise</a></strong> (SCOPE)
 information booklet can be downloaded and viewed below.</p>
