@@ -9,24 +9,19 @@ variant: tiptap
 offering&nbsp;<strong>10 to 12 units of study</strong>&nbsp;including <strong><a href="/academic-subjects/Knowledge-Skills/general-paper/" rel="noopener noreferrer nofollow" target="_blank">H1 General Paper</a></strong>, <strong><a href="/academic-subjects/Languages/mother-tongue-languages/" rel="noopener noreferrer nofollow" target="_blank">H1 Mother Tongue</a></strong> and
 four content-based subjects. Each H2 subject carries 2 academic units.
 H1 and H3 subjects carry 1 unit each.</p>
-<p>Students admitted via the&nbsp;<strong>Joint Admissions Exercise (JAE)</strong>&nbsp;<u>must</u> propose
-subject combinations in the stream (Arts or Science) to which they are
-posted.</p>
-<p>The&nbsp;<strong><a href="/files/EJC_SCOPE_2025.pdf" rel="noopener nofollow" target="_blank">EJC Subject Combination Proposal Exercise</a></strong>&nbsp;(SCOPE)
-information booklet can be downloaded and viewed below. All students may
-propose their&nbsp;<strong>preferred subject combination</strong>&nbsp;if
+<p>Students posted to the <strong>Arts</strong> course via the Joint Admissions
+Exercise (JAE) may propose subject combinations in the <strong>Arts</strong> (A1
+to A5) or <strong>Hybrid</strong> (Y1 to Y2) groups.</p>
+<p>Students posted to the <strong>Science</strong> course via the Joint Admissions
+Exercise (JAE) may propose subject combinations in the <strong>Science</strong> (S1
+to S3) or <strong>Hybrid</strong> (Y1 to Y2) groups.</p>
+<p>Students may propose their&nbsp;<strong>preferred subject combination</strong>&nbsp;if
 it is not featured in the list of subject combinations, subject to approval.</p>
-<p></p><a class="isomer-image-wrapper" href="/files/EJC_SCOPE_2025.pdf"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Download.png"></a>
+<p>The<strong>&nbsp;<a href="/files/EJC_SCOPE_2026.pdf" rel="noopener nofollow" target="_blank">EJC Subject Combination Proposal Exercise</a></strong> (SCOPE)
+information booklet can be downloaded and viewed below.</p>
+<p></p><a class="isomer-image-wrapper" href="/files/EJC_SCOPE_2026.pdf"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Download.png"></a>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Arts.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Science1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Science2.png">
-</div>
+<p></p>
 <h6><strong>KNOWLEDGE SKILLS</strong></h6>
 <p>All students offer&nbsp;<strong><a href="/subjects/gp/" rel="noopener noreferrer nofollow" target="_blank">H1 General Paper</a></strong>.
 In their first year, students must offer&nbsp;<strong><a href="/subjects/pw/" rel="noopener noreferrer nofollow" target="_blank">Project Work</a></strong>.</p>
@@ -38,10 +33,10 @@ be offered as an H2 subject for Arts students and a contrasting H2 subject
 for Science students. These subjects are offered at the Ministry of Education
 Language Centre (MOELC).</p>
 <h6><strong>HYBRID COMBINATIONS</strong></h6>
-<p>Students intending to offer 2 Mathematics and Sciences subjects and 2
-Humanities and the Arts subjects may refer to page 6 of the&nbsp;<strong><a href="/files/EJC_SCOPE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">information booklet</a></strong>.&nbsp;The
-college offers hybrid subject combinations in the&nbsp;<strong>Science</strong>&nbsp;stream:
-S4-1 to S4-4, and S5-1 to S5-4.</p>
+<p>Students intending to offer <u>2</u> Mathematics and Sciences subjects and <u>2</u> Humanities
+and the Arts subjects may refer to page 5 of the&nbsp;<strong><a href="/files/EJC_SCOPE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">information booklet</a></strong>.
+These hybrid subject combinations are available to students posted to the <strong>Arts</strong> or <strong>Science</strong> courses
+via JAE.</p>
 <h6><strong>CONTRASTING SUBJECT</strong></h6>
 <p>Students must offer a contrasting subject as one of the four content-based
 subjects.</p>
@@ -60,9 +55,9 @@ considered a contrasting subject for Science and Arts students, and offered
 as the fourth H2 subject.</p>
 </li>
 </ul>
-<h6><strong>SUBJECT RE-OPTIMISATION</strong></h6>
-<p>Students offering 4 H2 content-based subjects may revise one H2 content-based
-subject to H1 Level at appropriate points in the course.</p>
+<h6><strong>SUBJECT REVISION</strong></h6>
+<p>Students offering <u>4</u> H2 content-based subjects may revise one H2 content-based
+subject to <strong>H1 Level</strong> at appropriate points in the course.</p>
 <h6><strong>H3 SUBJECTS</strong></h6>
 <p>Designed for outstanding students, H3 subjects are offered in&nbsp;<strong>JC2</strong>&nbsp;together
 with the stipulated subject at H2 level. Students will be informed of the
