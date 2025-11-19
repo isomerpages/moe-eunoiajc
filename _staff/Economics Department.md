@@ -31,7 +31,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:michelle.chiang@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Michelle Chiang</a></strong> 
-<br>Dean (JC2)</p>
+<br>Dean (JC1)</p>
 </td>
 </tr>
 <tr>
@@ -40,6 +40,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:loh.xin.min@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Loh Xin Min</a></strong> 
 <br>Lead Teacher (Economics)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:amelia.quek@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Amelia Quek</a></strong>
+<br>Teacher (Economics)</p>
 </td>
 </tr>
 <tr>
