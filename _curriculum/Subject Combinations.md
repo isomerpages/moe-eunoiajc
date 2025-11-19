@@ -47,22 +47,22 @@ information booklet can be downloaded and viewed below.</p>
 </tbody>
 </table>
 <p></p>
-<h6><strong>KNOWLEDGE SKILLS</strong></h6>
+<h4><strong>Knowledge Skills</strong></h4>
 <p>All students offer&nbsp;<strong><a href="/subjects/gp/" rel="noopener noreferrer nofollow" target="_blank">H1 General Paper</a></strong>.
 In their first year, students must offer&nbsp;<strong><a href="/subjects/pw/" rel="noopener noreferrer nofollow" target="_blank">Project Work</a></strong>.</p>
-<h6><strong>LANGUAGES</strong></h6>
+<h4><strong>Languages</strong></h4>
 <p>Students must offer&nbsp;<strong><a href="/subjects/mtl/" rel="noopener noreferrer nofollow" target="_blank">H1 Mother Tongue</a></strong>&nbsp;unless
 they have obtained a minimum of D7 for Higher Mother Tongue at O-Level.</p>
 <p><strong><a href="/subjects/fl/" rel="noopener noreferrer nofollow" target="_blank">French</a></strong>,&nbsp;<strong><a href="/subjects/fl/" rel="noopener noreferrer nofollow" target="_blank">German</a></strong>,&nbsp;<strong><a href="/subjects/fl/" rel="noopener noreferrer nofollow" target="_blank">Japanese</a></strong>&nbsp;or&nbsp;<strong><a href="/subjects/fl/" rel="noopener noreferrer nofollow" target="_blank">Spanish</a></strong>&nbsp;can
 be offered as an H2 subject for Arts students and a contrasting H2 subject
 for Science students. These subjects are offered at the Ministry of Education
 Language Centre (MOELC).</p>
-<h6><strong>HYBRID COMBINATIONS</strong></h6>
+<h4><strong>Hybrid Combinations</strong></h4>
 <p>Students intending to offer <u>2</u> Mathematics and Sciences subjects and <u>2</u> Humanities
 and the Arts subjects may refer to page 5 of the&nbsp;<strong><a href="/files/EJC_SCOPE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">information booklet</a></strong>.
 These hybrid subject combinations are available to students posted to the <strong>Arts</strong> or <strong>Science</strong> courses
 via JAE.</p>
-<h6><strong>CONTRASTING SUBJECT</strong></h6>
+<h4><strong>Contrasting Subject</strong></h4>
 <p>Students must offer a contrasting subject as one of the four content-based
 subjects.</p>
 <ul data-tight="true" class="tight">
@@ -80,14 +80,14 @@ considered a contrasting subject for Science and Arts students, and offered
 as the fourth H2 subject.</p>
 </li>
 </ul>
-<h6><strong>SUBJECT REVISION</strong></h6>
+<h4><strong>Subject Revision</strong></h4>
 <p>Students offering <u>4</u> H2 content-based subjects may revise one H2 content-based
 subject to <strong>H1 Level</strong> at appropriate points in the course.</p>
-<h6><strong>H3 SUBJECTS</strong></h6>
+<h4><strong>H3 Subjects</strong></h4>
 <p>Designed for outstanding students, H3 subjects are offered in&nbsp;<strong>JC2</strong>&nbsp;together
 with the stipulated subject at H2 level. Students will be informed of the
 application process and eligibility criteria in JC1.</p>
-<h6><strong>MERIT-BASED ALLOCATION</strong></h6>
+<h4><strong>Merit-Based Allocation</strong></h4>
 <p>Students intending to offer&nbsp;<strong><a href="/subjects/art/" rel="noopener noreferrer nofollow" target="_blank">H2 Art</a></strong>,&nbsp;<strong><a href="/subjects/fmaths/" rel="noopener noreferrer nofollow" target="_blank">H2 Further Mathematics</a></strong>,&nbsp;<strong><a href="/subjects/ki/" rel="noopener noreferrer nofollow" target="_blank">H2 Knowledge &amp; Inquiry</a></strong>,&nbsp;<strong><a href="/subjects/music/" rel="noopener noreferrer nofollow" target="_blank">H2 Music</a></strong>&nbsp;or&nbsp;<strong><a href="/subjects/translation/" rel="noopener noreferrer nofollow" target="_blank">H2 Translation (Chinese)</a></strong>&nbsp;must
 pass a selection test/audition administered by the college.</p>
 <p>Students intending to offer&nbsp;<strong><a href="/subjects/translation/" rel="noopener noreferrer nofollow" target="_blank">H2 Translation (Chinese)</a></strong>&nbsp;must
@@ -105,7 +105,7 @@ the respective subject at the GCE O-Level Examination or equivalent, or&nbsp;<st
 Combined Science at the GCE O-Level Examination.</p>
 <p>The indicative cut-off point for&nbsp;<strong><a href="/subjects/fmaths/" rel="noopener noreferrer nofollow" target="_blank">H2 Further Mathematics</a></strong>&nbsp;is&nbsp;<strong>A1</strong>&nbsp;for
 Additional Mathematics at the GCE O-Level Examination or equivalent.</p>
-<h6><strong>SPECIAL PROGRAMMES</strong></h6>
+<h4><strong>Special Programmes</strong></h4>
 <p><strong><a href="/special-programmes/bsp/" rel="noopener noreferrer nofollow" target="_blank">Bicultural Studies Programme</a></strong>&nbsp;[BSP(C)]&nbsp;scholars
 must offer&nbsp;<strong><a href="subjects/csc/" rel="noopener noreferrer nofollow" target="_blank">H2 China Studies in Chinese</a></strong>.</p>
 <p><strong><a href="https://eunoiajc.moe.edu.sg/special-programmes/etps/" rel="noopener nofollow" target="_blank">Engineering and Tech Programme Scholarship</a> </strong>(ETPS)
@@ -120,14 +120,14 @@ students must offer&nbsp;<strong><a href="/subjects/music/" rel="noopener norefe
 foreign language subjects at H2 level.</p>
 <p><strong><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u/national-elective-tamil-language-programme-scholarship" rel="noopener nofollow" target="_blank">National Elective Tamil Language Programme Scholarship</a> </strong>(NETPS)<strong> </strong>students
 must offer H2 Tamil Language and Literature.</p>
-<h6><strong>UNIVERSITY COURSE PRE-REQUISITES</strong></h6>
+<h4><strong>University Course Requisites</strong></h4>
 <p>Your future career may require you to undertake certain degrees and/or
 courses at the&nbsp;undergraduate level. In turn, these undergraduate courses
 in the universities may or may not have course-specific subject pre-requisites.
 As such, you are advised to check the minimum requirements on the university
 websites directly before making a decision on the subject combination to
 offer.</p>
-<h6><strong>OTHER CONSIDERATIONS</strong></h6>
+<h4><strong>Other Considerations</strong></h4>
 <p>In the event that there is insufficient student subscription in a particular
 subject or subject combination, the college reserves the right not to offer
 that subject or subject combination.</p>
