@@ -19,8 +19,34 @@ to S3) or <strong>Hybrid</strong> (Y1 to Y2) groups.</p>
 it is not featured in the list of subject combinations, subject to approval.</p>
 <p>The<strong>&nbsp;<a href="/files/EJC_SCOPE_2026.pdf" rel="noopener nofollow" target="_blank">EJC Subject Combination Proposal Exercise</a></strong> (SCOPE)
 information booklet can be downloaded and viewed below.</p>
-<p></p><a class="isomer-image-wrapper" href="/files/EJC_SCOPE_2026.pdf"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Download.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/files/EJC_SCOPE_2026.pdf"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Download.png"></a>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/SCOPE2026_A.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/SCOPE2026_S.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/SCOPE2026_Y.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h6><strong>KNOWLEDGE SKILLS</strong></h6>
 <p>All students offer&nbsp;<strong><a href="/subjects/gp/" rel="noopener noreferrer nofollow" target="_blank">H1 General Paper</a></strong>.
