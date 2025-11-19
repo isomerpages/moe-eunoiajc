@@ -39,7 +39,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:michelle.chiang@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Michelle Chiang</a></strong> 
-<br>Dean (JC2)</p>
+<br>Dean (JC1)</p>
 </td>
 </tr>
 <tr>
@@ -47,7 +47,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:yang.shu.hung@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yang Shu Hung</a></strong> 
-<br>Dean (JC1)</p>
+<br>Dean (JC2)</p>
 </td>
 </tr>
 <tr>
@@ -55,7 +55,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:karine.teo@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Karine Teo</a></strong> 
-<br>Deputy Dean (JC2)</p>
+<br>Deputy Dean (JC1)</p>
 </td>
 </tr>
 <tr>
@@ -63,7 +63,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:ng.boon.hong@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Boon Hong</a></strong>
-<br>Deputy Dean (JC1)</p>
+<br>Deputy Dean (JC2)</p>
 </td>
 </tr>
 <tr>
