@@ -18,7 +18,7 @@ Y2) groups. Students may propose their&nbsp;<strong>preferred subject combinatio
 it is not featured in the list of subject combinations, subject to approval.</p>
 <p>The<strong>&nbsp;<a href="/files/EJC_SCOPE_2026.pdf" rel="noopener nofollow" target="_blank">EJC Subject Combination Proposal Exercise</a></strong> (SCOPE)
 information booklet can be downloaded and viewed below.</p>
-<p></p><a class="isomer-image-wrapper" href="/files/EJC_SCOPE_2026.pdf"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Download.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/files/EJC_SCOPE_2026.pdf"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Download.png"></a>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
