@@ -4,7 +4,6 @@ permalink: /subject-combinations/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Subject Combinations</strong></h3>
 <p>All our students undertake the Singapore-Cambridge GCE A-Level Curriculum,
 offering&nbsp;<strong>10 to 12 units of study</strong>&nbsp;including <strong><a href="/academic-subjects/Knowledge-Skills/general-paper/" rel="noopener noreferrer nofollow" target="_blank">H1 General Paper</a></strong>, <strong><a href="/academic-subjects/Languages/mother-tongue-languages/" rel="noopener noreferrer nofollow" target="_blank">H1 Mother Tongue</a></strong> and
 four content-based subjects. Each H2 subject carries 2 academic units.
