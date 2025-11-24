@@ -4,8 +4,12 @@ permalink: /subjects/
 description: ""
 variant: tiptap
 ---
-<p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/subjects/gp/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Curriculum/Subject01.png"></a>
@@ -90,7 +94,11 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -100,7 +108,7 @@ variant: tiptap
 <br><a href="/subjects/phy/" rel="noopener noreferrer nofollow" target="_blank">Physics</a>
 </p>
 <p><a href="/subjects/maths/" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a> 
-<br><a href="/subjects/fmaths/" rel="noopener noreferrer nofollow" target="_blank">Further Mathematics</a> 
+<br><a href="/subjects/fmaths/" rel="noopener noreferrer nofollow" target="_blank">Further Mathematics</a>
 </p>
 <p></p>
 <h4><strong>Knowledge Skills</strong></h4>

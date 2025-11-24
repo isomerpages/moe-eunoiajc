@@ -4,8 +4,11 @@ permalink: /curriculum/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Our 5i Curriculum</strong></h4>
-<h5><strong>Intrigue</strong></h5>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/5i.png">
+</div>
+<h3><strong>Intrigue</strong></h3>
 <p>Millions saw the apple fall but Newton asked why. We believe that curiosity
 is more important than knowledge. Hence, our academic programme in <strong><a href="/subjects/" rel="noopener noreferrer nofollow" target="_blank">Knowledge Skills</a></strong>
 <a href="/subjects/" rel="noopener noreferrer nofollow" target="_blank">,</a><strong><a href="/subjects/" rel="noopener noreferrer nofollow" target="_blank">Languages</a></strong>
@@ -18,7 +21,7 @@ are designed to develop our students’ cognitive and metacognitive abilities.
 We believe that the greatest gift an education can provide is not great
 knowledge but an undying thirst for knowledge. After all, the future belongs
 to the curious.</p>
-<h5><strong>Inspire</strong></h5>
+<h3><strong>Inspire</strong></h3>
 <p>We want our students to inspire and be inspired. An inspired person finds
 it easy to accomplish the difficult; an uninspired person finds it difficult
 to even accomplish easy tasks.</p>
@@ -27,22 +30,22 @@ Programme <strong><a href="/special-programmes/altitude/" rel="noopener noreferr
 and the <strong><a href="/special-programmes/stem/" rel="noopener noreferrer nofollow" target="_blank">STEM Research Programme</a></strong>,
 are platforms to inspire students to pursue their dreams, and opportunities
 for them to be an inspiration to others in their pursuit of excellence.</p>
-<h5><strong>Introspect</strong></h5>
+<h3><strong>Introspect</strong></h3>
 <p>Our experiences are only as good as the lessons we draw from them through
 quality introspection. Studies have shown that successful people have high
 intrapersonal intelligence. High intrapersonal intelligence enables one
 to discover one’s values, beliefs and passion. It also allows one to draw
 the most valuable lessons from one’s experiences. We cultivate intrapersonal
 intelligence in our students through meaningful introspection and by cultivating
-their personal voice. Our <strong><a href="/student-development/leadership/" rel="noopener noreferrer nofollow" target="_blank">Leadership Academy</a>, <a href="/student-development/cce/" rel="noopener noreferrer nofollow" target="_blank">Character &amp; Citizenship Education</a></strong> and <strong><a href="/culture/cca/" rel="noopener noreferrer nofollow" target="_blank">Co-Curricular Activities</a></strong> are
+their personal voice. Our <strong><a href="/student-development/leadership/" rel="noopener noreferrer nofollow" target="_blank">Leadership Academy</a>, <a href="/student-development/cce/" rel="noopener noreferrer nofollow" target="_blank">Character &amp; Citizenship Programme</a></strong> and <strong><a href="/culture/cca/" rel="noopener noreferrer nofollow" target="_blank">Co-Curricular Activities</a></strong> are
 designed to encourage and impart the important skill of introspection.</p>
-<h5><strong>Invigorate</strong></h5>
+<h3><strong>Invigorate</strong></h3>
 <p>Passion is focussed energy. We want our students to be in love with life
 and harness the power they get when they focus on what excites them. We
 believe that an education is incomplete if students are not invigorated
 or if they do not feel excited about what their future holds. Our students
 will be energised through <strong><a href="/flagship-programmes/pp/" rel="noopener noreferrer nofollow" target="_blank">Passion Pursuit</a>, <a href="/about/staff/pe/" rel="noopener noreferrer nofollow" target="_blank">Physical Education</a>, <a href="/culture/internships/" rel="noopener noreferrer nofollow" target="_blank">Internships and Externships</a></strong> and <strong><a href="/culture/aesthetics/" rel="noopener noreferrer nofollow" target="_blank">Aesthetics Programme</a></strong>.</p>
-<h5><strong>Impact</strong></h5>
+<h3><strong>Impact</strong></h3>
 <p>Without making a contribution, great ambition and achievements are of
 little significance — what is an educational experience without the opportunity
 to make an impact? Students can look forward to exciting opportunities
