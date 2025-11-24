@@ -94,6 +94,14 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:justin.lim@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Justin_Lim.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:justin.lim@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Justin Lim</a></strong> 
+<br>Deputy Head (STEM)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:chan.ter.yue@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Chan-Ter-Yue_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
@@ -172,14 +180,6 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:justin.lim@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Justin_Lim.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:justin.lim@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Justin Lim</a></strong> 
-<br>Teacher (Chemistry)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:kan.ximin@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Kan_Ximin.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
@@ -222,14 +222,6 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:ong.wee.yong@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ong Wee Yong</a></strong> 
-<br>Teacher (Chemistry)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:suellen.goh@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Suellen_Goh_s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:suellen.goh@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Suellen Goh</a></strong> 
 <br>Teacher (Chemistry)</p>
 </td>
 </tr>
