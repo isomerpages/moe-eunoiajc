@@ -28,7 +28,7 @@ variant: tiptap
 <p>Halal Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21 Nov 2025</p>
+<p>5 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay Nasi Padang</p>
@@ -36,14 +36,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Others (Halal or Non-Halal, Open to Proposal)</p>
+<p>Asia Cuisine (Non-Halal Japanese/
+<br>Korean)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19 Sep 2025</p>
+<p>5 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For e.g. Ban Mian, Assorted Halal Noodles (Mee Rebus, Mee Siam, Laksa,
-Mee Soto), etc</p>
+<p>Japanese and Korean Food</p>
 </td>
 </tr>
 </tbody>
