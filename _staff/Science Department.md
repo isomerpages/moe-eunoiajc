@@ -15,7 +15,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:benjamin.choo@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benjamin Choo</a></strong> 
-<br>Deputy Head (Biology)</p>
+<br>Deputy Head (Biology) / Covering HOD (Science)</p>
 </td>
 </tr>
 <tr>
