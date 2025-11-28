@@ -139,6 +139,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Esther_Chiam.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:esther.chiam@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Esther Chiam</a></strong>
+<br>Teacher (General Paper)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
 </div>
 </td>
@@ -180,6 +191,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Masnidah_Masnawi.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:masnidah.masnawi@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Masnidah Masnawi</a></strong>
+<br>Teacher (General Paper)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:ng.hui.qi@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL_NgHuiQi_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
@@ -200,28 +222,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:xu.xiuwen@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Xu Xiuwen</a></strong> 
-<br>Teacher (General Paper)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Esther_Chiam.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:esther.chiam@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Esther Chiam</a></strong>
-<br>Teacher (General Paper)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Masnidah_Masnawi.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:masnidah.masnawi@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Masnidah Masnawi</a></strong>
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
