@@ -100,7 +100,6 @@ variant: tiptap
 </p>
 <p><strong>25-A5</strong> 
 <br><a href="mailto:liu.shuyu@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mdm Liu Shuyu </a>
-<br><a href="mailto:nadira.md.sedik@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Nadira Sedik</a>
 </p>
 <p><strong>25-A6</strong>
 <br><a href="mailto:anna.loh@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Anna Loh</a>
@@ -181,8 +180,8 @@ variant: tiptap
 <p></p>
 <p><strong>25-I1</strong> 
 <br><a href="mailto:ng.hui.qi@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Ng Hui Qi </a>
-<br><a href="mailto:gunaselvi.munisamy@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mdm Gunaselvi</a>
 </p>
+<p></p>
 <p><strong>25-I2</strong> 
 <br><a href="mailto:ng.siow.ying@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Ng Siow Ying</a>
 <br><a href="mailto:bernice.lee@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Bernice Lee</a>
