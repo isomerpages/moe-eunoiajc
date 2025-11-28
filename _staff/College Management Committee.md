@@ -54,27 +54,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:alvin.toh@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/HOD-Alvin-Toh_s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:alvin.toh@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Alvin Toh</a> </strong>
-<br>HOD (Mathematics)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:charles.cheak@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/pe-charles-cheak_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:charles.cheak@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Charles Cheak</a> </strong>
 <br>HOD (PE &amp; CCA)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:chok.yew.keong@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Sci-Chok-Yew-Keong_s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chok.yew.keong@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Chok Yew Keong</a></strong> 
-<br>HOD (Science)</p>
 </td>
 </tr>
 <tr>
@@ -107,6 +91,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:koh.siong.yang@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Koh Siong Yang</a></strong> 
 <br>HOD (ICT&amp;IME)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:lee.siew.lin@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Lee Siew Lin</a></strong>
+<br>HOD (Mathematics)</p>
 </td>
 </tr>
 <tr>
