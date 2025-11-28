@@ -70,14 +70,6 @@ Head (Mathematics)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:chua.jian.rong@ejc.edu.sg"><img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Chua-Jian-Rong_s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chua.jian.rong@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Jian Rong</a> </strong>
-<br>Teacher (Mathematics)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:clarice.chan@ejc.edu.sg"><img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/Maths-Clarice-Chan_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
