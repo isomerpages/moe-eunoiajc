@@ -27,11 +27,11 @@ information booklet can be downloaded and viewed below.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/2026/SCOPE2026_A.png"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/SCOPE2026_A.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/combis/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/SCOPE2026_A.png"></a>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/2026/SCOPE2026_S.png"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/SCOPE2026_S.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/combis/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/SCOPE2026_S.png"></a>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/2026/SCOPE2026_Y.png"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/SCOPE2026_Y.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/combis/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/SCOPE2026_Y.png"></a>
 </th>
 </tr>
 </tbody>
