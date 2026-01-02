@@ -43,6 +43,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:tan.liu.yin@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Econs-Tan-Liu-Yin_s.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:tan.liu.yin@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Tan Liu Yin</a></strong>
+<br>Deputy Head (Economics)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
