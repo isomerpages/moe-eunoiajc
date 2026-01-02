@@ -11,9 +11,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: A-Level Results
-          description: Class of 2024
-          url: /2025/results
+        - title: Open House
+          description: 16 Jan 2025
+          url: /oh/
         - title: "#WhyEJ"
           description: Our Stories
           url: https://www.eunoiajc.moe.edu.sg/whyej/nicole/
