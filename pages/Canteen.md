@@ -25,22 +25,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Halal Rice</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 Dec 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Malay Nasi Padang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Asia Cuisine (Non-Halal Japanese/
 <br>Korean)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5 Dec 2025</p>
+<p>31 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Japanese and Korean Food</p>
