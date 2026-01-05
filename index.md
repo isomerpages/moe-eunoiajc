@@ -11,9 +11,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: A-Level Results
-          description: Class of 2024
-          url: /2025/results
+        - title: Open House
+          description: 16 Jan 2025
+          url: /oh/
         - title: "#WhyEJ"
           description: Our Stories
           url: https://www.eunoiajc.moe.edu.sg/whyej/nicole/
@@ -58,7 +58,7 @@ sections:
         assistance.
       button: FIND OUT MORE
       url: /admissions/
-      image: /images/Features/2022-ASTARDSTA-Scholars_for-web-1.jpg
+      image: /images/About/Home02.jpg
       alt: Admissions
   - infopic:
       title: Curriculum
@@ -68,7 +68,7 @@ sections:
         in EJC.
       button: READ MORE
       url: /curriculum
-      image: /images/home-curriculum.jpg
+      image: /images/About/Home03.jpg
       alt: Image alt text
   - infopic:
       title: Culture
@@ -78,6 +78,6 @@ sections:
         each other and the community.
       button: SEE MORE
       url: /culture/
-      image: /images/home-culture.jpg
+      image: /images/About/Home01.jpg
       alt: Image alt text
 ---
