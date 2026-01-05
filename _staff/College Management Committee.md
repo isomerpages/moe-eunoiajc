@@ -113,6 +113,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Arts-Low-Sok-Hui_s.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:low.sok.hui@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Low Sok Hui</a></strong> 
+<br>Lead Teacher (Art)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:marc.kenji.lim@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/HOD-Marc-Kenji-Lim_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
