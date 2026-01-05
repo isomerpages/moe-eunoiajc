@@ -158,6 +158,7 @@ Head (Mathematics)</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:tan.khoon.han@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Khoon Han</a></strong> 
 <br>Teacher (Mathematics)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
