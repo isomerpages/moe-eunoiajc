@@ -111,6 +111,16 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Hassan Bin Mohamed Nor<br></strong>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/Staff/eas-jaumengjuam.jpg">
 </div>
 </td>
@@ -228,6 +238,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Ms Iffah Suraya Binte Salleh</strong> 
 <br>STEM Instructor (Laboratory)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Nurfaezah Binte Abdul Azia<br></strong>STEM Instructor (Laboratory)</p>
 </td>
 </tr>
 <tr>
