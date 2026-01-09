@@ -59,10 +59,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:sandra.chan@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL_SandraChan.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:sandra.chan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Sandra Chan</a></strong>
@@ -137,10 +134,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:elena.tan@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL_ElenaTan.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:elena.tan@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Elena Tan</a></strong>
