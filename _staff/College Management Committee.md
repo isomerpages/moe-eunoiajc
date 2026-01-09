@@ -19,7 +19,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:new.yi.cheen@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/SL_New_Yi_Cheen.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:new.yi.cheen@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/SL_NewYiCheen_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:new.yi.cheen@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms New Yi Cheen</a> </strong>
@@ -94,10 +94,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:lee.siew.lin@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Maths_LeeSiewLin.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:lee.siew.lin@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Lee Siew Lin</a></strong>

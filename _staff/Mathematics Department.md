@@ -11,10 +11,7 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:lee.siew.lin@ejc.edu.sg"><img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff/Maths_LeeSiewLin.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:lee.siew.lin@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Lee Siew Lin</a><br></strong>HOD
@@ -158,6 +155,7 @@ Head (Mathematics)</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:tan.khoon.han@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Khoon Han</a></strong> 
 <br>Teacher (Mathematics)</p>
+<p></p>
 </td>
 </tr>
 </tbody>

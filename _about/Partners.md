@@ -2,9 +2,8 @@
 title: Partners
 permalink: /about/partners/
 description: ""
+variant: markdown
 ---
-<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_ytmudEmMmZ8mgS-BIIDTkPACOdGsyaZT0aFuVSz9Y22fq_dYqvH1QLlq6GfTvKfQIuewlkNvXgz_/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
-
 #### **Beyond Social Services**
 
 _EJC Partnership Appreciation Award (2023) for_ <br>
