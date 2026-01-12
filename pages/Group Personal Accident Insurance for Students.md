@@ -21,12 +21,11 @@ the parents/guardian.</p>
 365 days from the date of accident.</p>
 <p>Information on claims, FAQs and other details pertaining to the GPA Insurance
 Plan for Students can be found on Income’s website at <a rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>.</p>
-<p><strong>Online claim portal</strong>
+<p><strong>Online Claim Portal</strong>
 <br><a rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg/</a>
 </p>
 <p><strong>Factsheet</strong>
+<br><a href="/files/2026_GPA_Fact_Sheet.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet (2026)</a>
 </p>
-<p><a href="/files/2026_GPA_Fact_Sheet.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet (2026)</a>
-</p>
-<p>&nbsp;</p>
-<p><strong>Income Insurance Limited Hotline<br></strong>6788 1777</p>
+<p><strong>Income Insurance Limited Hotline</strong>
+<br>6788 1777</p>
