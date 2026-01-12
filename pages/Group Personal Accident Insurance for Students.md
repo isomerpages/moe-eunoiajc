@@ -26,7 +26,7 @@ Plan for Students can be found on Income’s website at <a rel="noopener norefer
 </p>
 <p><strong>Factsheet</strong>
 </p>
-<p><a href="https://s3.ap-southeast-1.amazonaws.com/mhc.static/Income/MOE+Student+Product+Fact+Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Factsheet 2024</a>
+<p><a href="/files/2026_GPA_Fact_Sheet.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet (2026)</a>
 </p>
 <p>&nbsp;</p>
 <p><strong>Income Insurance Limited Hotline<br></strong>6788 1777</p>
