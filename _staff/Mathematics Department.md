@@ -81,7 +81,7 @@ Head (Mathematics)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:david.lim@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr David Lim</a></strong>
+<p><strong><a href="mailto:david.lim@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr David Lim Eik Kheng</a></strong>
 <br>Teacher (Mathematics)</p>
 </td>
 </tr>
