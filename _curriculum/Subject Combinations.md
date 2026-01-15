@@ -51,7 +51,7 @@ for Science students. These subjects are offered at the Ministry of Education
 Language Centre (MOELC).</p>
 <h4><strong>Hybrid Combinations</strong></h4>
 <p>Students intending to offer <u>2</u> Mathematics and Sciences subjects and <u>2</u> Humanities
-and the Arts subjects may refer to page 5 of the&nbsp;<strong><a href="/files/EJC_SCOPE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">information booklet</a></strong>.
+and the Arts subjects may refer to page 5 of the<strong>&nbsp;<a href="/files/EJC_SCOPE_2026.pdf" rel="noopener nofollow" target="_blank">information booklet</a></strong>.
 These hybrid subject combinations are available to students posted to the <strong>Arts</strong> or <strong>Science</strong> courses
 via JAE.</p>
 <h4><strong>Contrasting Subject</strong></h4>
