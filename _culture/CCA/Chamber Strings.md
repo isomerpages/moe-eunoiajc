@@ -14,6 +14,3 @@ variant: tiptap
 <p><strong>Mr Kang You-Jin</strong>
 <br><a href="mailto:kang.you-jin@ejc.edu.sg" rel="noopener nofollow" target="_blank">kang.you-jin@ejc.edu.sg</a>
 </p>
-<p><strong>Dr Gooi Tah Choe</strong>
-<br><a href="mailto:gooi.tah.choe@ejc.edu.sg" rel="noopener nofollow" target="_blank">gooi.tah.choe@ejc.edu.sg</a>
-</p>
