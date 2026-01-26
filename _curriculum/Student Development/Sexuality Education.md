@@ -346,7 +346,13 @@ programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <strong><a href="/files/2025_Info_on_SEd_for_schs_website__JCMI___final__Annex_A_3_Apr.pdf" rel="noopener nofollow" target="_blank">here</a></strong>.
+of the year and is also available <strong><a href="/files/2026_Info_on_SEd_for_schs_website__JCMI__JC2_Parent_s_Letter_and_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
+JC2 students and <strong><a href="/files/2026_Info_on_SEd_for_schs_website__JCMI__JC1_Parent_s_Letter_and_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
+JC1 students. The completed form is to be submitted by 27/02/2026 for JC2
+students and 06/03/2026 for JC1 students.</p>
+<p>Parents who wish to opt their children out of the Sexuality Education
+lessons need to complete an opt-out form. This form will be communicated
+to parents at the start of the year and is also downloadable <strong><a href="/files/2025_Info_on_SEd_for_schs_website__JCMI___final__Annex_A_3_Apr.pdf" rel="noopener nofollow" target="_blank">here</a></strong>.
 The completed form is to be submitted by 9 April 2025.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
