@@ -6,7 +6,7 @@ third_nav_title: CCA
 variant: tiptap
 ---
 <h4><strong>CCA Schedule</strong></h4>
-<p><strong>Tueday</strong>
+<p><strong>Tuesday</strong>
 <br>5.00 - 7.30pm
 <br>Multi-Purpose&nbsp;Hall</p>
 <p><strong>Thursday</strong>
