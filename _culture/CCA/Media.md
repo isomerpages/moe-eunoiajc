@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3><strong>CCA Schedule</strong></h3>
 <p><strong>Wednesday</strong>
-<br>3.30 - 5.30pm
+<br>3.30 - 6.00pm
 <br>CCA Room 3
 <br>Learning Studio 3
 <br>MEP Studio 2
@@ -15,7 +15,7 @@ variant: tiptap
 <br>
 </p>
 <p><strong>Friday</strong>
-<br>4.30 - 6.30pm
+<br>4.00 - 6.30pm
 <br>CCA Room 3
 <br>Learning Studio 3
 <br>MEP Studio 2
