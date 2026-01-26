@@ -9,9 +9,6 @@ variant: tiptap
 <p><strong>Wednesday</strong>
 <br>3.30 - 5.30pm
 <br>Learning Studio 9</p>
-<p><strong>Friday</strong>
-<br>3.30 - 5.30pm
-<br>Learning Studio 9</p>
 <p></p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <p><strong>Mdm Pan Qun</strong>
