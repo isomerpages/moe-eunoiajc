@@ -16,6 +16,6 @@ variant: tiptap
 <p><strong>Ms Ng Siow Ying</strong>
 <br><a href="mailto:ng.siow.ying@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.siow.ying@ejc.edu.sg</a>
 </p>
-<p><strong>Ms Kajal Kaur Khaira</strong>
-<br><a href="mailto:kajal.kaur.khaira@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kajal.kaur.khaira@ejc.edu.sg</a>
+<p><strong>Mr Jason Yuen</strong>
+<br><a href="mailto:jason.yuen@ejc.edu.sg" rel="noopener nofollow" target="_blank">jason.yuen@ejc.edu.sg</a>
 </p>
