@@ -26,3 +26,6 @@ variant: tiptap
 <p><strong>Ms Sea Su-An</strong>
 <br><a href="mailto:sea.su.an@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sea.su.an@ejc.edu.sg</a>
 </p>
+<p><strong>Ms Lim Hwee Ke</strong>
+<br><a href="mailto:lim.hwee.ke@ejc.edu.sg" rel="noopener nofollow" target="_blank">lim.hwee.ke@ejc.edu.sg</a>
+</p>
