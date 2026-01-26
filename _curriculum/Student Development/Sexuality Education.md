@@ -277,17 +277,17 @@ and choosing to do what is right.</p>
 </table>
 <p></p>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
-<p>6.&nbsp;<em>eTeens</em>&nbsp;is a programme developed by Health Promotion
-Board, in collaboration with the Ministry of Education, to provide JC/CI
-Year 1 students with accurate information on STI/HIV and protection from
-a health perspective so as to enable them to make wise, informed, and sensible
-decisions.</p>
-<p>7. Students are taught skills such as decision-making, assertiveness and
-negotiation to say “no” to sex and negative peer pressure. They also learn
-that the impact of STI/HIV extends beyond themselves and involves their
-family. Abstinence and upholding family values are the key messages. The
-desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students
-are empowered to make wise, informed and sensible decisions.</p>
+<p>6.&nbsp;<em>eTeens</em> is a programme that was developed by Health Promotion
+Board, in collaboration with the Ministry of Education, to provide JC/MI
+Year 1 students with accurate information on STIs/HIV and protection from
+a health perspective. With the formation of the Communicable Diseases Agency
+(CDA) on 1 April 2025, the programme would now be managed by CDA’s Training
+and Education Division instead of HPB. The desired outcome of the eTeens
+programme is that students are empowered to make wise, informed and sensible
+decisions to protect themselves from sexually transmitted infectious diseases.</p>
+<p>7. Students learn the health, social and financial implications of STIs/HIV
+on an individual and the family, and the importance of responsible decision-making
+and seeking help. Abstinence and upholding family values are the key messages.</p>
 <p><strong>At Eunoia Junior College, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2026:</strong>
 </p>
 <table style="minWidth: 75px">
@@ -315,21 +315,22 @@ are empowered to make wise, informed and sensible decisions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk by pre-recorded video from January 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; infectious diseases (STIs and HIV)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; modes of transmission for STIs and
-HIV</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; modes of protection against infection,
-specifically abstinence and the correct and consistent use of condoms</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; consequences and impact of being
-infected with STIs/HIV</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ways of managing the impact of STIs</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexually transmitted infectious
+diseases (STIs and HIV): what it is, how it spreads, how to prevent infection
+mainly through ABC (abstinence, being faithful, correct, and consistent
+condom use), consequences and impact of STIs/HIV</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Skills for respecting boundaries
+(e.g. decision-making, assertiveness, negotiation to say ‘no’ to peer pressure
+to have pre-marital sex)</p>
+<p>· Managing relationships and risky situations in a healthy way, including
+avenues for help-seeking</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 3 Week 4</p>
 </td>
 </tr>
 </tbody>
