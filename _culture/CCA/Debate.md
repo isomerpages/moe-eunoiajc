@@ -10,14 +10,14 @@ variant: tiptap
 <br>4.00&nbsp;- 7.00pm
 <br>Seminar Room 5-2A/2B</p>
 <p><strong>Friday</strong>
-<br>4.00 - 7.00pm
+<br>4.30 - 7.30pm
 <br>Seminar Room 5-2A/2B</p>
 <p></p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <p><strong>Mr Benjamin Chew</strong>
 <br><a href="mailto:benjamin.chew@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">benjamin.chew@ejc.edu.sg</a>
 </p>
-<p><strong>Ms Nadiah Razali</strong>
-<br><a href="mailto:nadiah.razali@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadiah.razali@ejc.edu.sg</a>
+<p><strong>Mr Felix Poon</strong>
+<br><a href="mailto:felix.poon@ejc.edu.sg" rel="noopener nofollow" target="_blank">felix.poon@ejc.edu.sg</a>
 </p>
 <p></p>
