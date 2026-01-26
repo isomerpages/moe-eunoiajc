@@ -21,12 +21,12 @@ variant: tiptap
 <p><strong>Mr Kelvin Teo</strong>
 <br><a href="mailto:kelvin.teo@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kelvin.teo@ejc.edu.sg</a>
 </p>
-<p><strong>Mr Ng Jun Kiat</strong>
-<br><a href="mailto:ng.jun.kiat@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.jun.kiat@ejc.edu.sg</a>
-</p>
 <p><strong>Ms Serene Tan</strong>
 <br><a href="mailto:serene.tan@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">serene.tan@ejc.edu.sg</a>
 </p>
 <p><strong>Ms Kan Ximin</strong>
 <br><a href="mailto: kan.ximin@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kan.ximin@ejc.edu.sg</a>
+</p>
+<p><strong>Mr Jonathan Peh</strong>
+<br><a href="mailto:jonathan.peh@ejc.edu.sg" rel="noopener nofollow" target="_blank">jonathan.peh@ejc.edu.sg</a>
 </p>
