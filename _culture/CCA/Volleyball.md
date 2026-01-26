@@ -13,7 +13,7 @@ variant: tiptap
 <br>5.00 - 7.30pm
 <br>Multi-Purpose&nbsp;Hall
 <br>
-<br><strong>Saturday (during competition season) </strong>
+<br><strong>Saturday (Peak Season before NSG) </strong>
 <br>8.00 - 12.00pm
 <br>Multi-Purpose Hall</p>
 <p></p>
