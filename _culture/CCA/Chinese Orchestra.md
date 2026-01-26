@@ -12,7 +12,7 @@ variant: tiptap
 <br>C. O. Room / Tutorial Rooms</p>
 <p><strong>Friday</strong>
 <br>4.00 - 7.00pm
-<br>C. O. Room / Tutorial Rooms</p>
+<br>C. O. Room / Auditorium</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <p><strong>Mr Enoch Tang</strong>
 <br><a href="mailto:enoch.tang@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">enoch.tang@ejc.edu.sg</a>
