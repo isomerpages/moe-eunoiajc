@@ -10,7 +10,8 @@ variant: tiptap
 <br>5.00 - 7.30pm
 <br>Multi-Purpose Hall</p>
 <p><strong>Tuesday</strong>
-<br>7.00 - 8.30am (from Term 1 Week 9)
+<br>7.00 - 8.30am (odd week from Term 1 Week 9)
+<br>8.00 - 10.30am (even week from Term 1 Week 10)
 <br>Multi-Purpose Hall</p>
 <p><strong>Wednesday</strong>
 <br>5.00 - 7.30pm
