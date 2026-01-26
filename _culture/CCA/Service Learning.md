@@ -7,10 +7,10 @@ variant: tiptap
 ---
 <h4><strong>CCA Schedule</strong></h4>
 <p><strong>Wednesday</strong>
-<br>3.00 - 5.30pm
+<br>3.30 - 5.30pm
 <br>Seminar Room 5-1A / 1B</p>
 <p><strong>Friday</strong>
-<br>3.00 - 5.30pm
+<br>4.00 - 6.00pm
 <br>Seminar Room 5-1A / 1B</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <p><strong>Ms Ng Siow Ying</strong>
