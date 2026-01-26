@@ -6,38 +6,33 @@ third_nav_title: Student Development
 variant: tiptap
 ---
 <h3><strong>MOE</strong>&nbsp;<strong>Sexuality Education in Schools</strong></h3>
-<p>1. Sexuality Education (SEd) in schools is about enabling students to
-understand the physiological, social and emotional changes they experience
-as they mature, develop healthy and rewarding relationships including those
-with members of the opposite sex, and make wise, informed and responsible
+<p>1. Sexuality Education (SEd) in schools aims to enable students to understand
+the physiological, social and emotional changes they experience as they
+mature, develop healthy and rewarding relationships with others, including
+those with members of the opposite sex, and make wise, informed and responsible
 decisions on sexuality matters. SEd is premised on the importance of the
 family as the basic unit of society. This means encouraging healthy, heterosexual
 marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
-<p>2. The goals of Sexuality Education are to:</p>
+<p>2. The <strong>Goals</strong> of Sexuality Education are to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>To help students make wise, responsible and informed decisions through
-the provision of accurate, current and age-appropriate&nbsp;<u>knowledge</u>&nbsp;on
-human sexuality and the consequences of sexual activity;</p>
+<p>Support students in managing their physiological, social and emotional
+changes as they grow up and develop safe and healthy relationships.</p>
 </li>
 <li>
-<p>To help students know themselves and build healthy and rewarding relationships
-through the acquisition of&nbsp;<u>social and emotional skills</u>&nbsp;of
-self-awareness, management of their thoughts, feelings and behaviours,
-development of empathy for others, possession of effective communication,
-problem-solving and decision-making skills; and</p>
+<p>Guide students to make wise, informed and responsible decisions on sexuality
+matters.</p>
 </li>
 <li>
-<p>To help students develop a moral compass, respect for themselves and for
-others as sexual beings, premised on the family as the basic unit of society,
-through the inculcation of&nbsp;<u>positive mainstream values and attitudes</u>&nbsp;about
-sexuality.</p>
+<p>Help students develop a moral compass and respect for themselves and others
+by having positive mainstream values and attitudes about sexuality that
+are premised on the family as the basic unit of society.</p>
 </li>
 </ul>
-<p>3. The key messages of Sexuality Education are:</p>
+<p>3. The<strong> Key Messages</strong> of Sexuality Education are:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Love and respect yourself as you love and respect others;</p>
@@ -67,10 +62,10 @@ in the school curriculum.</p>
 <p><strong>Sexuality Education</strong>
 </p>
 <p>5. The focus for Sexuality Education at Pre-University is on respectful
-relationships. Specifically, the JC/CI package covers Interpersonal Relationships,
-with themes of Human Development, Sexual Health, Sexual Behaviour, and
-Culture, Society and Law woven into the main focus on relationships.</p>
-<p><strong>At Eunoia Junior College, the following lessons from the Growing Years Programme will be taught in&nbsp;<u>2026</u>:</strong>
+relationships. Specifically, the JC/MI package covers themes of Interpersonal
+Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and
+Law woven into the main focus on relationships.</p>
+<p><strong>At Eunoia Junior College, the following Sexuality Education lessons will be taught in&nbsp;<u>2026</u>:</strong>
 </p>
 <h3><strong>JC1</strong></h3>
 <table style="minWidth: 100px">
@@ -126,7 +121,7 @@ entails and be reminded of the importance of respect for others.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +146,7 @@ others, and think through the consequences of doing so.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -176,7 +171,7 @@ on being a source of support for others who may be pregnant or have STIs.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 2 Week 10</p>
 </td>
 </tr>
 </tbody>
@@ -212,8 +207,7 @@ on being a source of support for others who may be pregnant or have STIs.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Developing Healthy Relationships/</p>
-<p>Theme 3C ‘Society, Culture and the Law’.</p>
+<p>Developing Healthy Relationships/Theme 3C ‘Society, Culture and the Law’.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -282,17 +276,17 @@ and choosing to do what is right.</p>
 </table>
 <p></p>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
-<p>6.&nbsp;<em>eTeens</em>&nbsp;is a programme developed by Health Promotion
-Board, in collaboration with the Ministry of Education, to provide JC/CI
-Year 1 students with accurate information on STI/HIV and protection from
-a health perspective so as to enable them to make wise, informed, and sensible
-decisions.</p>
-<p>7. Students are taught skills such as decision-making, assertiveness and
-negotiation to say “no” to sex and negative peer pressure. They also learn
-that the impact of STI/HIV extends beyond themselves and involves their
-family. Abstinence and upholding family values are the key messages. The
-desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students
-are empowered to make wise, informed and sensible decisions.</p>
+<p>6.&nbsp;<em>eTeens</em> is a programme that was developed by Health Promotion
+Board, in collaboration with the Ministry of Education, to provide JC/MI
+Year 1 students with accurate information on STIs/HIV and protection from
+a health perspective. With the formation of the Communicable Diseases Agency
+(CDA) on 1 April 2025, the programme would now be managed by CDA’s Training
+and Education Division instead of HPB. The desired outcome of the eTeens
+programme is that students are empowered to make wise, informed and sensible
+decisions to protect themselves from sexually transmitted infectious diseases.</p>
+<p>7. Students learn the health, social and financial implications of STIs/HIV
+on an individual and the family, and the importance of responsible decision-making
+and seeking help. Abstinence and upholding family values are the key messages.</p>
 <p><strong>At Eunoia Junior College, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2026:</strong>
 </p>
 <table style="minWidth: 75px">
@@ -320,21 +314,22 @@ are empowered to make wise, informed and sensible decisions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk by pre-recorded video from January 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; infectious diseases (STIs and HIV)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; modes of transmission for STIs and
-HIV</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; modes of protection against infection,
-specifically abstinence and the correct and consistent use of condoms</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; consequences and impact of being
-infected with STIs/HIV</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ways of managing the impact of STIs</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexually transmitted infectious
+diseases (STIs and HIV): what it is, how it spreads, how to prevent infection
+mainly through ABC (abstinence, being faithful, correct, and consistent
+condom use), consequences and impact of STIs/HIV</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Skills for respecting boundaries
+(e.g. decision-making, assertiveness, negotiation to say ‘no’ to peer pressure
+to have pre-marital sex)</p>
+<p>· Managing relationships and risky situations in a healthy way, including
+avenues for help-seeking</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 3 Week 4</p>
 </td>
 </tr>
 </tbody>
@@ -351,10 +346,11 @@ JC2 students and <strong><a href="/files/2026_Info_on_SEd_for_schs_website__JCMI
 JC1 students. The completed form is to be submitted by 27/02/2026 for JC2
 students and 06/03/2026 for JC1 students.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the eTeens programme need to complete an opt-out form. This form
-will be communicated to parents at the start of the year and is also available <strong><a href="/files/2026_Info_on_SEd_for_schs_website__JCMI__Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
-(please include the hyperlink for the Document 4) The completed form is
-to be submitted by 27/02/2026 for JC2 students and 06/03/2026 for JC1 students.</p>
+out of the <strong><em>eTeens programme</em></strong> need to complete an
+opt-out form. This form will be communicated to parents at the start of
+the year and is also available <strong><a href="/files/2026_Info_on_SEd_for_schs_website__JCMI__Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
+The completed form is to be submitted by 27/02/2026 for JC2 students and
+06/03/2026 for JC1 students.</p>
 <p>11. &nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at<strong> <a rel="noopener noreferrer nofollow" target="_blank">eunoiajc@moe.edu.sg</a></strong> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
