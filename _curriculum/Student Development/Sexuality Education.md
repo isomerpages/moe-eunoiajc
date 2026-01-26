@@ -6,38 +6,33 @@ third_nav_title: Student Development
 variant: tiptap
 ---
 <h3><strong>MOE</strong>&nbsp;<strong>Sexuality Education in Schools</strong></h3>
-<p>1. Sexuality Education (SEd) in schools is about enabling students to
-understand the physiological, social and emotional changes they experience
-as they mature, develop healthy and rewarding relationships including those
-with members of the opposite sex, and make wise, informed and responsible
+<p>1. Sexuality Education (SEd) in schools aims to enable students to understand
+the physiological, social and emotional changes they experience as they
+mature, develop healthy and rewarding relationships with others, including
+those with members of the opposite sex, and make wise, informed and responsible
 decisions on sexuality matters. SEd is premised on the importance of the
 family as the basic unit of society. This means encouraging healthy, heterosexual
 marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
-<p>2. The goals of Sexuality Education are to:</p>
+<p>2. The <strong>Goals</strong> of Sexuality Education are to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>To help students make wise, responsible and informed decisions through
-the provision of accurate, current and age-appropriate&nbsp;<u>knowledge</u>&nbsp;on
-human sexuality and the consequences of sexual activity;</p>
+<p>Support students in managing their physiological, social and emotional
+changes as they grow up and develop safe and healthy relationships.</p>
 </li>
 <li>
-<p>To help students know themselves and build healthy and rewarding relationships
-through the acquisition of&nbsp;<u>social and emotional skills</u>&nbsp;of
-self-awareness, management of their thoughts, feelings and behaviours,
-development of empathy for others, possession of effective communication,
-problem-solving and decision-making skills; and</p>
+<p>Guide students to make wise, informed and responsible decisions on sexuality
+matters.</p>
 </li>
 <li>
-<p>To help students develop a moral compass, respect for themselves and for
-others as sexual beings, premised on the family as the basic unit of society,
-through the inculcation of&nbsp;<u>positive mainstream values and attitudes</u>&nbsp;about
-sexuality.</p>
+<p>Help students develop a moral compass and respect for themselves and others
+by having positive mainstream values and attitudes about sexuality that
+are premised on the family as the basic unit of society.</p>
 </li>
 </ul>
-<p>3. The key messages of Sexuality Education are:</p>
+<p>3. The<strong> Key Messages</strong> of Sexuality Education are:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Love and respect yourself as you love and respect others;</p>
@@ -67,10 +62,10 @@ in the school curriculum.</p>
 <p><strong>Sexuality Education</strong>
 </p>
 <p>5. The focus for Sexuality Education at Pre-University is on respectful
-relationships. Specifically, the JC/CI package covers Interpersonal Relationships,
-with themes of Human Development, Sexual Health, Sexual Behaviour, and
-Culture, Society and Law woven into the main focus on relationships.</p>
-<p><strong>At Eunoia Junior College, the following lessons from the Growing Years Programme will be taught in&nbsp;<u>2026</u>:</strong>
+relationships. Specifically, the JC/MI package covers themes of Interpersonal
+Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and
+Law woven into the main focus on relationships.</p>
+<p><strong>At Eunoia Junior College, the following Sexuality Education lessons will be taught in&nbsp;<u>2026</u>:</strong>
 </p>
 <h3><strong>JC1</strong></h3>
 <table style="minWidth: 100px">
@@ -126,7 +121,7 @@ entails and be reminded of the importance of respect for others.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +146,7 @@ others, and think through the consequences of doing so.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -176,7 +171,7 @@ on being a source of support for others who may be pregnant or have STIs.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 2 Week 10</p>
 </td>
 </tr>
 </tbody>
