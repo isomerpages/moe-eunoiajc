@@ -6,11 +6,14 @@ third_nav_title: CCA
 variant: tiptap
 ---
 <h3><strong>CCA Schedule</strong></h3>
+<p><strong>Monday (during NSG)</strong>
+<br>5.00 - 7.00pm
+<br>Multi-Purpose Hall</p>
 <p><strong>Wednesday</strong>
-<br>3.30 - 6.30pm
+<br>4.00 - 7.00pm
 <br>Multi-Purpose Hall</p>
 <p><strong>Friday</strong>
-<br>3.30 - 6.30pm
+<br>4.00 - 7.00pm
 <br>Multi-Purpose Hall</p>
 <p></p>
 <h3><strong>Teachers-in-charge</strong></h3>
