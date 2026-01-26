@@ -11,11 +11,11 @@ variant: tiptap
 <br>Student Council Room / LT1</p>
 <p></p>
 <h4><strong>Teachers-in-charge</strong></h4>
-<p><strong>Ms Clarice Chan</strong>
-<br><a href="mailto:clarice.chan@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">clarice.chan@ejc.edu.sg</a>
-</p>
 <p><strong>Mrs Charlotte Lee</strong>
 <br><a href="mailto:charlotte.lee@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">charlotte.lee@ejc.edu.sg</a>
+</p>
+<p><strong>Ms Clarice Chan</strong>
+<br><a href="mailto:clarice.chan@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">clarice.chan@ejc.edu.sg</a>
 </p>
 <p><strong>Ms Elizabeth Chin</strong>
 <br><a href="mailto:elizabeth.chin@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">elizabeth.chin@ejc.edu.sg</a>
