@@ -349,8 +349,8 @@ students and 06/03/2026 for JC1 students.</p>
 out of the <strong><em>eTeens programme</em></strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
 the year and is also available <strong><a href="/files/2026_Info_on_SEd_for_schs_website__JCMI__Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
-(please include the hyperlink for the Document 4) The completed form is
-to be submitted by 27/02/2026 for JC2 students and 06/03/2026 for JC1 students.</p>
+The completed form is to be submitted by 27/02/2026 for JC2 students and
+06/03/2026 for JC1 students.</p>
 <p>11. &nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at<strong> <a rel="noopener noreferrer nofollow" target="_blank">eunoiajc@moe.edu.sg</a></strong> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
