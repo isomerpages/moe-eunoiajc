@@ -57,7 +57,7 @@ ones.</p>
 </ul>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
-<h3><strong>Overview of Eunoia Junior College's Sexuality Education Programme for 2025</strong></h3>
+<h3><strong>Overview of Eunoia Junior College's Sexuality Education Programme for 2026</strong></h3>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -70,7 +70,7 @@ in the school curriculum.</p>
 relationships. Specifically, the JC/CI package covers Interpersonal Relationships,
 with themes of Human Development, Sexual Health, Sexual Behaviour, and
 Culture, Society and Law woven into the main focus on relationships.</p>
-<p><strong>At Eunoia Junior College, the following lessons from the Growing Years Programme will be taught in&nbsp;<u>2025</u>:</strong>
+<p><strong>At Eunoia Junior College, the following lessons from the Growing Years Programme will be taught in&nbsp;<u>2026</u>:</strong>
 </p>
 <h3><strong>JC1</strong></h3>
 <table style="minWidth: 100px">
@@ -293,7 +293,7 @@ that the impact of STI/HIV extends beyond themselves and involves their
 family. Abstinence and upholding family values are the key messages. The
 desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students
 are empowered to make wise, informed and sensible decisions.</p>
-<p><strong>At Eunoia Junior College, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
+<p><strong>At Eunoia Junior College, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2026:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -346,13 +346,15 @@ programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <strong><a href="/files/2025_Info_on_SEd_for_schs_website__JCMI___final__Annex_A_3_Apr.pdf" rel="noopener nofollow" target="_blank">here</a></strong>.
-The completed form is to be submitted by 9 April 2025.</p>
+of the year and is also available <strong><a href="/files/2026_Info_on_SEd_for_schs_website__JCMI__JC2_Parent_s_Letter_and_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
+JC2 students and <strong><a href="/files/2026_Info_on_SEd_for_schs_website__JCMI__JC1_Parent_s_Letter_and_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
+JC1 students. The completed form is to be submitted by 27/02/2026 for JC2
+students and 06/03/2026 for JC1 students.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the <strong><em>eTeens</em> programme</strong> need to complete an
-opt-out form. This form will be communicated to parents at the start of
-the year and is also downloadable <strong><a href="/files/2025_Info_on_SEd_for_schs_website__JCMI___final__Annex_B_3_Apr.pdf" rel="noopener nofollow" target="_blank">here</a></strong>.
-The completed form is to be submitted by 9 April 2025.</p>
+out of the eTeens programme need to complete an opt-out form. This form
+will be communicated to parents at the start of the year and is also available <strong><a href="/files/2026_Info_on_SEd_for_schs_website__JCMI__Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
+(please include the hyperlink for the Document 4) The completed form is
+to be submitted by 27/02/2026 for JC2 students and 06/03/2026 for JC1 students.</p>
 <p>11. &nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at<strong> <a rel="noopener noreferrer nofollow" target="_blank">eunoiajc@moe.edu.sg</a></strong> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>

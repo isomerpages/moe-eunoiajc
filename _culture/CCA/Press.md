@@ -14,6 +14,6 @@ variant: tiptap
 <p><strong>Ms Ng Hui Qi</strong>
 <br><a href="mailto:ng.hui.qi@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.hui.qi@ejc.edu.sg</a>
 </p>
-<p><strong>Ms Priya Haritheertham</strong>
-<br><a href="mailto:priyahdharshini@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">priyahdharshini@ejc.edu.sg</a>
+<p><strong>Mr Tan Xiang Yeow</strong>
+<br><a href="mailto:tan.xiang.yeow@ejc.edu.sg" rel="noopener nofollow" target="_blank">tan.xiang.yeow@ejc.edu.sg</a>
 </p>

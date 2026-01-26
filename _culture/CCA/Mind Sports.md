@@ -8,7 +8,8 @@ variant: tiptap
 <h4><strong>CCA Schedule</strong></h4>
 <p><strong>Wednesday</strong>
 <br>3.30 - 6.00pm
-<br>TR6-09 / 10 / 11</p>
+<br>TR6-09 / 10 / 11
+<br>SR4-1C</p>
 <p></p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <p><strong>Mr Chng Tsu Pang</strong>

@@ -10,11 +10,11 @@ variant: tiptap
 <br>5.00 - 7.30pm
 <br>Indoor Sports Hall / Atria</p>
 <p><strong>Wednesday</strong>
-<br>3.30 - 7.30pm
+<br>4.00 - 7.30pm
 <br>Indoor Sports Hall / Atria
 <br>
 <br><strong>Saturday (Peak Season before NSG)</strong>
-<br>8.00 - 10.00am
+<br>10.00 - 12.00pm
 <br>Indoor Sports Hall</p>
 <h3><strong>Teachers-in-charge</strong></h3>
 <p><strong>Ms Karine Teo</strong>

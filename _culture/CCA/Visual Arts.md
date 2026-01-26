@@ -8,11 +8,11 @@ variant: tiptap
 <h4><strong>CCA Schedule</strong></h4>
 <p><strong>Wednesday</strong>
 <br>3.30&nbsp;- 6.00pm
-<br>Art Room / TR11-06</p>
+<br>Art Studio / TR11-06</p>
 <p></p>
 <p><strong>Friday</strong>
 <br>If necessary
-<br>Art Room / TR11-06</p>
+<br>Art Studio / TR11-06</p>
 <p></p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <p><strong>Ms Cham Bei Qing</strong>

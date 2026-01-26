@@ -14,7 +14,7 @@ variant: tiptap
 <br>Indoor Sports Hall
 <br>
 <br><strong>Saturday (Peak Season before NSG)</strong>
-<br>10.30 - 1.00pm
+<br>8.00 - 10.00am
 <br>Indoor Sports Hall</p>
 <h3><strong>Teachers-in-charge</strong></h3>
 <p><strong>Mr Daniel Kwan</strong>

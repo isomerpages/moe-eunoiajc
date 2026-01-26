@@ -7,8 +7,8 @@ variant: tiptap
 ---
 <h4><strong>CCA Schedule</strong></h4>
 <p><strong>Tuesday</strong>
-<br>(Odd Week) 2.00&nbsp;- 5.00pm
-<br>(Even Week) 4.30 - 7.30pm
+<br>(Odd Week) 4.30&nbsp;- 7.30pm
+<br>(Even Week) 2.00 - 5.00pm
 <br>Performing Arts Studio 1 &amp; 2</p>
 <p><strong>Wednesday</strong>
 <br>4.00&nbsp;- 7.00pm

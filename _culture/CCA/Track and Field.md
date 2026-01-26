@@ -17,10 +17,9 @@ variant: tiptap
 <p><strong>Ms Nadira Mohamed Sedik</strong>
 <br><a href="mailto:nadira.md.sedik@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadira.md.sedik@ejc.edu.sg</a>
 </p>
-<p></p>
-<p><strong>Mr Chua Jian Rong</strong>
-<br><a href="mailto:chua.jian.rong@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua.jian.rong@ejc.edu.sg</a>
-</p>
 <p><strong>Mr Chng Xian Yi</strong>
 <br><a href="mailto:chng.xian.yi@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng.xian.yi@ejc.edu.sg</a>
+</p>
+<p><strong>Ms Amelia Quek</strong>
+<br><a href="mailto:amelia.quek@ejc.edu.sg" rel="noopener nofollow" target="_blank">amelia.quek@ejc.edu.sg</a>
 </p>

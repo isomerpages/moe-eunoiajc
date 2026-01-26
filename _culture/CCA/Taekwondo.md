@@ -13,12 +13,9 @@ variant: tiptap
 <br>5.30 - 7.30pm
 <br>Symposia</p>
 <h3><strong>Teachers-in-charge</strong></h3>
-<p><strong>Mr Ng Jun Kiat</strong>
-<br><a href="mailto:ng.jun.kiat@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.jun.kiat@ejc.edu.sg</a>
-</p>
 <p><strong>Ms Lim Yen Chui</strong>
 <br><a href="mailto:lim.yen.chui@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.yen.chui@ejc.edu.sg</a>
 </p>
-<p><strong>Mr Benjamin Choo</strong>
-<br><a href="mailto:benjamin.choo@ejc.edu.sg" rel="noopener nofollow" target="_blank">benjamin.choo@ejc.edu.sg</a>
+<p><strong>Mr David Lim Eik Kheng</strong>
+<br><a href="mailto:david.lim@ejc.edu.sg" rel="noopener nofollow" target="_blank">david.lim@ejc.edu.sg</a>
 </p>

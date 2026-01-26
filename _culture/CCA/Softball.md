@@ -25,3 +25,6 @@ variant: tiptap
 <p><strong>Mr Tan Khoon Han</strong>
 <br><a href="mailto:tan.khoon.han@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.khoon.han@ejc.edu.sg</a>
 </p>
+<p><strong>Mdm Gunaselvi</strong>
+<br><a href="mailto:gunaselvi.munisamy@ejc.edu.sg" rel="noopener nofollow" target="_blank">gunaselvi.munisamy@ejc.edu.sg</a>
+</p>
