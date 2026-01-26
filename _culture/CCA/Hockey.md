@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3>CCA Schedule</h3>
 <p><strong>Tuesday</strong>
-<br>5.00 - 7.30pm (8.00 - 11.00am for HBL weeks)
+<br>5.00 - 7.30pm (8.00 - 11.00am for HBL weeks during season)
 <br>Hockey D</p>
 <p><strong>Thursday</strong>
 <br>5.00 - 7.30pm
