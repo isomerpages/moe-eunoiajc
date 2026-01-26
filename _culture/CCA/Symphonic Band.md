@@ -11,7 +11,7 @@ variant: tiptap
 <br>Band Room / Tutorial Rooms</p>
 <p><strong>Thursday</strong>
 <br>4.00 - 7.30pm
-<br>Band Room / LT1 / Auditorium / Tutorial Rooms</p>
+<br>Band Room / Tutorial Rooms / Auditorium / LT1</p>
 <p></p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <p><strong>Mr Ong Wee Yong</strong>
