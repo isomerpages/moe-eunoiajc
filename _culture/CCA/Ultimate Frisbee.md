@@ -10,7 +10,7 @@ variant: tiptap
 <br>4.30 - 7.30pm
 <br>Field</p>
 <p><strong>Thursday</strong>
-<br>4.30 - 7.00pm
+<br>4.30 - 7.30pm
 <br>Field</p>
 <h3>Teachers-in-charge</h3>
 <p><strong>Mr Trevor Tay</strong>
