@@ -11,7 +11,7 @@ variant: tiptap
 <br>Band room / Tutorial rooms</p>
 <p><strong>Thursday</strong>
 <br>4.00&nbsp;- 7.30pm
-<br>Band room / Auditorium / Lecture Theatre 1</p>
+<br>Band room / Tutorial rooms / Auditorium / Lecture Theatre 1</p>
 <p></p>
 <h4><strong>Teacher-in-charge</strong></h4>
 <p><strong>Mr Matthew Ooi</strong>
