@@ -8,7 +8,7 @@ variant: tiptap
 <h4><strong>CCA Schedule</strong></h4>
 <p><strong>Wednesday</strong>
 <br>4.00 - 7.30pm
-<br>Band Room / LT1 / Auditorium / Tutorial Rooms</p>
+<br>Band Room / Tutorial Rooms</p>
 <p><strong>Thursday</strong>
 <br>4.00 - 7.30pm
 <br>Band Room / LT1 / Auditorium / Tutorial Rooms</p>
