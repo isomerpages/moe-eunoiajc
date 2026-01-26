@@ -207,8 +207,7 @@ on being a source of support for others who may be pregnant or have STIs.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Developing Healthy Relationships/</p>
-<p>Theme 3C ‘Society, Culture and the Law’.</p>
+<p>Developing Healthy Relationships/Theme 3C ‘Society, Culture and the Law’.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
