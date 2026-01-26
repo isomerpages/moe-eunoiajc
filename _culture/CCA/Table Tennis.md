@@ -6,7 +6,7 @@ third_nav_title: CCA
 variant: tiptap
 ---
 <h3><strong>CCA Schedule</strong></h3>
-<p><strong>Monday (during NSG)</strong>
+<p><strong>Monday (during competition season)</strong>
 <br>5.00 - 7.00pm
 <br>Multi-Purpose Hall</p>
 <p><strong>Wednesday</strong>
