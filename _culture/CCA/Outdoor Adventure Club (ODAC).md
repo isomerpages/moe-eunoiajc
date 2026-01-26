@@ -17,12 +17,12 @@ variant: tiptap
 <p><strong>Mr Chen Jinquan</strong>
 <br><a href="mailto:chen.jinquan@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen.jinquan@ejc.edu.sg</a>
 </p>
-<p><strong>Mr Ng Boon Hong</strong>
-<br><a href="mailto:ng.boon.hong@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.boon.hong@ejc.edu.sg</a>
-</p>
 <p><strong>Dr Wang Guangquan</strong>
 <br><a href="mailto:wang.guangquan@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang.guangquan@ejc.edu.sg</a>
 </p>
-<p><strong>Ms Dionne Menez</strong>
-<br><a href="mailto:dionne.menez@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dionne.menez@ejc.edu.sg</a>
+<p><strong>Mr Lionel Lim</strong>
+<br><a href="mailto:lionel.lim@ejc.edu.sg" rel="noopener nofollow" target="_blank">lionel.lim@ejc.edu.sg</a>
+</p>
+<p><strong>Ms Seetoh Huixia</strong>
+<br><a href="mailto:seetoh.huixia@ejc.edu.sg" rel="noopener nofollow" target="_blank">seetoh.huixia@ejc.edu.sg</a>
 </p>
