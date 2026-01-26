@@ -8,11 +8,11 @@ variant: tiptap
 <h4><strong>CCA Schedule</strong></h4>
 <p></p>
 <p><strong>Wednesday</strong>
-<br>4.00&nbsp;- 7.00pm
+<br>3.30&nbsp;- 6.30pm
 <br>C. O. Room / Tutorial Rooms</p>
 <p><strong>Friday</strong>
 <br>4.00 - 7.00pm
-<br>C. O. Room / Auditorium</p>
+<br>C. O. Room / Tutorial Rooms</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <p><strong>Mr Enoch Tang</strong>
 <br><a href="mailto:enoch.tang@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">enoch.tang@ejc.edu.sg</a>
