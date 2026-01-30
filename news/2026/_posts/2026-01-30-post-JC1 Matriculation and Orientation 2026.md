@@ -14,8 +14,12 @@ new memories and fostering new familiarities.</p>
 <p>The JC1 Matriculation from 4 Feb (Wed) to 6 Feb (Fri) introduces you to
 our myriad programmes curated for you to explore your passion and purpose
 in your next two years in EJC. JC1 Orientation from 9 Feb (Mon) to 13 Feb
-(Fri) will make Eunoia home for you and your new best friends. As one Eunoia,
-may our minds ignite, our hearts unite and together, our dreams take flight!</p>
+(Fri) will make Eunoia home for you and your new best friends. You will
+be added to a WhatsApp group by your OGLs where they share more information
+about Orientation. In the meantime, do follow the EJC Orientation Instagram
+account&nbsp;<strong><a href="https://www.instagram.com/ejc.orientation" rel="noopener noreferrer nofollow" target="_blank"><u>@ejc.orientation</u></a></strong>!</p>
+<p>As one Eunoia, may our minds ignite, our hearts unite and together, our
+dreams take flight!</p>
 <p></p>
 <p><strong>Ms Michelle Chiang<br></strong>Dean (JC1)</p>
 <p></p>
@@ -25,13 +29,11 @@ may our minds ignite, our hearts unite and together, our dreams take flight!</p>
 <br>Venue:&nbsp;<strong>Auditorium</strong>
 <br>Attire:&nbsp;<strong>Secondary School Uniform&nbsp;</strong>(Full)</p>
 <p></p>
-<p>You will be added to a WhatsApp group by your OGLs where they share more
-information about Orientation. In the meantime, do follow the EJC Orientation
-Instagram account&nbsp;<strong><a href="https://www.instagram.com/ejc.orientation" rel="noopener noreferrer nofollow" target="_blank"><u>@ejc.orientation</u></a></strong>!</p>
-<p>Selection and diagnostic tests for selected subjects will take place on
-4 Feb (Wed) and 5 Feb (Thu). Please refer to the schedule below. More information
-about the purchasing of uniforms and graphing calculators will be shared
-in Matriculation week.</p>
+<p>More information about the purchasing of uniforms and graphing calculators
+will be shared in Matriculation week. Selection and diagnostic tests for
+selected subjects will take place after 3pm on 4 Feb (Wed). Please refer
+to the schedule below. You can register your interest via <strong><a href="https://forms.gle/zAZw35JaqAxqzd4g6" rel="noopener nofollow" target="_blank">this form</a></strong>.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/2026_Selection_Tests.png">
