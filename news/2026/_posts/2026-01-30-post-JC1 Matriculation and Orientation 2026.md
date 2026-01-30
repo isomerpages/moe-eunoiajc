@@ -28,7 +28,9 @@ dreams take flight!</p>
 <br>Time:&nbsp;<strong>7.55 am&nbsp;</strong>
 <br>Venue:&nbsp;<strong>Auditorium</strong>
 <br>Attire:&nbsp;<strong>Secondary School Uniform&nbsp;</strong>(Full)</p>
-<p></p>
+<p>You may refer to the <strong><a href="https://www.eunoiajc.moe.edu.sg/about/campus/" rel="noopener nofollow" target="_blank">directions</a></strong> to
+our campus at 2 Sin Ming Place and our <strong><a href="https://www.eunoiajc.moe.edu.sg/map" rel="noopener nofollow" target="_blank">campus map</a> </strong>on
+our website as you navigate your new home.</p>
 <p>More information about the purchasing of uniforms and graphing calculators
 will be shared in Matriculation week. Selection and diagnostic tests for
 selected subjects will take place after 3pm on 4 Feb (Wed). Please refer
