@@ -32,9 +32,11 @@ dreams take flight!</p>
 our campus at 2 Sin Ming Place and our <strong><a href="https://www.eunoiajc.moe.edu.sg/map" rel="noopener nofollow" target="_blank">campus map</a> </strong>on
 our website as you navigate your new home.</p>
 <p>More information about the purchasing of uniforms and graphing calculators
-will be shared in Matriculation week. Selection and diagnostic tests for
-selected subjects will take place after 3pm on 4 Feb (Wed). Please refer
-to the schedule below. You can register your interest via <strong><a href="https://forms.gle/zAZw35JaqAxqzd4g6" rel="noopener nofollow" target="_blank">this form</a></strong>.</p>
+will be shared in Matriculation week.</p>
+<p>Selection and diagnostic tests for selected subjects and programmes will
+take place on 4 Feb (Wed) and 5 Feb (Thu). Please refer to the schedule
+below. You can register your interest via <strong><a href="https://forms.gle/zAZw35JaqAxqzd4g6" rel="noopener nofollow" target="_blank">this form</a></strong>.</p>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
