@@ -19,9 +19,9 @@ hours). Appeals for transfer to Eunoia Junior College will be based on
 merit. Students who wish to appeal for transfer to Eunoia Junior College
 will need to meet the college’s course cut-off point (COP) in 2026, which
 is subject to the availability of vacancies and the fulfilment of the college’s
-admission requirements. The 2026 cut-off point for the respective course
-is as follows:</p>
-<h4><strong>5</strong>  for Science <br><strong>6</strong> for Arts</h4>
+admission requirements. The 2026 cut-off points for our courses are as
+follows:</p>
+<h4>Science: <strong>5</strong> <br>Arts: <strong>6</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/OH2024_blank.png">
 </div><a class="isomer-image-wrapper" href="https://go.gov.sg/eunoiajcjaeappeals2026"><img style="width: 40%;" height="auto" width="100%" alt="Online Form" src="/images/Form.png"></a>
