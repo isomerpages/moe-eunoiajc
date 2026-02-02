@@ -11,13 +11,13 @@ variant: tiptap
 <p>Hello and a warm welcome to Eunoia Junior College! You will embark on
 your journey as an incoming JC1 student, forming new friendships, forging
 new memories and fostering new familiarities.</p>
-<p>The JC1 Matriculation from 4 Feb (Wed) to 6 Feb (Fri) introduces you to
-our myriad programmes curated for you to explore your passion and purpose
-in your next two years in EJC. JC1 Orientation from 9 Feb (Mon) to 13 Feb
-(Fri) will make Eunoia home for you and your new best friends. You will
-be added to a WhatsApp group by your OGLs where they share more information
-about Orientation. In the meantime, do follow the EJC Orientation Instagram
-account&nbsp;<strong><a href="https://www.instagram.com/ejc.orientation" rel="noopener noreferrer nofollow" target="_blank"><u>@ejc.orientation</u></a></strong>!</p>
+<p>The JC1 Matriculation programme from 4 Feb (Wed) to 6 Feb (Fri) introduces
+you to our myriad programmes curated for you to explore your passion and
+purpose in your next two years in EJC.</p>
+<p>JC1 Orientation from 9 Feb (Mon) to 13 Feb (Fri) will make Eunoia home
+for you and your new best friends. Your OGLs will add you to a WhatsApp
+group soon, where they share more information about Orientation. In the
+meantime, you can follow the EJC Orientation Instagram account&nbsp;<strong><a href="https://www.instagram.com/ejc.orientation" rel="noopener noreferrer nofollow" target="_blank"><u>@ejc.orientation</u></a></strong>.</p>
 <p>As one Eunoia, may our minds ignite, our hearts unite and together, our
 dreams take flight!</p>
 <p></p>
