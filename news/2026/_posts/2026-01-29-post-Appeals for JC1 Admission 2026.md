@@ -19,11 +19,15 @@ hours). Appeals for transfer to Eunoia Junior College will be based on
 merit. Students who wish to appeal for transfer to Eunoia Junior College
 will need to meet the college’s course cut-off point (COP) in 2026, which
 is subject to the availability of vacancies and the fulfilment of the college’s
-admission requirements.</p>
-<p></p>
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/eunoiajcjaeappeals2026"><img style="width: 40%;" height="auto" width="100%" alt="Online Form" src="/images/Form.png"></a>
-<p></p>
-<p></p>
+admission requirements. The 2026 cut-off points for our courses are as
+follows:</p>
+<h4>Science: <strong>5</strong> <br>Arts: <strong>6</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/OH2024_blank.png">
+</div><a class="isomer-image-wrapper" href="https://go.gov.sg/eunoiajcjaeappeals2026"><img style="width: 40%;" height="auto" width="100%" alt="Online Form" src="/images/Form.png"></a>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/OH2024_blank.png">
+</div>
 <h4><strong>Instructions</strong></h4>
 <p><strong><a href="https://go.gov.sg/eunoiajcjaeappeals2026" rel="noopener noreferrer nofollow" target="_blank">Complete the online form</a></strong>.&nbsp;You
 are required to upload the following documents as part of your appeal submission:</p>
@@ -54,6 +58,7 @@ in the college before starting the application.</p>
 the application outcome via email.</p>
 <p>The decision of the Admissions Committee is final. No further appeals
 will be considered.</p>
+<p></p>
 <h4><strong>Annexes</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">

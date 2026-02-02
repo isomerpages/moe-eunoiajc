@@ -11,13 +11,13 @@ variant: tiptap
 <p>Hello and a warm welcome to Eunoia Junior College! You will embark on
 your journey as an incoming JC1 student, forming new friendships, forging
 new memories and fostering new familiarities.</p>
-<p>The JC1 Matriculation from 4 Feb (Wed) to 6 Feb (Fri) introduces you to
-our myriad programmes curated for you to explore your passion and purpose
-in your next two years in EJC. JC1 Orientation from 9 Feb (Mon) to 13 Feb
-(Fri) will make Eunoia home for you and your new best friends. You will
-be added to a WhatsApp group by your OGLs where they share more information
-about Orientation. In the meantime, do follow the EJC Orientation Instagram
-account&nbsp;<strong><a href="https://www.instagram.com/ejc.orientation" rel="noopener noreferrer nofollow" target="_blank"><u>@ejc.orientation</u></a></strong>!</p>
+<p>The JC1 Matriculation programme from <strong>4 Feb (Wed) to 6 Feb (Fri)</strong> introduces
+you to our myriad programmes curated for you to explore your passion and
+purpose in your next two years in EJC.</p>
+<p>JC1 Orientation from <strong>9 Feb (Mon) to 13 Feb (Fri) </strong>will
+make Eunoia home for you and your new best friends. Your OGLs will add
+you to a WhatsApp group soon, where they share more information about Orientation.
+In the meantime, you can follow the EJC Orientation Instagram account&nbsp;<strong><a href="https://www.instagram.com/ejc.orientation" rel="noopener noreferrer nofollow" target="_blank"><u>@ejc.orientation</u></a></strong>.</p>
 <p>As one Eunoia, may our minds ignite, our hearts unite and together, our
 dreams take flight!</p>
 <p></p>
@@ -29,13 +29,13 @@ dreams take flight!</p>
 <br>Venue:&nbsp;<strong>Auditorium</strong>
 <br>Attire:&nbsp;<strong>Secondary School Uniform&nbsp;</strong>(Full)</p>
 <p>You may refer to the <strong><a href="https://www.eunoiajc.moe.edu.sg/about/campus/" rel="noopener nofollow" target="_blank">directions</a></strong> to
-our campus at 2 Sin Ming Place and our <strong><a href="https://www.eunoiajc.moe.edu.sg/map" rel="noopener nofollow" target="_blank">campus map</a> </strong>on
+our campus at <strong>2 Sin Ming Place</strong> and our <strong><a href="https://www.eunoiajc.moe.edu.sg/map" rel="noopener nofollow" target="_blank">campus map</a> </strong>on
 our website as you navigate your new home.</p>
-<p>More information about the purchasing of uniforms and graphing calculators
-will be shared in Matriculation week.</p>
+<p>More information about the purchasing of <strong>uniforms</strong> and <strong>graphing</strong>  <strong>calculators</strong> will
+be shared in Matriculation week.</p>
 <p>Selection and diagnostic tests for selected subjects and programmes will
-take place on 4 Feb (Wed) and 5 Feb (Thu). Please refer to the schedule
-below. You can register your interest via <strong><a href="https://forms.gle/zAZw35JaqAxqzd4g6" rel="noopener nofollow" target="_blank">this form</a></strong>.</p>
+take place on <strong>4 Feb (Wed)</strong> and <strong>5 Feb (Thu</strong>).
+Please refer to the schedule below. You may register your interest via <strong><a href="https://forms.gle/zAZw35JaqAxqzd4g6" rel="noopener nofollow" target="_blank">this form</a></strong>.</p>
 <p></p>
 <p></p>
 <p></p>
