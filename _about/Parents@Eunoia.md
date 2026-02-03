@@ -28,16 +28,13 @@ to the school.</p>
 </li>
 </ul>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Parents_Eunoia_Group_2.jpg">
-</div>
-<h4><strong>2025 Representatives </strong></h4>
+<h4><strong>2026 Representatives</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Oh Guat Hwee</p>
+<p>Mdm Brenda Tee</p>
 </li>
 <li>
-<p>Ms Fiona Sim</p>
+<p>Mdm Delia Mar</p>
 </li>
 </ul>
 <p></p>
@@ -52,5 +49,4 @@ to the school.</p>
 <br>
 </p>
 <p>Cheers,
-<br>P@E Executive Committee 2025
-<br>(Say Hi when you see us! We’ll love to chat with you!)</p>
+<br>P@E Executive Committee 2026</p>
