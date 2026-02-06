@@ -44,7 +44,7 @@ applicable)</p>
 <p>CCA certificate / records</p>
 </li>
 <li>
-<p>Testimonials</p>
+<p>Testimonials (if any)</p>
 </li>
 </ul>
 <p>If you are unable to upload the documents, you can submit the relevant
