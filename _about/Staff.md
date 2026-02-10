@@ -99,7 +99,7 @@ variant: tiptap
 <br><a href="mailto:wang.guangquan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Dr Wang Guangquan</a>
 </p>
 <p><strong>25-A5</strong> 
-<br><a href="mailto:liu.shuyu@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mdm Liu Shuyu </a>
+<br><a href="mailto:liu.shuyu@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mdm Liu Shuyu</a>
 </p>
 <p><strong>25-A6</strong>
 <br><a href="mailto:anna.loh@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Anna Loh</a>
@@ -108,21 +108,27 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>26-A1</strong>
 </p>
-<p></p>
+<p><a href="mailto:serene.tan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Serene Tan</a>
+</p>
 <p><strong>26-A2</strong>
 </p>
-<p></p>
+<p><a href="mailto:emeline.choo@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Emeline Choo</a>
+</p>
+<p><a href="mailto:phoon.lai.yong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mrs Ng-Phoon Lai Yong</a>
+</p>
 <p><strong>26-A3</strong> 
-<br>
+<br><a href="mailto:juliana.wong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Juliana Wong</a>
 </p>
 <p><strong>26-A4</strong> 
-<br>
+<br><a href="mailto:ng.lee.siah@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Ng Lee Siah</a>
 </p>
 <p><strong>26-A5</strong> 
-<br>
+<br><a href="mailto:ong.junjie@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Ong Junjie</a>
+</p>
+<p><a href="mailto:lim.tian.min@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lim Tian Min</a>
 </p>
 <p><strong>26-A6</strong> 
-<br>
+<br><a href="mailto:tay.li.kim@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mrs Yew-Tay Li Kim</a>
 </p>
 </td>
 </tr>
@@ -179,7 +185,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <p><strong>25-I1</strong> 
-<br><a href="mailto:ng.hui.qi@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Ng Hui Qi </a>
+<br><a href="mailto:ng.hui.qi@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Ng Hui Qi</a>
 </p>
 <p></p>
 <p><strong>25-I2</strong> 
