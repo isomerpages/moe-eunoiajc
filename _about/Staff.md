@@ -322,7 +322,7 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong>26-U4</strong> 
-<br><a href="mailto:seetoh.huixia@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ns Seetoh Huixia</a>
+<br><a href="mailto:seetoh.huixia@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Seetoh Huixia</a>
 </p>
 <p></p>
 <p><strong>26-U5</strong> 
