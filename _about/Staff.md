@@ -153,27 +153,27 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <p><strong>26-E1</strong> 
-<br>
+<br><a href="mailto:daphne.chua@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Daphne Chua</a>
 </p>
 <p></p>
 <p><strong>26-E2</strong> 
-<br>
+<br><a href="mailto:alex.teo@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Alex Teo</a>
 </p>
 <p></p>
 <p><strong>26-E3</strong> 
-<br>
+<br><a href="mailto:leong.wymin@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Leong Wymin</a>
 </p>
 <p></p>
 <p><strong>26-E4</strong> 
-<br>
+<br><a href="mailto:chen.lili@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chen Lili</a>
 </p>
 <p></p>
 <p><strong>26-E5</strong> 
-<br>
+<br><a href="mailto:kelvin.teo@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Kelvin Teo</a>
 </p>
 <p></p>
 <p><strong>26-E6</strong> 
-<br>
+<br><a href="mailto:chng.tsu.pang@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Chng Tsu Pang</a>
 </p>
 </td>
 </tr>
@@ -205,28 +205,27 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <p><strong>26-I1</strong> 
-<br>
+<br><a href="mailto:gunaselvi.munisamy@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mdm Gunaselvi</a>
 </p>
 <p></p>
 <p><strong>26-I2</strong> 
-<br>
+<br><a href="mailto:jason.yuen@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Jason Yuen</a>
 </p>
 <p></p>
 <p><strong>26-I3</strong> 
-<br>
+<br><a href="mailto:chia.xin.hui@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Chia Xin Hui</a>
 </p>
 <p></p>
 <p><strong>26-I4</strong> 
-<br>
+<br><a href="mailto:sun.xiaojun@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Sun Xiaojun</a>
+<br><a href="mailto:matthew.ooi@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Matthew Ooi</a>
 </p>
 <p></p>
 <p><strong>26-I5</strong> 
-<br>
+<br><a href="mailto:tan.xiang.yeow@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Tan Xiang Yeow</a>
+<br><a href="mailto:nadira.md.sedik@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Nadira Sedik</a>
 </p>
 <p></p>
-<p><strong>26-I6</strong> 
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -256,27 +255,29 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <p><strong>26-O1</strong> 
-<br>
+<br><a href="mailto:chee.cavell.jiahe@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Cavell Chee</a>
 </p>
 <p></p>
 <p><strong>26-O2</strong> 
-<br>
+<br><a href="mailto:lu.jing@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Lu Jing</a>
+<br><a href="mailto:zachary.goh@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Zachary Goh</a>
 </p>
 <p></p>
 <p><strong>26-O3</strong>
-<br>
+<br><a href="mailto:xu.xiuwen@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Xu Xiuwen</a>
 </p>
 <p></p>
 <p><strong>26-O4</strong> 
-<br>
+<br><a href="mailto:lim.teck.seng@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Lim Teck Seng</a>
+<br><a href="mailto:chan.xin.yu@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Chan Xin Yu</a>
 </p>
 <p></p>
 <p><strong>26-O5</strong> 
-<br>
+<br><a href="mailto:ng.yixin@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Ng Yi Xin</a>
 </p>
 <p></p>
 <p><strong>26-O6</strong> 
-<br>
+<br><a href="mailto:charlotte.lee@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mrs Charlotte Lee</a>
 <br>
 </p>
 <p></p>
@@ -307,27 +308,30 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <p><strong>26-U1</strong> 
-<br>
+<br><a href="mailto:elena.tan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Elena Tan</a>
 </p>
 <p></p>
 <p><strong>26-U2</strong> 
-<br>
+<br><a href="mailto:tan.khoon.han@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Tan Khoon Han</a>
+<br><a href="mailto:amelia.quek@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Amelia Quek</a>
 </p>
 <p></p>
 <p><strong>26-U3</strong> 
-<br>
+<br><a href="mailto:jonathan.peh@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Jpnathan Peh</a>
+<br><a href="mailto:ma.mingwei@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Ma Mingwei</a>
 </p>
 <p></p>
 <p><strong>26-U4</strong> 
-<br>
+<br><a href="mailto:seetoh.huixia@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ns Seetoh Huixia</a>
 </p>
 <p></p>
 <p><strong>26-U5</strong> 
-<br>
+<br><a href="mailto:lim.yoke.kuang@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Lim Yoke Kuang</a>
 </p>
 <p></p>
 <p><strong>26-U6</strong> 
-<br>
+<br><a href="mailto:teres.lim@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Teres Lim</a>
+<br><a href="mailto:allen.lee@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Allen Lee</a>
 </p>
 <p></p>
 </td>
