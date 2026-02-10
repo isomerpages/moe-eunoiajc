@@ -260,7 +260,7 @@ variant: tiptap
 <p></p>
 <p><strong>26-O2</strong> 
 <br><a href="mailto:lu.jing@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Lu Jing</a>
-<br><a href="mailto:zachary.goh@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Zachary Goh</a>
+<br><a href="mailto:zachary.goh@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Zachary Goh</a>
 </p>
 <p></p>
 <p><strong>26-O3</strong>
