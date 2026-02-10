@@ -107,14 +107,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>26-A1</strong>
-</p>
-<p><a href="mailto:serene.tan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Serene Tan</a>
+<br><a href="mailto:serene.tan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Serene Tan</a>
 </p>
 <p><strong>26-A2</strong>
-</p>
-<p><a href="mailto:emeline.choo@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Emeline Choo</a>
-</p>
-<p><a href="mailto:phoon.lai.yong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mrs Ng-Phoon Lai Yong</a>
+<br><a href="mailto:emeline.choo@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Emeline Choo</a>
+<br><a href="mailto:phoon.lai.yong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mrs Ng-Phoon Lai Yong</a>
 </p>
 <p><strong>26-A3</strong> 
 <br><a href="mailto:juliana.wong@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Juliana Wong</a>
@@ -124,8 +121,7 @@ variant: tiptap
 </p>
 <p><strong>26-A5</strong> 
 <br><a href="mailto:ong.junjie@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Ong Junjie</a>
-</p>
-<p><a href="mailto:lim.tian.min@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lim Tian Min</a>
+<br><a href="mailto:lim.tian.min@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lim Tian Min</a>
 </p>
 <p><strong>26-A6</strong> 
 <br><a href="mailto:tay.li.kim@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mrs Yew-Tay Li Kim</a>
