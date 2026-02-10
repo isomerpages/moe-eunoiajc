@@ -317,7 +317,7 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong>26-U3</strong> 
-<br><a href="mailto:jonathan.peh@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Jpnathan Peh</a>
+<br><a href="mailto:jonathan.peh@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Jonathan Peh</a>
 <br><a href="mailto:ma.mingwei@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Ma Mingwei</a>
 </p>
 <p></p>
