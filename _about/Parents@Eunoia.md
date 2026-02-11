@@ -56,4 +56,4 @@ list and WhatsApp chat group via the <strong><a href="https://docs.google.com/fo
 <br>
 </p>
 <p>Cheers,
-<br>P@E Executive Committee 2026</p>
+<br>P@E Executive Committee</p>
