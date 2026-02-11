@@ -36,7 +36,7 @@ list and WhatsApp chat group via the <strong><a href="https://docs.google.com/fo
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026/ParentsEunoia_QR.jpg">
 </div>
 <p></p>
-<p>We would also love to hear your feedback. Feel free to email us at <a href="mailto:ejparents@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ejparents@ejc.edu.sg</a>
+<p>We would also love to hear your feedback. Feel free to email us at <strong><a href="mailto:ejparents@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ejparents@ejc.edu.sg</a></strong>
 </p>
 <p></p>
 <h4><strong>Representatives</strong></h4>
