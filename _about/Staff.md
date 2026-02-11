@@ -118,10 +118,11 @@ variant: tiptap
 </p>
 <p><strong>26-A4</strong> 
 <br><a href="mailto:ng.lee.siah@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Ng Lee Siah</a>
+<br><a href="mailto:zachary.goh@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Zachary Goh</a>
 </p>
 <p><strong>26-A5</strong> 
 <br><a href="mailto:ong.junjie@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Ong Junjie</a>
-<br><a href="mailto:lim.tian.min@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lim Tian Min</a>
+<br><a href="mailto:wendy.lau@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Wendy Lau</a>
 </p>
 <p><strong>26-A6</strong> 
 <br><a href="mailto:tay.li.kim@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mrs Yew-Tay Li Kim</a>
@@ -260,7 +261,6 @@ variant: tiptap
 <p></p>
 <p><strong>26-O2</strong> 
 <br><a href="mailto:lu.jing@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Lu Jing</a>
-<br><a href="mailto:zachary.goh@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Zachary Goh</a>
 </p>
 <p></p>
 <p><strong>26-O3</strong>
@@ -273,7 +273,8 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong>26-O5</strong> 
-<br><a href="mailto:ng.yixin@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Ng Yi Xin</a>
+<br><a href="mailto:allen.lee@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Allen Lee</a>
+<br><a href="mailto:amelia.quek@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Amelia Quek</a>
 </p>
 <p></p>
 <p><strong>26-O6</strong> 
@@ -313,7 +314,6 @@ variant: tiptap
 <p></p>
 <p><strong>26-U2</strong> 
 <br><a href="mailto:tan.khoon.han@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Tan Khoon Han</a>
-<br><a href="mailto:amelia.quek@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Amelia Quek</a>
 </p>
 <p></p>
 <p><strong>26-U3</strong> 
@@ -330,8 +330,9 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong>26-U6</strong> 
+<br><a href="mailto:ng.yixin@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Ng Yi Xin</a>
 <br><a href="mailto:teres.lim@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Teres Lim</a>
-<br><a href="mailto:allen.lee@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Allen Lee</a>
+<br>
 </p>
 <p></p>
 </td>
