@@ -28,18 +28,25 @@ to the school.</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>2026 Representatives</strong></h4>
+<h4><strong>Representatives</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Brenda Tee</p>
+<p>Mdm Brenda Tee (2026)</p>
 </li>
 <li>
-<p>Mdm Delia Mar</p>
+<p>Mdm Delia Mar (2026)</p>
 </li>
 </ul>
 <p></p>
 <h4><strong>Contact Us</strong></h4>
-<p>We will love to hear your feedback. You can reach us at: <a href="mailto:ejparents@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ejparents@ejc.edu.sg</a>
+<p>We warmly invite parents of 2026 JC1 Eunoians to register for our mailing
+list and WhatsApp chat group via the <strong><a href="https://docs.google.com/forms/u/2/d/e/1FAIpQLSdo_21Dq15vfMLhj6iG3QolhV6vQC9cG3hx1wbYdljp_aR4Gw/" rel="noopener nofollow" target="_blank">link</a></strong> below.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026/ParentsEunoia_QR.jpg">
+</div>
+<p></p>
+<p>We would also love to hear your feedback. Feel free to email us at <a href="mailto:ejparents@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ejparents@ejc.edu.sg</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
