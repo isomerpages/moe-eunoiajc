@@ -7,11 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/A_Level_01.jpg">
 </div>
-<p></p>
 <p>Eunoia Junior College congratulates our Class of 2025 for their holistic
 achievements at the 2025 Singapore-Cambridge GCE A-Level Examination. The
 college is proud of all 705 Eunoians, having done themselves proud in at
@@ -47,7 +45,6 @@ on Eunoia, and the college is richer because of you. Your journey has been
 marked by courage, growth and resilience, and we are so proud of who you
 have become. As you step into new beginnings, know that we will be cheering
 you on every step of the way."</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026/A_Level_02.jpg">
