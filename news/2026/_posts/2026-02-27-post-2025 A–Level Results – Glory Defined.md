@@ -21,13 +21,13 @@ thinking, goodwill to all.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026/A_Level_03.jpg">
 </div>
-<p><strong>Mr Andrew Tan</strong>, our Principal, shared his message to the
-Class of 2025: "You have been an amazing batch and have brought so much
-to everything you do – your passion, your many talents, your energy, your
-compassion. These results are part of that larger picture of who you are.
-As I shared just before you collected your results, do remember three things.
-First, regardless of what results you got – celebrate and be grateful for
-the journey, the learning and the friendships you have made, be grateful
+<p><strong>Mr Andrew Tan</strong>, our Principal, shared his message with
+the Class of 2025: "You have been an amazing batch and have brought so
+much to everything you do – your passion, your many talents, your energy,
+your compassion. These results are part of that larger picture of who you
+are. As I shared just before you collected your results, do remember three
+things. First, regardless of what results you got – celebrate and be grateful
+for the journey, the learning and the friendships you have made, be grateful
 to those who have journeyed with you. Second, remember that you are so
 much more than the letters or numbers on that certificate – our dreams,
 purpose and passion matter. Third, be open to the opportunities and choices
