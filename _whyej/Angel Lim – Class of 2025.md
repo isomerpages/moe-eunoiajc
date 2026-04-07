@@ -4,3 +4,8 @@ permalink: /angel-lim-class-of-2025/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Features/2025_Angel_Lim.jpg">
+</div>
+<p></p>
