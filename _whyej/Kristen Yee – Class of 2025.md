@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Features/2025_Kristen_Yee.jpg">
+</div>
 <p>For <strong>Kristen Yee</strong> (24-U6), learning is not just a classroom
 requirement, but a lifelong endeavour. From biomedical research and H3
 Chemistry, to entering an economics essay competition, she inspires us
