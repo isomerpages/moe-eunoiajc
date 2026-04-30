@@ -211,11 +211,14 @@ results and supporting materials that are required in the various categories
 as stated below in their chosen domain.&nbsp;</p>
 <p></p>
 <p>All applicants must complete the <strong><a href="https://form.gov.sg/6814c2ee4ce70c8000c4c68b" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a></strong> and
-submit it by <strong>30 June 2025.</strong> They should also upload the required
+submit it by <strong>29 June 2026.</strong> They should also upload the required
 supporting documents and/or videos for their CCA or programme into a publicly
 accessible Google Drive folder and include the folder link in the form. <strong>We strongly advise applicants to carefully read the submission requirements for their selected CCA or programme (under “Criteria And Selection Process”) before filling in the online application form.</strong>
 </p>
 <p></p>
+<p>For <strong>DSA Humanities Programme</strong>, all successful DSA Humanities
+students will be expected to apply for the MOE HSP Scholarship upon admission
+to Eunoia JC.</p>
 <h4><strong>Programme-Specific Trial/Audition/Selection Exercise</strong></h4>
 <p>Shortlisted applicants will be invited to participate in programme-specific
 trials, assessments or auditions to evaluate their current skill level,
