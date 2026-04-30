@@ -175,10 +175,10 @@ education;</p>
 ensure alignment with their academic goals.</p>
 </li>
 </ul>
-<p>Students offered a place through DSA will receive a <strong>Letter of Offer by 12 August 2025</strong>.
+<p>Students offered a place through DSA will receive a <strong>Letter of Offer by 11 August 2026</strong>.
 Those placed on the waiting list will be notified via phone, and all other
 applicants will be informed of their application outcome via email.</p>
-<p>Successful applicants must confirm acceptance of the offer by <strong>15 August 2025, 5pm</strong>.
+<p>Successful applicants must confirm acceptance of the offer by <strong>14 August 2026, 5pm</strong>.
 Applicants on the waiting list will be informed of their final outcome
 by the same deadline.</p>
 <p>Please note:</p>
