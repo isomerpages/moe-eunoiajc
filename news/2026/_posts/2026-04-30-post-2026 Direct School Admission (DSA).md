@@ -7,8 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>The 2025 Direct School Admission (DSA-JC) exercise for admission into
-JC1 in 2026 opens on <strong>7 May 2025</strong>. The College is looking
+<p>The 2026 Direct School Admission (DSA-JC) exercise for admission into
+JC1 in 2027 opens on <strong>6 May 2026</strong>. The College is looking
 for outstanding individuals in the following areas:</p>
 <table style="minWidth: 75px">
 <colgroup>
