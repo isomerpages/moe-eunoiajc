@@ -282,7 +282,7 @@ Secondary 4 Weighted Assessment results.</p>
 </p>
 <p>Applicants will be required to attend a physical trial/selection exercise.
 You will be contacted by the CCA teacher in charge of the category that
-you are applying for. Interviews will be conducted in June/July 2025, exact
+you are applying for. Interviews will be conducted in June/July 2026, exact
 details will be emailed/SMSed to successful applicants.</p>
 <p><strong>Phase 3: Interview</strong>
 </p>
@@ -471,7 +471,9 @@ event that you feel shows the enduring value of the humanities?</p>
 <p>Shortlisted applicants are required to attend an interview to assess analytical
 depth, originality of thought, and ability to contribute meaningfully to
 the programme.</p>
-<p></p>
+<p>For DSA Humanities Programme, all successful DSA Humanities students will
+be expected to apply for the MOE HSP Scholarship upon admission to Eunoia
+JC.</p>
 <h4><strong>Leadership&nbsp;</strong></h4>
 <p><strong>Shortlisting Criteria</strong>
 </p>
