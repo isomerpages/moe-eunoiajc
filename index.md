@@ -41,7 +41,7 @@ sections:
         - title: Koh Rui En
           description: Class of 2025
           linktext: Read more
-          url: whyej/ruien/
+          url: whyej/rui-en/
         - title: Nicholas Cheng
           description: Class of 2025
           linktext: Read more
