@@ -45,11 +45,11 @@ sections:
         - title: Nicholas Cheng
           description: Class of 2025
           linktext: Read more
-          url: whyej/nicholas/
+          url: whyej/nicholas-cheng/
         - title: Maygane Lew
           description: Class of 2025
           linktext: Read more
-          url: /whyej/maygane/
+          url: whyej/maygane/
   - infopic:
       title: Admissions
       subtitle: Youth with Purpose
