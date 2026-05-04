@@ -210,7 +210,7 @@ may be required to transfer to another school.</p>
 results and supporting materials that are required in the various categories
 as stated below in their chosen domain.&nbsp;</p>
 <p></p>
-<p>All applicants must complete the <strong><a href="https://form.gov.sg/6814c2ee4ce70c8000c4c68b" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a></strong> and
+<p>All applicants must complete the <strong><a href="https://form.gov.sg/69f7e79792d88d8e34138524" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a></strong> and
 submit it by <strong>29 June 2026.</strong> They should also upload the required
 supporting documents and/or videos for their CCA or programme into a publicly
 accessible Google Drive folder and include the folder link in the form. <strong>We strongly advise applicants to carefully read the submission requirements for their selected CCA or programme (under “Criteria And Selection Process”) before filling in the online application form.</strong>
@@ -269,7 +269,7 @@ DSA programme.</p>
 <p><strong>Phase 1: Shortlisting</strong>
 </p>
 <p>Applicants are required to consolidate and submit the necessary documents
-and supporting materials through a Google Drive link in the<strong> <a href="https://form.gov.sg/6814c2ee4ce70c8000c4c68b" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a></strong>,
+and supporting materials through a Google Drive link in the<strong> <a href="https://form.gov.sg/69f7e79792d88d8e34138524" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a></strong>,
 demonstrating passion and strong ability in their niche area:</p>
 <ul>
 <li>
@@ -293,7 +293,7 @@ curriculum and alignment with school values.&nbsp;</p>
 <p><strong>Phase 1: Shortlisting</strong>
 </p>
 <p>Applicants are required to consolidate the following items and submit
-them through a Google Drive link in the <strong><a href="https://form.gov.sg/6814c2ee4ce70c8000c4c68b" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a></strong>:</p>
+them through a Google Drive link in the <strong><a href="https://form.gov.sg/69f7e79792d88d8e34138524" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a></strong>:</p>
 <ul>
 <li>
 <p>One set of Secondary 3 End-of-Year examination results and one set of
@@ -353,7 +353,7 @@ China Studies in Chinese, Chinese Language and Literature, or Translation.</p>
 <p><strong>Selection Exercise&nbsp;</strong>
 </p>
 <p>Applicants are required to consolidate the following items and submit
-them through a Google Drive link in the <strong><a href="https://form.gov.sg/6814c2ee4ce70c8000c4c68b" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a>:</strong>
+them through a Google Drive link in the <strong><a href="https://form.gov.sg/69f7e79792d88d8e34138524" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a>:</strong>
 </p>
 <ul>
 <li>
@@ -397,7 +397,7 @@ or national competitions or events.</p>
 <p><strong>Selection exercise through video and composition/arrangement submission</strong>
 </p>
 <p>Applicants are required to consolidate the following items and submit
-them through a Google Drive link in the <strong><a href="https://form.gov.sg/6814c2ee4ce70c8000c4c68b" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a>:</strong>
+them through a Google Drive link in the <strong><a href="https://form.gov.sg/69f7e79792d88d8e34138524" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a>:</strong>
 </p>
 <ul>
 <li>
@@ -453,7 +453,7 @@ following:</p>
 <p><strong>Selection Exercise&nbsp;</strong>
 </p>
 <p>Applicants are required to consolidate the following items and submit
-them through a Google Drive link in the <strong><a href="https://form.gov.sg/6814c2ee4ce70c8000c4c68b" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a>:</strong>
+them through a Google Drive link in the <strong><a href="https://form.gov.sg/69f7e79792d88d8e34138524" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a>:</strong>
 </p>
 <p>i) &nbsp; &nbsp; One set of Secondary 3 End-of-Year examination results
 and one set of Secondary 4 Weighted Assessment results.</p>
@@ -494,7 +494,7 @@ in our college vision:</p>
 <p><strong>Selection Exercise&nbsp;</strong>
 </p>
 <p>Applicants are required to consolidate the following items and submit
-them through a Google Drive link in the <strong><a href="https://form.gov.sg/6814c2ee4ce70c8000c4c68b" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a>:</strong>
+them through a Google Drive link in the <strong><a href="https://form.gov.sg/69f7e79792d88d8e34138524" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a>:</strong>
 </p>
 <ul>
 <li>
