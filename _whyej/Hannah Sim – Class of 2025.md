@@ -1,6 +1,6 @@
 ---
 title: Hannah Sim – Class of 2025
-permalink: /hannah-sim/
+permalink: /whyej/hannah-sim/
 variant: tiptap
 description: ""
 ---

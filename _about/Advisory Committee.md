@@ -19,15 +19,15 @@ Secur Solutions Group
 Director <br>
 Futures Office, National University of Singapore
 
-### **Mr Frankie Ang**
+### **Ms Margaret Chong**
 
 Director <br>
-280 Bishan Food House Pte Ltd
+Assn of Aerospace Ind (Singapore)
 
-### **Ms Kok Moi Lre**
+### **Ms Audrey Tee**
 
-Partner, Assurance <br>
-PricewaterhouseCoopers LLP
+Senior Vice President <br>
+CPG Consultants Pte Ltd
 
 ### **Mr Kenneth Tang**
 

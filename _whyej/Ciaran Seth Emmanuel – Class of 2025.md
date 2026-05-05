@@ -1,6 +1,6 @@
 ---
 title: Ciaran Seth Emmanuel – Class of 2025
-permalink: /ciaran-emmanuel/
+permalink: /whyej/ciaran/
 variant: tiptap
 description: ""
 ---

@@ -1,6 +1,6 @@
 ---
 title: Nicholas Cheng – Class of 2025
-permalink: /nicholas-cheng/
+permalink: /whyej/nicholas-cheng/
 variant: tiptap
 description: ""
 ---

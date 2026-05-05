@@ -34,22 +34,22 @@ sections:
       id: textcards
       description: Hear from our alumni and discover what made their Eunoia journey special.
       cards:
-        - title: Alyaa Aris
-          description: Class of 2024
+        - title: Alastair Chua
+          description: Class of 2025
           linktext: Read more
-          url: /whyej/alyaa
-        - title: Belinda Chua
-          description: Class of 2024
+          url: /whyej/alastair
+        - title: Koh Rui En
+          description: Class of 2025
           linktext: Read more
-          url: whyej/belinda/
-        - title: Damian Chia
-          description: Class of 2024
+          url: whyej/rui-en/
+        - title: Nicholas Cheng
+          description: Class of 2025
           linktext: Read more
-          url: whyej/damian/
-        - title: Glenda Sui
-          description: Class of 2024
+          url: whyej/nicholas-cheng/
+        - title: Maygane Lew
+          description: Class of 2025
           linktext: Read more
-          url: /whyej/glenda/
+          url: whyej/maygane/
   - infopic:
       title: Admissions
       subtitle: Youth with Purpose

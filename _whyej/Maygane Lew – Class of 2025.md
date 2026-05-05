@@ -1,6 +1,6 @@
 ---
 title: Maygane Lew – Class of 2025
-permalink: /maygane-lew/
+permalink: /whyej/maygane/
 variant: tiptap
 description: ""
 ---

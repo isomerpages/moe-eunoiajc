@@ -1,6 +1,6 @@
 ---
 title: Koh Rui En – Class of 2025
-permalink: /koh-rui-en-class-of-2025/
+permalink: /whyej/rui-en/
 variant: tiptap
 description: ""
 ---

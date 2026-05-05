@@ -1,6 +1,6 @@
 ---
 title: Tay Karlyn – Class of 2025
-permalink: /tay-karlyn/
+permalink: /whyej/karlyn/
 variant: tiptap
 description: ""
 ---

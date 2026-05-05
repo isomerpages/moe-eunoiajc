@@ -1,6 +1,6 @@
 ---
 title: Dylan Tio – Class of 2025
-permalink: /dylan-tio-class-of-2025/
+permalink: /whyej/dylan-tio/
 variant: tiptap
 description: ""
 ---

@@ -1,6 +1,6 @@
 ---
 title: Risdon Toh – Class of 2025
-permalink: /risdon-toh/
+permalink: /whyej/risdon/
 variant: tiptap
 description: ""
 ---
