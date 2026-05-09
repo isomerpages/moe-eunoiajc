@@ -28,14 +28,22 @@ to the school.</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>Contact Us</strong></h4>
-<p>We warmly invite parents of 2026 JC1 Eunoians to register for our mailing
-list and WhatsApp chat group via the <strong><a href="https://docs.google.com/forms/u/2/d/e/1FAIpQLSdo_21Dq15vfMLhj6iG3QolhV6vQC9cG3hx1wbYdljp_aR4Gw/" rel="noopener nofollow" target="_blank">link</a></strong> below.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2026/ParentsEunoia_QR.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About/Parents2026_1.jpg">
 </div>
 <p></p>
+<h4><strong>Contact Us</strong></h4>
+<p>We warmly invite parents of 2026 JC1 Eunoians to register for our mailing
+list and WhatsApp chat group via the <strong><a href="https://form.gov.sg/69a2bf0c025e945921578d1c" rel="noopener nofollow" target="_blank">link</a></strong>
+<a href="https://form.gov.sg/69a2bf0c025e945921578d1c" rel="noopener nofollow" target="_blank"></a>below.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/About/Parents2026_QR.png">
+</div>
+<p><a href="https://form.gov.sg/69a2bf0c025e945921578d1c" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/69a2bf0c025e945921578d1c</a>
+</p>
 <p>We would also love to hear your feedback. Feel free to email us at <strong><a href="mailto:ejparents@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ejparents@ejc.edu.sg</a></strong>
 </p>
 <p></p>
@@ -50,8 +58,10 @@ list and WhatsApp chat group via the <strong><a href="https://docs.google.com/fo
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Parents_Eunoia_Meeting_3.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/About/Parents2026_2.jpg">
 </div>
 <p></p>
 <p>Cheers,
 <br>Parents@Eunoia</p>
+<p></p>
+<p></p>
