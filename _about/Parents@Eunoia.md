@@ -36,8 +36,7 @@ to the school.</p>
 <p></p>
 <h4><strong>Contact Us</strong></h4>
 <p>We warmly invite parents of 2026 JC1 Eunoians to register for our mailing
-list and WhatsApp chat group via the <strong><a href="https://form.gov.sg/69a2bf0c025e945921578d1c" rel="noopener nofollow" target="_blank">link</a></strong>
-<a href="https://form.gov.sg/69a2bf0c025e945921578d1c" rel="noopener nofollow" target="_blank"></a>below.</p>
+list and WhatsApp chat group via the <strong><a href="https://form.gov.sg/69a2bf0c025e945921578d1c" rel="noopener nofollow" target="_blank">link</a></strong> below.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/About/Parents2026_QR.png">
