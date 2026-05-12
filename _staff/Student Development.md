@@ -130,6 +130,17 @@ variant: tiptap
 <br>School Counsellor</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Counsellor_Janice_Lim2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:ej.counsellor@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Janice Lim</a></strong>
+<br>School Counsellor</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
