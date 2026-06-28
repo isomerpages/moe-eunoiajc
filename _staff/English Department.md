@@ -67,19 +67,19 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:danielle.low@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/English-Danielle-M-Low_s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:danielle.low@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Danielle Low</a></strong> 
-<br>Senior Teacher (General Paper)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:perrin.singarayar@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Eng-Perrin_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:perrin.singarayar@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Perrin Singarayar</a></strong> 
 <br>Senior Teacher (General Paper)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:xu.xiuwen@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/el-xu-xiuwen_s.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:xu.xiuwen@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Xu Xiuwen</a></strong> 
+<br>Senior Teacher (Character &amp; Citizenship Education)</p>
 </td>
 </tr>
 <tr>
@@ -164,14 +164,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:joey.leow@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/EL-Joey-Tan_s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:joey.leow@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Joey Leow</a> </strong>
-<br>Teacher (General Paper)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:joshua.ng@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/EL-Joshua-Ng_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
@@ -219,14 +211,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:samuel.wong@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Samuel Wong</a></strong> 
-<br>Teacher (General Paper)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:xu.xiuwen@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/el-xu-xiuwen_s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:xu.xiuwen@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Xu Xiuwen</a></strong> 
 <br>Teacher (General Paper)</p>
 </td>
 </tr>
