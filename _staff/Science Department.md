@@ -86,6 +86,14 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:chan.xin.yu@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Chan-Xin-Yu-s.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:chan.xin.yu@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chan Xin Yu</a></strong> 
+<br>Deputy Head (Character &amp; Citizenship Education)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:justin.lim@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff/Sci_Justin_Lim.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,14 +150,6 @@ Head (Careers, Scholarships &amp; Higher Education)</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:ng.siow.ying@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Siow Ying</a></strong> 
 <br>Teacher (Biology)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:chan.xin.yu@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Chan-Xin-Yu-s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chan.xin.yu@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chan Xin Yu</a></strong> 
-<br>Teacher (Chemistry)</p>
 </td>
 </tr>
 <tr>
