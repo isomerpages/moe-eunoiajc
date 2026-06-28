@@ -59,7 +59,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:ng.boon.hong@ejc.edu.sg"><img style="width: 45%;" height="auto" width="100%" src="/images/Staff/PE-Ng-Boon-Hong_s.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:ng.boon.hong@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/PE-Ng-Boon-Hong_s.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:ng.boon.hong@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Boon Hong</a></strong>
@@ -88,6 +88,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:george.danapal@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr George Danapal Danaraj</a></strong> 
 <br>Deputy Head (CCA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:chan.xin.yu@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/Chan-Xin-Yu-s.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:chan.xin.yu@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chan Xin Yu</a></strong> 
+<br>Deputy Head (Character &amp; Citizenship Education)</p>
 </td>
 </tr>
 <tr>
