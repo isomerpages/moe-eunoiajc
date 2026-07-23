@@ -28,7 +28,7 @@ variant: tiptap
 <p>Halal Cuisine (Noodle/Rice)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22 May 2026</p>
+<p>14 Aug 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay Rice Dishes and Noodles</p>
