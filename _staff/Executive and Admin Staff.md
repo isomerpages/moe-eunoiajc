@@ -253,6 +253,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff/Staff-Profile.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Tan Gee Ho</strong>
+<br>STEM Instructor (Laboratory)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/Staff/eas-layhwa_s.jpg">
 </div>
 </td>
