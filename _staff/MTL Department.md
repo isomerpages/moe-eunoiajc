@@ -36,14 +36,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:ng.lai.sze@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/MTL-Ng-Lai-Sze_s.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ng.lai.sze@ejc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ng Lai Sze</a> 吴丽诗</strong> 
-<br>Deputy Head (Mother Tongue Languages)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:cao.jiandong@ejc.edu.sg"><img style="width: 60%;" height="auto" width="100%" src="/images/Staff/MTL-Cao-Jiandong_s2.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
