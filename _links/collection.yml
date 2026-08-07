@@ -2,7 +2,6 @@ collections:
   links:
     output: true
     order:
-      - Student Insurance Claim.md
       - Links.md
       - Library.md
       - Style Guide/.keep
@@ -12,3 +11,4 @@ collections:
       - Style Guide/Colour Guide.md
       - Style Guide/Typography Guide.md
       - Style Guide/Writing Guide.md
+      - Student Insurance Claim.md
