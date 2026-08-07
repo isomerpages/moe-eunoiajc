@@ -1,5 +1,5 @@
 ---
-title: Group Personal Accident Insurance for Students
+title: Student Insurance Claim
 permalink: /studentgpa/
 variant: tiptap
 description: ""
