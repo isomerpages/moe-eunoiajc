@@ -265,6 +265,7 @@ variant: tiptap
 <p></p>
 <p><strong>26-O3</strong>
 <br><a href="mailto:xu.xiuwen@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Xu Xiuwen</a>
+<br><a href="mailto:jodie.tin@ejc.edu.sg" rel="noopener nofollow" target="_blank">Ms Jodie Tin</a>
 </p>
 <p></p>
 <p><strong>26-O4</strong> 
@@ -305,6 +306,8 @@ variant: tiptap
 <p><strong>25-U6</strong> 
 <br><a href="mailto:daniel.kwan@ejc.edu.sg" rel="noopener nofollow" target="_blank">Mr Daniel Kwan</a>
 </p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
