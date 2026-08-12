@@ -49,6 +49,8 @@ links:
         url: https://vimeo.com/eunoiajc
       - title: Student Handbook
         url: https://sites.google.com/ejc.edu.sg/ejc-student-handbook/
+      - title: Student Insurance
+        url: /studentgpa/
       - title: Style Guide
         url: /style-guide/
       - title: EJC Library
@@ -57,3 +59,5 @@ links:
         url: https://sites.google.com/ejc.edu.sg/cshineunoia/
       - title: EJC Portal
         url: https://portal.ejc.edu.sg/
+      - title: New submenu
+        url: /permalink
